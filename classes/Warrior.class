@@ -1,0 +1,284 @@
+Name        Warrior~
+Class       3
+AttrPrime   1
+AttrSecond   5
+AttrTertiary   2
+Weapon      10313
+Guild       3022
+Skilladept  85
+Thac0base   13
+Thac0mod    7
+Hpmin       10
+Hpmax       20
+Mana        0
+Expbase     45
+Affected    0
+Resist	 0
+Suscept	 0
+Skill 'aggressive style' 1 95
+Skill 'aid' 1 95
+Skill 'bash' 5 90
+Skill 'berserk' 1 90
+Skill 'berserk style' 1 95
+Skill 'blitz' 30 85
+Skill 'blitzkrieg' 44 95
+Skill 'climb' 1 95
+Skill 'defensive style' 1 95
+Skill 'dig' 1 95
+Skill 'disarm' 5 95
+Skill 'dodge' 8 90
+Skill 'doorbash' 6 85
+Skill 'engage' 1 95
+Skill 'enhanced damage' 1 95
+Skill 'evasive style' 1 95
+Skill 'fifth attack' 40 80
+Skill 'final stand' 50 95
+Skill 'form ranks' 33 95
+Skill 'fourth attack' 30 85
+Skill 'grip' 3 95
+Skill 'headbutt' 13 85
+Skill 'hitall' 45 90
+Skill 'invigorate' 10 95
+Skill 'kick' 25 95
+Skill 'knee' 1 80
+Skill 'lunge' 22 85
+Skill 'mount' 1 95
+Skill 'overrun' 20 95
+Skill 'parry' 5 90
+Skill 'pummel' 25 95
+Skill 'punch' 6 95
+Skill 'rescue' 1 95
+Skill 'roundhouse' 43 90
+Skill 'search' 21 85
+Skill 'second attack' 3 95
+Skill 'sharpen' 20 95
+Skill 'skirmish line' 21 95
+Skill 'spinkick' 15 80
+Skill 'standard style' 1 95
+Skill 'stun' 35 80
+Skill 'third attack' 15 90
+Skill 'uppercut' 38 90
+Skill 'axes' 1 95
+Skill 'bludgeons' 1 95
+Skill 'exotic arms' 1 95
+Skill 'flexible arms' 1 95
+Skill 'long blades' 1 95
+Skill 'missile weapons' 1 95
+Skill 'polearms' 1 95
+Skill 'pugilism' 1 95
+Skill 'shieldwork' 5 95
+Skill 'short blades' 1 95
+Skill 'talonous arms' 1 95
+Skill 'common' 1 100
+Skill 'dwarven' 1 100
+Skill 'elvish' 1 100
+Skill 'ghoulish' 1 100
+Skill 'gith' 1 100
+Skill 'gnomish' 1 100
+Skill 'goblin' 1 100
+Skill 'halfling' 1 100
+Skill 'minotaur' 1 100
+Skill 'ogre' 1 100
+Skill 'orcish' 1 100
+Skill 'pixie' 1 100
+Skill 'trollese' 1 100
+Skill 'wolfen' 1 100
+Title
+Man~
+Woman~
+Title
+Swordpupil~
+Swordpupil~
+Title
+Recruit~
+Recruit~
+Title
+Sentry~
+Sentress~
+Title
+Fighter~
+Fighter~
+Title
+Soldier~
+Soldier~
+Title
+Warrior~
+Warrior~
+Title
+Veteran~
+Veteran~
+Title
+Swordsman~
+Swordswoman~
+Title
+Fencer~
+Fenceress~
+Title
+Combatant~
+Combatess~
+Title
+Hero~
+Heroine~
+Title
+Myrmidon~
+Myrmidon~
+Title
+Swashbuckler~
+Swashbuckleress~
+Title
+Mercenary~
+Mercenaress~
+Title
+Swordmaster~
+Swordmistress~
+Title
+Lieutenant~
+Lieutenant~
+Title
+Champion~
+Lady Champion~
+Title
+Dragoon~
+Lady Dragoon~
+Title
+Cavalier~
+Lady Cavalier~
+Title
+Knight~
+Lady Knight~
+Title
+Grand Knight~
+Grand Knight~
+Title
+Master Knight~
+Master Knight~
+Title
+Paladin~
+Paladin~
+Title
+Grand Paladin~
+Grand Paladin~
+Title
+Demon Slayer~
+Demon Slayer~
+Title
+Greater Demon Slayer~
+Greater Demon Slayer~
+Title
+Dragon Slayer~
+Dragon Slayer~
+Title
+Greater Dragon Slayer~
+Greater Dragon Slayer~
+Title
+Underlord~
+Underlord~
+Title
+Overlord~
+Overlord~
+Title
+Master of the Sword~
+Mistress of the Sword~
+Title
+Master of the Shield~
+Mistress of the Shield~
+Title
+Master of the Cross~
+Mistress of the Cross~
+Title
+Master of the Rings~
+Mistress of the Rings~
+Title
+Master of the Battle~
+Mistress of the Battle~
+Title
+Baron of Thunder~
+Baroness of Thunder~
+Title
+Baron of Storms~
+Baroness of Storms~
+Title
+Baron of Tornadoes~
+Baroness of Tornadoes~
+Title
+Baron of Hurricanes~
+Baroness of Hurricanes~
+Title
+Baron of Meteors~
+Baroness of Meteors~
+Title
+Duke of Thunder~
+Dutchess of Thunder~
+Title
+Duke of Storms~
+Dutchess of Storms~
+Title
+Duke of Tornadoes~
+Dutchess of Tornadoes~
+Title
+Duke of Hurricanes~
+Dutchess of Hurricanes~
+Title
+Duke of Meteors~
+Dutchess of Meteors~
+Title
+King of Courage~
+Queen of Courage~
+Title
+King of Honor~
+Queen of Honor~
+Title
+King of Strength~
+Queen of Strength~
+Title
+King of Humility~
+Queen of Humility~
+Title
+Avatar~
+Avatar~
+Title
+Neophyte~
+Neophyte~
+Title
+Acolyte~
+Acolyte~
+Title
+Creator~
+Creator~
+Title
+Savior~
+Savior~
+Title
+Demi God~
+Demi Goddess~
+Title
+Immortal~
+Immortal~
+Title
+Lesser God~
+Lesser Goddess~
+Title
+God~
+Goddess~
+Title
+Greater God~
+Greater Goddess~
+Title
+Ascendant God~
+Acendant Goddess~
+Title
+Exalted God~
+Exalted Goddess~
+Title
+Ancient One~
+Ancient One~
+Title
+Eternal One~
+Eternal One~
+Title
+Infinite One~
+Infinite One~
+Title
+Supreme Entity~
+Supreme Entity~
+End

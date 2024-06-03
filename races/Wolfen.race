@@ -1,0 +1,61 @@
+Name        Wolfen~
+Race        17
+Classes     1666
+Str_Plus    2
+Dex_Plus    2
+Wis_Plus    1
+Int_Plus    1
+Con_Plus    1
+Cha_Plus    -5
+Lck_Plus    -4
+Hit         15
+Mana        15
+Affected    512&4
+Resist      258
+Suscept     9
+Language    8388608
+Align       0
+Min_Align  -1000
+Max_Align	1000
+AC_Plus    0
+Exp_Mult   85
+Attacks    0
+Defenses   0
+Height     78
+Weight     190
+Hunger_Mod  0
+Thirst_mod  0
+Mana_Regen  -2912
+HP_Regen    2083
+Race_Recall 0
+WhereName  &R<&Gused as &Wlight&R>&G     ~
+WhereName  &R<&Gworn on &Chead&R>&G      ~
+WhereName  &R<&Gworn on &Ceyes&R>&G      ~
+WhereName  &R<&Gworn on &Cears&R>&G      ~
+WhereName  &R<&Gworn on &Cface&R>&G      ~
+WhereName  &R<&Gworn around &Cneck&R>&G  ~
+WhereName  &R<&Gworn around &Cneck&R>&G  ~
+WhereName  &R<&Gworn on &Cbody&R>&G      ~
+WhereName  &R<&Gworn on &Carms&R>&G      ~
+WhereName  &R<&Gworn around &Cwrist&R>&G ~
+WhereName  &R<&Gworn around &Cwrist&R>&G ~
+WhereName  &R<&Gworn on &Chands&R>&G     ~
+WhereName  &R<&Gworn on &Cfinger&R>&G    ~
+WhereName  &R<&Gworn on &Cfinger&R>&G    ~
+WhereName  &R<&Gworn &Cabout body&R>&G   ~
+WhereName  &R<&Gworn on &Cback&R>&G      ~
+WhereName  &R<&Gworn around &Cwaist&R>&G ~
+WhereName  &R<&Gworn on &Clegs&R>&G      ~
+WhereName  &R<&Gworn around &Cankle&R>&G ~
+WhereName  &R<&Gworn around &Cankle&R>&G ~
+WhereName  &R<&Gworn on &Cfeet&R>&G      ~
+WhereName  &R<&Ywielded&R>&G           ~
+WhereName  &R<&Ydual wielded&R>&G      ~
+WhereName  &R<&Gheld as &Cshield&R>&G    ~
+WhereName  &R<&Yheld&R>&G              ~
+WhereName  &R<&Gworn with &Cpride&R>&G   ~
+WhereName  &R<&Gworn with &Cpride&R>&G   ~
+WhereName  &R<&Gsurrounding &Yaura&R>&G  ~
+WhereName  (null)~
+WhereName  (null)~
+End

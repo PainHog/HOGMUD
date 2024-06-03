@@ -1,0 +1,299 @@
+Sender  Drazuk~
+Date    Tue May 24 21:45:26 2005~
+To      All~
+Subject Finfo Information~
+Voting 0
+Yesvotes ~
+Novotes ~
+Abstentions ~
+Text
+ok...do an "finfo (followingname)" for your following... (;
+
+That little '' after your name, is the Motto...you can use setfol to
+set that...just a little blurb that fits your following...
+
+The description lets you put more information there, so when people
+finfo you to see what you're about, they know whats up.  I just slapped
+in that generic "soandso and theyre worshippers are whatever" thing, so
+it was in there (;  if you setfol name desc blahblahblah, it will overwrite
+that stuff (;
+
+oh...and this is my stupid pet peeve (;  when you make leaders or guardians,
+make sure you capitalize their names (;  thanks (;
+
+D
+~
+
+Sender  Drazuk~
+Date    Tue May 24 22:27:13 2005~
+To      All~
+Subject Help Immlaws~
+Voting 0
+Yesvotes ~
+Novotes ~
+Abstentions ~
+Text
+Note that HELP IMMLAWS has changed to reflect the "no corpse retrievals"
+rule (;  If any bitches, just make em read the Immlaws (;
+
+Oh!  If you didn't already know, Demi's, I added that generic chest to the
+"make" command, so you can just "make chest" to pop em out.  These are the ones
+that people can't take out of the pit rooms, and don't get all heavy when they
+are full.
+~
+
+Sender  Cahel~
+Date    Thu Aug  4 01:10:46 2005~
+To      All~
+Subject Bless and Dispel~
+Voting 0
+Yesvotes ~
+Novotes ~
+Abstentions ~
+Text
+Spells such as Bless, Eldritch sphere, anti magic shell, etc...that have more than one part to them
+(for example, bless shows as Bless for 999rds -10svs Bless for 999rds 10hr)
+can be dispelled in PARTS. The code does not see it as one spell, but rather two distinct parts.
+these parts are dispelled, and count as 2 different spells in terms of dispel magic.
+Therefore, it is possible and is NOT a bug that you can lose the svs from a bless but retain the HR.
+This also works with skills like monk's Master which adds a ton of effects, this effects are individually
+dispelled when hit by dispel magic, (nameless had this happen a lot fighting mage mobs.)
+
+So in short, it is not a bug, but the way the code works.  The easiest way to tell is by looking
+at score, if the same spell has two or more different parts showing up in score, then those parts
+are targetted by dispel magic, not the entire spell that caused those effects.
+
+Hope this helps.
+
+-C
+~
+
+Sender  Ashlyn~
+Date    Tue Aug  9 18:58:29 2005~
+To      All~
+Subject Mana Trigger~
+Voting 0
+Yesvotes ~
+Novotes ~
+Abstentions ~
+Text
+Just thought I would post this to help out the rest of you FLI's if
+you wanted it.  The following is a trigger for letting your people
+know how much mana you have left on ftell.  It's actually done as
+two different trigger.
+     
+Part One:
+%1 ftells 'mana'
+ftell @mana
+     
+Part Two:
+^-<(%d)hp (%d)ma (%d)mv  -$(%d) (%d)tnl>*
+#var mana %2
+     
+     
+Hope this helps!  I love it.
+~
+
+Sender  Drazuk~
+Date    Tue Sep 13 10:25:26 2005~
+To      All~
+Subject "clones" Command~
+Voting 0
+Yesvotes ~
+Novotes ~
+Abstentions ~
+Text
+K, if you want to, you all have access to the "clones" command.
+It's just like the old "users" command, except it shows multiple
+connections from one IP address in the same section, making it
+easier to spot multiplayers.  Remember that quite a few people
+connect from a common gateway, however, so just because more than
+one person is using the same IP address, doesn't mean they are
+breaking the rules.  This just helps see who might be pushing
+the rules (;
+
+D
+~
+
+Sender  Drazuk~
+Date    Fri Sep 23 10:42:22 2005~
+To      All~
+Subject Destroy/Delete~
+Voting 0
+Yesvotes ~
+Novotes ~
+Abstentions ~
+Text
+Delete is disabled for players...if someone wants to be deleted, then
+you guys can "destroy" them.  If they recreate using the same name, I'd
+appreciate it if you made sure they didn't grab the old characters
+equipment, especialy Quest gear (:
+
+D
+~
+
+Sender  Barakan~
+Date    Mon Sep 26 20:36:02 2005~
+To      All~
+Subject Following Towns~
+Voting 0
+Yesvotes ~
+Novotes ~
+Abstentions ~
+Text
+Had an idea or an old one actually. What are the chances we could get
+following towns? My idea was like a 10 room mini zone starting with
+existing temples. Then followers could use money/glory to add more rooms 
+oror maybe even mobs to it. Would give people something to do with there
+loot. Maybe we could start writing some history for the followings help
+build up the rp aspect of the place. Another idea to go with this would
+bbe like a following glory bank similar to the fdeposit with the money.
+Not sure if this is feasable but just some ideas i had. I'm sure the table
+is loaded with other stuff you guys's are implementing right now.
+Just curious to see what others think of this idea.
+Bara
+~
+
+Sender  Drazuk~
+Date    Tue Sep 27 09:35:50 2005~
+To      All~
+Subject Following Towns~
+Voting 0
+Yesvotes ~
+Novotes ~
+Abstentions ~
+Text
+I think this kicks ass...and it falls into place perfectly with wanting
+to dedicate each continent to each of the different alignments...
+
+So the evil towns would be on the Bazabel continent, goods on the dville
+continent, neutrals on the wolfen continent (we need continent names (; ).
+
+Anyone mind working up a table of buildings/mobs/rooms for towns?  You
+can use the Temple room costs as a baseline...We'll want to make things
+a little more costly for town buildings I think, but I think this idea
+rocks (;
+
+D
+~
+
+Sender  Barakan~
+Date    Tue Sep 27 18:34:16 2005~
+To      All~
+Subject Following Town Followup~
+Voting 0
+Yesvotes ~
+Novotes ~
+Abstentions ~
+Text
+I think an easy way to start would maybe be setting up a land deed
+type thing. Say a basic 10 room deed. I'm not good with numbers but say
+like 1mil a room. I still think working glory into it would be nice sides
+just money. Combat dummies are 200k according to the list.. maybe some guard
+types. Move the existing temples to them and work with what is left over.
+I think the idea of the alignment based continents is a good idea. Maybe make
+it hard to get to the different ones. Portal an all the different astral walk
+type things always made things a lil too slambang i thought. 
+One potential problem i see though is mostly everyone is evil. Other continents
+might be kinda sparse. Not sure if your leaning towards more of a racial balance
+too..kinda sounds like it. Sounds like it would be something interesting to work on.
+I'm curious to see how it comes out.
+~
+
+Sender  Drazuk~
+Date    Thu Oct 13 12:30:14 2005~
+To      All~
+Subject Worn Armor Score~
+Voting 0
+Yesvotes ~
+Novotes ~
+Abstentions ~
+Text
+If you "mstat" a player now, it should show their "worn armor" score.
+This is the total of just the plain old AC on their armor worn, without
+any spells, affects or dexterity coming into play.  It's used to calculate
+the armor absorption figures in combat now.  Just FYI (:
+
+D
+~
+
+Sender  Drazuk~
+Date    Tue Dec 20 11:45:11 2005~
+To      All~
+Subject Bodybag command~
+Voting 0
+Yesvotes ~
+Novotes ~
+Abstentions ~
+Text
+"Bodybag" works ok, just gotta put a "yes" at the end to confirm you
+want to collect the corpse...such as:
+
+bodybag drazuk yes
+
+Otherwise it just shows you the location of the corpse.  One other nice
+thing about bodybag, is it stops the rot timer on the corpse, so you can
+hang on to it for a while.
+~
+
+Sender  Drazuk~
+Date    Tue Dec 20 12:48:33 2005~
+To      All~
+Subject Skill Setting~
+Voting 0
+Yesvotes ~
+Novotes ~
+Abstentions ~
+Text
+I loaded you all up in my office to make sure you all had the newest
+skills set to 100...in case you were wondering (:
+~
+
+Sender  Barakan~
+Date    Sat Jan 14 14:00:54 2006~
+To      Drazuk~
+Subject Sharpen Question~
+Voting 0
+Yesvotes ~
+Novotes ~
+Abstentions ~
+Text
+Quick question on sharpen.. it no longer changes avg damage of weapon?
+Sharpen only puts 5dr on the weapon now. Before i thought it changed the
+avg damage by 5 or so.. been awhile. Enchant give 5dr/hr.. much better
+then sharpen alone. I think kinda defeats the purpose of sharpen. People
+would rather use the enchant being how it gives hr/dr stead of just the dr.
+Just thought id doublecheck on that...
+~
+
+Sender  Drazuk~
+Date    Tue Jan 17 08:30:28 2006~
+To      Barakan~
+Subject Sharpen (:~
+Voting 0
+Yesvotes ~
+Novotes ~
+Abstentions ~
+Text
+yeah, it just adds the +5dam now...and while you can't sharpen and
+enchant an item, you can sharpen an item flagged as magical, but you
+can't enchant em (:  So its nice for sharpening any magical swords
+they find out there...
+
+D
+~
+
+Sender  Fury~
+Date    Tue Jan 17 12:28:40 2006~
+To      All~
+Subject Kamos in Cali!~
+Voting 0
+Yesvotes ~
+Novotes ~
+Abstentions ~
+Text
+Yo! Long time no see. I plan on going to California from march 7-15th this year
+I'll be in the La area too, so if any of you west coaster fellas feel like entertaining
+A displaced Canadian, holler at me! Peace :)
+~
+

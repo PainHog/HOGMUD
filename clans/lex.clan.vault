@@ -1,0 +1,10 @@
+#OBJECT
+Name         pit tree~
+ShortDescr   the tree~
+Description  A massive tree stands here, a place to stash equipment.~
+ActionDesc   ~
+Ovnum         3656
+Values       99999 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+End
+
+#END

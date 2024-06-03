@@ -1,0 +1,3 @@
+[*****] BOOT: ---------------------[ Boot Log ]--------------------
+[*****] BOOT: Load_resets: gallery.are (95) 'M': mobile 7700 doesn't exist.
+[*****] BOOT: Load_resets: Elysium.are (1) 'O': room 7077 doesn't exist.

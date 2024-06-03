@@ -1,0 +1,61 @@
+Name        Pixie~
+Race        4
+Classes     2776
+Str_Plus    -4
+Dex_Plus    3
+Wis_Plus    0
+Int_Plus    -1
+Con_Plus    -2
+Cha_Plus    3
+Lck_Plus    0
+Hit         -5
+Mana        40
+Affected    524288
+Resist      0
+Suscept     16
+Language    8
+Align       0
+Min_Align  -1000
+Max_Align	1000
+AC_Plus    0
+Exp_Mult   115
+Attacks    0
+Defenses   0
+Height     24
+Weight     40
+Hunger_Mod  0
+Thirst_mod  0
+Mana_Regen  3608
+HP_Regen    2085
+Race_Recall 0
+WhereName  &R<&Gused as &Wlight&R>&G     ~
+WhereName  &R<&Gworn on &Cfinger&R>&G    ~
+WhereName  &R<&Gworn on &Cfinger&R>&G    ~
+WhereName  &R<&Gworn around &Cneck&R>&G  ~
+WhereName  &R<&Gworn around &Cneck&R>&G  ~
+WhereName  &R<&Gworn on &Cbody&R>&G      ~
+WhereName  &R<&Gworn on &Chead&R>&G      ~
+WhereName  &R<&Gworn on &Clegs&R>&G      ~
+WhereName  &R<&Gworn on &Cfeet&R>&G      ~
+WhereName  &R<&Gworn on &Chands&R>&G     ~
+WhereName  &R<&Gworn on &Carms&R>&G      ~
+WhereName  &R<&Gworn as &Cshield&R>&G    ~
+WhereName  &R<&Gworn about &Cbody&R>&G   ~
+WhereName  &R<&Gworn about &Cwaist&R>&G  ~
+WhereName  &R<&Gworn around &Cwrist&R>&G ~
+WhereName  &R<&Gworn around &Cwrist&R>&G ~
+WhereName  &R<&Ywielded&R>&G           ~
+WhereName  &R<&Yheld&R>&G              ~
+WhereName  &R<&Ydual wielded&R>&G      ~
+WhereName  &R<&Gworn on &Cears&R>&G      ~
+WhereName  &R<&Gworn on &Ceyes&R>&G      ~
+WhereName  &R<&Ymissile wielded&R>&G   ~
+WhereName  &R<&Gworn on &Cback&R>&G      ~
+WhereName  &R<&Gworn over &Cface&R>&G    ~
+WhereName  &R<&Gworn around &Cankle&R>&G ~
+WhereName  &R<&Gworn around &Cankle&R>&G ~
+WhereName  &R<&Gworn with &Cpride&R>&G   ~
+WhereName  &R<&Gworn with &Cpride&R>&G   ~
+WhereName  <BUG Inform Drazuk>  ~
+WhereName  (null)~
+End

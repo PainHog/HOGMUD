@@ -1,0 +1,3839 @@
+[ 5129] Kalatis: balm
+[ 5129] Kalatis: 'balm'
+[21008] Seraph: form ranks
+[16331] Vra: ethereal guardian
+[21034] Grooble: clean aura
+[14454] Grooble: enhance
+[ 3671] Pyre: changes
+[21118] Grooble: pracs
+[21118] Grooble: aquest pracs
+[10355] Grooble: rules stake
+[10355] Grooble: stake
+[10355] Grooble: rules
+[ 3672] Fenix: higher
+[  282] Vlad: trample
+[  282] Vlad: trampel
+[ 3692] Grack: alchemy sanc
+[ 3694] Grack: daemonic plea
+[21118] Grack: spirit guid
+[ 3691] Grack: alchemy detect
+[ 3691] Grack: alchemy detect invis
+[ 3691] Grack: alchemy invis
+[ 3691] Grack: alchemy true
+[ 3691] Grack: alchemy true sight
+[21002] Kalatis: magic table
+[21009] Fenix: shield>
+[10303] Darigaaz: spell
+[16318] Saryio: language learn
+[10304] Skagit: autoloot
+[ 3674] Pyre: capoeria
+[16321] Pyre: versoin
+[21008] Pyre: occulus
+[ 1036] Karl: armorsmith light
+[12100] Cahel: character separation
+[ 1022] Karl: exp
+[ 1073] Karl: golem
+[10368] Skagit: newbie3
+[10368] Skagit: newbie3
+[21001] Saryio: golem
+[21001] Saryio: conjure golem
+[10927] Karl: natures
+[21126] Skagit: shop
+[21001] Skagit: newbie3
+[21001] Skagit: newbie2
+[21001] Skagit: newbie 3
+[21001] Skagit: loot
+[21009] Skagit: chair
+[21009] Skagit: social
+[ 1064] Skagit: hole
+[ 1064] Skagit: scrolls
+[21001] Seraph: shieldword
+[10306] Roddle: languades
+[ 3671] Sainrith: id
+[10431] Roddle: familiar
+[21129] Skagit: fs
+[21129] Skagit: symbols
+[21001] Medea: clan
+[21007] Roddle: scrolls
+[21007] Roddle: scrolls
+[21129] Skagit: flexoble arms
+[ 3701] Vash: av
+[21001] Roddle: shadpwform
+[21001] Roddle: shadow
+[ 3694] Grack: alchemy tongue
+[ 3694] Grack: alchemy speak
+[21001] Roddle: aggr
+[21001] Roddle: aggr
+[21001] Roddle: ag
+[ 1419] Ehecatl: charged beacn
+[ 3672] Arawn: charge beacon
+[21002] Shane: voodoo
+[ 3674] Arawn: spirti syphon
+[21001] Pain: magic table
+[21001] Pain: 'magic table'
+[  423] Skagit: magic table
+[21001] Pain: table
+[21001] Pain: magic
+[ 3671] Sainrith: magic table
+[ 3671] Sainrith: magic table
+[ 1041] Skagit: pill
+[ 1041] Skagit: pills
+[    0] Valek: lizard
+[10324] Celestron: statue
+[10333] Celestron: enchance weapon
+[21009] Piro: blitzkried
+[ 3671] Vlad: flask
+[21001] Celestron: corpse retrieve
+[21001] Pyre: follower
+[21001] Pyre: worship
+[21001] Pyre: aura
+[ 5274] Grooble: protect
+[ 5274] Grooble: 'protect'
+[ 5274] Grooble: protected
+[ 5274] Grooble: energy
+[ 5274] Grooble: showcouncil
+[ 5274] Grooble: council
+[ 5274] Grooble: grantsight
+[ 5274] Grooble: 'grantsight'
+[ 5274] Grooble: collor 'imm echo'
+[ 5134] Kalatis: 'mob'
+[21001] Celestron: balace
+[15047] Saryio: tendril
+[ 5274] Grooble: aff
+[ 5274] Grooble: zone
+[ 5274] Grooble: 'zone'
+[ 7539] Cahel: bound
+[ 7539] Cahel: affect
+[ 3691] Medea: immortal
+[ 3691] Medea: immortals
+[ 3691] Medea: god
+[ 3671] Vlad: devour soul
+[ 1530] Celestron: fearie fire
+[21183] Brolly: rules
+[21183] Brolly: cheating
+[10943] Skagit: pill
+[21009] Skagit: trash
+[21009] Skagit: comp
+[21131] Fenix: devour soul
+[  660] Skagit: aura
+[21001] Skagit: natures 
+[  463] Skagit: hawk
+[  463] Skagit: companion
+[21027] Grooble: read
+[21027] Grooble: 'read'
+[ 2484] Grooble: pk laws
+[ 3812] Brolly: damverb
+[21118] Grooble: aquest list
+[21001] Skagit: cursed item
+[ 5274] Grooble: atobj
+[ 5274] Grooble: qstat
+[ 5274] Grooble: 'qstat'
+[ 5274] Grooble: showdeity
+[  114] Skagit: vial
+[21001] Skagit: noteboard
+[21001] Skagit: board
+[21001] Skagit: clan
+[21119] Skagit: bank
+[21119] Skagit: bank
+[21119] Skagit: BANK
+[ 5274] Grooble: private
+[21025] Eaven: retribution
+[21154] Grack: devour 
+[21154] Grack: devour soul
+[ 4637] Eaven: retribution
+[ 3671] Karl: golem
+[21118] Vlad: devour soul
+[21009] Vlad: retribution
+[10874] Black: minor invoation
+[21001] Skagit: farmers market
+[ 5274] Grooble: destroy
+[ 5274] Grooble: 'destroy'
+[21118] Skagit: opium field
+[21001] Grooble: muse
+[21001] Grooble: 'muse'
+[21143] Skagit: samuela
+[21159] Skagit: corpses
+[    0] Ryvius: Lizardman
+[10303] Ryvius: spirit
+[  303] Smaggle: pcols
+[10300] Arius: pstart
+[10300] Arius: caustic forest
+[10300] Arius: 'caustic forest'
+[21001] Brolly: note remove
+[21001] Brolly: 'note remove'
+[21001] Pyre: path of light
+[21001] Pyre: 'path of light'
+[ 7707] Pyre: spirit guard
+[21001] Fenix: scions
+[21003] Karl: armorsmith blade
+[ 7746] Pyre: entnagle
+[21133] Jinn: faerie
+[ 3758] Grooble: story
+[ 3758] Grooble: 'story'
+[ 3758] Grooble: clan
+[ 7999] Medea: string
+[21009] Saryio: form ranks
+[21009] Saryio: form rank
+[21009] Saryio: file rank
+[21009] Saryio: order rank
+[21009] Ryvius: social
+[  202] Vulgon: detect trap
+[21009] Vulgon: demonicbeast
+[21009] Vulgon: shadow form
+[21001] Kalatis: 'seedam'
+[10303] Jarak: aggresive style
+[10303] Jarak: standerd
+[10303] Jarak: aggresive
+[10307] Jarak: autolook
+[10307] Jarak: autoloot
+[21132] Kalatis: prac
+[21154] Kalatis: shop
+[21154] Kalatis: val
+[21118] Kalatis: glory rates
+[21118] Kalatis: 'quest points'
+[21118] Kalatis: glory points
+[10407] Nombus: magicka rage
+[10407] Nombus: rage
+[10407] Nombus: magicka
+[10407] Nombus: magicka armor
+[12100] Cahel: alchemy true
+[12100] Cahel: alchemy truesight
+[12100] Cahel: alchemy true
+[10300] Akthor: text
+[10306] Aaron: lan
+[21154] Aaron: conjure
+[  286] Vlad: legendary skills
+[ 4609] Vlad: daemonic pack
+[21006] Medea: all
+[21006] Medea: mcolor
+[12100] Cahel: seffect
+[12100] Cahel: saveeffect
+[12100] Cahel: saves
+[10303] Redemption: spirit sh
+[10303] Redemption: spirit w
+[ 3703] Brolly: crushing wave
+[21009] Redemption: V
+[21009] Vlad: mediators
+[21009] Vlad: clan
+[21009] Vlad: clans
+[21009] Vlad: Mediators
+[21009] Vulgon: detect invi
+[21009] Vulgon: detect invisi
+[21009] Vulgon: detect invisible
+[21001] Saryio: powernap
+[21001] Saryio: nap
+[ 4642] Eaven: retribution
+[21009] Grooble: alcohol
+[21009] Kalatis: 'grenade'
+[21009] Kalatis: 'goblin grenade'
+[21009] Vlad: retribution
+[21153] Aahz: 'demonic armor;
+[21153] Aahz: 'demonic armor'
+[ 4605] Aahz: stag
+[21008] Pyre: combine
+[21001] Karl: flame blast
+[21007] Logan: light pit
+[21001] Aahz: note 2
+[ 1048] Aaron: protection balm
+[ 1048] Aaron: 'protection balm'
+[21420] Vash: shurik
+[ 3701] Brolly: colours
+[ 5274] Grooble: beast
+[ 5274] Grooble: demonic
+[ 5274] Grooble: heart
+[ 5274] Grooble: 'heart'
+[    0] Ian: ch
+[10300] Grooble: maglegend
+[10383] Flanders: eq
+[21001] Eaven: entangling
+[21001] Eaven: entangling block
+[21001] Eaven: entangle
+[21001] Eaven: entangling block
+[21001] Eaven: 'entangling block'
+[21001] Pyre: trample
+[21001] Pyre: trample
+[21001] Pyre: shuriken
+[  306] Eaven: bloodlist
+[ 9804] Kalatis: 'valience'
+[21001] Karl: conjurer sword
+[10374] Skyle: casting
+[10300] Medemos: agg
+[ 4610] Karl: conjurers sowrd
+[ 3672] Karl: conjurers sowrd
+[ 3674] Shane: devour soul
+[10300] Tynghall: demigods
+[10300] Tynghall: worship
+[10300] Tynghall: extradimensional por
+[ 4609] Aahz: celectial guardian
+[ 3674] Aahz: grace
+[ 3674] Aahz: retribution
+[ 3674] Aahz: retribution
+[ 3674] Aahz: devour soul
+[    0] Sherav: lizardman
+[    0] Sherav: lizard
+[    0] Sherav: lizardman
+[    0] Sherav: Lizardman
+[    0] Sherav: liz
+[ 4605] Karl: conjurors sword
+[21125] Grooble: resistant
+[10355] Kry: stake
+[10355] Kry: stake
+[10341] Kry: loot
+[10371] Kry: skill
+[10371] Kry: prac
+[10371] Kry: heplp
+[10371] Kry: me
+[10371] Kry: a
+[ 3692] Grack: alchemy true
+[ 3692] Grack: alchemy protection
+[ 3692] Grack: alchemy protection
+[ 3692] Grack: alchemy demonsight
+[ 3692] Grack: alchemy valiance
+[ 3692] Grack: alchemy antimagic
+[ 3692] Grack: weigh
+[ 3692] Grack: weight
+[ 3691] Grack: daemonic plea
+[ 3691] Grack: daemonic 
+[ 3691] Grack: demonic plea
+[10303] Sjin: diab
+[10303] Sjin: diabol
+[10303] Sjin: diabolism
+[10363] Sjin: toggle
+[10363] Sjin: autoloot
+[10363] Sjin: loot
+[21001] Sjai: bee
+[    0] Jester: champ
+[21001] Aahz: destroy
+[10300] Daeron: stats
+[ 3758] Grooble: protect
+[ 3691] Grooble: alts
+[ 3691] Grooble: alt
+[ 5274] Grooble: magic table
+[21001] Aaron: mediators
+[ 3691] Vash: pload
+[ 3691] Vash: char
+[ 3691] Vash: load
+[10025] Stalker: read
+[21160] Thatcher: blade
+[    0] Olath: lizardman
+[    0] Olath: liz
+[10303] Araethz: exotic
+[21001] Sin: magic
+[21001] Sin: magic
+[10301] Kol: appearance
+[10301] Kol: rules
+[10301] Kol: policy
+[10301] Kol: rules
+[10301] Kol: rule
+[10301] Kol: regulations
+[10301] Kol: regulation
+[21126] Aaron: improved ivis
+[ 1472] Simeon: blitzkreig
+[ 3692] Medea: cflags
+[10384] Andre: flexable arms
+[10384] Andre: flexable arms
+[21118] Vlad: polearm
+[ 2480] Celestron: grace
+[  303] Kalatis: plantpass
+[  303] Kalatis: 'plantpass'
+[ 3691] Krill: vomica
+[  463] Yoda: enhance
+[10431] Kyntrel: talonous
+[10429] Kyntrel: proficiency
+[10429] Kyntrel: weapon
+[10429] Kyntrel: talon
+[  451] Sjai: powder
+[21001] Sjai: bazabel
+[10300] Krystal: me!
+[21124] Sjai: penalty
+[21124] Sjai: power level
+[21124] Sjai: power
+[10303] Syll: stats
+[10303] Syll: prac
+[ 1036] Syll: recalling
+[  440] Sjai: toggle
+[21131] Vlad: retribution
+[21009] Sjai: aut
+[21009] Sjai: aut
+[21009] Sjai: auto
+[ 1535] Sjai: followers
+[21001] Sjai: razor
+[  438] Sjai: black light
+[21153] Aahz: devour soul
+[21153] Aahz: devour soul
+[21153] Aahz: devour soul
+[21153] Aahz: devour soul
+[ 3674] Google: lived across the street, when i grew up, was the same age, was in the same classes, we met 2 girls, and went out with them
+[21009] Wratha: attacks
+[21009] Wratha: racestat
+[ 3691] Medea: demonic
+[ 3691] Medea: beast
+[ 3691] Medea: demon
+[  424] Sjai: randoms
+[21001] Maya: remake
+[ 2254] Sjai: alert
+[ 2278] Sjai: para
+[ 2278] Sjai: paralysis
+[21007] Kyntrel: vb
+[21007] Kyntrel: saves
+[21007] Kyntrel: charism
+[21120] Kyntrel: stone
+[21120] Kyntrel: sharp
+[10423] Kyntrel: stats
+[21071] Kyntrel: guild
+[21001] Kyntrel: newq
+[21001] Kyntrel: exp
+[21001] Pain: silence
+[ 3674] Jero: windsong
+[ 4946] Celestron: spirit guid
+[21131] Celestron: major 
+[21131] Celestron: major innovation
+[16016] Grooble: bloodstone
+[16016] Grooble: 'bloodstone'
+[ 3671] Ashlyn: ban
+[ 3671] Ashlyn: ban
+[21009] Ashlyn: astral
+[21009] Ashlyn: astral
+[21009] Ashlyn: rift
+[10303] Alexander: pugalism
+[ 3672] Aahz: cheating
+[21118] Shelter: bomberman
+[ 3691] Medea: cheating
+[ 3758] Grooble: laws cheating
+[ 3758] Grooble: stake
+[21001] Stalker: forum
+[21001] Stalker: forums
+[ 3691] Grack: resiliance
+[10319] Alexander: word
+[ 3758] Grooble: enhance
+[10310] Okrutniki: prac
+[10303] Okrutniki: prac
+[16286] Okrutniki: bid
+[21121] Okrutniki: shop
+[21121] Okrutniki: store
+[21121] Okrutniki: bribes
+[21121] Okrutniki: saves
+[21007] Okrutniki: sac
+[21009] Okrutniki: help sacrifice
+[21120] Okrutniki: dual widl
+[10300] Olyos: auto
+[ 1214] Okrutniki: balm
+[ 1213] Okrutniki: commmands
+[    0] Scias: lizardman
+[    0] Scias: lizard
+[21001] Jaren: forums
+[21001] Jaren: websites
+[21121] Alexander: lockpick
+[ 3701] Thor: corrupt
+[  821] Reaver: damverb
+[ 3701] Thor: damnverb
+[21001] Shane: multiplaying
+[21001] Shane: mulit
+[21009] Alexander: -random
+[21016] Alexander: scrw
+[21016] Alexander: screw
+[21020] Alexander: inv
+[21020] Alexander: dagger
+[21020] Alexander: short
+[21020] Alexander: 'short blade'
+[21009] Adel: meteor
+[21009] Adel: met
+[10300] Adel: guilds
+[10300] Adel: guild
+[21119] Alexander: pus
+[21032] Eaven: solarflight
+[21001] Karl: note 2
+[21007] Aja: cojn
+[21007] Aja: conj
+[21001] Pain: vailiance
+[ 3691] Krill: enchance armor
+[ 8030] Simeon: blurred vision
+[ 8030] Simeon: 'blurred vision'
+[ 3694] Simeon: stoneskin
+[ 3691] Simeon: enhance/enchant armor
+[ 3692] Simeon: svd
+[ 3692] Simeon: 'save vs damage
+[ 3692] Simeon: 'save versus damage
+[ 3692] Simeon: 'save versus damage'
+[ 5273] Grooble: laws pkill
+[10379] Tristen: spell
+[ 3691] Pain: silene
+[ 3691] Pain: silence
+[21023] Alexander: trainers
+[21023] Alexander: trainer
+[21009] Alexander: yen
+[21009] Alexander: dagger
+[21020] Alexander: vaulty
+[21052] Alexander: taunt
+[10303] Jack: mace
+[10303] Jack: kindred
+[21158] Jack: bas
+[21001] Jack: languageas
+[21003] Jack: ready
+[21118] Jack: srilaxa
+[ 4336] Jack: hital
+[ 4336] Jack: blitzkri
+[21128] Jack: ven
+[21009] Quintass: warropr
+[ 1207] Kyntrel: lore
+[21142] Kyntrel: clib
+[21026] Kyntrel: aura
+[21026] Kyntrel: fear aura
+[21026] Kyntrel: aura_fear
+[21007] Google: camo
+[21128] Jack: invigor
+[ 4327] Jack: suicide
+[ 4332] Jack: retire
+[21019] Jack: goto
+[ 9800] Jack: read
+[ 9826] Jack: vent
+[  282] Jack: swim
+[ 3694] Simeon: warcry
+[ 3694] Simeon: invig
+[ 3694] Simeon: shelter
+[  270] Alexander: camou
+[ 4328] Alexander: ghost
+[21004] Alexander: makecontainer
+[21130] Krill: occulutus
+[21128] Renn: dog
+[21009] Renn: sea
+[21009] Renn: male
+[21009] Renn: female
+[21009] Renn: gender
+[16000] Renn: shovel
+[21111] Renn: multiplay
+[21002] Jack: multiplaying
+[21121] Jack: bribes
+[21048] Jack: swashbuckler
+[21158] Jack: archmage
+[21158] Jack: archmag
+[21158] Jack: bodybag
+[21158] Jack: snoop
+[21158] Jack: fli
+[21158] Jack: followers
+[21158] Jack: follower
+[21158] Jack: god
+[21158] Jack: immortal
+[21158] Jack: immortals
+[21158] Jack: medea
+[ 1478] Jack: hawk
+[21126] Jack: diabolis
+[21009] Jack: cram
+[21026] Jack: hal
+[21018] Jack: vomica
+[21129] Okrutniki: natures
+[21018] Jack: driud
+[  224] Jack: sin
+[  224] Jack: spin
+[21009] Vlad: retribution
+[10339] Raak: auto
+[10339] Raak: toggle
+[ 3691] Simeon: round
+[21126] Tristen: map legend
+[21045] Jack: teac
+[21045] Jack: teach
+[    0] Gideon: dia
+[ 3701] Grooble: slay
+[ 3701] Grooble: smite
+[  259] Jack: send
+[21101] Grooble: victim
+[21101] Grooble: 'victim'
+[21101] Grooble: pik
+[ 5128] Doohan: para
+[ 1057] Cantrip: spiritguide
+[ 1057] Cantrip: 'spiritguide'
+[ 5274] Grooble: magic table
+[ 4386] Jack: weight
+[ 4386] Jack: age
+[ 4386] Jack: years
+[21009] Akthor: parslyze
+[21158] Jack: mindfo
+[21158] Jack: 'occulatus visum
+[21158] Jack: 'occulatus visum
+[21158] Jack: 'occulatus visum
+[21158] Jack: 'occulatus visum'
+[21072] Jack: aura
+[21072] Jack: trust
+[21010] Jack: poltergeist
+[21118] Jack: opium fields
+[21033] Jack: blazebae
+[21026] Jack: blank
+[21026] Jack: norecall
+[21026] Jack: nice
+[21067] Jack: theo
+[21067] Jack: throw
+[21009] Jack: aquabreath
+[21009] Jack: -random
+[21009] Jack: avatar
+[21118] Jack: years
+[21118] Jack: age
+[21118] Jack: aging
+[21118] Jack: coins
+[21118] Jack: coin
+[21118] Jack: bazabel
+[21007] Semaiah: metal
+[21001] Jack: aura
+[21001] Jack: wear loc
+[21001] Jack: wearloc
+[21001] Jack: wearlocs
+[  673] Sebat: alert
+[21118] Jack: spell damage
+[21001] Okrutniki: noteboard
+[21001] Jack: imm
+[21001] Jack: immortal
+[21001] Simeon: skir
+[21069] Jack: part
+[21069] Jack: parts
+[21001] Thatcher: note1
+[ 1028] Method: color spray
+[21010] Jack: auctin
+[21131] Cantrip: 'chill
+[ 1004] Cantrip: 'sturm'
+[ 1004] Cantrip: sturm
+[21158] Jack: skir
+[  101] Jack: lgonlilve
+[10306] Gond: tongue
+[10303] Gond: talonous
+[10303] Gond: prac
+[10374] Gond: auto
+[10400] Gond: mediate
+[10303] Gond: engate
+[21123] Gond: diab
+[21123] Gond: diaboli
+[10364] Rayner: player
+[21126] Sebastian: escape
+[21022] Jack: blessing
+[21022] Jack: bobject
+[21118] Stalker: malaclypse
+[    0] Kole: min
+[21001] Krill: silence
+[21001] Krill: quest points
+[21121] Gond: shop
+[21001] Kaltar: wintermist
+[21001] Kaltar: winder mist
+[21001] Gond: directions
+[21154] Gond: comp
+[21032] Gond: bee hive
+[21032] Gond: hive
+[21031] Gond: rules
+[21031] Gond: rule
+[ 1070] Gond: damverb
+[21123] Gond: componet
+[ 1212] Okrutniki: hunt
+[ 1212] Okrutniki: law pk
+[ 1230] Okrutniki: beehive
+[21118] Jack: belt
+[21118] Jack: clas
+[16033] Jack: avatar
+[16033] Jack: avatars
+[21123] Jack: key
+[21126] Jack: ca
+[21009] Vlad: desparate plea
+[21027] Jack: sharpe
+[21120] Alexander: poi
+[ 3692] Cantrip: 'magic table'
+[21007] Alsherok: command
+[21008] Jack: spiritwrack
+[10300] Imhotep: prac
+[21001] Jack: blud
+[10300] Imhotep: info
+[10300] Imhotep: old
+[21009] Jeremiah: death rot
+[10300] Imhotep: autoloot
+[21009] Jack: gna
+[10300] Imhotep: autoexit
+[10303] Imhotep: blud
+[10303] Imhotep: bludg
+[10303] Imhotep: bludgeon
+[10303] Imhotep: enhanced damange
+[10308] Imhotep: deed
+[10384] Imhotep: ok
+[21118] Jack: slay
+[21001] Imhotep: metal
+[21001] Imhotep: pg
+[21001] Imhotep: learn
+[21001] Imhotep: practic
+[21122] Imhotep: shop
+[21009] Jack: inivs
+[21009] Jack: invisible
+[21010] Jack: mediators
+[21010] Jack: mediator
+[ 3691] Jack: read
+[ 3691] Jack: grace
+[ 3694] Jack: aura
+[21081] Jack: bloodsog
+[ 1366] Gond: damverb
+[21006] Vlad: talonous
+[21009] Jack: angel
+[ 3256] Vlad: board
+[21126] Jack: paladin
+[21009] Jack: drun
+[21009] Jack: drunk
+[21118] Jack: drunk
+[21118] Jack: sober
+[21122] Jack: 'spell damage'
+[21122] Jack: spell
+[21122] Jack: spirit
+[ 3691] Pain: drun
+[ 3691] Pain: drunk
+[ 3691] Pain: sober
+[  231] Jack: feed
+[  231] Jack: blood
+[10355] Lucius: rules stake
+[10355] Lucius: 'rules stake'
+[10355] Lucius: stake'
+[10324] Lucius: stake
+[21001] Shane: alchemy truesight
+[21118] Lardar: invis object
+[21119] Lardar: invis object
+[21119] Lardar: sulfrous spray
+[    0] Voldemort: min
+[21019] Voldemort: enchant armour
+[21001] Thatcher: protect
+[21009] Vlad: meditators
+[21009] Vlad: mediaters
+[21009] Vlad: mediators
+[21009] Vlad: Mediators
+[21011] Martel: trident
+[ 3672] Malachi: judicandus noselarcri
+[21019] Karl: venomous
+[21019] Karl: venomous arrow
+[ 1258] Imhotep: inv
+[ 1258] Lucius: avatar
+[21154] Imhotep: affec
+[21154] Imhotep: affects
+[21154] Imhotep: resistant
+[21154] Imhotep: resistant by nonmagic
+[21154] Imhotep: aura
+[ 1021] Lucius: laws harassment
+[21123] Imhotep: pill
+[21123] Imhotep: swallow
+[21005] Jack: law pk
+[21005] Jack: sign
+[21001] Jack: law pk
+[21001] Jack: log
+[21009] Imhotep: lizard
+[21001] Jack: disband
+[21001] Simeon: invig
+[21009] Imhotep: displace
+[21123] Imhotep: balm
+[21128] Imhotep: vent
+[21128] Imhotep: blitzl
+[21128] Imhotep: blitzk
+[21001] Samaiah: diaboli
+[21001] Fayt: deities
+[21001] Fayt: dieties
+[21001] Fayt: commune
+[21001] Fayt: deity
+[10361] Galador: char
+[16331] Vra: scoremm
+[10319] Taryn: players
+[10383] Taryn: clan
+[10383] Taryn: guild
+[10383] Taryn: clans
+[10383] Taryn: clan
+[10383] Taryn: mediators
+[10383] Taryn: flist
+[10375] Taryn: players
+[ 3692] Jack: 'magic table'
+[ 3692] Cantrip: 'magic table'
+[ 3692] Jack: magic table
+[ 3692] Jack: 'magic table'
+[21118] Vlad: desparate plea
+[21009] Galador: commune
+[10367] Taryn: mobqu
+[10367] Taryn: mobquest
+[10367] Taryn: mob*
+[ 3691] Taryn: flidy
+[ 3691] Taryn: flist
+[21009] Galador: lpant pass
+[ 5262] Simeon: alchemy weakness
+[ 5138] Voldemort: pil hole
+[ 5134] Voldemort: nec 2.c
+[21154] Elishua: alert
+[   10] Darwin: qp
+[ 5139] Voldemort: o c
+[21131] Cantrip: enhance
+[ 3700] Fistandan: guardian
+[21126] Jack: slay
+[21126] Jack: law object
+[21001] Jack: occulu
+[21158] Jack: trian
+[ 3694] Jack: rules
+[21022] Jack: bonys
+[21022] Jack: bonus
+[21009] Jack: clas
+[ 3691] Medea: enhanse
+[ 3691] Medea: enhance
+[ 3691] Pain: 'enchant weapon' short
+[21001] Thatcher: bloodlust
+[21001] Thatcher: entangling block
+[21001] Thatcher: paralysis
+[21001] Thatcher: magi
+[11108] Thatcher: jack
+[21001] Thatcher: alchemy sanc
+[21001] Thatcher: alchemy sancuary
+[21001] Thatcher: migika rage
+[21001] Thatcher: trident
+[ 3691] Simeon: enhance
+[ 3692] Simeon: skir
+[10319] Cabul: conj
+[ 5137] Cantrip: enhance
+[ 5137] Cantrip: 'enhance'
+[21126] Cabul: alert
+[21001] Galador: read
+[21001] Galador: post
+[21001] Galador: nnote2
+[ 1076] Gond: comp
+[21001] Taryn: citymap
+[   10] Medea: taxes
+[   10] Medea: tax
+[21008] Cabul: silver
+[ 3691] Simeon: form ranks
+[  110] Kyntrel: item
+[    0] Thysis: lizardman
+[    0] Thysis: lizard
+[    0] Thysis: sea
+[10366] Thysis: lore
+[ 9906] Cabul: paladin
+[21009] Cantrip: 'colourspray'
+[21009] Cantrip: colour spray'
+[21009] Cantrip: colorspray'
+[ 5130] Voldemort: a c
+[ 5129] Voldemort: hole h
+[21001] Galador: gold give
+[ 3672] Google: save vs paralysis
+[ 3672] Google: paralysis
+[10421] Thysis: black fish
+[21001] Thysis: diablo
+[ 1404] Thysis: pillow
+[21130] Voldemort: quickining
+[21153] Thysis: gain
+[21006] Galador: mediators
+[21001] Galador: ft
+[15238] Galador: holy symbol
+[ 4559] Simeon: alchemy iceshield
+[ 8144] Galador: camoglage
+[ 8144] Galador: camoflage
+[ 9881] Galador: scions
+[ 9881] Galador: clans
+[ 9881] Galador: factions
+[ 3691] Galador: meditat
+[ 3046] Cantrip: 'surf'
+[14247] Simeon: alchemy stone skin
+[14247] Simeon: alchemy stoneskin
+[14247] Simeon: alchemy stoneskin
+[14247] Simeon: alchemy stoneskin
+[21033] Jack: throw
+[21033] Jack: choke
+[21178] Jack: stab
+[ 3694] Jack: avatars
+[ 3694] Jack: avatar
+[ 3694] Jack: demonic beas
+[21001] Jack: grantsight
+[21118] Vlad: camoflage
+[10303] Orapho: chilll touch
+[10306] Orapho: tongue
+[10306] Orapho: learn
+[21001] Orapho: god
+[21007] Orapho: outfit
+[21007] Voldemort: camo
+[21007] Voldemort: comoflauge
+[21007] Voldemort: comflauge
+[21007] Voldemort: camoflauge
+[21123] Jack: protext
+[21123] Jack: protect
+[21118] Mallace: joey
+[ 3691] Simeon: alchemy blind
+[ 3691] Simeon: alchemy blind
+[ 1019] Orapho: create sound
+[ 1107] Orapho: sanct
+[21009] Vlad: paladins
+[21009] Vlad: paladin
+[21131] Lucius: bless objec
+[21009] Lucius: destroy
+[21009] Lucius: slay
+[21007] Caleigh: grasp susperia
+[ 3692] Pain: enchance treasure
+[ 3692] Pain: 'enchance treasure'
+[ 3691] Pain: sesilience
+[21001] Vlad: spike
+[21123] Grooble: plant
+[21001] Orapho: position
+[21001] Orapho: pose
+[21001] Orapho: pos
+[21119] Orapho: bank
+[21126] Jack: corrupt
+[21038] Jack: law multplaying
+[ 3694] Jack: form ranks
+[ 3694] Jack: "form ranks"
+[21009] Jack: spiral
+[ 3694] Jack: ac
+[21009] Twyla: mask of triton
+[21028] Jack: invaders
+[21028] Jack: invade
+[21028] Jack: invader
+[ 3701] Cole: two pit
+[ 5136] Cole: p c
+[21118] Simeon: iceblast
+[21009] Thatcher: alchemy sanc
+[21005] Martel: alchemy snac
+[21005] Martel: alchemy sanc
+[21009] Caleigh: dispe
+[21009] Vlad: jestor
+[21123] Simeon: aura
+[15078] Simeon: autogold
+[21009] Vlad: tiers
+[10352] Elvirion: tiers
+[10303] Elvirion: demigods
+[10303] Elvirion: demigods
+[21005] Twyla: info
+[ 1022] Elvirion: clans
+[ 1022] Elvirion: clan
+[21009] Aides: ice shield
+[21167] Vra: magic items
+[21167] Vra: magic devices
+[ 4391] Cantrip: enhance
+[21001] Alaex: coirpse
+[21007] Aja: conj
+[21007] Pazu: gand pit
+[21007] Pazu: brac pit
+[10300] Aelo: prac
+[10311] Aelo: ponder
+[10404] Aelo: pug
+[ 8049] Saryio: magic level
+[ 8049] Saryio: magic
+[ 8049] Saryio: magiclevel
+[21118] Martel: chat
+[14209] Saleb: ethereal cloaj
+[21009] Caleigh: shocking gras
+[  215] Caleigh: pix
+[21009] Caleigh: caustic foun t
+[21028] Caleigh: years
+[21009] Caleigh: bodybag
+[21009] Caleigh: hell
+[21009] Caleigh: snoop
+[   10] Darwin: password_zmud
+[21009] Caleigh: levle
+[ 3691] Pain: locate
+[ 3691] Pain: locate item
+[ 3691] Pain: 'locate item'
+[21118] Jack: extra
+[21097] Caleigh: sturm
+[ 5134] Pazu: a c
+[ 5134] Pazu: a c
+[21118] Vlad: pontiff
+[21118] Caleigh: pontiff
+[21001] Sebastian: alchemy sanc
+[ 1801] Sebastian: invoke wolr
+[ 1472] Preacher: holy
+[21118] Vlad: pontiff
+[21171] Louis Wu: personal
+[21009] Twyla: war rooms
+[21009] Twyla: war room
+[21003] Twyla: yoyo
+[21003] Twyla: yo-yo
+[21118] Lardar: spiritguide
+[21123] Google: magic
+[21009] Vlad: spar
+[21131] Pazu: higher
+[21131] Pazu: holy
+[ 6141] Jack: dam
+[ 5159] Jack: detect alignment
+[21118] Black: helenic flow
+[21033] Black: suspiric grasp
+[21033] Black: suspiric
+[21123] Simeon: moral
+[  236] Aides: higher
+[21032] Jack: avatar
+[21118] Jack: teach
+[16331] Saryio: port
+[ 6068] Fory Tory: pike
+[ 6068] Fory Tory: spike
+[ 6068] Fory Tory: trophy
+[21004] Raziel: not
+[21001] Raziel: outcast
+[21001] Raziel: version 2.4.15
+[21001] Raziel: not
+[21118] Louis Wu: autoupdate
+[21118] Louis Wu: gag
+[21002] Caleigh: vash
+[21014] Lardar: exam note
+[21014] Lardar: exam
+[21001] Caleigh: seedam
+[21001] Caleigh: pixe
+[ 3691] Simeon: elders
+[21009] Jack: helical
+[21009] Ellipsis: autoupdate
+[ 1087] Raziel: smite
+[    0] Xoren: lizardman
+[    0] Xoren: lizard
+[21118] Krom: legendaries
+[21009] Paalo: undertaker
+[ 1327] Google: legendary skills
+[21001] Jack: favor
+[ 1237] Crell: prac hp
+[21007] Deuel: dia
+[10386] Jinx: suspiria grasp
+[10303] Dyani: enhanced dama
+[ 2181] Vlad: pill
+[21131] Pazu: morle
+[ 4331] Deuel: spectal furor
+[10306] Anandunaiss: lan
+[21009] Medea: leader
+[21009] Medea: followin
+[21009] Medea: folset
+[10303] Veleslav: sword
+[  304] Jugger: hiscore
+[10398] Veleslav: remort
+[21159] Veleslav: loot
+[21159] Veleslav: get all
+[ 3694] Louis Wu: powernap
+[ 2273] Jugger: garrot
+[21001] Driag: use
+[10355] Anandunaiss: rules stake
+[10355] Anandunaiss: stake
+[10355] Anandunaiss: rules stake
+[10355] Anandunaiss: rules stake
+[10355] Anandunaiss: RULES STAKE
+[ 5129] Cantrip: 'autoupdate
+[21133] Ashlyn: astra walk
+[21133] Ashlyn: astral
+[ 3691] Louis Wu: burning fist
+[21001] Ix Chel: nature
+[21118] Vlad: spar
+[ 3671] Saryio: form ranks
+[ 3671] Saryio: form
+[21009] Saryio: invade
+[ 1448] Google: alert
+[ 4633] Saryio: give consent
+[ 4633] Saryio: consent
+[21132] Anandunaiss: beserk
+[21132] Anandunaiss: beserk style
+[21009] Anandunaiss: bach
+[21001] Anandunaiss: glory rates
+[21001] Anandunaiss: questmaster
+[21009] Medea: mediators
+[21009] Medea: mediator
+[ 3674] Google: golem fist
+[21007] Jahaleleel: aura
+[21007] Jahaleleel: magicuse
+[ 1029] Jahaleleel: magiclist
+[ 1029] Jahaleleel: magicuse
+[21009] Jahaleleel: magiclist
+[21009] Jahaleleel: magiclist
+[21009] Jahaleleel: magicuse
+[ 1063] Stephan: wolf
+[ 5128] Anandunaiss: swim
+[ 5128] Anandunaiss: water
+[21119] Anandunaiss: bank
+[21001] Anandunaiss: medea
+[21001] Anandunaiss: hester
+[ 3694] Jack: dispel
+[21001] Anandunaiss: dual wielded
+[21033] Jack: bur
+[21033] Jack: bur
+[21121] Anandunaiss: chanel
+[21162] Anandunaiss: bazabel
+[21162] Anandunaiss: orb
+[21001] Simeon: corpse recovery
+[21001] Simeon: corpse recover
+[21132] Anandunaiss: exotic
+[21132] Anandunaiss: exotic weapons
+[21001] Anandunaiss: skiss
+[10319] Samaiah: diaboli
+[21005] Alexis: mea
+[21005] Alexis: mer
+[21005] Alexis: wort
+[21005] Alexis: outcast
+[21005] Alexis: murdle
+[ 5130] Anandunaiss: assist
+[21118] Lardar: spell idol
+[21118] Lardar: weaponsmith avatar
+[21121] Anandunaiss: bank
+[21001] Anandunaiss: goggles
+[21009] Ix Chel: eye of the hunter
+[ 2701] Google: create golem
+[ 5275] Google: alchemy blindnes
+[21009] Raziel: balanced
+[21122] Google: golem glov
+[21120] Raziel: drwo
+[21125] Google: alchemy cloak
+[10303] Ssyn: prac
+[10303] Ssyn: short blad
+[10357] Ssyn: guaid
+[21007] Ssyn: donatiion
+[21154] Ssyn: elenolos
+[ 3671] Google: armorsmith reinforce
+[ 7040] Simeon: magiclist
+[ 7040] Simeon: magicuse
+[ 9888] Simeon: corrupt
+[ 3691] Simeon: alchemy grounding
+[ 3691] Simeon: alchemy ground
+[21009] Adin'afein: temple
+[21009] Adin'afein: join
+[ 3691] Simeon: mediator
+[ 3691] Simeon: mediators
+[21001] Adin'afein: clan
+[ 3770] Simeon: scions
+[ 3770] Simeon: clan
+[ 3770] Simeon: temple
+[ 3691] Simeon: grace
+[ 3692] Jack: arrange
+[21021] Ssyn: alert
+[21153] Ssyn: skill
+[21153] Ssyn: faer
+[14230] Simeon: alchemy blind
+[21001] Ssyn: player killing
+[21001] Ssyn: player
+[21001] Ssyn: 'player killing'
+[21001] Ssyn: hardcore
+[21001] Ssyn: hard core
+[21004] Ssyn: remort
+[21004] Ssyn: avatar
+[ 5275] Simeon: alchemy iceshield
+[ 5275] Simeon: alchemy blind
+[21131] Morgana: dispel neu
+[21131] Morgana: dispel neu
+[21121] Anandunaiss: lockpick
+[21009] Anandunaiss: avatar
+[21118] Google: resilient
+[    0] Iteira: lizardman
+[    0] Iteira: lizardman
+[    0] Iteira: lizard
+[    0] Iteira: lizardman
+[    0] Iteira: lizardman
+[ 2487] Google: alchemy blind
+[ 5139] Google: weaponsmith etherbla
+[ 5139] Google: weaponsmith etherbla
+[ 2476] Google: retribution
+[21009] Stephan: crossbow
+[ 3671] Google: unseen
+[ 2007] Javalar: respawn
+[21142] Louis Wu: burning fist
+[21142] Mandragoras: magic
+[21001] Anandunaiss: range
+[21001] Mandragoras: aura
+[21001] Mandragoras: bright
+[21001] Mandragoras: white
+[21001] Mandragoras: white aura
+[21001] Mandragoras: a bright
+[21009] Anandunaiss: beserk
+[21009] Anandunaiss: 'beserk style'
+[21130] Hidden: rules
+[21118] Lardar: schorching surge
+[   10] Darwin: multiplaying
+[   10] Darwin: cheating
+[   10] Darwin: 'laws multiplaying
+[21001] Pain: holy
+[21142] Mandragoras: continual
+[21142] Mandragoras: blaze
+[ 7074] Anandunaiss: wars
+[21129] Stephan: camoflage
+[21154] Thatcher: magiclist
+[21154] Thatcher: magicrule
+[21023] Thatcher: magic
+[21023] Thatcher: magicuse
+[21023] Thatcher: magiclist
+[21001] Thatcher: alchemy sanc
+[10300] Silver: grasp susperia
+[ 7304] Simeon: alchemy iceshield
+[10336] Shealia: coif
+[21001] Anandunaiss: ventri
+[21001] Javalar: diabolist hall
+[21001] Javalar: hall
+[21130] Shealia: prac sessions
+[21130] Shealia: prac
+[21007] Shealia: jerald
+[  306] Shealia: communication
+[  306] Thatcher: social
+[  306] Shealia: emocot
+[  306] Shealia: social
+[ 3691] Jaren: clones
+[21118] Thatcher: alchemy true
+[21142] Mandragoras: shocking
+[ 3691] Louis Wu: parlyse
+[ 3691] Louis Wu: parlyze
+[21118] Thatcher: magicuse
+[ 3671] Ashlyn: magicuse
+[ 3671] Ashlyn: magic
+[ 3671] Ashlyn: use
+[21130] Shealia: mounth
+[21001] Shealia: silver potion
+[21001] Shealia: 'silver potion'
+[21001] Jaren: changes
+[10367] Warcraft: dagger
+[10367] Warcraft: attack
+[10367] Warcraft: pierce
+[10367] Warcraft: damtype
+[10367] Warcraft: weapon
+[10303] Dracul: id
+[21007] Dracul: questitem
+[21007] Dracul: questitems
+[21130] Jack: vent
+[ 3694] Grack: stomp
+[ 3691] Jaren: resil
+[21007] Louis Wu: cloud eyes
+[21009] Dracul: favir
+[21009] Dracul: favor
+[21009] Dracul: wuest
+[    0] Warmagic: wolf
+[16331] Vra: half elf
+[21007] Anandunaiss: scutum
+[21007] Anandunaiss: improved identify
+[21007] Anandunaiss: 'improved identify'
+[ 8056] Anandunaiss: assist
+[ 8067] Anandunaiss: conif
+[ 8067] Anandunaiss: conif
+[ 7109] Dracul: hunt
+[ 3692] Jack: divinit
+[21006] Vra: cloud eyes
+[21006] Vra: cloudeyes
+[21006] Vra: cloud
+[21006] Vra: 'cloud eyes'
+[21001] Arkholt: deity
+[21001] Arkholt: medea
+[21001] Arkholt: magic
+[ 1427] Mandragoras: fearie fog
+[ 1427] Mandragoras: "earie fog"
+[ 1427] Mandragoras: "fearie fog "
+[ 1427] Mandragoras: "fearie fog"
+[ 1427] Mandragoras: colour
+[21001] Warmagic: sanc
+[21130] Warmagic: skill
+[ 1415] Cynobor: enhance
+[21001] Mandragoras: auralink#
+[21013] Warmagic: back corpse
+[ 3694] Mandragoras: wo
+[21118] Simeon: alchemy sanc
+[21119] Simeon: alchemy blind
+[ 3691] Mandragoras: faction
+[21118] Mandragoras: joey
+[21009] Stephan: aff
+[21009] Stephan: affect
+[21009] Stephan: affects
+[21009] Stephan: missile weapon
+[ 3694] Mandragoras: lgonlilve
+[ 3694] Mandragoras: underhill
+[21118] Lycidas: alchemy sanc
+[ 3700] Thatcher: alchemy true
+[21001] Simkin: version2.4.17
+[14209] Simeon: alchemy blind
+[21001] Saryio: version2.4.17
+[21001] Saryio: version2.4.20
+[ 3691] Simeon: alchemy demonsight
+[21118] Simeon: corrupt
+[ 5134] Mandragoras: burning fist
+[ 5134] Mandragoras: burning fist
+[21001] Jugger: fallen
+[ 3694] Jugger: barbed
+[ 3694] Jugger: ghost
+[ 3694] Jugger: ghost str
+[ 3694] Jugger: ghost strick
+[21009] Vlad: saves
+[ 3691] Pain: locer
+[21118] Arkholt: deity
+[ 1209] Arkholt: cook
+[ 1209] Arkholt: food
+[ 3691] Simeon: alchemy blind
+[ 3691] Pain: pagan
+[21001] Arkholt: medea
+[21118] Mandragoras: joey
+[14181] Vlad: panic
+[14181] Vlad: panic
+[21009] Stephan: imm
+[ 3691] Pain: wizhelp
+[ 3691] Pain: wiz
+[10303] Nephaedra: prac
+[10303] Nephaedra: black
+[10303] Nephaedra: create flood
+[10303] Nephaedra: spell
+[10303] Nephaedra: magic
+[10303] Nephaedra: spell
+[10321] Nephaedra: refreash
+[10321] Nephaedra: black
+[10321] Nephaedra: centriloquate
+[10321] Nephaedra: fi
+[10321] Nephaedra: create
+[10321] Nephaedra: 'crewa
+[10321] Nephaedra: cook
+[21079] Nephaedra: sanct
+[ 3691] Pain: legendaries
+[21420] Ashlyn: retribution
+[21028] Alinicen: invoke stage
+[21069] Alinicen: weapon
+[21069] Alinicen: type
+[21021] Thauran: marlegend
+[ 1215] Thauran: autollot
+[ 1215] Thauran: autoloot
+[ 1215] Thauran: 'autoloot'
+[21128] Thauran: beserk
+[21009] Saryio: ptitle
+[ 3692] Medea: string
+[21009] Vlad: restring
+[21009] Soth: restring
+[ 3844] Soth: corrupt armour
+[ 3814] Soth: defense
+[ 1248] Thauran: autosac
+[10926] Thauran: form ranks
+[21128] Thauran: invigrate
+[21128] Thauran: cat nap
+[21009] Vlad: mediators
+[ 3821] Mallace: w c
+[21008] Saleb: disrupt reallity
+[ 3691] Mallace: lash out
+[ 2173] Mallace: c c
+[21001] Brolly: cloud eyes
+[21001] Brolly: foot stomp
+[10372] Tyrglar: auto
+[10364] Tyrglar: pprompt
+[10306] Tyrglar: flexible
+[21026] Jesster: intro
+[10300] Zerxis: practicer
+[10300] Zerxis: autoloot
+[10300] Zerxis: set
+[21154] Tyrglar: scrying
+[21154] Tyrglar: scrying
+[21160] Tyrglar: alchemyh
+[21160] Tyrglar: aclchemy armor
+[10361] Zerxis: ashlyn
+[10361] Zerxis: embrace
+[21118] Shelter: alchemy true
+[10819] Tyrglar: auto
+[10819] Tyrglar: autoloot
+[10885] Tyrglar: shaman skills
+[10885] Tyrglar: 'shaman skills'
+[10900] Tyrglar: avatar
+[10900] Tyrglar: avatar
+[21160] Tyrglar: map legend
+[21160] Tyrglar: map legend
+[21160] Tyrglar: attributes
+[21160] Tyrglar: attributes
+[21160] Tyrglar: att
+[21001] Thauran: ant hive
+[10300] Maerad: seedam
+[10300] Maerad: tertiary
+[21001] Maerad: skill
+[ 1028] Maerad: magic
+[ 3694] Mallace: arch mage
+[ 3694] Mallace: arch-mage
+[21001] Tyrglar: remort
+[21001] Tyrglar: archmage
+[21001] Tyrglar: alchemy invoke stag
+[21009] Tyrglar: glory rates
+[21009] Tyrglar: 'glory rates'
+[21009] Tyrglar: 'glory rates'
+[21009] Tyrglar: rates
+[21009] Tyrglar: glory rates
+[21009] Tyrglar: 'glory rates'
+[21118] Tyrglar: ambrosia
+[21008] Tyrglar: jungle path
+[21008] Tyrglar: 'jungle path'
+[21008] Tyrglar: 'jungle path'
+[21008] Tyrglar: jungle
+[21008] Tyrglar: spider forest
+[21008] Tyrglar: 'spider forest'
+[21008] Tyrglar: 'spider forest'
+[21008] Tyrglar: woodland
+[21008] Tyrglar: 'woodland route'
+[21008] Tyrglar: 'lake d'aira'
+[21008] Tyrglar: lake
+[21118] Tyrglar: coral reef
+[21118] Tyrglar: 'coral reef'
+[ 5141] Tyrglar: kindred strenth
+[21160] Tyrglar: corrupt
+[  405] Tyrglar: target
+[21001] Tyrglar: unicorn grove
+[21001] Tyrglar: 'unicorn grove'
+[21123] Thauran: priest
+[21120] Mandragoras: khent
+[12050] Lardar: acid
+[12050] Lardar: acidic
+[21130] Cynobor: etheral fist?
+[21153] Maerad: spectral
+[21118] Maerad: request
+[ 2500] Simeon: alchemy blind
+[10300] Unranien: suicide
+[  201] Tyrglar: bee hive
+[  201] Tyrglar: bee
+[ 1348] Tyrglar: eldritch
+[ 1877] Tyrglar: deity
+[ 1877] Tyrglar: diety
+[ 1877] Tyrglar: pledge
+[ 1877] Tyrglar: devote
+[ 1919] Tyrglar: sturm
+[ 1919] Tyrglar: sturm
+[ 1820] Tyrglar: undead
+[21009] Tyrglar: pine sap
+[  301] Tyrglar: sirius
+[21001] Thauran: form ranks
+[ 1744] Lesweet: autoupdate
+[21009] Anandunaiss: diab olist
+[21010] Mallace: all c
+[21009] Vlad: bobject
+[    0] Tito: min
+[21118] Thatcher: alchemy corruption
+[21009] Vlad: shieldword
+[ 8015] Brolly: crushing wave
+[10407] Destro: daemonic beast
+[21001] Destro: draonskin
+[21001] Destro: eq
+[10319] Shern: sentences
+[10319] Shern: gag
+[10355] Shern: rules stake
+[10355] Shern: 'rules stake'
+[10355] Shern: rules stake
+[10355] Shern: rules
+[10355] Shern: stake
+[21001] Shern: 'dual-wield'
+[ 3672] Google: alchemy imp
+[ 3672] Google: alchemy invis
+[21001] Shern: healing
+[21118] Louis Wu: slash
+[10300] Emeth: autoupdate
+[10300] Emeth: update
+[10380] Emeth: exp
+[10319] Emeth: embraced
+[10319] Emeth: ashlyn
+[21119] Emeth: bank
+[ 1525] Tyrglar: tongue mammal
+[ 1525] Tyrglar: 'tongue mammal'
+[ 1519] Tyrglar: teach
+[21009] Adin'afein: pizza
+[10303] Draneer: aq
+[10303] Draneer: aqa
+[14203] Thatcher: wintin
+[10319] Draneer: sanctuarry
+[21009] Vlad: tiers
+[21007] Emeth: pin
+[21001] Emeth: sanhardin
+[21001] Emeth: sahardin
+[ 3694] Mallace: kiler
+[ 1214] Emeth: add
+[ 1214] Emeth: gain
+[ 1214] Emeth: lore
+[ 1214] Emeth: eyes of the hunger
+[21009] Emeth: cursed
+[ 1232] Emeth: mv
+[21118] Google: alchemy sanc
+[21118] Google: alchemy sancuary
+[21013] Mandragoras: "pass door" e
+[21118] Google: weaponsmith ogreslay
+[21118] Google: weaponsmith ogreslay
+[21118] Google: weaponsmith ogresl
+[21118] Google: weaponsmith dragonslay
+[21118] Google: weaponsmith dragonsl
+[21001] Google: alchemy weaponsimth
+[21001] Google: alchemy weaponsmith
+[10308] Cylas: spell
+[10446] Cylas: spell
+[  674] Medea: bet
+[  674] Medea: alist
+[  674] Medea: axit
+[10300] Medea: slayset
+[ 8028] Mallace: assist
+[21007] Thatcher: advance tier
+[21001] Tyrglar: necromancer
+[10303] Selreth: elbo
+[21001] Selreth: legend
+[21123] Selreth: kho
+[21123] Selreth: khopesh
+[21126] Google: elbo
+[21142] Mandragoras: dispel
+[ 5160] Dahlia: scorching
+[21001] Arkholt: nodrop
+[21001] Thauran: aura
+[21009] Thauran: conjerer
+[21009] Thauran: conj
+[21122] Mandragoras: garth
+[21143] Mandragoras: samuel
+[ 3691] Mandragoras: archmagic
+[21009] Thauran: sanc
+[ 2189] Mallace: a 2.c
+[ 3112] Arkholt: locate
+[21001] Medea: pike
+[21009] Thauran: restring
+[14404] Mandragoras: dispel
+[21159] Lesweet: corpse retrieve
+[21008] Saleb: arualink
+[21009] Lesweet: legend
+[15021] Brolly: teach
+[21118] Thatcher: pill
+[ 3671] Ashlyn: setrank
+[21159] Hades: corpse retrieve
+[ 3842] Hades: faerie for
+[ 8050] Vlad: passdoor
+[ 3701] Brolly: saves
+[ 3701] Brolly: svs
+[ 3701] Brolly: svd
+[ 2457] Brolly: moves
+[21118] Sparhawk: chakra wave
+[ 3671] Saryio: enchant aura
+[ 3671] Saryio: enchant item
+[ 5139] Cynobor: enhance
+[ 5139] Cynobor: enhance
+[ 3694] Mandragoras: resilence
+[ 3691] Jaren: topscore
+[ 3691] Jaren: high
+[ 3691] Jaren: hilist
+[ 3691] Jaren: magi
+[ 3692] Sparhawk: hat pit
+[21130] Cynobor: mindfoog
+[21119] Google: summon cong
+[ 3671] Google: golem
+[21126] Mischa: balanced
+[ 3691] Mallace: enhance worn with pride
+[ 3671] Ashlyn: enhance
+[21009] Brolly: saves
+[21009] Brolly: sc
+[ 3694] Mandragoras: archmage
+[ 3694] Mandragoras: archemage
+[ 3691] Mandragoras: resilenc
+[ 3691] Mandragoras: resilence
+[21009] Shane: devour soul
+[21009] Shane: 'devour soul'
+[21009] Shane: 'devour soul'
+[21009] Shane: devour
+[ 3694] Mandragoras: stoneskin
+[21142] Mandragoras: resilence
+[21009] Saryio: lengendary
+[21009] Saryio: legendary skills
+[21009] Saryio: rift
+[12138] Gomorrah: extra
+[21009] Brolly: cleanse arua
+[14005] Saryio: retribution
+[14044] Saryio: retribution
+[14044] Saryio: retribution
+[14044] Vlad: retribution
+[21009] Torebere: mquest
+[21131] Saryio: squest
+[10364] Gann: clans
+[10364] Gann: kingdom
+[10364] Gann: clan
+[21160] Shane: mquest
+[21160] Shane: mquests
+[21160] Shane: qset
+[21160] Shane: set
+[21160] Shane: mquest
+[21160] Shane: Mquest
+[21001] Black: mapkey
+[21009] Brolly: lengendaries
+[21130] Lardar: mquest
+[21033] Mandragoras: Lorlang
+[21130] Cynobor: skill quest
+[21130] Cynobor: skill
+[10303] Marianna: blackhand
+[ 3691] Mandragoras: blazewa
+[10323] Marianna: flexible
+[21154] Marianna: map legend
+[ 3692] Krill: mediators
+[ 3692] Krill: immortals
+[ 3692] Krill: demi
+[ 3692] Krill: demi gods
+[21001] Cynobor: helical
+[21001] Jack: assist
+[ 8076] Torebere: passdoor
+[21130] Cynobor: mquest
+[21130] Cynobor: 'mquest'
+[21009] Raziel: enhance
+[21009] Vlad: demon sight
+[21129] Black: squest
+[21129] Black: squest
+[21129] Black: 'squest
+[21005] Maerad: sign
+[21009] Brolly: spirit wrath
+[21009] Brolly: 'spirit wrath'
+[21003] Cantrip: 'magic points'
+[21003] Cantrip: 'skill points'
+[21003] Cantrip: skill'
+[21131] Cantrip: 'mquest'
+[21131] Cantrip: mquest
+[10322] Oneil: eva
+[21019] Oneil: mapkey
+[21019] Oneil: mapleg
+[10306] Tyler: lan
+[ 1232] Tyler: kob
+[ 1232] Tyler: "kob"
+[ 1232] Tyler: map'quests
+[10306] Tyler: bid
+[ 3691] Mandragoras: social
+[21001] Oneil: mapkey
+[10306] Samodous: tongue
+[10308] Samodous: skill
+[10353] Samodous: beserk
+[21119] Oneil: bank
+[21001] Samodous: flecible arms
+[21003] Samodous: board
+[21036] Samodous: dic
+[21121] Saryio: retribution
+[ 1025] Samodous: autosac
+[21001] Crell: magicquest
+[21128] Vra: squest
+[ 3691] Mandragoras: chrashing wave
+[21130] Mischa: jest
+[21001] Crell: die
+[ 3692] Mandragoras: daonte
+[ 3691] Mandragoras: faction
+[ 3691] Mandragoras: clan
+[10854] Aaron: silver
+[21153] Kaltar: winder mist
+[ 5275] Simeon: alchemy blind
+[ 5275] Simeon: alchemy blind
+[21130] Lardar: points
+[21129] Hunter: nature
+[21129] Hunter: natures
+[ 5073] Mandragoras: command
+[ 3691] Mandragoras: help infravision
+[21005] Vra: spamming
+[21131] Celestron: mquest
+[21131] Celestron: mquest
+[21131] Celestron: MQUEST
+[21008] Grack: dear
+[ 3694] Grack: skill points
+[ 3694] Grack: enchant aura
+[ 3694] Grack: aura
+[ 3694] Grack: enchant aura
+[21009] Torebere: enchant aura
+[ 3674] Jero: wind
+[ 3691] Mandragoras: theif
+[15230] Mandragoras: eldritcg
+[15230] Mandragoras: eldritch
+[21130] Mallace: mquest
+[10949] Taronel: form rands
+[10949] Taronel: form ranks
+[ 3691] Mandragoras: valience
+[10303] Silenuz: restart
+[10303] Silenuz: suicide
+[10303] Silenuz: second
+[10303] Silenuz: stats
+[10303] Silenuz: multi
+[10303] Silenuz: multichar
+[10303] Silenuz: multiple
+[10303] Silenuz: character
+[10303] Silenuz: rules
+[10303] Silenuz: rule
+[10303] Silenuz: avatar
+[21001] Silenuz: refesh
+[10300] Silenos: prac
+[10303] Silenos: food
+[10303] Silenos: dirnk
+[10303] Silenos: rules
+[10303] Silenos: multiplaying
+[10303] Silenos: sharing
+[10319] Silenos: spell damage
+[10319] Silenos: skill points
+[10319] Silenos: points
+[10319] Silenos: bee hive
+[21001] Silenos: beehive
+[21001] Silenos: bee hive
+[21001] Silenos: area bee hive
+[10300] Silenos: clsases
+[  301] Cantrip: solar
+[10303] Torn: fucus
+[21001] Salivis: mag
+[21001] Salivis: loan
+[21009] Salivis: provica
+[21009] Salivis: provica nomis
+[    0] Hellshade: lizardman
+[    0] Hellshade: Lizardman
+[    0] Hellshade: lizard
+[    0] Hellshade: lizard
+[21001] Salivis: piecebane
+[21131] Hellshade: faerie
+[10386] Hellshade: damtype
+[10367] Jaitan: clan
+[21001] Jaitan: grant
+[21001] Jaitan: bazabel
+[21118] Black: return
+[21009] Pain: rules
+[21009] Pain: multiplaying
+[21130] Mandragoras: slcie
+[   10] Darwin: pcols
+[21130] Jaitan: shadowf
+[21130] Jaitan: ethereal s
+[ 3672] Google: alchemy avatar
+[ 3672] Google: armorsmith avater
+[ 3672] Google: weaponsmith avatar
+[21118] Salivis: deadly
+[21126] Google: diabolizt
+[21158] Torvick: extra
+[21087] Torvick: damver
+[ 3657] Mandragoras: rpompt
+[10300] Yatuo: rules
+[10300] Yatuo: rules
+[10300] Yatuo: alt
+[10300] Xantar: remort
+[21007] Yatuo: mob
+[21012] Yatuo: poisomn
+[21001] Diablo: remort
+[21002] Xantar: armormisth avatar
+[10303] Phuji: prac berserk
+[10444] Phuji: deities
+[  269] Jaitan: pclors
+[  274] Jaitan: devote
+[  274] Jaitan: deity
+[ 4335] Jaitan: clan
+[ 3691] Mandragoras: experie
+[21035] Jack: potty
+[21158] Jack: skill
+[21009] Jack: tax
+[ 3691] Mandragoras: vali
+[ 3691] Mandragoras: valience
+[ 3691] Mandragoras: eldritch
+[21007] Jaitan: enhance tr
+[21007] Jaitan: 'enhance tr
+[  271] Abba: spectral fur
+[  211] Jaitan: anhance armor
+[21130] Jaitan: ventr
+[21130] Jaitan: ventrilo
+[  205] Yatuo: token
+[ 1029] Yatuo: damverb
+[ 1029] Yatuo: dam
+[ 1029] Yatuo: damae
+[21001] Jack: verson2.4.16
+[21025] Jaitan: clan
+[   10] Medea: fallen
+[ 3691] Squirt: fallen
+[ 3691] Squirt: vash
+[ 3691] Squirt: fallen
+[ 3691] Squirt: medea
+[ 3691] Squirt: vash
+[  208] Jaitan: shadowf
+[21001] Jaren: silver
+[21001] Jaren: money
+[21001] Jaren: ogld
+[10300] Yayai: extradimens
+[10300] Yayai: flexible
+[10374] Yayai: trainer
+[21158] Yayai: fs
+[21158] Yayai: kindred
+[10376] Yayai: lore
+[10377] Yayai: loot
+[10377] Yayai: equiptment
+[10319] Yayai: nc
+[10319] Yayai: mst
+[21121] Yayai: mortality
+[21121] Yayai: bribes
+[21030] Yayai: direc
+[21030] Yayai: directions
+[21030] Yayai: halfling flower garden
+[  105] Yayai: miner
+[  105] Yayai: min
+[ 1241] Yayai: symbol
+[  109] Yayai: followers
+[  113] Yayai: extrad
+[  113] Yayai: extradimen
+[ 1205] Yayai: magic
+[ 1205] Yayai: magic points
+[ 1205] Yayai: 'magic points'
+[ 1205] Yayai: 'skill points'
+[ 1205] Yayai: skill
+[ 1242] Yayai: spirit
+[ 1241] Yayai: shop
+[ 1241] Yayai: shops
+[ 1241] Yayai: ss
+[ 1241] Yayai: board
+[ 1209] Yayai: skill
+[ 1217] Yayai: aura
+[ 1222] Yayai: artifact
+[ 1222] Yayai: helical
+[ 3692] Mandragoras: corrupt
+[10839] Diablo: remort
+[10864] Diablo: badge
+[21009] Hemlin: clans
+[ 3691] Mandragoras: cele
+[10375] Hemlin: clans
+[10375] Hemlin: guild
+[10375] Hemlin: guilds
+[10372] Hemlin: magic points
+[10375] Hemlin: firefist
+[21002] Xantar: skill points
+[21002] Xantar: magic
+[21001] Black: enhance light
+[21001] Black: enchant light
+[21001] Black: ehance
+[21001] Black: enhance
+[21118] Jaren: enchant light
+[    0] Xan: halflin
+[10354] Xan: spell damage
+[21001] Xantar: remort
+[10386] Xantar: ethere
+[10383] Xantar: eq
+[10379] Xantar: remort
+[21001] Xantar: golem
+[21001] Xantar: glroy rates
+[21009] Xantar: clan
+[21009] Xantar: guild
+[21118] Simeon: scorching rag
+[21118] Simeon: scorching rage
+[21009] Aeronel: metal
+[21158] Yayai: dual-wield
+[21158] Yayai: two
+[21158] Yayai: two-hand
+[ 1225] Yayai: chop
+[ 1225] Yayai: harvest
+[ 1225] Yayai: forage
+[ 1225] Yayai: somewhere
+[ 1232] Yayai: short
+[ 1232] Yayai: short sword
+[ 1232] Yayai: shortsword
+[ 1232] Yayai: flex
+[ 1232] Yayai: flexible
+[ 1248] Yayai: vomica
+[21001] Yayai: enchanter
+[21154] Yayai: artifier
+[ 1217] Yayai: improved
+[  228] Jaitan: aura
+[ 3691] Mandragoras: damprompt
+[10303] Jyri: evansive
+[10319] Jyri: magic points
+[10319] Jyri: '
+[10319] Jyri: 'magic points'
+[ 1004] Jyri: ' curse
+[ 1044] Jyri: bishiop
+[21001] Jyri: temple
+[21001] Jyri: clan
+[21001] Jyri: alliance
+[21001] Jyri: guilds
+[21001] Jyri: version.4.16
+[ 1017] Jyri: enchanter
+[ 1034] Jyri: mon
+[ 3691] Mandragoras: jelly
+[10958] Diablo: mob
+[  672] Jyri: spiritwrack
+[10303] Toliman: long
+[10351] Toliman: style berserk
+[    0] Akiel: diab
+[21126] Jyri: fallen
+[10840] Jyri: archbishop
+[10840] Jyri: half elf
+[10860] Jyri: balm
+[10865] Jyri: skill
+[21130] Jaitan: grant 
+[21130] Jaitan: grant aura link
+[21130] Jaitan: invis ob
+[21130] Jaitan: invis object
+[21130] Jaitan: razorb
+[ 1317] Jaitan: winter m
+[ 1317] Jaitan: winterm
+[ 1317] Jaitan: wintermist
+[ 1317] Jaitan: aura
+[ 1317] Jaitan: aura of
+[21009] Yayai: spirit
+[21009] Yayai: shop
+[21130] Xantar: archwiza
+[21130] Xantar: archmage
+[21130] Xantar: arch
+[ 1006] Xantar: silver
+[21009] Xantar: blazew
+[21009] Vlad: remort
+[21009] Xantar: clas
+[  219] Yayai: shreik
+[10303] Garos: weapon
+[10355] Garos: avatar
+[10380] Garos: rules
+[21119] Garos: bank
+[  405] Jyri: eldritch 
+[  405] Jyri: 'edlritch sphere'
+[21118] Jyri: 'glory rates'
+[21118] Jyri: 'glory rates'
+[  408] Jyri: shadow
+[  426] Jyri: display
+[  426] Jyri: display
+[21009] Garos: devote
+[21009] Jyri: bishiohelp bishop
+[  427] Jyri: demon skin
+[21119] Jyri: bank
+[21001] Garos: squest
+[21123] Yayai: flask
+[21009] Ged: etereal
+[21009] Ged: grant
+[11146] Cynobor: fury
+[21009] Jaitan: favor
+[  205] Jaitan: demon
+[  205] Jaitan: demons
+[21130] Jaitan: black
+[21130] Jaitan: black ligh
+[21009] Ged: archmage
+[21002] Ged: enhanced armor
+[ 1530] Ged: damverb
+[21003] Cantrip: 'camoflage'
+[21130] Hades: colour
+[ 3674] Hades: archmage
+[  416] Jyri: release
+[21001] Blight: enchanter
+[21001] Blight: top10
+[21006] Blight: half
+[21006] Blight: clan
+[21006] Blight: kingdom
+[21006] Blight: guild
+[21009] Thatcher: alchemy demonskin
+[21130] Dahlia: spirit
+[21130] Dahlia: 'spirit siphon'
+[21154] Thatcher: spirit siphon
+[21018] Vlad: spirit siphon
+[21118] Thatcher: alchemy demonsight
+[21001] Black: squest
+[21024] Jaitan: supplicate
+[21019] Jaitan: golory
+[  221] Jaitan: demons
+[10110] Mandragoras: ship
+[10110] Mandragoras: skiff
+[ 3691] Mandragoras: eldritch
+[ 3387] Thatcher: retrieve
+[21159] Brock: retrieve
+[    0] Belran: lizardman
+[    0] Belran: lizardman
+[ 3691] Pain: cripple
+[ 1215] Belran: camp
+[  107] Belran: kobold
+[21007] Templar: dia
+[21001] Templar: pain
+[ 5145] Cynobor: invis object
+[21128] Simeon: squest
+[21001] Cynobor: squest
+[21018] Jaitan: aura
+[21165] Vra: magic
+[21025] Jaitan: joey
+[21033] Jaitan: mobmastry
+[21033] Jaitan: mobmastr
+[21118] Krom: magic quest
+[21118] Krom: mquest
+[21130] Krom: mquest
+[21130] Krom: mquest
+[21045] Mandragoras: malaclypse
+[21045] Mandragoras: malac
+[21045] Mandragoras: legendaries
+[21047] Mandragoras: hitpoints
+[21047] Mandragoras: hitpoint
+[21009] Loraksis: mag
+[21001] Wisteria: wmissary
+[21001] Wisteria: emissary
+[21118] Loraksis: bank
+[21021] Jaitan: mlegend
+[21021] Jaitan: legend
+[21009] Jaitan: questmaster
+[ 3691] Black: say gotcha
+[10300] Stump: command
+[ 3844] Jaitan: nexus
+[21001] Jaren: haste
+[21001] Simeon: razorbait is bad spell
+[21025] Jyri: target
+[21006] Jyri: 'aura of ear'
+[21001] Jyri: mob masteroy
+[21001] Jyri: mobmsastery
+[ 3691] Mandragoras: magic
+[    0] Maul: lizardman
+[    0] Maul: lizard
+[    0] Maul: lizardman
+[10374] Maul: char
+[10374] Maul: multiplay
+[ 5131] Mandragoras: hola
+[10374] Maul: sanc
+[10374] Maul: sactuary
+[10376] Maul: rules
+[10376] Maul: swear
+[10376] Maul: policy
+[10376] Maul: punish
+[10376] Maul: leaws
+[ 3700] Medea: skill
+[ 3700] Medea: 'skill points'
+[21126] Maul: skill quests
+[21130] Krom: magic quest
+[21001] Lesweet: skill quests
+[21126] Maul: skill quests
+[21126] Maul: magic quests
+[21001] Lesweet: squest
+[21001] Lesweet: magic quest
+[21001] Maul: clan
+[21001] Maul: clans
+[21130] Dahlia: disrupt
+[ 3691] Pain: tracert
+[21001] Simeon: law pk
+[21001] Maul: form ranks
+[21001] Maul: 'form ranks'
+[21001] Maul: form
+[ 3692] Bumada: cslist mage
+[16331] Vra: drug wrath
+[ 3692] Simeon: alchemy blind
+[ 4601] Hades: teir
+[ 3672] Gomorrah: alchemy sone
+[21007] Arkholt: aura
+[ 1051] Bumada: damverb
+[ 1051] Bumada: verbdam
+[ 1051] Bumada: dam verb
+[ 3700] Medea: version4.2.23
+[ 1507] Yayai: bank
+[ 1507] Yayai: banking
+[  114] Yayai: troll
+[21027] Yayai: potent
+[21009] Yayai: token magic
+[21009] Yayai: 'token magic
+[21009] Yayai: occulutus
+[21009] Yayai: 'occulutus
+[21001] Yayai: farmer
+[21001] Yayai: farmers' market
+[21001] Yayai: the farmers' market
+[21001] Yayai: the farmer's market
+[21001] Yayai: the farmers market
+[21001] Yayai: the unicorn
+[21001] Yayai: bazabel
+[21123] Yayai: susteneance
+[21122] Yayai: mark
+[21009] Yayai: omnee
+[  413] Yayai: holy
+[  472] Yayai: artifaft
+[  472] Yayai: artifact
+[ 3692] Lodi: apoliogiz
+[ 3692] Lodi: apoliogize
+[ 3691] Squirt: ido
+[  344] Brock: natures compainion
+[21009] Jack: string
+[21009] Jack: restring
+[21009] Jack: squest
+[21009] Jack: skill
+[21001] Sheen: clan
+[21001] Sheen: guild
+[ 3691] Pain: magicka rage
+[ 3691] Pain: magicka
+[21130] Dahlia: magic
+[21130] Dahlia: mpoints
+[21130] Dahlia: mquest
+[10340] Lodi: magic quest
+[ 3692] Simeon: alchemy blind
+[ 3691] Valerian: fallen
+[ 3691] Valerian: spirital blast
+[ 3700] Medea: affect types
+[21130] Dahlia: grant
+[    0] Alton: diab
+[    0] Alton: arch
+[10306] Alton: lang plang
+[ 2058] Simeon: alchemy recall
+[10303] Kaskala: talon
+[10303] Kaskala: talonous
+[10367] Kaskala: avatar
+[21001] Kaskala: directions
+[10367] Alton: uni
+[10367] Alton: ant hill
+[10367] Alton: ant
+[21007] Alton: potent
+[21007] Alton: magic
+[ 3691] Pain: no burn
+[ 3691] Pain: burn
+[    0] Reeth: hum
+[10363] Reeth: skill q
+[ 3691] Simeon: alchemy invis
+[ 4354] Yayai: perma
+[21160] Valerian: magic points
+[16331] Valerian: wands
+[16331] Valerian: magic
+[ 3767] Medea: form
+[ 3693] Simeon: comica
+[21001] Lodi: demonic armor
+[21128] Lodi: inbigorate
+[21009] Yayai: vomica
+[21009] Yayai: 'vomica
+[21009] Yayai: 'vomica p
+[ 3692] Simeon: alchemy stoneskin
+[21007] Shandara: elven chain
+[21009] Shandara: levels
+[21001] Shandara: guild
+[21001] Shandara: direction
+[21001] Shandara: directions
+[  804] Shandara: aggr
+[  804] Shandara: aggresive
+[  804] Shandara: aggresive style
+[21159] Shandara: dfensive
+[21009] Shandara: glory rates
+[21009] Shandara: rules
+[21009] Shandara: rule
+[21009] Shandara: rules
+[21009] Jack: skillquest
+[21033] Cantrip: 'etherial'
+[21130] Shandara: tong
+[21003] Cantrip: 'eldritch'
+[21154] Jack: " personal locker"
+[21009] Fistandan: spirit
+[ 1202] Shandara: clan
+[21009] Shandara: colour
+[21018] Shandara: ac
+[    0] Gromnor: lizardman
+[    0] Gromnor: lizard
+[  101] Kaskala: rules
+[  101] Kaskala: policy
+[  101] Kaskala: multiplaying
+[21001] Sherav: suicide
+[21003] Cantrip: 'trnsport'
+[21001] Kaela: enchant tr
+[21001] Kaela: higher
+[ 3700] Thatcher: magic
+[ 3700] Thatcher: magic table
+[21131] Vlad: retribution
+[10937] Shandy: cursed
+[21131] Shandy: higher
+[21131] Shandy: magic points
+[21131] Shandy: magic point
+[21131] Shandy: skill points
+[21001] Lodi: spiritual wrath blitzkrieg
+[  859] Jack: vom
+[  859] Jack: vomica
+[21009] Jack: pugalis
+[21009] Jack: pugalism
+[21009] Jack: pug
+[21154] Gomorrah: magicuse
+[21154] Gomorrah: magicuse
+[21154] Gomorrah: ma?
+[21009] Linaerin: necromantic tough
+[21158] Gomorrah: alchemy wolf
+[21011] Jack: helical mountain giant
+[11079] Dahlia: dam
+[21001] Shandy: clan
+[21001] Shandy: info
+[21001] Shandy: dimension door
+[  446] Shandy: bank
+[21032] Shandy: sahardin
+[15041] Kailiana: glory rates
+[21001] Shandy: bazabel
+[21001] Shandy: maps
+[21001] Shandy: cause
+[21001] Kailiana: stats
+[10300] Drak: clan
+[10300] Drak: clans
+[21001] Shandy: worship
+[21001] Fang: magic use
+[21001] Fang: magicuse
+[21132] Jack: helical
+[21118] Stalker: join
+[21001] Stalker: weapon
+[ 4447] Gomorrah: part
+[ 3700] Lardar: travel
+[    0] Kyrmon: lizardman
+[    0] Kyrmon: lizard
+[    0] Kyrmon: lizardman
+[14009] Lardar: magic
+[ 3700] Lardar: magic
+[ 3700] Lardar: wands
+[10424] Calintz: seedam
+[ 3700] Lardar: rules
+[ 3700] Lardar: rules
+[ 3700] Lardar: RULES
+[ 3700] Lardar: rules
+[ 3700] Lardar: rule
+[ 3700] Lardar: rules
+[21001] Calintz: devote
+[21001] Calintz: deities
+[ 2205] Jaitan: wrath of d
+[ 4976] Templar: invig
+[10803] Templar: soldier
+[21009] Fang: devour
+[21128] Jack: squest
+[21154] Drea: alchem shield
+[21009] Jack: skirmish
+[ 3671] Medea: rules
+[  412] Shandy: magic quest
+[21001] Huel: devour soul
+[21001] Huel: retribution
+[ 3691] Pain: glow
+[  564] Shandy: saves
+[21131] Shandy: val
+[ 3700] Lardar: rules
+[21131] Shandy: magic point
+[21131] Shandy: magic points
+[21009] Torebere: anitmagic shell
+[ 4935] Drea: rose essence
+[  214] Jaitan: wrath of d
+[21001] Shandy: clan
+[21009] Jack: saves
+[21160] Drea: slashbane
+[ 3691] Pain: multiplaying
+[10303] Gromnor: pthug
+[21001] Shandy: realm
+[21001] Shandy: bank
+[21009] Jack: tendril
+[21009] Jack: tendril blast
+[ 2204] Jaitan: haunt
+[21118] Shandy: haste
+[21009] Torebere: paralyxe
+[21033] Jack: drazuk
+[21033] Jack: mastr
+[21033] Jack: mastrr
+[21033] Jack: spset
+[21033] Jack: qpset
+[21036] Jack: demon guardian
+[ 3691] Pain: legendaries
+[21009] Pain: res
+[10303] Georgios: prac
+[21001] Shandy: changes
+[21001] Shandy: change
+[ 3691] Mandragoras: enhance trasure
+[ 3691] Mandragoras: enhance art
+[ 1024] Lashana: feather
+[ 1032] Lashana: mediators
+[21130] Jaitan: winter m
+[21009] Jaitan: library
+[21009] Jaitan: libraries
+[21118] Hades: spirit shiled
+[ 3691] Jaren: enchant light
+[ 3691] Jaren: enhance
+[ 3691] Jaren: enhance light
+[ 3691] Jaren: enhance
+[10300] Zayna: rules
+[10300] Zayna: rule
+[10300] Zayna: rules
+[21001] Lodi: skir
+[ 3834] Lodi: cheapshit
+[  349] Simeon: teach
+[ 3691] Krom: aim
+[21118] Lardar: manaburn
+[ 3692] Shealia: gilded silver helmet
+[ 3692] Shealia: 'guilded silver helmet'
+[21001] Jaitan: poi
+[21130] Jaitan: lightning
+[21130] Jaitan: lightning b
+[21123] Vlad: wolf
+[14127] Simeon: alchemy shockshield
+[ 3691] Simeon: alchemy weaknes
+[ 3691] Simeon: alchemy weakness
+[ 3673] Vra: info
+[21001] Shealia: maglegend
+[21009] Mandragoras: font
+[21131] Cantrip: avatar
+[21131] Cantrip: 'avatar
+[21131] Cantrip: 'av channel'
+[ 3692] Pain: wizhelp
+[21001] Shealia: trans
+[21131] Vlad: scions
+[21131] Vlad: clan
+[21009] Vlad: desparate plea
+[10300] Ranlyn: 'seedam'
+[ 3691] Pain: silence
+[ 3691] Simeon: vellum
+[ 3692] Simeon: alchemy blind
+[ 3691] Simeon: blitzkreig
+[ 3692] Simeon: alchemy protection
+[21130] Jaitan: resiliance
+[10671] Mandragoras: invoke
+[ 3692] Simeon: alchemy sanc
+[21001] Jaitan: joey
+[21001] Simeon: voodoo
+[21009] Jaitan: archmage
+[ 8024] Jaitan: tue sight
+[ 4232] Dahlia: config dam
+[21009] Vlad: door bash
+[21009] Vlad: bash door
+[21001] Dahlia: version 2.4.23
+[21420] Medea: immortal
+[ 3691] Jack: wizhelp
+[21420] Karlof: atobj
+[21420] Karlof: wizcommmands
+[21420] Karlof: wizcommmand
+[21420] Karlof: command
+[21420] Karlof: parts
+[21420] Karlof: wiz
+[21420] Karlof: wiz
+[21420] Karlof: atobj
+[ 8007] Jaitan: winter m
+[21001] Jaitan: realm map
+[21420] Karlof: snoop
+[21420] Karlof: snoop
+[ 3671] Sainrith: number1
+[ 3671] Sainrith: guard1
+[ 3671] Sainrith: leader
+[ 3671] Sainrith: deity
+[10300] Erisian: magestone
+[21420] Karlof: the gallery
+[21420] Karlof: The Gallery
+[21420] Karlof: wiz
+[21007] Mandragoras: magic
+[21007] Mandragoras: item
+[21007] Mandragoras: artifact
+[21007] Mandragoras: artifact magic
+[ 3671] Sainrith: immhelp
+[ 3671] Sainrith: emisary
+[ 3671] Sainrith: emissary
+[ 3671] Sainrith: immhandbook
+[ 3671] Sainrith: immguide
+[ 3671] Sainrith: nc
+[21420] Karlof: atobj
+[21420] Karlof: vnum
+[21420] Karlof: wizfiles
+[21420] Karlof: gloryrates
+[21420] Karlof: iffchecks
+[21420] Karlof: ifcheck2
+[21420] Karlof: vnum
+[21420] Karlof: nolocate
+[21002] Jaren: create light
+[21420] Karlof: snoop
+[21001] Mandragoras: ghoul talk
+[21009] Mandragoras: scorching
+[  821] Lodi: chr
+[  821] Lodi: chrisma
+[  821] Lodi: stats
+[  821] Lodi: chr
+[21420] Karlof: gs
+[21420] Karlof: grantsight
+[21420] Karlof: showdeity
+[21420] Karlof: showorder
+[21126] Simeon: alert
+[21001] Jaitan: leopard
+[21420] Karlof: atobj
+[21001] Mandragoras: sprit armor
+[21009] Mandragoras: aura
+[21009] Mandragoras: blue aura
+[21006] Jaitan: sinfo
+[21006] Jaitan: cinfo
+[21006] Jaitan: clan
+[21007] Maul: sactuary
+[21007] Maul: sanc
+[ 8050] Simeon: swordbaid
+[ 8038] Jaitan: alchemy gold
+[ 8038] Jaitan: alchemy gold dust
+[21001] Jaitan: eldrich
+[21001] Jaitan: eldrich s
+[21001] Jaitan: eldrit
+[21001] Jaitan: eldritch
+[21001] Jaitan: eldritch s
+[21001] Jaitan: eldritch spere
+[21420] Karlof: atobj
+[21119] Lodi: bank
+[21420] Karlof: sanc
+[21009] Torebere: skirmish
+[21009] Lodi: confuse
+[21009] Lodi: invasion
+[21133] Lashana: beserk
+[10801] Lashana: enhanced
+[21133] Lashana: call lightnin
+[21006] Lodi: rules
+[21159] Shealia: undertaker
+[21420] Karlof: atobj
+[14210] Simeon: alchemy blind
+[ 3691] Simeon: faerie
+[ 3691] Simeon: faeriefire
+[ 8002] Jaitan: elchemy sanctuary
+[21142] Mandragoras: cleanse
+[    0] Xarxes: lizardman
+[    0] Xarxes: lizard
+[    0] Xarxes: lizardman
+[21001] Mandragoras: resiliance
+[21001] Mandragoras: etheral shield
+[ 4609] Hades: protect
+[   10] Darwin: rules
+[ 3692] Simeon: sanc
+[ 3692] Simeon: alchemy sanc
+[   10] Darwin: nc
+[   10] Darwin: pcols
+[   10] Darwin: pcol
+[21420] Karlof: qstat
+[21420] Karlof: necro
+[ 3691] Mandragoras: grace
+[ 3692] Simeon: grace
+[ 3692] Mandragoras: corrupt
+[ 3692] Mandragoras: sanc
+[21007] Abba: ambrosia
+[21420] Karlof: ft
+[21420] Karlof: tiers
+[21420] Karlof: tiers
+[21420] Karlof: clan
+[21420] Karlof: clans
+[10300] Zanaomina: weaponspmith devour
+[10303] Zanaomina: deieties
+[10303] Zanaomina: deities
+[10303] Zanaomina: mon
+[10374] Zanaomina: weapon etch
+[ 3692] Ranlyn: 'nonmagic'
+[ 3691] Mandragoras: blazeawrd
+[ 3691] Mandragoras: blazeaward
+[ 3691] Ranlyn: post
+[21130] Soloman: magic quest
+[21130] Soloman: drain
+[ 3674] Soloman: drain
+[21001] Simkin: pversion
+[21130] Soloman: mquest
+[21130] Soloman: mquest
+[21130] Soloman: mquest info
+[21130] Soloman: info
+[21420] Karlof: helled
+[21009] Gomorrah: alchemy blind
+[ 3671] Gomorrah: occulus visum
+[ 3671] Gomorrah: occulus visum
+[ 3671] Gomorrah: 'occulus visum
+[ 3672] Gomorrah: possession
+[10372] Deema: devote
+[10372] Deema: deities
+[21007] Barriac: delete
+[ 3692] Ellipsis: corrupt
+[   10] Darwin: ifcheck
+[21118] Hades: saves
+[21001] Lodi: cheating
+[21130] Soloman: astral
+[ 3703] Adin'afein: fishook
+[21009] Quin: fallen
+[ 3691] Mallace: camo
+[ 3693] Simeon: alchemy sanc
+[ 3693] Simeon: alchemy sanctary
+[ 3692] Simeon: alchemy weakness
+[  976] Mandragoras: daot
+[  973] Mandragoras: legendaries
+[ 3691] Mandragoras: atral rift
+[16227] Suslik: die
+[16289] Suslik: quet
+[21128] Quin: minor invo
+[ 3672] Vlad: oset
+[21009] Suslik: guidon
+[21009] Suslik: roleplay
+[21009] Suslik: story
+[21128] Quin: skirmish
+[ 3691] Cantrip: panic
+[ 3691] Cantrip: 'panic'
+[    0] Darin: lizardman
+[    0] Darin: lizardman
+[    0] Darin: lizard
+[ 3671] Karlof: color 'imm echo'
+[ 3691] Mandragoras: info
+[21130] Fistandan: mquest
+[21130] Fistandan: mquest
+[21130] Fistandan: 'magic quest
+[21130] Fistandan: MQUEST
+[ 3694] Simeon: alchemy weaken
+[ 3694] Simeon: alchemy weakness
+[ 3694] Simeon: alchemy weak
+[ 3691] Jaren: cantrip
+[ 3691] Jaren: mob mastery
+[ 3691] Jaren: mobmaster check
+[ 3691] Jaren: quicken
+[ 3691] Jaren: quickness
+[21001] Simeon: magiclist
+[11034] Mandragoras: ordr
+[21001] Darin: skill eagle
+[21118] Jaitan: hand of cha
+[21009] Jaitan: glory convert
+[21009] Jaitan: glory rates
+[21014] Vra: damverb
+[21014] Vra: dam verbs
+[21014] Vra: damage verb
+[21014] Vra: verb
+[21118] Jaitan: mana tap
+[21009] Jaitan: rescure
+[21001] Eaven: version2.3.12
+[21001] Eaven: version2.4.1help update
+[21001] Eaven: update
+[21118] Jaitan: spell damage
+[ 1006] Ranlyn: kill all
+[ 1006] Ranlyn: 'kill all'
+[ 3700] Medea: slay hell
+[10303] Tetsugen: prac
+[10400] Tetsugen: rules stake
+[10400] Tetsugen: rules stake
+[10400] Tetsugen: rules
+[10400] Tetsugen: RULES STAKE
+[10400] Tetsugen: stake
+[10400] Tetsugen: rules ` stake
+[10364] Tetsugen: damverb
+[21011] Tetsugen: dying
+[10351] Luxx: delete
+[10351] Luxx: character
+[10351] Luxx: newb
+[21009] Simeon: alchemy x
+[11008] Simeon: aquest info
+[21130] Jaitan: hand
+[21130] Jaitan: hand of c
+[21009] Vlad: mut
+[ 3691] Cartel: fixchar
+[21118] Simeon: helical
+[21118] Simeon: helical
+[21001] Grack: demon fire
+[21001] Grack: demonfire
+[ 3692] Grack: alchemy demonsight
+[ 3692] Jaitan: pill
+[ 3671] Karlof: prisma shield
+[ 3671] Karlof: qstat
+[15024] Simeon: teach
+[ 2428] Simeon: startcloak
+[21128] Simeon: blitzkreig
+[ 3691] Simeon: alchemy protection
+[21006] Jaitan: call lighning
+[21006] Jaitan: ethereal tunnel
+[ 3700] Medea: binding
+[10300] Simba: Communication
+[10300] Simba: COMMUNICATION
+[21001] Hades: house
+[21127] Hades: plot
+[21127] Hades: lots
+[ 3694] Mallace: mquest
+[21018] Jaitan: homes
+[21018] Jaitan: house
+[21130] Jaitan: legendary skills
+[21118] Jaitan: forum
+[21001] Gomorrah: vomica 
+[21001] Gomorrah: vomica pravas
+[ 8018] Jaitan: house
+[ 8018] Jaitan: home
+[ 2500] Medea: disonnect
+[ 2500] Medea: disconectg
+[ 2500] Medea: disconect
+[21118] Jaitan: pactice
+[10300] Erised: set
+[21130] Frost: blizward
+[    0] Tok: lizardman
+[    0] Tok: lizard
+[10300] Tok: pressure
+[10300] Tok: pressure points
+[10300] Tok: hero
+[10300] Tok: hero
+[ 4751] Jaitan: forum
+[21001] Celethor: med
+[ 3691] Jaitan: scab
+[ 3691] Jaitan: scabbard
+[10381] Kilrath: delete
+[10381] Kilrath: deleteme
+[21009] Darin: spiral
+[10303] Oaklore: spell
+[21067] Oaklore: energy
+[21001] Sherav: delete
+[16016] Oaklore: 'bee hive
+[16016] Oaklore: 'bee hive'
+[  301] Oaklore: invig
+[21009] Vlad: rod
+[10329] Grimak: mquest
+[21001] Grimak: clans
+[21001] Grimak: guilds
+[21007] Simeon: magic points
+[21001] Barakan: clans
+[21001] Nute: multiclass
+[21001] Nute: multi
+[21001] Nute: remort
+[21001] Nute: 'multi class
+[21001] Nute: academy
+[10383] Nute: devote
+[10383] Nute: god
+[10418] Nute: remort
+[21142] Nute: house
+[21142] Nute: real estate
+[21127] Nute: deed
+[21127] Nute: plot
+[21029] Nute: supplicate
+[21001] Nute: medea
+[21001] Nute: mediators
+[21001] Nute: clan
+[21001] Nute: guilds
+[21001] Nute: word
+[21001] Frost: serch
+[21130] Mallace: haste
+[  969] Frost: grouding
+[21130] Frost: toungs
+[21130] Frost: toung
+[21001] Mallace: magic points
+[21130] Mallace: mquest
+[ 5129] Mallace: malaclypse
+[21001] Mallace: mquest
+[21001] Jaren: magic points
+[21001] Jaren: mquest
+[10872] Kilgorn: mquest
+[10872] Kilgorn: magicquest
+[10872] Kilgorn: mquest
+[21130] Kilgorn: magic points
+[ 4371] Oaklore: sonic resonan
+[21128] Oaklore: mquest
+[21128] Oaklore: 'mquest'
+[21128] Oaklore: squest
+[21128] Oaklore: MQUEST
+[21009] Oaklore: charged
+[21119] Oaklore: bank
+[21009] Quin: druid slist
+[  139] Oaklore: clan
+[21001] Oaklore: prac
+[21009] Pain: clist
+[21128] Oaklore: spell damage
+[21128] Oaklore: 'Spell Damage'
+[21128] Oaklore: 'acetum
+[21009] Pain: shuri
+[21009] Pain: throat strike
+[    0] Gulgor: shuri
+[   10] Darwin: racetable
+[   10] Darwin: setrace1
+[21009] Oaklore: age
+[21009] Oaklore: years
+[21001] Oaklore: bobject
+[    0] Lucifer: ahpock
+[21118] Oaklore: restring
+[21128] Oaklore: squest
+[21128] Oaklore: skill
+[21009] Oaklore: arch
+[21009] Oaklore: mult
+[21009] Oaklore: outcast
+[21009] Oaklore: remort
+[21009] Oaklore: reroll
+[21009] Oaklore: tiering
+[ 3691] Celethor: cap
+[ 3691] Celethor: spelldam
+[21118] Oaklore: Sahardin
+[ 3691] Pain: scores
+[21009] Kilgorn: mquest
+[21001] Hades: legendary weapons
+[21005] Kilgorn: book of blood
+[21005] Kilgorn: blood
+[21420] Jaren: divine grace
+[21118] Kilgorn: invasion
+[21002] Kelver: zepyr
+[21118] Simeon: nec
+[ 5128] Oaklore: learn
+[21118] Jaitan: resiliance
+[21118] Jaitan: resiliance
+[21006] Duras: squest
+[21006] Duras: itemtable
+[21001] Simeon: mobmaster start expert
+[21009] Kilgorn: mobmaster expert
+[21001] Oaklore: leth
+[21001] Oaklore: chain
+[    0] Zhin: ahpock
+[    0] Zhin: shuri
+[21140] Zhin: directions
+[21140] Zhin: dir
+[    0] Silar: shuri
+[ 1010] Silar: ahpoch
+[    0] Tirus: warr
+[ 3692] Simeon: alchemy blind
+[21123] Simeon: pierce bane
+[ 3691] Cartel: piercebane
+[ 3691] Cartel: pierce bane
+[21123] Simeon: piercebane
+[ 3691] Cartel: 'piercebane
+[ 3694] Simeon: alchemy weakness
+[21009] Silar: alchemy pierceband
+[21009] Tirus: race class
+[21026] Oaklore: invoke
+[21001] Quasar: clas
+[21001] Quasar: dia
+[10303] Twilight: ectradimensional por
+[10303] Twilight: extradimensional por
+[10303] Twilight: extradimensional por
+[21420] Karlof: locker buy
+[21420] Karlof: tiers
+[21420] Karlof: rouge
+[21420] Karlof: rouge
+[21420] Karlof: clans
+[21420] Karlof: save vs damage
+[21420] Karlof: spell
+[21126] Twilight: re
+[21126] Twilight: retrive
+[21008] Oaklore: muliplaying
+[21008] Oaklore: MULTIPLAYING
+[ 4143] Oaklore: comp
+[  664] Quasar: control
+[21007] Thatcher: celestrial guardian
+[21003] Kalatis: gulrn
+[21003] Kalatis: gul
+[21001] Quasar: magneric thrust
+[ 3691] Pain: legendaries
+[ 3691] Pain: legend
+[ 3691] Pain: legends
+[ 3691] Pain: legendarys
+[ 3691] Pain: legendaries
+[10355] Milon: rules stake
+[10355] Milon: stake
+[21009] Milon: alchemy blind
+[21001] Milon: help alchemy serious
+[21118] Milon: en
+[    0] Homerus: shuri
+[    0] Homerus: gulran
+[    0] Homerus: gulran
+[    0] Homerus: zephyr
+[ 3672] Karl: conjuror
+[ 3672] Karl: conjurer enchants
+[ 3672] Karl: conjurer enchant
+[ 3672] Karl: weaponsmith avatar
+[  158] Milon: higer
+[21009] Milon: corrupt
+[21009] Milon: cor
+[21139] Jaitan: peraonal lockers
+[21009] Milon: alchemy eld
+[21009] Milon: alchemy eldrish
+[21009] Milon: alchemy eldrich
+[21009] Milon: alchemy sanc
+[21009] Milon: law pk
+[    0] Lucifer: ahpock
+[21001] Hades: aphock
+[21005] Milon: law pk
+[21132] Quasar: mquest
+[21132] Quasar: MQUEST
+[21019] Quasar: MQUEST
+[ 1472] Tubor Nottub: spectal furor
+[21009] Milon: uplife
+[21131] Celestron: bala
+[21009] Simeon: legend
+[21009] Milon: legend
+[21009] Milon: version 2.5.3
+[21009] Milon: 'version 2.5.3'
+[21009] Krill: shreik
+[15162] Jaitan: weighted maul
+[15162] Jaitan: maul
+[14242] Milon: pro
+[21001] Milon: prac
+[21001] Milon: gain
+[21001] Milon: ph
+[21001] Milon: gain
+[21001] Milon: 'gain'
+[    0] Krisana: shuri
+[21420] Karlof: scion rules
+[21420] Karlof: scions
+[ 7307] Karlof: panic
+[21009] Pain: potion demon
+[21009] Pain: potion sight
+[21009] Milon: pike
+[21009] Milon: 'pike'
+[21001] Milon: voodoodoll
+[21131] Milon: voodoo
+[    0] Nuu: shuri
+[    0] Nuu: gulran
+[    0] Nuu: ahpock
+[    0] Karisa: shuri
+[11023] Simeon: de
+[21118] Medea: 'add affect'
+[21118] Medea: add
+[21001] Milon: induct
+[21001] Vra: guardian
+[21001] Vra: aura
+[21131] Milon: aquest buy
+[21131] Milon: glory rates
+[21131] Milon: 'glory rates'
+[21131] Milon: 'glory rate'
+[21131] Milon: glory rate
+[    0] Kailia: shuri
+[    0] Kailia: jinn
+[    0] Kailia: ahpock
+[21130] Jaitan: daemon g
+[21001] Jaitan: immortal
+[21001] Jaitan: daemonic past
+[21001] Jaitan: devour soul
+[21001] Jaitan: 'devour soul'
+[21001] Jaitan: retribution
+[    0] Reeve: zephyr
+[    0] Reeve: gulran
+[21118] Pain: qpbuy hum
+[21118] Pain: glow
+[ 3691] Cartel: mstat
+[21101] Brolly: shock
+[21001] Milon: 'aquest buy'
+[21001] Milon: prac
+[21001] Milon: gain
+[ 3671] Milon: legend
+[ 1629] Simeon: magic use
+[ 1629] Simeon: magicuse
+[21118] Jaitan: mquest
+[21130] Jaitan: mquest
+[21130] Jaitan: mquest
+[21118] Jaitan: legendary skills
+[21001] Jaitan: go nod
+[10387] Jann: beserk style
+[10387] Jann: beserk
+[10387] Jann: beserk
+[10374] Jann: school
+[21001] Milon: imm
+[21001] Milon: troll
+[21031] Jann: beacon
+[    0] Oniwia: zephyr
+[    0] Oniwia: Zephyr
+[    0] Oniwia: Zephyr
+[10303] Oniwia: practice create symbol
+[10303] Oniwia: players
+[10303] Oniwia: finger
+[21004] Oniwia: board
+[    0] Naellya: shuri
+[    0] Naellya: shuri
+[ 3691] Simeon: aura
+[21130] Jaitan: mquest
+[21130] Jaitan: magic quest
+[    0] Midori: jinn
+[    0] Midori: Jinn
+[10303] Midori: talonous
+[10303] Midori: arms
+[10303] Midori: swords
+[10363] Midori: maul
+[10406] Midori: players
+[21032] Midori: bank
+[21119] Midori: bank
+[ 3700] Medea: spellcomponets
+[ 3671] Gomorrah: alchemy ground
+[21118] Jaitan: buy astral rift
+[21118] Jaitan: 'buy astral rift'
+[21118] Jaitan: buy legendary
+[    0] Magrus: ahpock
+[    0] Magrus: Ahpock
+[10300] Magrus: rules
+[10300] Magrus: rules
+[   10] Darwin: fli
+[   10] Darwin: temple
+[   10] Darwin: templeupgrades
+[   10] Darwin: 'temple upgrades'
+[   10] Darwin: healer
+[21153] Jaitan: astra rift
+[21009] Pain: restring
+[    0] Syrenix: jinn
+[    0] Syrenix: lizardman
+[    0] Syrenix: jinn
+[21009] Hades: protect
+[21009] Hades: protect
+[    0] Envy: gulran
+[    0] Envy: jinn
+[    0] Blahbittyblah: jinn
+[    0] Blahbittyblah: shuri
+[    0] Blahbittyblah: zephyr
+[21033] Milon: pike
+[21033] Milon: remains
+[21118] Milon: setfol
+[21118] Milon: 'setfol'
+[21118] Milon: post
+[21118] Milon: spike
+[21118] Milon: stake
+[ 3692] Simeon: alchemy telescape
+[ 3694] Jaitan: imm title
+[ 3691] Darwin: scorexp
+[ 3694] Simeon: alchemy blind
+[21154] Tobor: alert
+[ 3664] Karlof: clones
+[ 3664] Karlof: clones
+[ 3664] Karlof: purge
+[ 3664] Karlof: aexit
+[ 3664] Karlof: yes, I think so...I want to review it a few more times to make sure though
+[ 3664] Karlof: reinvoke
+[ 3664] Karlof: clones
+[ 3664] Karlof: clone
+[21005] Karlof: council
+[ 3700] Medea: followingcost
+[ 3664] Karlof: wizlevel
+[21130] Jaitan: real estate
+[21001] Som: devine avatar
+[21001] Som: enjoy the game
+[21001] Som: engjoy the game
+[21002] Som: enjoy the game
+[21002] Som: enjoy the game
+[21002] Som: bloodlust
+[21002] Som: bloodlust
+[21002] Som: dfiance
+[21002] Som: entangling block
+[  333] Pain: teach
+[ 1487] Pain: teach
+[  332] Pain: teach
+[ 3664] Karlof: note 2
+[ 3664] Karlof: exp
+[ 3664] Karlof: gallery
+[ 3664] Karlof: bazabel
+[ 3664] Karlof: The Gallery
+[ 3664] Karlof: Tower of Manos
+[ 3664] Karlof: Trials of Pain
+[ 3664] Karlof: 'Trials of Pain'
+[ 3664] Karlof: temple
+[ 3664] Karlof: costs
+[ 3664] Karlof: ordertalk
+[ 3664] Karlof: clan
+[ 3692] Jaitan: intell
+[21009] Simeon: beserk
+[21009] Simeon: bloodlust
+[21009] Simeon: entangling block
+[21001] Jaitan: legendary skills
+[21154] Simeon: legendary weapon
+[21001] Jaitan: legendaryskills
+[21001] Jaitan: 'legendary skills'
+[ 3691] Sebastian: alchemy demonskin
+[ 3691] Sebastian: clahemy slashbane
+[ 3691] Cantrip: slashbane
+[ 3691] Cantrip: 'slashbane'
+[ 4228] Sebastian: alchemy sanc
+[ 3672] Reaver: magicquest
+[ 3671] Reaver: skill
+[ 3671] Reaver: skillquest
+[ 1007] Ink: config +seedam
+[21005] Ink: law pk
+[21005] Ink: book sign
+[ 4603] Simeon: willopwer
+[21153] Jaitan: spell damage
+[21153] Jaitan: 'spell damage'
+[10300] Lexi: sex
+[10300] Lexi: x
+[ 3692] Simeon: alchemy stoneskin
+[ 3692] Simeon: alchemy kindred
+[21009] Vlad: spell
+[21009] Vlad: spell damage
+[ 3846] Talmus: two handed
+[10382] Dientath: delete
+[ 3664] Karlof: triage
+[21001] Simeon: necrotouch
+[ 3671] Celestron: enchance armor
+[ 8036] Talmus: trip
+[ 3664] Karlof: note 2
+[ 3664] Talmus: camoflough
+[ 3664] Talmus: camo
+[ 3664] Talmus: camoflauge
+[ 3692] Simeon: alchmy true
+[ 3692] Simeon: alchemy true
+[ 3692] Simeon: alchemy truesight
+[10341] MalaciousBliss: l
+[21001] MalaciousBliss: delete
+[21153] Jaitan: spell damage
+[10367] Fenyr: enhage
+[10367] Fenyr: chat
+[10384] Fenyr: deities
+[10384] Fenyr: devote
+[21012] Fenyr: rules
+[21012] Fenyr: multiplaying
+[10370] Solomon: id
+[  109] Solomon: supplicate
+[21022] Solomon: the ant hill
+[21007] Fenyr: remort
+[ 1240] Fenyr: clans
+[ 1240] Fenyr: guilds
+[ 1240] Fenyr: clan
+[ 1240] Fenyr: clan list
+[ 1240] Fenyr: deities
+[ 1240] Fenyr: org
+[ 1240] Fenyr: net
+[ 1240] Fenyr: url
+[ 3694] Simeon: maplegend, explains what the letters stands for
+[21009] Vlad: oset
+[ 3664] Karlof: clones
+[ 3664] Karlof: noremove
+[ 3664] Karlof: gloryrates
+[ 3664] Karlof: tiers
+[   10] Darwin: ifcheck
+[   10] Darwin: check
+[   10] Darwin: if
+[   10] Darwin: mprog
+[   10] Darwin: 'if check'
+[ 3664] Hades: fedep
+[ 3664] Hades: fdep
+[    0] Silence: lizardman
+[    0] Silence: Lizardman
+[    0] Silence: lizard
+[  818] Talmus: primashield
+[ 3664] Talmus: house
+[ 3664] Talmus: home
+[10308] Silence: armore
+[10300] Silence: einheri
+[10300] Silence: clans
+[10300] Silence: clan
+[10363] Silence: immortals
+[10363] Silence: immortal
+[10386] Silence: head
+[10386] Silence: crawler
+[10378] Silence: alchemy refresh light
+[10377] Silence: alchemy waterbreathing
+[10377] Silence: tnl
+[10366] Silence: tongue
+[ 1018] Silence: deity
+[ 1041] Silence: symbol
+[ 1096] Silence: animals
+[ 1096] Silence: animal
+[21140] Silence: hometown
+[21160] Silence: dispel
+[10849] Silence: alchemy blance
+[ 3664] Karlof: shuriken block
+[ 3664] Karlof: shuriken
+[ 3664] Karlof: 'shuriken block'
+[21128] Talmus: shur
+[21128] Talmus: shuriken block
+[21128] Talmus: shuriken block
+[21128] Talmus: 'shuriken block'
+[ 3655] Karlof: spec
+[ 3655] Karlof: spec fun
+[21001] Silence: stake
+[  341] Silence: multiple items
+[  341] Silence: same nam
+[ 3664] Karlof: immcolor
+[21002] Silence: cor
+[21130] Jaitan: autoupdate
+[ 6262] Sebastian: alchemy true
+[21009] Silence: status
+[21009] Silence: stats
+[10954] Silence: medi
+[10954] Silence: meditae
+[ 1230] Silence: player
+[21001] MalaciousBliss: delete
+[ 1260] Silence: clan
+[ 3664] Silence: aura
+[ 3664] Silence: twoh
+[ 3664] Silence: two-hand weapon
+[ 3664] Silence: weapon
+[ 3664] Silence: stat rep
+[ 3664] Silence: statrep
+[ 3664] Silence: treasures
+[ 3664] Silence: bitter pass
+[16046] Silence: remove cure
+[15035] Silence: silence
+[21159] Silence: grac
+[21159] Silence: grace
+[21159] Silence: retrieve
+[21013] Silence: telport
+[ 3664] Silence: retrieve
+[ 3664] Silence: retrieval
+[ 7303] Silence: word
+[21159] Silence: grimwald
+[21159] Silence: maplengend
+[21159] Silence: mulitple items
+[21009] Talmus: bloodlust
+[15006] Silence: Karlof
+[15035] Silence: lag
+[21007] Kuragari: naginata
+[21007] Kuragari: nag
+[10375] Kuragari: blac
+[10375] Kuragari: blakc
+[10375] Kuragari: black
+[10374] Kuragari: halberd
+[10384] Kuragari: dust
+[10384] Kuragari: diamand dust
+[21046] Gomorrah: legendary weapon
+[ 3700] Seraph: consent
+[ 3700] Medea: consent
+[ 3700] Medea: 'consent divorce'
+[ 3700] Medea: 'consent'
+[21009] Talmus: resiliience
+[21009] Talmus: resiliance
+[21009] Pain: magictables
+[21160] Silence: weakness
+[15033] Silence: dispel
+[ 1214] Kuragari: beast
+[ 1214] Kuragari: demonic
+[ 3664] Silence: ld
+[21009] Kuragari: prac
+[16043] Silence: spectual fuy
+[16043] Silence: spectual fury
+[16043] Silence: spectural furor
+[16043] Silence: furor
+[16043] Silence: spectual furor
+[16043] Silence: spect
+[16043] Silence: furor
+[16043] Silence: chaos
+[16043] Silence: chaos of
+[21001] Silence: rescure
+[  525] Kuragari: deomonsight
+[21009] Kuragari: black lightening
+[21001] Talmus: eyes of the cat
+[  556] Kuragari: paralayze
+[  556] Kuragari: para
+[21001] Vra: magic items
+[21001] Vra: magic
+[21001] Vra: scrolls
+[ 3664] Gomorrah: voodoo
+[21009] Silence: saves
+[21009] Silence: saves
+[21009] Silence: sP
+[21160] Silence: protect
+[21160] Silence: eldrith spere
+[21160] Silence: eldrith
+[21160] Silence: eldritch
+[21160] Silence: alchemy unseend
+[ 1452] Silence: refrest
+[16041] Silence: brother
+[ 7024] Silence: laugh
+[16042] Silence: alchemy edthrith
+[16042] Silence: alchemy eldrith
+[16042] Silence: alchemy eld
+[16042] Silence: alchemy e
+[16042] Silence: minor
+[21001] Grigsby: leveling
+[21009] Talmus: bloodlust
+[ 8006] Talmus: liquid
+[ 7207] Gomorrah: spiral
+[ 7207] Gomorrah: spiral blash
+[ 7207] Gomorrah: spiral blasth
+[21130] Twyla: squest
+[21130] Twyla: squest
+[21001] Silence: maplegent
+[21123] Silence: enchant magic
+[ 3664] Karlof: opset
+[21001] Grigsby: kobold caversn
+[21001] Grigsby: joey
+[21118] Grigsby: tower of manos
+[21033] Grigsby: Tower of Manos
+[21001] Grigsby: forums
+[21001] Grigsby: tower of manos
+[21001] Grigsby: 'tower of manos
+[21001] Grigsby: 'tower of manos'
+[21001] Grigsby: nwe
+[21130] Grigsby: The Farmer's Market
+[21130] Grigsby: 'The Farmer's Market'
+[21130] Grigsby: bazabel
+[21001] Grigsby: bazabel
+[ 6077] Grigsby: bazabel
+[ 7626] Grigsby: learai
+[ 6068] Grigsby: woodland
+[ 6270] Grigsby: farmer
+[21130] Grigsby: magic points
+[21118] Grigsby: sahardin
+[21118] Grigsby: Sahardin
+[ 3924] Grigsby: magic points
+[ 3924] Grigsby: 'magic points
+[ 3924] Grigsby: magic
+[ 3924] Grigsby: mquest
+[ 3664] Karlof: onerank
+[ 3030] Grigsby: duras
+[21001] Grigsby: deities
+[21001] Grigsby: devote
+[21001] Grigsby: god
+[21001] Grigsby: goddess
+[21001] Grigsby: corpe
+[21001] Grigsby: einheri
+[21001] Grigsby: deity
+[21001] Grigsby: corrupt
+[21001] Grigsby: invoke
+[ 3664] Karlof: leader
+[21001] Grigsby: bee hive
+[21001] Grigsby: 'bee hive
+[21007] Aja: arm bar
+[15045] Silence: key
+[ 2172] Silence: 'blade
+[21009] Pain: legendaries
+[21009] Pain: legends
+[21009] Pain: legends
+[21009] Pain: legend
+[10340] Dylara: deities
+[  205] Dylara: delete
+[  205] Dylara: rules
+[  205] Dylara: multi
+[  205] Dylara: multiplaying
+[21118] Jaitan: golem
+[21009] Dylara: paladin
+[21009] Dylara: jaitan
+[21001] Mylene: bobject
+[21001] Mylene: qp
+[21001] Mylene: mortality
+[21001] Mylene: mquest
+[21018] Mylene: multi
+[21018] Mylene: multiplay
+[21018] Mylene: multiplaying
+[21018] Mylene: rules
+[21119] Mylene: bank
+[21119] Mylene: storage
+[21119] Mylene: bank
+[  134] Mylene: magic
+[21032] Mylene: detect curse
+[21009] Mylene: grasp susperia
+[21130] Jaitan: spell damage
+[21130] Jaitan: 'spell damage'
+[ 2007] Mylene: natures
+[ 5135] Mylene: simeon
+[ 5135] Simeon: mediator
+[ 5135] Simeon: mediators
+[ 3691] Simeon: rooster
+[  456] Mylene: style standard
+[ 3816] Mylene: grasp susperia
+[ 3664] Karlof: astralblock
+[ 4609] Talmus: exp
+[  303] Taren: damverb
+[10303] Kileem: magic points
+[10303] Kileem: 'magic points'
+[10303] Kileem: blaze ward
+[10303] Kileem: 'blaze ward'
+[  107] Kileem: bank
+[21127] Karlof: deed
+[21001] Saragon: law pk
+[21009] Saragon: numb arrow
+[ 3665] Saragon: legendary weapon
+[ 3664] Karlof: colours
+[21007] Preacher: magicuse
+[ 3691] Pain: babble
+[21009] Kristof: golem
+[ 3664] Karlof: tiers
+[21420] Jaren: wizard
+[ 3405] Hidden: enhance
+[21001] Jack: factions
+[21001] Jack: clan
+[21001] Jack: mediator
+[21001] Jack: mediators
+[21009] Jack: changes
+[21009] Jack: change
+[21009] Jack: verion2.5.5
+[21009] Jack: version 2.5.5
+[21009] Jack: version 2.5.5
+[21001] Eaven: devour
+[21001] Eaven: devour soul
+[21001] Eaven: 'devour soul'
+[21001] Eaven: devour soul
+[10319] Querzan: demonic armor
+[ 7221] Hades: teach
+[ 7221] Hades: learn
+[    0] Radley: warr
+[10300] Radley: autoloot
+[10300] Radley: auto
+[10300] Radley: 'auto loot'
+[10303] Radley: beserk
+[10303] Radley: beserk
+[10303] Radley: brserk
+[10306] Radley: langu
+[21001] Radley: skill
+[21001] Radley: skill
+[21009] Talmus: version 5.6
+[21009] Talmus: gs
+[21130] Hidden: eldritch
+[21130] Stalker: mquest
+[21130] Stalker: 'magic quest'
+[21006] Duras: mounts
+[21009] Talmus: greetings2
+[ 3664] Karlof: enhanced dual
+[21009] Jack: squest
+[21009] Jack: mquest
+[21128] Jack: squest
+[ 3664] Karlof: spiritshield
+[ 3664] Taren: bumbrush
+[ 3664] Taren: enhanced dual
+[21009] Talmus: serpents kiss
+[21009] Talmus: 'serpents kiss'
+[ 3664] Talmus: don
+[ 3664] Hidden: eaven
+[ 4307] Hidden: razor
+[21126] Hidden: alert
+[21118] Hidden: ver
+[21118] Hidden: version 2.5.7
+[ 1249] Shuera: crusader
+[ 1249] Shuera: remort
+[ 1013] Hidden: enhance
+[ 3694] Simeon: weakness
+[21033] Jaitan: color spray
+[10300] Isk: delete
+[10300] Isk: suicide
+[21001] Jugger: clan
+[21001] Jugger: clans
+[  111] Jugger: guild
+[ 2271] Jugger: hi score
+[21009] Jugger: magic points
+[21009] Jugger: skill points
+[21001] Jugger: verion2.5.8
+[10303] Styx: Extradimensional por
+[10303] Styx: Extradimensional'por
+[10303] Styx: Grasp'suspiria
+[10303] Styx: word
+[10303] Styx: grasp'suspiria
+[10303] Styx: kindred'strength
+[10303] Styx: kindred
+[10303] Styx: kindred'strength
+[10303] Styx: kindred'strength
+[21068] Styx: pill
+[21162] Styx: clan
+[  976] Styx: continual
+[  964] Styx: forums
+[21001] Styx: request
+[21001] Styx: board
+[ 1214] Styx: pill
+[10303] Abramo: bersek
+[ 5140] Abramo: pumel
+[21159] Styx: delete
+[21007] Styx: rules
+[ 3664] Styx: blade
+[ 3665] Styx: sc
+[ 3665] Styx: spell
+[ 1024] Styx: calling
+[10303] Leliah: aggreessive style
+[10303] Leliah: aggreessive style
+[10303] Leliah: aggreessive style
+[10303] Leliah: 'aggreessive style'
+[10375] Leliah: hunt
+[ 8015] Abramo: shuriken block
+[ 8015] Abramo: shuriken
+[ 8015] Abramo: shell defence
+[ 8015] Abramo: piner movement
+[ 8015] Abramo: bloodlust
+[ 8015] Abramo: entangling block
+[ 8050] Abramo: 'enchant aura'
+[ 3664] Karlof: legendary weapon
+[ 3664] Karlof: legendary weapons
+[ 3664] Karlof: legendaries
+[ 3664] Karlof: parts
+[ 3664] Styx: catna
+[21001] Styx: nodrop
+[21118] Styx: astral
+[ 3664] Styx: 'dragons wit'
+[ 3664] Styx: 'dragons wit'
+[21001] Styx: name
+[ 8043] Styx: 'invis object'
+[  215] Gomorrah: autoupdate
+[21007] Abba: nightcrawler
+[21118] Abba: mind fog
+[21130] Stefan: invis object
+[21130] Stefan: 'invis object'
+[21130] Stalker: 'magic quest'
+[21130] Stalker: 'magic points'
+[21130] Stalker: mquest
+[ 3664] Stalker: all hole
+[ 2416] Abba: shadow
+[ 3664] Pain: fish hook
+[ 3664] Pain: 'fish hook'
+[21001] Eaven: bloodlust
+[21130] Krill: glory rates
+[21001] Jaitan: paladin
+[21118] Jaitan: titles
+[21118] Jaitan: status
+[    0] Mythdrend: lizardman
+[    0] Mythdrend: lizard
+[    0] Mythdrend: Lizardman
+[    0] Mythdrend: Lizard
+[    0] Mythdrend: liz
+[    0] Mythdrend: l
+[    0] Mythdrend: Lizardman
+[10300] Mythdrend: confic
+[ 3841] Mythdrend: el
+[ 9884] Mythdrend: mon
+[ 3665] Google: golem armor
+[ 9897] Mythdrend: invigor
+[ 3811] Mythdrend: head
+[ 3839] Mythdrend: second
+[ 3806] Mythdrend: cheap
+[ 3806] Mythdrend: cheapshop
+[ 3806] Mythdrend: cheapshoot
+[ 3664] Mythdrend: not
+[ 3664] Mythdrend: shake
+[ 3664] Mythdrend: head
+[ 4608] Pain: poltergeist
+[21007] Silvos: delete
+[21007] Silvos: suicide
+[21007] Silvos: kill me
+[21001] Silvos: delete
+[21001] Silvos: suicide
+[21118] Hatred: quest return
+[21118] Hatred: aquest return
+[21118] Hatred: aquest return
+[21009] Hatred: return
+[21009] Hatred: quest items
+[21001] Abramo: blitzkreig
+[ 3664] Abramo: demon sight
+[21001] Annabelle: recover
+[21001] Annabelle: recover
+[    0] Trillia: jin
+[14110] Gomorrah: nostrom
+[ 3665] Google: armorsmith reinforce
+[ 4601] Abramo: channell
+[ 3694] Simeon: final
+[ 3694] Simeon: final
+[ 1845] Krill: mal
+[21126] Simeon: escape
+[21126] Simeon: escape
+[21153] Jaitan: deed
+[10303] Ramza: engang
+[ 3664] Karlof: comp
+[10365] Hexous: adept
+[10375] Hexous: einheri
+[10383] Hexous: saves
+[10383] Hexous: glory rates
+[21001] Abba: diaboli
+[ 3700] Thatcher: demonic flamie
+[ 3700] Thatcher: demonic flame
+[ 3700] Thatcher: 'demonic flame
+[ 3700] Thatcher: devour soul
+[   10] Darwin: control
+[   10] Darwin: whereis
+[ 3664] Karlof: golem
+[ 3665] Anfauglir: junn
+[ 3664] Karlof: version 2.6.0
+[ 1012] Anfauglir: tasks
+[ 3664] Karlof: tasks
+[ 1012] Anfauglir: version 6.0.0
+[ 1012] Anfauglir: 6.0.0
+[ 3664] Karlof: version6.0.0
+[ 3664] Karlof: versions6.0.0
+[ 1012] Anfauglir: version6.0.0
+[ 3664] Karlof: Versions6.0.0
+[ 1012] Anfauglir: versions6.0.0
+[21009] Stefan: iceblast
+[21009] Anfauglir: magic points
+[21007] Hexous: plural
+[21009] Hexous: clan
+[21001] Hades: realm map
+[10300] Hexamy: delete
+[10300] Hexamy: suicide
+[10300] Hexamy: dest
+[21154] Simeon: tain
+[21009] Pain: dreams
+[21009] Pain: dreaming
+[21009] Pain: greeting5
+[21037] Stefan: damverbws
+[21128] Abramo: shuriken block
+[21128] Abramo: clinsh
+[10303] Antihex: cuase light
+[10300] Antihex: l
+[10308] Antihex: autoupdate
+[ 3694] Simeon: ahpok
+[10373] Krannon: stats
+[    0] Roland: half
+[10380] Raenef: school
+[10300] Nero: arm bar
+[21009] Pain: devour soul
+[21009] Simeon: devour soul
+[21009] Pain: 'devour soul'
+[21009] Simeon: devour soul
+[21009] Thatcher: alchemy true
+[21009] Thatcher: alchemy truesight
+[21009] Thatcher: alchemy true
+[11004] Simeon: transfer
+[21130] Mallace: magic points
+[21130] Mallace: mquest
+[ 4739] Mallace: saw corpse
+[21153] Jaakob: spec
+[21153] Jaakob: aura of fea
+[16331] Vra: noburn
+[21118] Vra: no burn
+[21118] Vra: joey
+[21118] Vra: qp
+[10916] Mallace: all corpse
+[21009] Nayanthis: invike stag
+[21001] Jaitan: gain
+[21009] Jaitan: combat dummy
+[ 3694] Jaitan: global
+[ 3694] Jaitan: social
+[   10] Darwin: affect
+[21009] Hades: colour
+[ 2739] Pain: questbuy
+[ 2739] Pain: quest buy
+[ 2739] Pain: quest buy
+[ 2739] Pain: quest flags
+[ 2739] Pain: quest list
+[21118] Pain: noburn
+[21118] Pain: quests buy
+[21118] Pain: quests buy
+[21118] Pain: quest buy
+[ 3664] Pain: quest get
+[ 3664] Pain: 'quest buy'
+[16331] Vra: questmaster
+[16331] Vra: no burn
+[16331] Vra: noburn
+[ 3664] Pain: quest add
+[ 3664] Pain: qbuy
+[ 3694] Jaitan: delete
+[21001] Jaitan: pc
+[ 3694] Mallace: spell dam
+[ 3694] Mallace: spelldam
+[ 3694] Mallace: spell damage
+[21007] Wrath: delete
+[21001] Mallace: eldritch sp
+[21130] Mallace: mquest
+[ 3694] Mallace: clan
+[ 5141] Vra: corrupt
+[ 3694] Mallace: keepers
+[    0] Shady: min
+[ 3664] Hades: create
+[ 3664] Hades: aura
+[21118] Hades: mobmaste
+[    0] Kilrogg: lizardman
+[21009] Shady: agg
+[21009] Shady: aggstyle
+[21009] Simeon: jester 1- 50
+[ 3692] Simeon: alchemy demonsight
+[21009] Vra: make bag
+[11045] Shady: grace
+[21009] Meryk: daemon gaurdian
+[  549] Meryk: sanc
+[ 5137] Meryk: assist
+[ 3664] Karlof: protect
+[ 3000] Thatcher: daemonic flaime
+[ 3665] Karlof: dragons wit
+[ 5133] Simeon: rooster
+[ 5133] Simeon: cynobor
+[10303] Cuoris: auto
+[21039] Lazerus: daemonomancer
+[ 3818] Meryk: simeon
+[  253] Shady: id hole
+[21009] Shady: save vrs spell
+[21009] Shady: vs
+[ 3664] Hades: legandary
+[ 3665] Hades: protect
+[21009] Stefan: majika armor
+[11139] Talmus: regen
+[  286] Abramo: entangling block
+[21009] Talmus: pincer
+[ 4605] Shady: w c
+[  847] Shady: assist
+[21119] Kelten: bank
+[10303] Vesilos: tala
+[10303] Vesilos: talonous
+[21140] Vesilos: portalmaster
+[ 1517] Veltok: auphoc
+[ 1517] Veltok: auphok
+[21010] Kelten: pill hole
+[21001] Shady: spike
+[ 1484] Shady: Malaclypse
+[21009] Pain: trust
+[21009] Pain: trusty
+[21009] Pain: wizlock
+[21009] Pain: slay
+[21129] Zain: extradimensional por
+[21006] Lazerus: newbietrain
+[21001] Lazerus: level100
+[21001] Lazerus: directions
+[21009] Shady: liquid
+[21009] Shady: bloodlust
+[ 1058] Kelten: legendary weapons
+[ 5290] Polian: board
+[ 1237] Vesilos: ivigorate
+[21001] Crusha: bear caves
+[21001] Mallace: no drop
+[21001] Mallace: nodrop
+[ 1518] Crusha: demonic
+[21003] Crusha: delete
+[   10] Darwin: law multiplay
+[   10] Darwin: law multiplay
+[21001] Polian: alchemy sanc
+[21009] Vra: sample
+[ 3664] Mischa: archmage
+[   10] Darwin: mquest
+[   10] Darwin: squest
+[ 3664] Keruni: minor invo
+[21009] Bran: pek
+[21001] Heg: guild
+[21001] Heg: gain
+[21142] Heg: chat
+[21142] Heg: gossip'
+[21007] Heg: hand
+[21007] Heg: hand to hand
+[21007] Heg: ac
+[ 4608] Shady: Kalter Coralbrow
+[ 4608] Shady: Kalter Coralbroww
+[ 4608] Shady: Kalter Coralbroww
+[ 4608] Shady: Kalter Coralbroww
+[ 4608] Shady: Kalter Coralbroww
+[21007] Heg: skill
+[21007] Heg: skill points
+[21007] Heg: spirit
+[21007] Heg: bare
+[21007] Heg: worship
+[21007] Heg: deity
+[21007] Heg: clan
+[21007] Heg: armors
+[21007] Heg: ac
+[21007] Heg: spell damage
+[21007] Heg: crashing 
+[21007] Heg: einheri
+[21007] Heg: statrep
+[21007] Heg: clan
+[21007] Heg: clan
+[21142] Heg: guild
+[21009] Keruni: minor
+[21142] Heg: tongue
+[ 8000] Shady: serpant
+[ 5133] Kelten: skills rog
+[ 5133] Kelten: ro
+[ 3665] Karlof: parts
+[ 3665] Karlof: crossbow
+[   10] Darwin: TSR D&&D AD&&D
+[   10] Darwin: "TSR D&&D AD&&D"
+[   10] Darwin: 'TSR D&&D AD&&D'
+[   10] Darwin: TSR D&D AD&D
+[   10] Darwin: AD&D
+[   10] Darwin: password_zmud
+[   10] Darwin: password zmud
+[   10] Darwin: 'password zmud'
+[ 8045] Cladius: spectral
+[21009] Fistandan: serpents kiss
+[ 3664] Karlof: obedit
+[21009] Shady: shell defence
+[21009] Shady: speed
+[    0] Galrak: jinn
+[    0] Galrak: jinn
+[    0] Galrak: minotaur
+[    0] Galrak: half-troll
+[    0] Galrak: ghoul
+[    0] Kitch: ghoul
+[    0] Kitch: ghoul
+[    0] Kitch: Ghoul
+[    0] Kitch: ranger
+[    0] Ellud: wolfen
+[    0] Ellud: jinn
+[    0] Ellud: lizardman
+[    0] Ellud: minotaur
+[    0] Ellud: diabolist
+[    0] Ellud: rogue
+[    0] Eqzo: shuri
+[    0] Eqzo: wolfen
+[    0] Eva: jester
+[    0] Eva: champion
+[    0] Kattia: jinn
+[    0] Kattia: jinn
+[    0] Kattia: thug
+[    0] Zin: shuri
+[    0] Zin: jinn
+[    0] Zin: pixie
+[    0] Zin: human
+[    0] Gunner: diabolist
+[    0] Grendal: elf
+[    0] Ixbi: jester
+[    0] Elyas: Shuri
+[    0] Laudrynn: half-elf
+[    0] Laudrynn: elf
+[    0] Maeton: ahpock
+[    0] Maeton: champion
+[    0] Maeton: champ
+[    0] Maeton: thief
+[    0] Rtul: ahpock
+[    0] Rtul: gith
+[    0] Rtul: diabolist
+[    0] Rtul: archmagi
+[    0] Kullash: jinn
+[    0] Kullash: pixie
+[    0] Kullash: human
+[    0] Kullash: ahpock
+[    0] Seebo: shuri
+[    0] Seebo: gulran
+[    0] Seebo: zephyr
+[    0] Kilelen: archmagi
+[    0] Kilelen: mage
+[    0] Tylorn: warrior
+[    0] Dream: gulran
+[    0] Maruxus: gith
+[    0] Maruxus: diabolist
+[    0] Maruxus: champion
+[    0] Verid: drow
+[    0] Verid: shuri
+[    0] Verid: warrior
+[    0] Verid: champion
+[    0] Secundo: huma
+[    0] Secundo: human
+[    0] Secundo: elf
+[    0] Sho: gith
+[    0] Carfel: zephyr
+[    0] Carfel: conjurer
+[    0] Vahl: druid
+[    0] Vyktor: jinn
+[    0] Vyktor: human
+[    0] Keith: human
+[    0] Kynn: bishop
+[    0] Kynn: Bishop
+[    0] Razicio: wolfen
+[    0] Stroud: ahpock
+[    0] Revenant: human
+[    0] Revenant: human
+[    0] Revenant: elf
+[    0] Revenant: lizardman
+[    0] Revenant: champion
+[    0] Soren: shuri
+[    0] Soren: gulran
+[    0] Marco: ahpock
+[    0] Marco: Ahpock
+[    0] Marco: shuri
+[    0] Marco: gith
+[    0] Salis: gulran
+[    0] Bronwyn: drow
+[    0] Keio: ahpock
+[    0] Keio: zephyr
+[    0] Keio: human
+[21159] Fistandan: credits
+[    0] Kayne: shuri
+[    0] Kayne: shuri
+[    0] Drevv: Zephyr
+[    0] Drevv: conjurer
+[    0] Kayne: ahpock
+[    0] Kayne: Ahpock
+[    0] Kayne: thug
+[    0] Warey: Ranger
+[    0] Koal: wolfen
+[    0] Koal: human
+[    0] Koal: diabolist
+[    0] Sanzar: ahpock
+[    0] Sanzar: shuri
+[    0] Sanzar: champion
+[    0] Sanzar: diabolist
+[    0] Cleatus: champion
+[    0] Cleatus: Champion
+[    0] Cleatus: mage
+[    0] Aellieli: jinn
+[    0] Aellieli: diabolist
+[    0] Aellieli: mage
+[    0] Aellieli: ghoul
+[    0] Aellieli: shaman
+[    0] Aellieli: jester
+[    0] Rekka: ghoul
+[    0] Kasati: shuri
+[    0] Kasati: gulran
+[    0] Kasati: drow
+[    0] Kasati: elf
+[    0] Kasati: shuri
+[    0] Kasati: elf
+[    0] Nergal: gith
+[    0] Nergal: minotaur
+[    0] Zoarre: zephyr
+[    0] Zoarre: ahpock
+[    0] Zoarre: ahpock
+[    0] Zoarre: dwarf
+[    0] Zoarre: shuri
+[    0] Zoarre: wolfen
+[    0] Zoarre: ahpock
+[    0] Zoarre: champion
+[    0] Zoarre: diabolist
+[    0] Liane: lizard
+[ 3700] Medea: for
+[    0] Lucavi: diabolist
+[    0] Lucavi: Diabolist
+[    0] Lucavi: jester
+[    0] Krave: shuri
+[    0] Krave: jinn
+[    0] Krave: ghoul
+[    0] Krave: pixie
+[    0] Krave: druid
+[    0] Penn: drow
+[    0] Penn: diabolist
+[    0] Penn: mage
+[    0] Acen: human
+[    0] Acen: mage
+[    0] Acen: ranger
+[    0] Ice: archmagi
+[    0] Ice: mage
+[    0] Ice: mage
+[    0] Yulisan: gulran
+[    0] Urza: wolfen
+[    0] Sai: shuri
+[    0] Persus: gnome
+[    0] Persus: gnome
+[    0] Meruin: sea-elf
+[    0] Meruin: gulran
+[    0] Meruin: drow
+[    0] Meruin: zephyr
+[    0] Meruin: jinn
+[    0] Meruin: ghoul
+[    0] Meruin: ahpock
+[    0] Meruin: archmagi
+[    0] Meruin: diabolist
+[    0] Meruin: monk
+[    0] Dagnart: gith
+[    0] Dagnart: pixie
+[    0] Dagnart: human
+[    0] Dagnart: shuri
+[    0] Amanya: ahpock
+[    0] Amanya: ghoul
+[    0] Amanya: zephyr
+[    0] Amanya: cleric
+[    0] Fanacasecul: shuri
+[    0] Fanacasecul: Shuri
+[    0] Fanacasecul: gulran
+[    0] Fanacasecul: zephyr
+[    0] Pical: shuri
+[    0] Syrscea: shuri
+[    0] Syrscea: gulran
+[    0] Syrscea: ranger
+[    0] Syrscea: mage
+[    0] Lucilla: elf
+[    0] Lucilla: conjurer
+[    0] Treehugger: gith
+[    0] Treehugger: jinn
+[    0] Treehugger: ghou
+[    0] Treehugger: elf
+[    0] Treehugger: mage
+[    0] Treehugger: druid
+[    0] Galador: shuri
+[    0] Galador: jinn
+[    0] Galador: wolfen
+[    0] Galador: druid
+[    0] Galador: druid
+[    0] Andruk: ahpock
+[    0] Andruk: gulran
+[    0] Dartle: ghoul
+[21001] Kynn: pk
+[    0] Zil: ahpock
+[    0] Zil: jinn
+[    0] Zil: diabolist
+[    0] Gallantera: zephyr
+[    0] Gallantera: Zephyr
+[    0] Gallantera: Jinn
+[    0] Annabelle: thief
+[    0] Annabelle: druid
+[    0] Annabelle: rogue
+[    0] Raliel: shuri
+[    0] Zarsak: shaman
+[    0] Glirken: wolfen
+[    0] Glirken: Wolfen
+[    0] Glirken: shuri
+[    0] Glirken: human
+[    0] Glirken: human
+[    0] Glirken: champion
+[    0] Cthulhu: ahpock
+[    0] Cthulhu: Ahpock
+[    0] Cthulhu: gith
+[    0] Cthulhu: drow
+[    0] Cthulhu: minotaur
+[    0] Hamus: thief
+[   10] Darwin: credits
+[    0] Gromnor: druid
+[    0] Gromnor: druid
+[    0] Gromnor: ranger
+[    0] Gromnor: diabolist
+[10300] Fanacas: credits
+[10300] Fanacas: credits
+[    0] Silenuz: thug
+[    0] Silenuz: ranger
+[    0] Lazerus: druid
+[    0] Lazerus: druid
+[    0] Graethor: conjurer
+[    0] Graethor: conjurer
+[    0] Graethor: jester
+[    0] Graethor: ranger
+[    0] Kage: archmagi
+[    0] Kage: diabolist
+[    0] Kage: champion
+[    0] Kage: bishop
+[    0] Dagon: jester
+[    0] Nova: archmagi
+[    0] Renn: conjurer
+[    0] Raul: thief
+[    0] Driggs: bishop
+[    0] Dyvin: jester
+[    0] Dyvin: warrior
+[    0] Rocky: diabolist
+[    0] Rocky: ranger
+[    0] Oaklore: jester
+[    0] Seti: jester
+[    0] Seti: jester
+[    0] Seti: shaman
+[    0] Gug: thug
+[    0] Gug: ranger
+[    0] Azem: champion
+[    0] Azem: druid
+[    0] Groknor: conjurer
+[    0] Groknor: conjurer
+[    0] Groknor: thug
+[    0] Groknor: warrior
+[    0] Erion: conjurer
+[    0] Erion: conjurer
+[    0] Erion: diabolist
+[    0] Yadar: shaman
+[    0] Sebine: thug
+[    0] Arkholt: conjurer
+[    0] Arkholt: archmagi
+[    0] Arkholt: mage
+[    0] Verdelet: thief
+[    0] Rache: rogue
+[    0] Tychondrias Darthon: champion
+[    0] Tychondrias Darthon: Champion
+[    0] Tychondrias Darthon: conjurer
+[    0] Glogdock: thug
+[    0] Mortavian: thug
+[    0] Mortavian: monk
+[    0] Espre: archmagi
+[    0] Espre: archmagi
+[    0] Espre: druid
+[    0] Tanrith: thief
+[    0] Parthe: rogue
+[    0] Parthe: thief
+[    0] Teiltai: thief
+[    0] Jann: conjurer
+[    0] Deuel: thug
+[    0] Alaeron: monk
+[    0] Alaeron: thief
+[    0] Slade: monk
+[    0] Kelmenjar: ranger
+[    0] Ziryan: thief
+[    0] Ziryan: thief
+[    0] Ziryan: rogue
+[    0] Ziryan: jester
+[    0] Fraggle: ranger
+[    0] Fraggle: ranger
+[    0] Pickles: bishop
+[    0] Pickles: rogue
+[    0] Requius: ranger
+[    0] Requius: thug
+[    0] Lisde: champion
+[    0] Lisde: champion
+[    0] Lisde: monk
+[    0] Lisde: Diabolist
+[    0] Elphlane: Cleric
+[    0] Elphlane: thug
+[    0] Caenry: diabolist
+[    0] Caenry: jester
+[    0] Tizour: shaman
+[    0] Tizour: mage
+[    0] Ashkel: archmagi
+[    0] Elandis: diabolist
+[    0] Elandis: diabolist

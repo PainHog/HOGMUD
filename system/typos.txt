@@ -1,0 +1,33 @@
+[21126] Jugger: the ground discription of the imperial naginata says a long sword lies on the ground it should be spear
+[21025] Melisande: The paws of a demonic beast mysteriously vanishes.
+[ 1099] Aiden: or bug You cannot store items while fighting!/n/r
+[21118] Torebere: ... well more gramatic Have you ever seen a the robes of a nomad? <was from joey> *smile*
+[ 1244] Radnaz: It states supervised in room descriptions, it should state surprised.
+[ 1270] Gloom: "You are supervised to see..." should be "You are surprised to see"
+[21009] Torebere: The help file for truesight states that it helps to see through blinding attacks ... but I'm blinded quite a bit during a fight
+[ 9847] Aja: room name is an ip?  65.190.156.126 
+[14010] Sainrith: Man encased in barbed wire ... He seems you and screams for you .... should be He sees you and screams ...
+[14005] Sainrith: Human scarcrow ... but by the look of the dried blood ... should be ... but by the looks of the dried blood ...
+[21009] Torebere: ponder <person> You wonder what him is thinking ... what "he" is thinking
+[21009] Torebere: You roll your eyes...catch them and put them back in your head ... there should be a , after catch them before and
+[12029] Torebere: Gabriel the reaper third sentence .... his carries a great scythe ...should be he carries
+[21009] Torebere: Joey on refuse quest Alright fine, i'll put it ... should be capital I'll put it ...
+[ 3671] Sainrith: in help aquest BUY - But a special item that ... should be (BUY - Buy a special item ...)
+[21009] Septe: Your dead relative is visting your dreams. visting should be visiting
+[14152] Torebere: You cannot donate while fighting!/n/r
+[21009] Torebere: (social frown) What's bothering you ? ... needs no space in the ?
+[ 2492] Jugger: sta
+[21009] Thor: the axe haft I assume is supposed to me the axe shaft
+[ 5135] Thor: a light light leather set of leggings
+[ 3703] Thor: Bladesong help file, last line of main paragraph 'selct' should be select?
+[21009] Torebere: don't know the spell but ... Jero bellows out that his will fight to their last breath!
+[ 9841] Dahlia: hehe a worn shell mantle for a room description
+[10315] Driag: Ashlyn
+[21001] Cantrip: spar
+[21118] Ira: The dwarven cleric, karla lightaxe has dishonored thier family's name!
+[10372] Mojo: med
+[10300] Nantuko: me
+[21009] Kazul: sh
+[21009] Ulric: mis
+[21009] Salvatore: who
+[21009] Salvatore: who

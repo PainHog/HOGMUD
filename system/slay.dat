@@ -1,0 +1,358 @@
+#SLAY
+Type		die~
+Owner		Any~
+Color		12
+Cmessage	&R
+
+        diediediediediediediediediediediedie
+
+                 die         die
+
+                die          die
+
+               diediediedie  die
+
+              die       die  die        die
+
+             die       die   die       die
+
+            die       die    die      die
+
+           die die die       die    die
+
+          die    die         die  die
+
+               die           diedie      die
+
+            die              die     die  die
+
+         die              diedie          die
+
+      die               die   die         die
+
+                     die       diediediedie
+
+ 
+
+               &Y(The deed is done.)&z
+
+~
+Vmessage	&R
+
+          diediediediediediediediediediediedie
+
+                  die         die
+
+                 die          die
+
+                diediediedie  die
+
+               die       die  die        die
+
+              die       die   die       die
+
+             die       die    die      die
+
+            die die die       die    die
+
+           die    die         die  die
+
+                die           diedie      die
+
+             die              die     die  die
+
+          die              diedie          die
+
+       die               die   die         die
+
+                      die       diediediedie
+
+ 
+
+                       &Y (Die.)&z
+
+~
+Rmessage	&R
+
+         diediediediediediediediediediediedie
+
+                  die         die
+
+                 die          die
+
+                diediediedie  die
+
+               die       die  die        die
+
+              die       die   die       die
+
+             die       die    die      die
+
+            die die die       die    die
+
+           die    die         die  die
+
+                die           diedie      die
+
+             die              die     die  die
+
+          die              diedie          die
+
+       die               die   die         die
+
+                      die       diediediedie
+
+ 
+
+                  &Y ($N has died.)&z
+
+~
+End
+
+#SLAY
+Type		vampire~
+Owner		Ashlyn~
+Color		25
+Cmessage	You lace your fingers in $N's hair, pulling $S head to the side roughly and sinking your fangs deep into $S flesh.
+
+~
+Vmessage	$n laces $s fingers in your hair, pulling your head to the side roughly and sinking $s fangs deep into your flesh!
+
+~
+Rmessage	$n laces $s fingers in $N's hair, pulling $S head to the side roughly and sinking $s fangs deep into $S flesh!
+
+~
+End
+
+#SLAY
+Type		ghoulking~
+Owner		Drazuk~
+Color		25
+Cmessage	You concentrate deeply, pulling upon all the Powers in the Realm...
+
+A black speck in the sky rapidly turns into a large raven, black as
+
+night.  As it swoops closer, the sky seems to turn to night around you
+
+with the appearance of hundreds of black, squawking birds.
+
+
+You smirk and point at $N, and the murder of crows surrounds $M, pecking
+
+away at $S eyes, then horribly devouring their flesh!  The birds then fly
+
+away and vanish, leaving a bright white skeleton to collapse slowly, the
+
+only evidence of $N's existence!
+
+~
+Vmessage	You feel an awful surge of power as $n's eyes roll back in his head and
+
+small bolts of green lightning crackle about the bottom of $s robes.  Up
+
+in the sky, a small black dot quickly turns into a large black raven, swooping
+
+towards you.  As it approaches, hundreds of crows appears in the skies all
+
+about you, born from the awesome magic summoned by $n.
+
+
+Before you can react, the crows dart in, pecking at your flesh, your eyes!  The
+
+awful cacophany of cawing was driving you mad, like the scream of a thousand
+
+banshees in your head!  The pain is horrible and just as you are sure it will
+
+never end...it does.
+
+~
+Rmessage	You feel the throb of magical energy build up suddenly all around you.
+
+$n's eyes roll back into $s head and small bolts of green lighting crackle
+
+about the bottom of $s robes.  You see $N staring up into the sky, and
+
+following $S gaze upwards, you spy a large raven rapidly approaching.
+
+As the raven nears, the sky fills with hundreds of crows, and they swoop
+
+down at $N!
+
+
+All you can see of $N is a black mass of cawing crows, ravaging $S body
+
+with their razor-sharp beaks.  A few seconds later, the crows disperse
+
+into the sky.  A bright white skeleton, slowly collapsing, is all that
+
+remains of $N.
+
+~
+End
+
+#SLAY
+Type		wrath~
+Owner		jaren~
+Color		12
+Cmessage	You snap your fingers and $N is surrounded by a pillar of light...
+
+Smoke begins to rise from $N. $N screams and bursts into flames.
+
+~
+Vmessage	$n snaps his fingers... You are surrounded by a pillar of light.
+
+Your blood begins to boil and you feel your veins tear; what have
+
+you done to deserve such pain? "Fear not, the pain will be gone soon,"
+
+a voice tells you. All that you can see now is darkness...
+
+~
+Rmessage	$n brutally slays $N!
+
+$n snaps his fingers. $N is surrounded by a pillar of light and begins
+
+to scream in agony. $N bursts into flames and falls over... dead.
+
+~
+End
+
+#SLAY
+Type		Angel~
+Owner		Cahel~
+Color		25
+Cmessage	You wordlessly slip from the Ether behind $N, offer a silent prayer, and bury two katanas into
+
+their back, piercing their heart and lungs. You smoothly withdraw each blade and mark a small rune of
+
+forgiveness on the cold eyelids of $N.
+
+~
+Vmessage	For a moment you remember the days of your early life, the simple choices, the harmless sins.
+
+You smile at the innocence and perhaps the innocence lost. You swear you smell the faint
+
+wisp of jasmine and rose petals. You barely notice the two silver blades that are suddenly 
+
+protruding from your chest. Life ends, silently, respectfully. The last thing you see is the winged
+
+figure of $n.
+
+~
+Rmessage	The figure of $n silently appears behind $N and draws two silver blades. $n mouths a
+
+silent prayer before thrusting both blades through the chest of $N. Their body simply goes
+
+limb as their soul is pierced by those two silver blades. $n unceremoniously removes both blades
+
+from the corpse of $N and uses the blooded weapons to carve two runes into the eyes of $N.
+
+~
+End
+
+#SLAY
+Type		Hell~
+Owner		Any~
+Color		12
+Cmessage	You utter the darkest words of the darkest tongue in all creation. The world begins to warp
+
+and the sound of the trees weeping and the earth trembling fills the room. A small tear
+
+appears besides $N, a blast of heat and the smell of sulfur are almost overpowering.
+
+$N looks wide-eyed in fear as tendrils of blood and smoke grab on and pull him
+
+into the Plane of the Ageless.  You hear the sound of flesh being torn and souls
+
+being devoured.  The scream of $N echoes through both realms as they endure suffering
+
+that only the damned feel. A few moments later their mangled corpse falls to pieces
+
+on the floor as the portal to the Nightmare Realm closes.
+
+~
+Vmessage	You hear a dark language fill the room, the world grows dark and bends at
+
+the sick will of $n as they speak that cursed language. The world shudders
+
+as a tear in the ether reveals a doorway into the realm of the Nightmare Magnet.
+
+You look in to see a thousand tortures and a thousand reasons to never dream again.
+
+Several long tentacles made of blood, smoke, and teeth wrap themselves around you
+
+and the realization comes to you, this is your fate.  You are pulled into
+
+the Plane of the Ageless and you see the screaming visage of hell itself.
+
+A raven haired boy with razors for teeth slowly peels every inch of skin
+
+for your flesh while a beautiful girl devours your legs and stomach. An angel haired
+
+boy looks at you and smiles as you scream the deepest scream you could ever manage.
+
+Death should have come hours ago, but the pain still burns through your being.
+
+Finally the tear closes and your soul watches from afar as the few pieces left
+
+splater onto the floor.  $n watches your soul float back to the world, watches the scars 
+
+you still carry from that place.
+
+~
+Rmessage	The blackest language you have ever heard fills the room, the world itself grows
+
+dark and trembles with fear at the sound of $n 's words.  A tear appears in the
+
+ether next to $N, the smell of sulfur rushes forward carried by a blast of heat.
+
+The sick laughter of some dark being stabs at your soul as tendrils of blood
+
+and smoke reach out and pull $N into the Plane of the Ageless! You hear the
+
+screams of $N as every torture ever imagined and a thousand too depraved to be spoken aloud
+
+are inflicted onto them and their very soul. At last the screaming stops and a few smouldering,
+
+broken, bloody pieces of $N fall to the ground, smoke and pain slowly rising. 
+
+~
+End
+
+#SLAY
+Type		alien~
+Owner		vash~
+Color		0
+Cmessage	You brutally slay $N!
+
+You crawl down the throat of your victim and chew your way out of their stomache! Gross!
+
+~
+Vmessage	$n chops you up into little pieces!~
+Rmessage	$n brutally slays $N!
+
+~
+End
+
+#SLAY
+Type		de-evolution~
+Owner		Darwin~
+Color		25
+Cmessage	You pluck a hair from $N's head and begin to unravel $N's DNA.
+
+~
+Vmessage	$n plucks a hair from your body. Seconds later you feel your molecules to
+
+begin pulling apart from each other as your DNA begins to unravel.
+
+Everything begins to fade to black...
+
+~
+Rmessage	$n plucks a hair from $N. Seconds later, $N is nothing more than a
+
+small puddle of goo on the ground.
+
+~
+End
+
+#END

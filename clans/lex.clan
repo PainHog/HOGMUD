@@ -1,0 +1,301 @@
+#CLAN
+Name         Light~
+Filename     lex.clan~
+Motto        ~
+Description  Shoulder to shoulder we stand protecting our lands, our way of life~
+Deity        ~
+Leader       ~
+NumberOne    ~
+NumberTwo    ~
+Badge        ~
+Leadrank     ~
+Onerank      ~
+Tworank      ~
+PKillRangeNew   0 1 2 15 2 10 2
+PDeathRangeNew  0 0 2 5 2 7 1
+MKills       12388
+MDeaths      73
+IllegalPK    4
+Score        0
+Type         0
+Class        0
+Favour       0
+Strikes      0
+Members      0
+MemLimit     0
+Balance	   100000
+Alignment    1000
+Board        3753
+ClanObjOne   3655
+ClanObjTwo   0
+ClanObjThree 0
+ClanObjFour  0
+ClanObjFive  3799
+Recall       3691
+Storeroom    3692
+GuardOne     0
+GuardTwo     0
+End
+
+#ROSTER
+Name      ~
+Joined    0
+Class     mage~
+Level     0
+Kills     0
+Deaths    0
+End
+
+#ROSTER
+Name      Arlora~
+Joined    1368547393
+Class     bishop~
+Level     50
+Kills     0
+Deaths    0
+End
+
+#ROSTER
+Name      Gandalug~
+Joined    1368547482
+Class     monk~
+Level     57
+Kills     4
+Deaths    0
+End
+
+#ROSTER
+Name      Kindoma~
+Joined    1368547992
+Class     cleric~
+Level     50
+Kills     4523
+Deaths    2
+End
+
+#ROSTER
+Name      Harkuva~
+Joined    1368548094
+Class     monk~
+Level     15
+Kills     360
+Deaths    1
+End
+
+#ROSTER
+Name      Harlok~
+Joined    1368582026
+Class     conjurer~
+Level     10
+Kills     68
+Deaths    2
+End
+
+#ROSTER
+Name      Eragon~
+Joined    1413528008
+Class     conjurer~
+Level     47
+Kills     117
+Deaths    3
+End
+
+#ROSTER
+Name      Pain~
+Joined    1413528479
+Class     mage~
+Level     65
+Kills     528
+Deaths    0
+End
+
+#ROSTER
+Name      Suffer~
+Joined    1413790312
+Class     champion~
+Level     50
+Kills     2041
+Deaths    12
+End
+
+#ROSTER
+Name      Barakis~
+Joined    1413954002
+Class     archmagi~
+Level     50
+Kills     8979
+Deaths    77
+End
+
+#ROSTER
+Name      Ceryn~
+Joined    1414040147
+Class     mage~
+Level     50
+Kills     10
+Deaths    0
+End
+
+#ROSTER
+Name      Vendetta~
+Joined    1414041971
+Class     jester~
+Level     11
+Kills     182
+Deaths    0
+End
+
+#ROSTER
+Name      Granger~
+Joined    1414125092
+Class     bishop~
+Level     50
+Kills     13
+Deaths    3
+End
+
+#ROSTER
+Name      Brock~
+Joined    1414811412
+Class     warrior~
+Level     13
+Kills     370
+Deaths    7
+End
+
+#ROSTER
+Name      Sparhawk~
+Joined    1415084188
+Class     rogue~
+Level     50
+Kills     6
+Deaths    0
+End
+
+#ROSTER
+Name      Naz~
+Joined    1415090708
+Class     rogue~
+Level     50
+Kills     92
+Deaths    2
+End
+
+#ROSTER
+Name      Flint~
+Joined    1415090815
+Class     conjurer~
+Level     6
+Kills     118
+Deaths    3
+End
+
+#ROSTER
+Name      Sorven~
+Joined    1415589820
+Class     mage~
+Level     50
+Kills     481
+Deaths    5
+End
+
+#ROSTER
+Name      Oetharm~
+Joined    1418127625
+Class     diabolist~
+Level     64
+Kills     28
+Deaths    0
+End
+
+#ROSTER
+Name      Barakis~
+Joined    1418446483
+Class     archmagi~
+Level     50
+Kills     5575
+Deaths    54
+End
+
+#ROSTER
+Name      Drendell~
+Joined    1420397197
+Class     rogue~
+Level     50
+Kills     165
+Deaths    0
+End
+
+#ROSTER
+Name      Kindoma~
+Joined    1421377978
+Class     cleric~
+Level     50
+Kills     4522
+Deaths    2
+End
+
+#ROSTER
+Name      Seraph~
+Joined    1456919205
+Class     mage~
+Level     56
+Kills     4
+Deaths    0
+End
+
+#ROSTER
+Name      Troy~
+Joined    1457667537
+Class     warrior~
+Level     50
+Kills     1340
+Deaths    5
+End
+
+#ROSTER
+Name      Cormac~
+Joined    1476230901
+Class     warrior~
+Level     52
+Kills     0
+Deaths    0
+End
+
+#ROSTER
+Name      Krithak~
+Joined    1477351894
+Class     ranger~
+Level     10
+Kills     99
+Deaths    0
+End
+
+#ROSTER
+Name      Raijn~
+Joined    1477531943
+Class     cleric~
+Level     9
+Kills     67
+Deaths    1
+End
+
+#ROSTER
+Name      Nathaniel~
+Joined    1477621402
+Class     mage~
+Level     37
+Kills     2613
+Deaths    18
+End
+
+#ROSTER
+Name      Xore~
+Joined    1477644774
+Class     cleric~
+Level     5
+Kills     14
+Deaths    0
+End
+
+#END

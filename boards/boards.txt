@@ -1,0 +1,180 @@
+Filename          immortal.brd~
+Vnum              3750
+Min_read_level    51
+Min_post_level    51
+Min_remove_level  65
+Max_posts         100
+Type 	           0
+Read_group        ~
+Post_group        ~
+Extra_readers     ~
+Extra_removers    ~
+OCopymessg	   $n copies a note.~
+OListmessg	   $n looks at the notes~
+OPostmessg	   $n posts a note.~
+ORemovemessg      $n removes a note.~
+OTakemessg	   $n takes a note.~
+Postmessg	   You post a note.~
+End
+Filename          highgod.brd~
+Vnum              1201
+Min_read_level    54
+Min_post_level    52
+Min_remove_level  59
+Max_posts         50
+Type 	           0
+Read_group        ~
+Post_group        ~
+Extra_readers     ~
+Extra_removers    ~
+End
+Filename          notes.brd~
+Vnum              21090
+Min_read_level    2
+Min_post_level    2
+Min_remove_level  53
+Max_posts         200
+Type 	           0
+Read_group        ~
+Post_group        ~
+Extra_readers     ~
+Extra_removers    ~
+End
+Filename          carnage.brd~
+Vnum              3663
+Min_read_level    1
+Min_post_level    1
+Min_remove_level  50
+Max_posts         50
+Type 	           0
+Read_group        ~
+Post_group        ~
+Extra_readers     ~
+Extra_removers    ~
+OCopymessg	   $n copies a note.~
+OListmessg	   $n looks at the notes~
+OPostmessg	   $n posts a note.~
+ORemovemessg      $n removes a note.~
+OTakemessg	   $n takes a note.~
+Postmessg	   You post a note.~
+End
+Filename          scion.brd~
+Vnum              3675
+Min_read_level    1
+Min_post_level    1
+Min_remove_level  50
+Max_posts         100
+Type 	           0
+Read_group        ~
+Post_group        ~
+Extra_readers     ~
+Extra_removers    ~
+OCopymessg	   $n copies a note.~
+OListmessg	   $n looks at the notes~
+OPostmessg	   $n posts a note.~
+ORemovemessg      $n removes a note.~
+OTakemessg	   $n takes a note.~
+Postmessg	   You post a note.~
+End
+Filename          blade.brd~
+Vnum              3754
+Min_read_level    1
+Min_post_level    1
+Min_remove_level  50
+Max_posts         50
+Type 	           0
+Read_group        ~
+Post_group        ~
+Extra_readers     ~
+Extra_removers    ~
+OCopymessg	   $n copies a note.~
+OListmessg	   $n looks at the notes~
+OPostmessg	   $n posts a note.~
+ORemovemessg      $n removes a note.~
+OTakemessg	   $n takes a note.~
+Postmessg	   You post a note.~
+End
+Filename          wisdom.brd~
+Vnum              3754
+Min_read_level    1
+Min_post_level    1
+Min_remove_level  50
+Max_posts         50
+Type 	           0
+Read_group        ~
+Post_group        ~
+Extra_readers     ~
+Extra_removers    ~
+OCopymessg	   $n copies a note.~
+OListmessg	   $n looks at the notes~
+OPostmessg	   $n posts a note.~
+ORemovemessg      $n removes a note.~
+OTakemessg	   $n takes a note.~
+Postmessg	   You post a note.~
+End
+Filename          warboard.brd~
+Vnum              21212
+Min_read_level    1
+Min_post_level    1
+Min_remove_level  65
+Max_posts         100
+Type 	           0
+Read_group        ~
+Post_group        ~
+Extra_readers     ~
+Extra_removers    ~
+End
+Filename          hitlist.brd~
+Vnum              3660
+Min_read_level    1
+Min_post_level    1
+Min_remove_level  50
+Max_posts         50
+Type 	           0
+Read_group        ~
+Post_group        ~
+Extra_readers     ~
+Extra_removers    ~
+End
+Filename          brood.brd~
+Vnum              3663
+Min_read_level    0
+Min_post_level    0
+Min_remove_level  50
+Max_posts         50
+Type 	           0
+Read_group        ~
+Post_group        ~
+Extra_readers     ~
+Extra_removers    ~
+End
+Filename          pain~
+Vnum              3677
+Min_read_level    54
+Min_post_level    52
+Min_remove_level  59
+Max_posts         50
+Type 	           0
+Read_group        ~
+Post_group        ~
+Extra_readers     ~
+Extra_removers    ~
+End
+Filename          chwarboard.brd~
+Vnum              3678
+Min_read_level    1
+Min_post_level    1
+Min_remove_level  50
+Max_posts         100
+Type 	           0
+Read_group        ~
+Post_group        ~
+Extra_readers     ~
+Extra_removers    ~
+OCopymessg	   $n copies a note.~
+OListmessg	   $n looks at the notes~
+OPostmessg	   $n posts a note.~
+ORemovemessg      $n removes a note.~
+OTakemessg	   $n takes a note.~
+Postmessg	   You post a note.~
+End

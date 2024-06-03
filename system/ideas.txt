@@ -1,0 +1,67 @@
+[21009] Torebere: mobm restarting and when you log or hotboot and get those strange messages how about a command to let you stop the mobm but you still get hit for the same amount of time
+[21009] Torebere: thinking that should help fix the problem with needing to reset the mobm anyway ... same time to wait just a to clean your list I suppose
+[21009] Torebere: if joey checks char ali's have him ask something else of good and neutral players just can't see them preforming assassintaions on another good mob
+[ 3807] Krysta: Maybe make it so a mage has some way to heal them selves, like all the other magic classes?
+[21009] Torebere: not that it's a big thing but you can't deposit 10k it must be 10000 same as withdraw
+[21018] Grismal: last 0
+[  930] Melisande: Quest items should automatically have keyword quest, so people can remove all.quest and wear all.quest.
+[21001] Suffer: list
+[21001] Suffer: psh :P
+[21001] Torebere: I don't know if a player is assigned a vnum of some type I forget ... but instead of giving quest items to a player name give it to the player vnum so if they recreate it no longer assigns to them
+[11075] Melisande: Why not have a person's battle prompt automatically be set to whatever he set his regular prompt to?
+[11034] Melisande: Mobm quit: should take into account the minutes already used up by player before deciding to quit, rather than penalize for a late quitting decision
+[21020] Melisande: Training hp or mana should give 10hp or 10mana per turn, not just 1hp or 1mana. 1 is rather useless, so require 500 glory instead of 100, and make it 10HP and 10mana!
+[ 3674] Melisande: recasting a spell on yourself that is already active, ie. if blessed, you normally fail being blessed again...instead of failing the cast, just have the new cast replace the old one, ie. old bless autodrops and new bless comes up
+[21001] Fury: list
+[14102] Torebere: New spell Hold portal: extends the life of a portal ... or temperarily closes an exit
+[21001] Melisande: There should be some command like 'home' that takes you to the entrance of your dwelling, if you have bought one.
+[ 2567] Moyer: Why doesn't true sight be removed or revamped from clerics and give them detect invis since they get everything else true sight does
+[14173] Torebere: spell mana burn for mages drains mana from opponant and restores them to caster
+[ 5224] Jero: Thought maybe since mages get knock to unlock, why dont they get remove trap... just a thought
+[ 3674] Jero: have a feeling the reason hasnt been so many people around, is mobm's are only 150 glory per after you get 200. with special skills being 15,000 at the least that is 100 mobms not counting the ones that are more. just a thought. but understand dont 
+[ 3674] Jero: just a thought. but understand dont want to make it easy either.
+[21001] Soloman: list
+[21001] Onyx: maybe make it so conjurores dont lose eq when they die, speing 3 hours making a set then dieing and loosing it sucks
+[  146] Korzak: a command called terrain, lets you know if you in a sea, forest, plains, indoor etc
+[21001] Pyre: list
+[21009] Torebere: The game tag ... you can run around and tag someone putting an <it> flag on them ... being it does nothing else other then that your it and need to tag someone else
+[21009] Torebere: slash all ... for warriors used once in a fight command attacks all mobs in the room getting harder and harder to hit after the first mob if misses onece no more checks
+[21009] Torebere: instead of meditation and trance be a command you must enter over and over ... have it as a sleep or rest state that you regen the mana faster
+[21009] Torebere: New spell: aura shift ... enchantment that either permanantly shifts the ali of a char ... this causes damage to the char's who's ali was shifted
+[ 3703] Torebere: spell rejuvinate enchantment that increses hp and mana gain
+[21009] Torebere: after hitting avatar perhaps xp gain could translate to glory since xp don't do anything for us anymore ... possibly 1% of mobs xp?
+[21009] Torebere: once you make avatar perhaps a very very small percentage of xp gained could become glory instead like 1%'ish
+[  563] Ashtaroth: spell silence ... either room affect or person affect ... no spells cast in room or by person
+[21009] Torebere: if you cast the spell on your self (armor shield etc ...) then there is no time it just lasts but can still be dispeled ... if you have the spell caset on you by someone else then there is a timer
+[21009] Torebere: possibly let the classes that have to have components for their spells they get to start with a small pouch with some components to help get them started
+[21009] Torebere: spell blink ... displaces the person that has the enchantment placed on them lowering ac
+[21009] Torebere: spell mirror image ... creates a duplicate of the caster lowering ac and damage
+[21009] Torebere: spell Holy grounds temerarialy bless the room to your god making it a safe room for a short time
+[21009] Torebere: joey needs to charge as well as glory for items or upgrades if that's going to get used ... how does he pay for all of his contracts anyway
+[ 3671] Sainrith: holylight should include the ability to see like true seeing ... or what ever the godsight thing is
+[21009] Torebere: spell astral form just makes it Very dificult that has it on
+[21009] Torebere: umm ok I don't know where my head went with that last idea but Astral form makes it very difficult to hit the person that has it on
+[ 3671] Sainrith: would yah mind killing the idel timer for imms?
+[21009] Torebere: New quest ... Joey gives and item to give to someone else! like another shopie
+[21009] Torebere: wizard mark ... lets a mage mark a room/object/person/etc ... this mark is for teleport and telescape kinda helps to possibly make it to that location
+[21009] Torebere: when a godling has granted you sight add something next to the name like (GS) so we also know not to anounce you all publicly
+[21009] Torebere: skill like enhanced damage or enhanced hit ... enhanced spelldamage
+[21001] Farg: list
+[21009] Vra: list
+[21001] Farg: list
+[ 3694] Grack: just curious why clerics portal/astral walk spell <solar flight> is only during the day... couldnt is be solar/lunar flight so could do it anytime?
+[ 3694] Grack: solar flight is very limited spell, only can go to things outside, and during the day. unlike many of the classes similar spells. So I think it would be nice to make the spell able to use anytime, not just during daylight. could use lunar as well as
+[ 3694] Grack: and during the day. unlike many of the classes similar spells. So I think it would be nice to make the spell able to use anytime, not just during daylight. could use lunar as well as solar.. Thanks 
+[ 3694] Grack: I know you have taken away the healers casting mana because was giving to much mana, when one person was in there at a time... but am curious if could give the healers the mana spell back... But at a reduced rate... it takes some of us a very long t
+[ 3694] Grack: but am curious if could give the healers the mana spell back... But at a reduced rate... it takes some of us a very long time to regen... Just a idea... Thank Grack/Jero
+[ 3694] Grack: sorry my idea's are so long have to put in two parts <blush>
+[21001] Vra: list
+[ 3674] Vra: list
+[21001] Vra: a thing with 2 things, like a double guitar
+[21005] Vra: 8===D~~~~
+[ 3691] Tish: I think Clerics being the healers of the lands should be granted the ability to Summon a corpse of a dead player. For the higher level players who manage to get into a bad situation it can be frustrating trying to retrieve their corpse when they can
+[21005] Angel: your mass way cahel?
+[21005] Angel: your dont wanna help in despend,cahel,its for the mud?
+[21001] Soloman: how about new legendary that adds alot of spell damage. since you have one for hr/dr. magic classes normally dont use hr/dr
+[ 3674] Vra: list
+[21009] Aahz: Shouldn't Lizardmen be able to speak reptilian?

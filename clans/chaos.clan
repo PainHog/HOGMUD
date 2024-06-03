@@ -1,0 +1,679 @@
+#CLAN
+Name         The Chaos Horde~
+Filename     chaos.clan~
+Motto        ~
+Description  Zmaiel and his worshippers are Evil.~
+Deity        Eaven~
+Leader       ~
+NumberOne    zeriak~
+NumberTwo    ~
+Badge        ~
+Leadrank     &zS&wo&zu&wl &zR&we&za&wp&ze&wr~
+Onerank      &rHell&zbringer~
+Tworank      &C -)&Y Elder &C(- &D~
+PKillRangeNew   0 0 1 6 0 0 1
+PDeathRangeNew  0 0 0 19 1 0 0
+MKills       100405
+MDeaths      832
+IllegalPK    0
+Score        0
+Type         0
+Class        0
+Favour       0
+Strikes      0
+Members      2
+MemLimit     0
+Balance	   10576651
+Alignment    -1000
+Board        3754
+ClanObjOne   3657
+ClanObjTwo   0
+ClanObjThree 0
+ClanObjFour  0
+ClanObjFive  3799
+Recall       3691
+Storeroom    3692
+GuardOne     0
+GuardTwo     0
+End
+
+#ROSTER
+Name      Jaren~
+Joined    1111592985
+Class     warrior~
+Level     55
+Kills     3712
+Deaths    84
+End
+
+#ROSTER
+Name      Krill~
+Joined    1116986857
+Class     cleric~
+Level     11
+Kills     642
+Deaths    5
+End
+
+#ROSTER
+Name      Korwyn~
+Joined    1117052240
+Class     mage~
+Level     7
+Kills     54
+Deaths    2
+End
+
+#ROSTER
+Name      Silvanas~
+Joined    1117635556
+Class     warrior~
+Level     7
+Kills     99
+Deaths    5
+End
+
+#ROSTER
+Name      Simeon~
+Joined    1117870434
+Class     warrior~
+Level     48
+Kills     31865
+Deaths    221
+End
+
+#ROSTER
+Name      Syeira~
+Joined    1119109296
+Class     mage~
+Level     14
+Kills     340
+Deaths    6
+End
+
+#ROSTER
+Name      Sharal~
+Joined    1119117850
+Class     warrior~
+Level     10
+Kills     423
+Deaths    2
+End
+
+#ROSTER
+Name      Mystical~
+Joined    1119820919
+Class     thief~
+Level     10
+Kills     192
+Deaths    0
+End
+
+#ROSTER
+Name      Korwyn~
+Joined    1119997425
+Class     cleric~
+Level     5
+Kills     28
+Deaths    0
+End
+
+#ROSTER
+Name      Ira~
+Joined    1120272893
+Class     warrior~
+Level     5
+Kills     36
+Deaths    1
+End
+
+#ROSTER
+Name      Silvanas~
+Joined    1121565201
+Class     warrior~
+Level     5
+Kills     37
+Deaths    2
+End
+
+#ROSTER
+Name      Krom~
+Joined    1123902029
+Class     mage~
+Level     50
+Kills     8100
+Deaths    120
+End
+
+#ROSTER
+Name      Shaedowyn~
+Joined    1124263364
+Class     conjurer~
+Level     6
+Kills     88
+Deaths    1
+End
+
+#ROSTER
+Name      Helo~
+Joined    1124334799
+Class     warrior~
+Level     12
+Kills     368
+Deaths    3
+End
+
+#ROSTER
+Name      Kaboom~
+Joined    1124657929
+Class     shaman~
+Level     46
+Kills     12672
+Deaths    48
+End
+
+#ROSTER
+Name      Jugger~
+Joined    1126797236
+Class     ranger~
+Level     39
+Kills     21502
+Deaths    152
+End
+
+#ROSTER
+Name      Selethor~
+Joined    1127348224
+Class     shaman~
+Level     20
+Kills     1430
+Deaths    12
+End
+
+#ROSTER
+Name      Joel~
+Joined    1127352395
+Class     cleric~
+Level     8
+Kills     134
+Deaths    0
+End
+
+#ROSTER
+Name      Necron~
+Joined    1127352889
+Class     thief~
+Level     5
+Kills     28
+Deaths    2
+End
+
+#ROSTER
+Name      Saydur~
+Joined    1127429421
+Class     monk~
+Level     9
+Kills     221
+Deaths    6
+End
+
+#ROSTER
+Name      Yin~
+Joined    1127791724
+Class     monk~
+Level     12
+Kills     676
+Deaths    9
+End
+
+#ROSTER
+Name      Merril~
+Joined    1127793833
+Class     mage~
+Level     6
+Kills     56
+Deaths    3
+End
+
+#ROSTER
+Name      Greiver~
+Joined    1127952444
+Class     ranger~
+Level     9
+Kills     125
+Deaths    0
+End
+
+#ROSTER
+Name      Nanaki~
+Joined    1128211058
+Class     ranger~
+Level     8
+Kills     198
+Deaths    3
+End
+
+#ROSTER
+Name      Jeice~
+Joined    1128239491
+Class     warrior~
+Level     16
+Kills     1005
+Deaths    5
+End
+
+#ROSTER
+Name      Raistlin~
+Joined    1128275202
+Class     diabolist~
+Level     7
+Kills     14
+Deaths    1
+End
+
+#ROSTER
+Name      Grack~
+Joined    1128343974
+Class     cleric~
+Level     27
+Kills     980
+Deaths    8
+End
+
+#ROSTER
+Name      Kite~
+Joined    1128959347
+Class     ranger~
+Level     9
+Kills     217
+Deaths    4
+End
+
+#ROSTER
+Name      Tarnis~
+Joined    1129058642
+Class     mage~
+Level     15
+Kills     577
+Deaths    18
+End
+
+#ROSTER
+Name      Rodrang~
+Joined    1129427458
+Class     warrior~
+Level     22
+Kills     1668
+Deaths    6
+End
+
+#ROSTER
+Name      Fear~
+Joined    1129499573
+Class     monk~
+Level     8
+Kills     235
+Deaths    4
+End
+
+#ROSTER
+Name      Tartharis~
+Joined    1129580344
+Class     thug~
+Level     5
+Kills     41
+Deaths    2
+End
+
+#ROSTER
+Name      Aiden~
+Joined    1129932567
+Class     monk~
+Level     11
+Kills     564
+Deaths    0
+End
+
+#ROSTER
+Name      Astarioth~
+Joined    1130674606
+Class     shaman~
+Level     6
+Kills     59
+Deaths    2
+End
+
+#ROSTER
+Name      Sarah~
+Joined    1130872107
+Class     monk~
+Level     13
+Kills     682
+Deaths    4
+End
+
+#ROSTER
+Name      Baldur~
+Joined    1131168025
+Class     druid~
+Level     22
+Kills     1664
+Deaths    14
+End
+
+#ROSTER
+Name      Jeremiah~
+Joined    1132368473
+Class     shaman~
+Level     5
+Kills     38
+Deaths    3
+End
+
+#ROSTER
+Name      Never~
+Joined    1132368494
+Class     cleric~
+Level     8
+Kills     243
+Deaths    0
+End
+
+#ROSTER
+Name      Korzak~
+Joined    1132945898
+Class     druid~
+Level     46
+Kills     6396
+Deaths    77
+End
+
+#ROSTER
+Name      Kenya~
+Joined    1133059813
+Class     mage~
+Level     14
+Kills     522
+Deaths    13
+End
+
+#ROSTER
+Name      Kaith~
+Joined    1133747672
+Class     thug~
+Level     7
+Kills     143
+Deaths    4
+End
+
+#ROSTER
+Name      Vulken~
+Joined    1133989494
+Class     warrior~
+Level     5
+Kills     69
+Deaths    0
+End
+
+#ROSTER
+Name      Asik~
+Joined    1134188732
+Class     thug~
+Level     7
+Kills     85
+Deaths    1
+End
+
+#ROSTER
+Name      Feldrid~
+Joined    1134767440
+Class     warrior~
+Level     8
+Kills     196
+Deaths    2
+End
+
+#ROSTER
+Name      Pomas~
+Joined    1135356627
+Class     monk~
+Level     25
+Kills     1204
+Deaths    28
+End
+
+#ROSTER
+Name      Shrealla~
+Joined    1135412474
+Class     thief~
+Level     11
+Kills     400
+Deaths    7
+End
+
+#ROSTER
+Name      Wickawan~
+Joined    1135625007
+Class     ranger~
+Level     11
+Kills     224
+Deaths    6
+End
+
+#ROSTER
+Name      Maligor~
+Joined    1135636214
+Class     diabolist~
+Level     10
+Kills     326
+Deaths    5
+End
+
+#ROSTER
+Name      Alodar~
+Joined    1136724928
+Class     monk~
+Level     5
+Kills     59
+Deaths    1
+End
+
+#ROSTER
+Name      Mylynes~
+Joined    1136733654
+Class     warrior~
+Level     8
+Kills     196
+Deaths    1
+End
+
+#ROSTER
+Name      Levon~
+Joined    1137605843
+Class     mage~
+Level     30
+Kills     4052
+Deaths    31
+End
+
+#ROSTER
+Name      Jyri~
+Joined    1137718208
+Class     thief~
+Level     11
+Kills     471
+Deaths    3
+End
+
+#ROSTER
+Name      Mina~
+Joined    1138048131
+Class     diabolist~
+Level     9
+Kills     245
+Deaths    2
+End
+
+#ROSTER
+Name      Angel~
+Joined    1138373100
+Class     warrior~
+Level     50
+Kills     11980
+Deaths    346
+End
+
+#ROSTER
+Name      Gabrielle~
+Joined    1138404663
+Class     druid~
+Level     5
+Kills     26
+Deaths    0
+End
+
+#ROSTER
+Name      Hagatha~
+Joined    1138404699
+Class     warrior~
+Level     9
+Kills     328
+Deaths    4
+End
+
+#ROSTER
+Name      Agatha~
+Joined    1138424368
+Class     warrior~
+Level     10
+Kills     198
+Deaths    6
+End
+
+#ROSTER
+Name      Shyion~
+Joined    1138919664
+Class     mage~
+Level     6
+Kills     127
+Deaths    5
+End
+
+#ROSTER
+Name      Krill~
+Joined    1139021964
+Class     cleric~
+Level     5
+Kills     34
+Deaths    0
+End
+
+#ROSTER
+Name      Elushin~
+Joined    1139591551
+Class     conjurer~
+Level     13
+Kills     577
+Deaths    14
+End
+
+#ROSTER
+Name      Lylith~
+Joined    1416735578
+Class     diabolist~
+Level     55
+Kills     0
+Deaths    0
+End
+
+#ROSTER
+Name      Zmaiel~
+Joined    1421244077
+Class     diabolist~
+Level     56
+Kills     1
+Deaths    0
+End
+
+#ROSTER
+Name      Zeriak~
+Joined    1421380666
+Class     champion~
+Level     50
+Kills     128
+Deaths    2
+End
+
+#ROSTER
+Name      Kindoma~
+Joined    1421466039
+Class     cleric~
+Level     50
+Kills     645
+Deaths    2
+End
+
+#ROSTER
+Name      Mother~
+Joined    1421562568
+Class     rogue~
+Level     50
+Kills     1984
+Deaths    7
+End
+
+#ROSTER
+Name      Katana~
+Joined    1421727360
+Class     warrior~
+Level     30
+Kills     1912
+Deaths    3
+End
+
+#ROSTER
+Name      Heartless~
+Joined    1422045630
+Class     bishop~
+Level     18
+Kills     153
+Deaths    1
+End
+
+#ROSTER
+Name      Milo~
+Joined    1456107674
+Class     jester~
+Level     54
+Kills     0
+Deaths    0
+End
+
+#ROSTER
+Name      Syn~
+Joined    1456366202
+Class     rogue~
+Level     6
+Kills     14
+Deaths    2
+End
+
+#ROSTER
+Name      Eaven~
+Joined    1456516367
+Class     mage~
+Level     56
+Kills     10
+Deaths    0
+End
+
+#ROSTER
+Name      Alacrot~
+Joined    1457678236
+Class     monk~
+Level     5
+Kills     10
+Deaths    0
+End
+
+#END

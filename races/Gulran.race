@@ -1,0 +1,61 @@
+Name        Gulran~
+Race        19
+Classes     63111
+Str_Plus    3
+Dex_Plus    -2
+Wis_Plus    2
+Int_Plus    -2
+Con_Plus    4
+Cha_Plus    -2
+Lck_Plus    -1
+Hit         20
+Mana        10
+Affected    0
+Resist      8240
+Suscept     1048584
+Language    0
+Align       0
+Min_Align  -1000
+Max_Align	1000
+AC_Plus    0
+Exp_Mult   90
+Attacks    0
+Defenses   0
+Height     96
+Weight     450
+Hunger_Mod  0
+Thirst_mod  0
+Mana_Regen  -16056
+HP_Regen    2357
+Race_Recall 0
+WhereName  &R<&Gused as &Wlight&R>&G     ~
+WhereName  &R<&Gworn on &Chead&R>&G      ~
+WhereName  &R<&Gworn on &Ceyes&R>&G      ~
+WhereName  &R<&Gworn on &Cears&R>&G      ~
+WhereName  &R<&Gworn on &Cface&R>&G      ~
+WhereName  &R<&Gworn around &Cneck&R>&G  ~
+WhereName  &R<&Gworn around &Cneck&R>&G  ~
+WhereName  &R<&Gworn on &Cbody&R>&G      ~
+WhereName  &R<&Gworn on &Carms&R>&G      ~
+WhereName  &R<&Gworn around &Cwrist&R>&G ~
+WhereName  &R<&Gworn around &Cwrist&R>&G ~
+WhereName  &R<&Gworn on &Chands&R>&G     ~
+WhereName  &R<&Gworn on &Cfinger&R>&G    ~
+WhereName  &R<&Gworn on &Cfinger&R>&G    ~
+WhereName  &R<&Gworn &Cabout body&R>&G   ~
+WhereName  &R<&Gworn on &Cback&R>&G      ~
+WhereName  &R<&Gworn around &Cwaist&R>&G ~
+WhereName  &R<&Gworn on &Clegs&R>&G      ~
+WhereName  &R<&Gworn around &Cankle&R>&G ~
+WhereName  &R<&Gworn around &Cankle&R>&G ~
+WhereName  &R<&Gworn on &Cfeet&R>&G      ~
+WhereName  &R<&Ywielded&R>&G           ~
+WhereName  &R<&Ydual wielded&R>&G      ~
+WhereName  &R<&Gheld as &Cshield&R>&G    ~
+WhereName  &R<&Yheld&R>&G              ~
+WhereName  &R<&Gworn with &Cpride&R>&G   ~
+WhereName  &R<&Gworn with &Cpride&R>&G   ~
+WhereName  &R<&Gsurrounding &Yaura&R>&G  ~
+WhereName  (null)~
+WhereName  (null)~
+End

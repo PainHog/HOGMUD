@@ -1,0 +1,20 @@
+[*****] BUG: Get_room_index: bad vnum 6220.
+[*****] BUG: Deleting south exit in room 7601
+[*****] BUG: Mpat - No such location, Mob #4312.
+[*****] BUG: Char_to_room: daemon guardian -> NULL room!  Putting char in limbo (2)
+[*****] BUG: Mpat - No such location, Mob #3048.
+[*****] BUG: Damage: 903 more than 780 points!
+[*****] BUG: ** Zaishara (lvl 13) -> guard armored captain **
+[*****] BUG: Char_to_room: daemon guardian -> NULL room!  Putting char in limbo (2)
+[*****] BUG: Mpat - No such location, Mob #3048.
+[*****] BUG: max_prog_nest exceeded., Mob #21064.
+[*****] BUG: Mpat - No such location, Mob #3048.
+[*****] BUG: Mpat - No such location, Mob #2529.
+[*****] BUG: Mpat - No such location, Mob #2530.
+[*****] BUG: Mpat - No such location, Mob #2531.
+[*****] BUG: Mpat - No such location, Mob #2532.
+[*****] BUG: Mpat - No such location, Mob #2529.
+[*****] BUG: Mpat - No such location, Mob #2530.
+[*****] BUG: Mpat - No such location, Mob #2531.
+[*****] BUG: Mpat - No such location, Mob #2532.
+[*****] BUG: Char_to_room: daemon guardian -> NULL room!  Putting char in limbo (2)

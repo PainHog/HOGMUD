@@ -1,0 +1,437 @@
+Sun Jun  2 06:50:10 2024 :: Initializing Lua
+Sun Jun  2 06:50:10 2024 :: Booting Database
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Sun Jun  2 06:50:10 2024 :: [*****] BOOT: ---------------------[ Boot Log ]--------------------
+Sun Jun  2 06:50:10 2024 :: Loading commands
+Sun Jun  2 06:50:10 2024 :: Loading sysdata configuration...
+Sun Jun  2 06:50:10 2024 :: [*****] BUG: Fread_sysdata: no match: Rent
+Sun Jun  2 06:50:10 2024 :: [*****] BUG: Fread_sysdata: no match: 0
+Sun Jun  2 06:50:10 2024 :: Loading socials
+Sun Jun  2 06:50:10 2024 :: Loading skill table
+Sun Jun  2 06:50:10 2024 :: Sorting skill table...
+Sun Jun  2 06:50:10 2024 :: Remapping slots to sns
+Sun Jun  2 06:50:10 2024 :: Loading classes
+Sun Jun  2 06:50:10 2024 :: Loading races
+Sun Jun  2 06:50:10 2024 :: Loading liquids
+Sun Jun  2 06:50:10 2024 :: Loading mixtures
+Sun Jun  2 06:50:10 2024 :: Loading herb table
+Sun Jun  2 06:50:10 2024 :: Loading tongues
+Sun Jun  2 06:50:10 2024 :: Making wizlist
+Sun Jun  2 06:50:10 2024 :: Initializing random number generator
+Sun Jun  2 06:50:10 2024 :: Setting time and weather
+Sun Jun  2 06:50:10 2024 :: Assigning gsn's
+ASSIGN_GSN: Skill craft not found.
+ASSIGN_GSN: Skill grind not found.
+ASSIGN_GSN: Skill polish not found.
+Sun Jun  2 06:50:10 2024 :: Reading in area files...
+(help.are)
+Sun Jun  2 06:50:10 2024 :: Loading new economy
+universe.are  : Rooms: 29000 - 30000 Objs: 29000 - 30000 Mobs: 29000 - 30000
+Sun Jun  2 06:50:10 2024 :: Loading new economy
+limbo.are     : Rooms:     1 - 99    Objs:     2 - 99    Mobs:     1 - 99
+Sun Jun  2 06:50:10 2024 :: Loading new economy
+templearea.are: Rooms:  3656 - 3800  Objs:  3656 - 3800  Mobs:  3651 - 3800
+Sun Jun  2 06:50:10 2024 :: Loading new economy
+drazuni.are   : Rooms: 10300 - 10499 Objs: 10300 - 10499 Mobs: 10300 - 10499
+Sun Jun  2 06:50:10 2024 :: Loading new economy
+drazville.are : Rooms: 21010 - 21500 Objs: 21011 - 21500 Mobs: 21001 - 21500
+Sun Jun  2 06:50:10 2024 :: Loading new economy
+eldforest.are : Rooms: 16000 - 16200 Objs: 16000 - 16200 Mobs: 16000 - 16200
+Sun Jun  2 06:50:10 2024 :: Loading new economy
+hchurch.are   : Rooms: 15000 - 15350 Objs: 15000 - 15350 Mobs: 15000 - 15350
+Sun Jun  2 06:50:10 2024 :: Loading new economy
+southroad.are : Rooms:   201 - 300   Objs:   201 - 300   Mobs:   201 - 300
+Sun Jun  2 06:50:10 2024 :: Loading new economy
+mtpass.are    : Rooms:   101 - 200   Objs:   101 - 200   Mobs:   101 - 200
+Sun Jun  2 06:50:10 2024 :: Loading new economy
+bladegrass.are: Rooms:  1001 - 1200  Objs:  1001 - 1200  Mobs:  1001 - 1200
+Sun Jun  2 06:50:10 2024 :: Loading new economy
+koboldcav.are : Rooms:  1201 - 1300  Objs:  1201 - 1300  Mobs:  1201 - 1300
+Sun Jun  2 06:50:10 2024 :: Loading new economy
+talondes.are  : Rooms:  1301 - 1500  Objs:  1301 - 1500  Mobs:  1301 - 1500
+Sun Jun  2 06:50:10 2024 :: Loading new economy
+glitcave.are  : Rooms:  1501 - 1600  Objs:  1501 - 1600  Mobs:  1501 - 1600
+Sun Jun  2 06:50:10 2024 :: Loading new economy
+greenpath.are : Rooms:   301 - 400   Objs:   301 - 400   Mobs:   301 - 400
+Sun Jun  2 06:50:10 2024 :: Loading new economy
+elenolos.are  : Rooms:  1601 - 1700  Objs:  1601 - 1700  Mobs:  1601 - 1700
+Sun Jun  2 06:50:10 2024 :: Loading new economy
+sea.are       : Rooms:  3001 - 3500  Objs:  3001 - 3500  Mobs:  3001 - 3500
+Sun Jun  2 06:50:10 2024 :: Loading new economy
+eareska.are   : Rooms:  1701 - 1800  Objs:  1701 - 1800  Mobs:  1701 - 1800
+Sun Jun  2 06:50:10 2024 :: Loading new economy
+bubblebog.are : Rooms:  1801 - 2000  Objs:  1801 - 2000  Mobs:  1801 - 2000
+Sun Jun  2 06:50:10 2024 :: Loading new economy
+tyrybblyn.are : Rooms:  2001 - 2150  Objs:  2001 - 2150  Mobs:  2001 - 2150
+Sun Jun  2 06:50:10 2024 :: Loading new economy
+underhill.are : Rooms:   401 - 499   Objs:   401 - 499   Mobs:   401 - 499
+Sun Jun  2 06:50:10 2024 :: Loading new economy
+spidforest.are: Rooms:   501 - 600   Objs:   501 - 600   Mobs:   501 - 600
+Sun Jun  2 06:50:10 2024 :: Loading new economy
+coralreef.are : Rooms:   601 - 650   Objs:   601 - 650   Mobs:   601 - 650
+Sun Jun  2 06:50:10 2024 :: Loading new economy
+plainsroad.are: Rooms:   701 - 800   Objs:   701 - 800   Mobs:   701 - 800
+Sun Jun  2 06:50:10 2024 :: Loading new economy
+boulderpass.are: Rooms:   801 - 950   Objs:   801 - 950   Mobs:   801 - 950
+Sun Jun  2 06:50:10 2024 :: Loading new economy
+ugrove.are    : Rooms:  4001 - 4100  Objs:  4001 - 4100  Mobs:  4001 - 4100
+Sun Jun  2 06:50:10 2024 :: Loading new economy
+flowergarden.are: Rooms:   651 - 700   Objs:   651 - 700   Mobs:   651 - 700
+Sun Jun  2 06:50:10 2024 :: Loading new economy
+huntground.are: Rooms:  2151 - 2250  Objs:  2151 - 2250  Mobs:  2151 - 2250
+Sun Jun  2 06:50:10 2024 :: Loading new economy
+toadstool.are : Rooms:   951 - 1000  Objs:   951 - 1000  Mobs:   951 - 1000
+Sun Jun  2 06:50:10 2024 :: Loading new economy
+ironholde.are : Rooms:  2251 - 2350  Objs:  2251 - 2350  Mobs:  2251 - 2350
+Sun Jun  2 06:50:10 2024 :: Loading new economy
+trialspain.are: Rooms: 14101 - 14300 Objs: 14102 - 14300 Mobs: 14101 - 14300
+Sun Jun  2 06:50:10 2024 :: Loading new economy
+clouds.are    : Rooms:  3801 - 3850  Objs:  3801 - 3850  Mobs:  3801 - 3850
+Sun Jun  2 06:50:10 2024 :: Loading new economy
+smokecaves.are: Rooms:  2351 - 2400  Objs:  2351 - 2400  Mobs:  2351 - 2400
+Sun Jun  2 06:50:10 2024 :: Loading new economy
+ihmines.are   : Rooms:  3851 - 3900  Objs:  3851 - 3900  Mobs:  3851 - 3900
+Sun Jun  2 06:50:10 2024 :: Loading new economy
+eastoasis.are : Rooms:  3901 - 4000  Objs:  3901 - 4000  Mobs:  3901 - 4000
+Sun Jun  2 06:50:10 2024 :: Loading new economy
+deepjungle.are: Rooms:  4101 - 4200  Objs:  4101 - 4200  Mobs:  4101 - 4200
+Sun Jun  2 06:50:10 2024 :: Loading new economy
+thornthiket.are: Rooms:  2401 - 2450  Objs:  2401 - 2450  Mobs:  2401 - 2450
+Sun Jun  2 06:50:10 2024 :: Loading new economy
+fangtemple.are: Rooms:  2451 - 2500  Objs:  2451 - 2500  Mobs:  2451 - 2500
+Sun Jun  2 06:50:10 2024 :: Loading new economy
+flayercaves.are: Rooms:  4201 - 4300  Objs:  4201 - 4300  Mobs:  4201 - 4300
+Sun Jun  2 06:50:10 2024 :: Loading new economy
+towermanos.are: Rooms:  4301 - 4600  Objs:  4301 - 4600  Mobs:  4301 - 4600
+Sun Jun  2 06:50:10 2024 :: Loading new economy
+laststand.are : Rooms:  4601 - 4700  Objs:  4601 - 4700  Mobs:  4601 - 4700
+Sun Jun  2 06:50:10 2024 :: Loading new economy
+srilaxa.are   : Rooms:  9800 - 9950  Objs:  9800 - 9950  Mobs:  9800 - 9950
+Sun Jun  2 06:50:10 2024 :: Loading new economy
+ancient.are   : Rooms:  9951 - 10100 Objs:  9951 - 10100 Mobs:  9951 - 10100
+Sun Jun  2 06:50:10 2024 :: Loading new economy
+jellyfish.are : Rooms:  2501 - 2700  Objs:  2501 - 2700  Mobs:  2501 - 2700
+Sun Jun  2 06:50:10 2024 :: Loading new economy
+desertercamp.are: Rooms:  4701 - 4800  Objs:  4701 - 4800  Mobs:  4701 - 4800
+Sun Jun  2 06:50:10 2024 :: Loading new economy
+easterncorridor.are: Rooms:  4801 - 4900  Objs:  4801 - 4900  Mobs:  4801 - 4900
+Sun Jun  2 06:50:10 2024 :: Loading new economy
+sahardin.are  : Rooms:  4901 - 5050  Objs:  4901 - 5050  Mobs:  4901 - 5050
+Sun Jun  2 06:50:10 2024 :: Loading new economy
+troll.are     : Rooms:  5051 - 5126  Objs:  5051 - 5074  Mobs:  5051 - 5126
+Sun Jun  2 06:50:10 2024 :: Loading new economy
+opiumroad.are : Rooms:  7000 - 7050  Objs:  7000 - 7050  Mobs:  7000 - 7050
+Sun Jun  2 06:50:10 2024 :: Loading new economy
+bazabel.are   : Rooms:  6000 - 6250  Objs:  6000 - 6250  Mobs:  6000 - 6250
+Sun Jun  2 06:50:10 2024 :: Loading new economy
+ageless.are   : Rooms: 14000 - 14100 Objs: 14000 - 14100 Mobs: 14000 - 14100
+Sun Jun  2 06:50:10 2024 :: Loading new economy
+fort.are      : Rooms:  5150 - 5200  Objs:  5150 - 5200  Mobs:  5150 - 5200
+Sun Jun  2 06:50:10 2024 :: Loading new economy
+kinter.are    : Rooms: 11000 - 11100 Objs: 11000 - 11100 Mobs: 11000 - 11100
+Sun Jun  2 06:50:10 2024 :: Loading new economy
+sorrow.are    : Rooms: 11101 - 11151 Objs: 11101 - 11201 Mobs: 11101 - 11122
+Sun Jun  2 06:50:10 2024 :: Loading new economy
+bear.are      : Rooms:  7051 - 7074  Objs:  7051 - 7056  Mobs:  7051 - 7063
+Sun Jun  2 06:50:10 2024 :: Loading new economy
+chicken.are   : Rooms:  7101 - 7157  Objs:  7101 - 7107  Mobs:  7101 - 7115
+Sun Jun  2 06:50:10 2024 :: Loading new economy
+ogrecamp.are  : Rooms:  7201 - 7256  Objs:  7201 - 7228  Mobs:  7201 - 7204
+Sun Jun  2 06:50:10 2024 :: Loading new economy
+fellowship.are: Rooms:  7301 - 7350  Objs:  7301 - 7400  Mobs:  7301 - 7400
+Sun Jun  2 06:50:10 2024 :: Loading new economy
+campraid.are  : Rooms:  7401 - 7500  Objs:  7401 - 7500  Mobs:  7401 - 7500
+Sun Jun  2 06:50:10 2024 :: Loading new economy
+woodlandroute.are: Rooms:  6251 - 6300  Objs:  6251 - 6350  Mobs:  6251 - 6350
+Sun Jun  2 06:50:10 2024 :: Loading new economy
+fvalley.are   : Rooms:  8300 - 8378  Objs:  8300 - 8310  Mobs:  8300 - 8314
+Sun Jun  2 06:50:10 2024 :: Loading new economy
+bitterpass.are: Rooms: 10500 - 10599 Objs: 10500 - 10599 Mobs: 10500 - 10599
+Sun Jun  2 06:50:10 2024 :: Loading new economy
+learei.are    : Rooms:  7601 - 7647  Objs:  7601 - 7613  Mobs:  7601 - 7647
+Sun Jun  2 06:50:10 2024 :: Loading new economy
+opiumfields.are: Rooms:  7501 - 7600  Objs:  7501 - 7600  Mobs:  7501 - 7600
+Sun Jun  2 06:50:10 2024 :: Loading new economy
+silver.are    : Rooms:  8201 - 8299  Objs:  8201 - 8299  Mobs:  8201 - 8299
+Sun Jun  2 06:50:10 2024 :: Loading new economy
+ihra.are      : Rooms:  8401 - 8500  Objs:  8401 - 8500  Mobs:  8401 - 8500
+Sun Jun  2 06:50:10 2024 :: Loading new economy
+celestial.are : Rooms: 12000 - 12100 Objs: 12000 - 12100 Mobs: 12000 - 12100
+Sun Jun  2 06:50:10 2024 :: Loading new economy
+templar.are   : Rooms:  8000 - 8100  Objs:  8000 - 8100  Mobs:  8000 - 8100
+Sun Jun  2 06:50:10 2024 :: Loading new economy
+ships.are     : Rooms:  5201 - 5600  Objs:  5201 - 5600  Mobs:  5201 - 5600
+Sun Jun  2 06:50:10 2024 :: Loading new economy
+wulftuuf.are  : Rooms: 10101 - 10299 Objs: 10101 - 10299 Mobs: 10101 - 10299
+Sun Jun  2 06:50:10 2024 :: Loading new economy
+niralis.are   : Rooms: 12101 - 12199 Objs: 12101 - 12123 Mobs: 12101 - 12157
+Sun Jun  2 06:50:10 2024 :: Loading new economy
+spearfangroad.are: Rooms: 10601 - 10650 Objs: 10601 - 10650 Mobs: 10601 - 10650
+Sun Jun  2 06:50:10 2024 :: Loading new economy
+bullhornroad.are: Rooms: 10651 - 10750 Objs: 10651 - 10750 Mobs: 10651 - 10750
+Sun Jun  2 06:50:10 2024 :: Loading new economy
+junglepath.are: Rooms: 10751 - 10800 Objs: 10751 - 10800 Mobs: 10751 - 10800
+Sun Jun  2 06:50:10 2024 :: Loading new economy
+tenhicoal.are : Rooms: 16201 - 16350 Objs: 16201 - 16300 Mobs: 16201 - 16300
+Sun Jun  2 06:50:10 2024 :: Loading new economy
+h-unki.are    : Rooms: 14401 - 14500 Objs: 14401 - 14500 Mobs: 14401 - 14500
+Sun Jun  2 06:50:10 2024 :: Loading new economy
+farmmarket.are: Rooms:  8101 - 8190  Objs:  8101 - 8137  Mobs:  8101 - 8180
+Sun Jun  2 06:50:10 2024 :: Loading new economy
+daira.are     : Rooms:  5127 - 5145  Objs:  5127 - 5132  Mobs:  5127 - 5130
+Sun Jun  2 06:50:10 2024 :: Loading new economy
+Sun Jun  2 06:50:10 2024 :: [*****] FILE: gallery.are LINE: 10900
+Sun Jun  2 06:50:10 2024 :: [*****] BUG: Get_mob_index: bad vnum 7700.
+Sun Jun  2 06:50:10 2024 :: [*****] BOOT: Load_resets: gallery.are (95) 'M': mobile 7700 doesn't exist.
+gallery.are   : Rooms:  7648 - 7999  Objs:  7648 - 7999  Mobs:  7648 - 7999
+Sun Jun  2 06:50:10 2024 :: Loading new economy
+darkheart.are : Rooms:  2901 - 3000  Objs:  2901 - 3000  Mobs:  2901 - 3000
+Sun Jun  2 06:50:10 2024 :: Loading new economy
+lakemotuco.are: Rooms:  2801 - 2900  Objs:  2801 - 2900  Mobs:  2801 - 2900
+Sun Jun  2 06:50:10 2024 :: Loading new economy
+Tampaqui.are  : Rooms:  2701 - 2800  Objs:  2701 - 2800  Mobs:  2701 - 2800
+Sun Jun  2 06:50:10 2024 :: Loading new economy
+antcolony.are : Rooms: 10801 - 10900 Objs: 10801 - 10900 Mobs: 10801 - 10900
+Sun Jun  2 06:50:10 2024 :: Loading new economy
+beehive.are   : Rooms: 10901 - 10999 Objs: 10901 - 10999 Mobs: 10901 - 10999
+Sun Jun  2 06:50:10 2024 :: Loading new economy
+Sun Jun  2 06:50:10 2024 :: [*****] FILE: Elysium.are LINE: 138
+Sun Jun  2 06:50:10 2024 :: [*****] BUG: Get_room_index: bad vnum 7077.
+Sun Jun  2 06:50:10 2024 :: [*****] BOOT: Load_resets: Elysium.are (1) 'O': room 7077 doesn't exist.
+Elysium.are   : Rooms:  7075 - 7080  Objs:  7075 - 7080  Mobs:  7075 - 7080
+Sun Jun  2 06:50:10 2024 :: Loading new economy
+templeofdrazuk.are: Rooms: 21001 - 21009 Objs:     0 - 0     Mobs:     0 - 0
+Sun Jun  2 06:50:10 2024 :: Loading new economy
+renegades.are : Rooms:  9000 - 9091  Objs:  9000 - 9008  Mobs:  9000 - 9023
+Sun Jun  2 06:50:10 2024 :: Fixing exits
+Sun Jun  2 06:50:10 2024 :: Loading corpses
+Sun Jun  2 06:50:10 2024 :: Loading slay table
+Sun Jun  2 06:50:10 2024 :: Initializing economy
+Sun Jun  2 06:50:10 2024 :: Resetting areas...
+Sun Jun  2 06:50:10 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Sun Jun  2 06:50:10 2024 :: Loading buildlist
+Sun Jun  2 06:50:10 2024 :: ../gods/Cormac
+Sun Jun  2 06:50:10 2024 :: ../gods/Fraggle
+Sun Jun  2 06:50:10 2024 :: ../gods/Kraxxar
+Sun Jun  2 06:50:10 2024 :: ../gods/Pain
+Sun Jun  2 06:50:10 2024 :: ../gods/Krom
+Sun Jun  2 06:50:10 2024 :: ../gods/Tripper
+Sun Jun  2 06:50:10 2024 :: ../gods/Lance
+Sun Jun  2 06:50:10 2024 :: Loading boards
+Sun Jun  2 06:50:10 2024 :: ../boards/immortal.brd
+Sun Jun  2 06:50:10 2024 :: ../boards/highgod.brd
+Sun Jun  2 06:50:10 2024 :: ../boards/notes.brd
+Sun Jun  2 06:50:10 2024 :: ../boards/carnage.brd
+Sun Jun  2 06:50:10 2024 :: ../boards/scion.brd
+Sun Jun  2 06:50:10 2024 :: ../boards/blade.brd
+Sun Jun  2 06:50:10 2024 :: ../boards/wisdom.brd
+Sun Jun  2 06:50:10 2024 :: ../boards/warboard.brd
+Sun Jun  2 06:50:10 2024 :: ../boards/hitlist.brd
+Sun Jun  2 06:50:10 2024 :: ../boards/brood.brd
+Sun Jun  2 06:50:10 2024 :: ../boards/pain
+Sun Jun  2 06:50:10 2024 :: [*****] BUG: fread_word: EOF encountered on read.
+
+Sun Jun  2 06:50:10 2024 :: [*****] BUG: read_board: no match: Endÿ
+Sun Jun  2 06:50:10 2024 :: ../boards/chwarboard.brd
+Sun Jun  2 06:50:10 2024 :: Loading clans
+Sun Jun  2 06:50:10 2024 :: Loading clans...
+Sun Jun  2 06:50:10 2024 :: druid.gui
+Sun Jun  2 06:50:10 2024 :: Storeroom not found
+Sun Jun  2 06:50:10 2024 :: warrior.gui
+Sun Jun  2 06:50:10 2024 :: Storeroom not found
+Sun Jun  2 06:50:10 2024 :: thief.gui
+Sun Jun  2 06:50:10 2024 :: Cannot open clan vault
+Sun Jun  2 06:50:10 2024 :: cleric.gui
+Sun Jun  2 06:50:10 2024 :: Cannot open clan vault
+Sun Jun  2 06:50:10 2024 :: mage.gui
+Sun Jun  2 06:50:10 2024 :: Cannot open clan vault
+Sun Jun  2 06:50:10 2024 :: ranger.gui
+Sun Jun  2 06:50:10 2024 :: Storeroom not found
+Sun Jun  2 06:50:10 2024 :: carnage.clan
+Sun Jun  2 06:50:10 2024 :: Loading clan storage room
+Sun Jun  2 06:50:10 2024 :: scions.clan
+Sun Jun  2 06:50:10 2024 :: Storeroom not found
+Sun Jun  2 06:50:10 2024 :: lex.clan
+Sun Jun  2 06:50:10 2024 :: Loading clan storage room
+Sun Jun  2 06:50:10 2024 :: [*****] BUG: fread_word: EOF encountered on read.
+
+Sun Jun  2 06:50:10 2024 :: ÿ
+Sun Jun  2 06:50:10 2024 :: [*****] BUG: Cannot load clan file: ÿ
+Sun Jun  2 06:50:10 2024 :: $
+Sun Jun  2 06:50:10 2024 ::  Done clans 
+Sun Jun  2 06:50:10 2024 :: Loading councils
+Sun Jun  2 06:50:10 2024 :: Loading deities...
+Sun Jun  2 06:50:10 2024 :: ../deity/drazuk
+Sun Jun  2 06:50:10 2024 :: ../deity/medea
+Sun Jun  2 06:50:10 2024 :: $
+Sun Jun  2 06:50:10 2024 ::  Done deities 
+Sun Jun  2 06:50:10 2024 :: Loading deities
+Sun Jun  2 06:50:10 2024 :: Loading councils...
+Sun Jun  2 06:50:10 2024 :: $
+Sun Jun  2 06:50:10 2024 ::  Done councils 
+Sun Jun  2 06:50:10 2024 :: Loading watches
+Sun Jun  2 06:50:10 2024 :: Loading bans
+Sun Jun  2 06:50:10 2024 :: Done.
+Sun Jun  2 06:50:10 2024 :: Loading reserved names
+Sun Jun  2 06:50:10 2024 :: Loading Immortal Hosts
+Sun Jun  2 06:50:10 2024 :: Done.
+Sun Jun  2 06:50:10 2024 :: Loading Projects
+Sun Jun  2 06:50:10 2024 :: Loading Morphs
+Sun Jun  2 06:50:10 2024 :: Optimizing Morphs.
+Sun Jun  2 06:50:10 2024 :: Done.
+Sun Jun  2 06:50:10 2024 :: Awakening Questmaster
+Sun Jun  2 06:50:10 2024 :: Loading Scoreboards
+Sun Jun  2 06:50:10 2024 :: Initializing socket
+Sun Jun  2 06:50:10 2024 :: House of Ghouls ready at address zeus.cybercitizen.net on port 6767.
+Sun Jun  2 06:50:19 2024 :: Sock.sinaddr:  73.232.238.119, port -1295.
+Sun Jun  2 06:50:20 2024 :: Preloading player data for: Pain (156K)
+Sun Jun  2 06:50:22 2024 :: Loading player data for: Pain (156K)
+Sun Jun  2 06:50:22 2024 :: Pain@73.232.238.119((ident not active)) has connected.
+Sun Jun  2 06:50:46 2024 :: [*****] BUG: Affect_modify: unknown location 82.
+Sun Jun  2 06:50:48 2024 :: [*****] BUG: Affect_modify: unknown location 82.
+Sun Jun  2 06:51:09 2024 :: Sock.sinaddr:  68.2.73.137, port -7392.
+Sun Jun  2 06:55:49 2024 :: Tank@68.2.73.137 new Ghoul Warrior-Conjurer.
+Sun Jun  2 06:55:51 2024 :: Log Master Headmaster Eganrac: mpadvance 0.Tank 2
+Sun Jun  2 06:58:23 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Sun Jun  2 07:00:18 2024 :: Tank has quit.
+Sun Jun  2 07:00:19 2024 :: Sock.sinaddr:  68.2.73.137, port -7367.
+Sun Jun  2 07:00:24 2024 :: Preloading player data for: Luck (31K)
+Sun Jun  2 07:00:25 2024 :: Loading player data for: Luck (31K)
+Sun Jun  2 07:00:25 2024 :: Luck@68.2.73.137((ident not active)) has connected.
+Sun Jun  2 07:06:27 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Sun Jun  2 07:07:35 2024 :: Log Pain: oinvoke short
+Sun Jun  2 07:07:56 2024 :: Log Pain: oset short affect weaponspell 146
+Sun Jun  2 07:08:10 2024 :: Log Pain: oset short affect weaponspell 256
+Sun Jun  2 07:08:20 2024 :: Log Pain: oset short affect hitroll 100
+Sun Jun  2 07:08:24 2024 :: Log Pain: oset short affect damroll 100
+Sun Jun  2 07:08:29 2024 :: Log Pain: oset short affect spelldam 100
+Sun Jun  2 07:08:47 2024 :: Log Pain: oset short value1 20
+Sun Jun  2 07:08:53 2024 :: Log Pain: oset short value2 600
+Sun Jun  2 07:09:00 2024 :: Log Pain: oset short value2 60
+Sun Jun  2 07:09:06 2024 :: Log Pain: oset short flags magic
+Sun Jun  2 07:09:29 2024 :: Log Pain: oset short fel rot felrot igor
+Sun Jun  2 07:09:34 2024 :: Log Pain: oset short name fel rot felrot igor
+Sun Jun  2 07:11:12 2024 :: Log Pain: oset felrot short &g(&wRo&gtt&wing&g) &wI&Ggo&wr&G, &wThe &gF&Ge&gl&w-&gB&Glad&ge
+Sun Jun  2 07:11:27 2024 :: Log Pain: oset felrot short &g(&wRo&gtt&wing&g) &wI&Ggo&wr&G, &wThe &gF&Ge&gl&w-&gB&Gl&wa&Gd&ge
+Sun Jun  2 07:11:41 2024 :: Log Pain: oset felrot long a rotting blade lies here.
+Sun Jun  2 07:12:04 2024 :: Log Pain: minvoke thadius
+Sun Jun  2 07:12:30 2024 :: Log Pain: minvoke thadius
+Sun Jun  2 07:13:45 2024 :: Log Pain: minvoke thadius
+Sun Jun  2 07:14:21 2024 :: Log Pain: slay thad
+Sun Jun  2 07:14:34 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Sun Jun  2 07:17:02 2024 :: Luck (33) killed by Vorthan at 21154
+Sun Jun  2 07:18:37 2024 :: Log Pain: oset torch rmaffect 1
+Sun Jun  2 07:18:38 2024 :: Log Pain: oset torch rmaffect 1
+Sun Jun  2 07:18:39 2024 :: Log Pain: oset torch rmaffect 1
+Sun Jun  2 07:18:45 2024 :: Log Pain: oset torch affect affected sanctuary
+Sun Jun  2 07:18:50 2024 :: Log Pain: oset torch affect affected balanced
+Sun Jun  2 07:18:51 2024 :: Log Pain: oset torch affect affected balance
+Sun Jun  2 07:18:57 2024 :: Log Pain: oset torch affect affected camof
+Sun Jun  2 07:18:58 2024 :: Log Pain: oset torch affect affected camo
+Sun Jun  2 07:19:09 2024 :: Log Pain: oset torch affect affected demonsignt
+Sun Jun  2 07:19:16 2024 :: Log Pain: oset torch affect affected d_sight
+Sun Jun  2 07:19:24 2024 :: Log Pain: oset torch affect affected fireshield
+Sun Jun  2 07:19:27 2024 :: Log Pain: oset torch affect affected iceshield
+Sun Jun  2 07:19:30 2024 :: Log Pain: oset torch affect affected shockshield
+Sun Jun  2 07:19:38 2024 :: Log Pain: oset torch affect aqua_breath
+Sun Jun  2 07:19:42 2024 :: Log Pain: oset torch affect affected aqua_breath
+Sun Jun  2 07:19:46 2024 :: Log Pain: oset torch affect affected flying
+Sun Jun  2 07:19:51 2024 :: Log Pain: oset torch affect affected imp_ivnis
+Sun Jun  2 07:19:54 2024 :: Log Pain: oset torch affect affected imp_invis
+Sun Jun  2 07:20:00 2024 :: Log Pain: oset torch affect affected detect_invis
+Sun Jun  2 07:20:02 2024 :: Log Pain: oset torch affect affected detect_magic
+Sun Jun  2 07:20:38 2024 :: Log Pain: oinvoke swag
+Sun Jun  2 07:20:42 2024 :: Log Pain: oset swag wear back
+Sun Jun  2 07:20:46 2024 :: Log Pain: oset swag wear finger
+Sun Jun  2 07:20:54 2024 :: Log Pain: oset swag name stuff
+Sun Jun  2 07:21:02 2024 :: Log Pain: oset stuff short &wSTUFF
+Sun Jun  2 07:22:04 2024 :: Log Pain: oinvoke ankh
+Sun Jun  2 07:22:39 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Sun Jun  2 07:31:47 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Sun Jun  2 07:39:54 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Sun Jun  2 07:48:00 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Sun Jun  2 07:49:10 2024 :: [*****] BUG: Affect_modify: unknown location 82.
+Sun Jun  2 07:49:17 2024 :: [*****] BUG: Affect_modify: unknown location 82.
+Sun Jun  2 07:49:53 2024 :: [*****] BUG: Affect_modify: unknown location 82.
+Sun Jun  2 07:49:58 2024 :: [*****] BUG: Affect_modify: unknown location 82.
+Sun Jun  2 07:49:59 2024 :: [*****] BUG: Affect_modify: unknown location 82.
+Sun Jun  2 07:50:02 2024 :: Luck (35) killed by the Hungry Girl at 14029
+Sun Jun  2 07:53:33 2024 :: [*****] BUG: Affect_modify: unknown location 82.
+Sun Jun  2 07:54:08 2024 :: Luck (35) killed by a masked hunter at 21033
+Sun Jun  2 07:57:05 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Sun Jun  2 07:58:31 2024 :: [*****] BUG: Affect_modify: unknown location 82.
+Sun Jun  2 07:58:39 2024 :: [*****] BUG: Affect_modify: unknown location 82.
+Sun Jun  2 07:58:39 2024 :: [*****] BUG: Affect_modify: unknown location 82.
+Sun Jun  2 07:58:54 2024 :: [*****] BUG: Affect_modify: unknown location 82.
+str_free: bad pointer
+Sun Jun  2 08:01:11 2024 :: [*****] BUG: STRFREEing bad pointer in act_comm.c, line 2189
+
+Sun Jun  2 08:01:11 2024 :: Luck has quit.
+Sun Jun  2 08:07:10 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Sun Jun  2 08:16:13 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Sun Jun  2 08:25:16 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Sun Jun  2 08:34:19 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Sun Jun  2 08:44:23 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Sun Jun  2 08:52:26 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Sun Jun  2 09:00:28 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Sun Jun  2 09:02:00 2024 :: Sock.sinaddr:  68.2.73.137, port -14564.
+Sun Jun  2 09:02:15 2024 :: Preloading player data for: Reaver (23K)
+Sun Jun  2 09:02:18 2024 :: Loading player data for: Reaver (23K)
+Sun Jun  2 09:02:18 2024 :: Reaver@68.2.73.137((ident not active)) has connected.
+Sun Jun  2 09:10:34 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Sun Jun  2 09:19:40 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Sun Jun  2 09:29:44 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Sun Jun  2 09:39:15 2024 :: Reaver has quit.
+Sun Jun  2 09:39:49 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Sun Jun  2 09:48:52 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Sun Jun  2 09:56:55 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Sun Jun  2 10:05:58 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Sun Jun  2 10:16:02 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Sun Jun  2 10:25:04 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Sun Jun  2 10:35:08 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Sun Jun  2 10:45:11 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Sun Jun  2 10:54:14 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Sun Jun  2 10:57:06 2024 :: Counting pfiles.....
+Sun Jun  2 10:57:06 2024 :: Pfile count completed.
+Sun Jun  2 10:57:06 2024 :: Total pfiles scanned: 40
+Sun Jun  2 11:02:16 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Sun Jun  2 11:10:19 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Sun Jun  2 11:18:22 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Sun Jun  2 11:27:25 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Sun Jun  2 11:36:29 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Sun Jun  2 11:45:32 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Sun Jun  2 11:54:35 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Sun Jun  2 12:04:38 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Sun Jun  2 12:14:41 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Sun Jun  2 12:22:44 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Sun Jun  2 12:30:46 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Sun Jun  2 12:40:49 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Sun Jun  2 12:48:52 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Sun Jun  2 12:57:54 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Sun Jun  2 13:05:57 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Sun Jun  2 13:13:59 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Sun Jun  2 13:24:02 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Sun Jun  2 13:33:05 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Sun Jun  2 13:41:08 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Sun Jun  2 13:49:10 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Sun Jun  2 13:59:13 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Sun Jun  2 14:09:16 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Sun Jun  2 14:17:19 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Sun Jun  2 14:26:22 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Sun Jun  2 14:34:24 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Sun Jun  2 14:43:27 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Sun Jun  2 14:52:30 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Sun Jun  2 15:01:33 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Sun Jun  2 15:10:36 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Sun Jun  2 15:19:38 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Sun Jun  2 15:29:41 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Sun Jun  2 15:38:44 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Sun Jun  2 15:46:47 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Sun Jun  2 15:55:50 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Sun Jun  2 16:03:53 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Sun Jun  2 16:11:56 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Sun Jun  2 16:13:06 2024 :: Log Pain: oinvoke khent
+Sun Jun  2 16:15:00 2024 :: Log Pain: shutdown mud now
+Sun Jun  2 16:15:00 2024 :: Normal termination of game.
+Sun Jun  2 16:15:00 2024 :: Closing Lua.
+Mud-wide Lua module started up.

@@ -1,0 +1,91 @@
+&P(16) Fenix        &wvs &P(21) &PSuffer ... &wSouthern Road
+&P(17) Xjio         &wvs &P(22) &PPiro ... &wSouthern Road
+&P(21) Suffer       &wvs &P(17) &PXjio ... &wSouthern Road
+&P(18) Xjio         &wvs &P(22) &PPiro ... &wSouthern Road
+&P(22) Suffer       &wvs &P(21) &PSimkin ... &wSouthern Road
+&P(23) Simkin       &wvs &P(17) &PDrak ... &wDrazukville
+&P(28) Suffer       &wvs &P(23) &PSimkin ... &wSahardin
+&P(30) Suffer       &wvs &P(30) &PDazael ... &wDrazukville
+&P(30) Suffer       &wvs &P(26) &PSimkin ... &wSouthern Road
+&P(36) Dazael       &wvs &P(35) &PSoloman ... &wThrough The Ironkores
+&P(34) Suffer       &wvs &P(25) &PBarakan ... &wDrazukville
+&P(26) Kaltar       &wvs &P(33) &PTorebere ... &wFloating Amongst Clouds
+&P(21) Lex          &wvs &P(22) &PDalathar ... &wDrazukville
+&P(32) Barakan      &wvs &P(21) &PLex ... &wDrazukville
+&P(21) Lex          &wvs &P(46) &PTorebere ... &wDrazukville
+&P(39) Angel        &wvs &P(21) &PLex ... &wSouthern Road
+&P(28) Simkin       &wvs &P(40) &PAngel ... &wBazabel
+&P(24) Linkin       &wvs &P(24) &PMiyu ... &wTower Of Manos
+&P(29) Simkin       &wvs &P(42) &PAngel ... &wTemplar Academy
+&P(29) Simkin       &wvs &P(50) &PLardar ... &wSouthern Road
+&P(24) Linkin       &wvs &P(23) &PFenix ... &wSouthern Road
+&P(20) Suffer       &wvs &P(22) &PLex ... &wDrazukville
+&P(25) Linkin       &wvs &P(20) &PSuffer ... &wSouthern Road
+&P(50) Torebere     &wvs &P(23) &PSuffer ... &wDrazukville
+&P(24) Suffer       &wvs &P(25) &PLinkin ... &wDrazukville
+&P(24) Suffer       &wvs &P(44) &PPiro ... &wTalon Desert
+&P(27) Suffer       &wvs &P(26) &PLex ... &wDrazukville
+&P(26) Linkin       &wvs &P(25) &PThrock ... &wTemples Of The Gods
+&P(27) Linkin       &wvs &P(25) &PBouddica ... &wDrazukville
+&P(29) Suffer       &wvs &P(25) &PBouddica ... &wDrazukville
+&P(23) Krysta       &wvs &P(22) &PKaboom ... &wHunting Grounds
+&P(30) Suffer       &wvs &P(25) &PFenix ... &wGreenpath
+&P(30) Suffer       &wvs &P(25) &PFenix ... &wGreenpath
+&P(30) Linkin       &wvs &P(22) &PFayt ... &wSouthern Road
+&P(30) Suffer       &wvs &P(22) &PFayt ... &wGreenpath
+&P(30) Linkin       &wvs &P(30) &PSuffer ... &wDrazukville
+&P(43) Pyre         &wvs &P(30) &PSuffer ... &wDrazukville
+&P(32) Suffer       &wvs &P(28) &PDent ... &wEastern Corridor
+&P(30) Linkin       &wvs &P(32) &PSuffer ... &wDrazukville
+&P(50) Lardar       &wvs &P(50) &PTorebere ... &wSouthern Road
+&P(50) Lardar       &wvs &P(42) &PSuffer ... &wGreenpath
+&P(43) Suffer       &wvs &P(44) &PPyre ... &wSouthern Road
+&P(43) Suffer       &wvs &P(43) &PSoloman ... &wGreenpath
+&P(13) Piro         &wvs &P(44) &PSuffer ... &wGreenpath
+&P(26) Suffer       &wvs &P(27) &PKaboom ... &wDrazukville
+&P(26) Suffer       &wvs &P(30) &PSimeon ... &wDrazukville
+&P(26) Suffer       &wvs &P(27) &PKaboom ... &wDrazukville
+&P(26) Suffer       &wvs &P(27) &PKaboom ... &wDrazukville
+&P(26) Suffer       &wvs &P(27) &PKaboom ... &wDrazukville
+&P(26) Suffer       &wvs &P(27) &PKaboom ... &wDrazukville
+&P(32) Krom         &wvs &P(27) &PKaboom ... &wDrazukville
+&P(29) Piro         &wvs &P(17) &PBaldur ... &wSouthern Road
+&P(40) Simeon       &wvs &P(28) &PSuffer ... &wDrazukville
+&P(28) Suffer       &wvs &P(40) &PSimeon ... &wDrazukville
+&P(28) Suffer       &wvs &P(41) &PKrom ... &wDrazukville
+&P(42) Krom         &wvs &P(28) &PSuffer ... &wDrazukville
+&P(28) Suffer       &wvs &P(42) &PKrom ... &wDrazukville
+&P(42) Krom         &wvs &P(28) &PSuffer ... &wDrazukville
+&P(42) Krom         &wvs &P(28) &PSuffer ... &wDrazukville
+&P(28) Suffer       &wvs &P(40) &PSimeon ... &wDrazukville
+&P(28) Suffer       &wvs &P(10) &PHelo ... &wDrazukville
+&P(28) Suffer       &wvs &P(41) &PSimeon ... &wGreenpath
+&P(28) Suffer       &wvs &P(43) &PKrom ... &wGreenpath
+&P(28) Suffer       &wvs &P(50) &PAngel ... &wGreenpath
+&P(11) Olympia      &wvs &P(10) &PEldrad ... &wTemples Of The Gods
+&P(12) Anora        &wvs &P(11) &PEldrad ... &wThrough The Ironkores
+&P(48) Simeon       &wvs &P(28) &PSuffer ... &wValley Of Frost
+&P(28) Suffer       &wvs &P(50) &PAngel ... &wHaunted Church
+&P(28) Suffer       &wvs &P(50) &PAngel ... &wDrazukville
+&P(50) Torebere     &wvs &P(28) &PSuffer ... &wDrazukville
+&P(35) Kindoma      &wvs &P(35) &PTest ... &wDrazukville
+&P(35) Kindoma      &wvs &P(35) &PTest ... &wDrazukville
+&P(40) Suffer       &wvs &P(29) &PDalathar ... &wFloating Amongst Clouds
+&P(46) Fantasia     &wvs &P(28) &PSuffer ... &wLast Stand
+&P(50) Suffer       &wvs &P(25) &PMirror ... &wDrazukville
+&P(25) Mirror       &wvs &P(28) &PBarakis ... &wBazabel
+&P(50) Fantasia     &wvs &P(40) &PMirror ... &wDrazukville
+&P(50) Naz          &wvs &P(50) &PRuin ... &wDrazukville
+&P(50) Fantasia     &wvs &P(50) &PNaz ... &wDrazukville
+&P(50) Naz          &wvs &P(50) &PSaleb ... &wDrazukville
+&P(50) Fantasia     &wvs &P(50) &PSeraph ... &wElenolos
+&P(50) Fantasia     &wvs &P(40) &PMirror ... &wDrazukville
+&P(50) Fantasia     &wvs &P(40) &PMirror ... &wDrazukville
+&P(50) Fantasia     &wvs &P(40) &PMirror ... &wDrazukville
+&P(50) Fantasia     &wvs &P(40) &PMirror ... &wDrazukville
+&P(50) Naz          &wvs &P(50) &PSeraph ... &wHalfling Flower Garden
+&P(50) Drendell     &wvs &P(50) &PNaz ... &wDrazukville
+&P(50) Enigma       &wvs &P(20) &PMalice ... &wDrazukville
+&P(50) Malice       &wvs &P(21) &PTroy ... &wFloating Amongst Clouds
+&P(50) Fantasia     &wvs &P(50) &PTroy ... &wDrazukville
+&P(41) Reaver       &wvs &P(34) &PLok ... &wTemple Of The Ancients

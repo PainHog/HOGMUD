@@ -1,0 +1,328 @@
+#CLAN
+Name         Commune~
+Filename     commune.clan~
+Motto        ~
+Description  Sebille and her worshippers are Good.~
+Deity        Sebille~
+Leader       ~
+NumberOne    Dazael~
+NumberTwo    Angel~
+Badge        ~
+Leadrank     &zWi&wnd &WKe&Cep&cer~
+Onerank      &RScarlet &rShadow~
+Tworank      &YSolar &OKnight~
+PKillRangeNew   0 0 0 2 1 0 0
+PDeathRangeNew  0 0 0 5 3 0 0
+MKills       41899
+MDeaths      606
+IllegalPK    1
+Score        0
+Type         0
+Class        0
+Favour       0
+Strikes      0
+Members      2
+MemLimit     0
+Balance	   7500455
+Alignment    1000
+Board        3753
+ClanObjOne   3655
+ClanObjTwo   0
+ClanObjThree 0
+ClanObjFour  0
+ClanObjFive  3799
+Recall       3681
+Storeroom    3682
+GuardOne     0
+GuardTwo     0
+End
+
+#ROSTER
+Name      Sebille~
+Joined    1116856783
+Class     warrior~
+Level     55
+Kills     11509
+Deaths    49
+End
+
+#ROSTER
+Name      Nail~
+Joined    1117005257
+Class     ranger~
+Level     12
+Kills     653
+Deaths    2
+End
+
+#ROSTER
+Name      Kamos~
+Joined    1117608915
+Class     druid~
+Level     14
+Kills     576
+Deaths    11
+End
+
+#ROSTER
+Name      Maya~
+Joined    1117686132
+Class     mage~
+Level     8
+Kills     231
+Deaths    9
+End
+
+#ROSTER
+Name      Bouddica~
+Joined    1117994597
+Class     warrior~
+Level     8
+Kills     211
+Deaths    1
+End
+
+#ROSTER
+Name      Tauron~
+Joined    1118114845
+Class     warrior~
+Level     13
+Kills     593
+Deaths    3
+End
+
+#ROSTER
+Name      Dazael~
+Joined    1118211530
+Class     jester~
+Level     27
+Kills     5772
+Deaths    10
+End
+
+#ROSTER
+Name      Heaven~
+Joined    1118365997
+Class     warrior~
+Level     5
+Kills     35
+Deaths    3
+End
+
+#ROSTER
+Name      Xjio~
+Joined    1118895789
+Class     ranger~
+Level     10
+Kills     354
+Deaths    1
+End
+
+#ROSTER
+Name      Sirion~
+Joined    1119024096
+Class     ranger~
+Level     34
+Kills     4583
+Deaths    27
+End
+
+#ROSTER
+Name      Sanuri~
+Joined    1119052710
+Class     cleric~
+Level     24
+Kills     3177
+Deaths    44
+End
+
+#ROSTER
+Name      Gautier~
+Joined    1119238955
+Class     conjurer~
+Level     12
+Kills     533
+Deaths    1
+End
+
+#ROSTER
+Name      Dulindor~
+Joined    1119330863
+Class     ranger~
+Level     16
+Kills     1514
+Deaths    50
+End
+
+#ROSTER
+Name      Fayt~
+Joined    1119413511
+Class     warrior~
+Level     22
+Kills     1813
+Deaths    68
+End
+
+#ROSTER
+Name      Kaerid~
+Joined    1119571377
+Class     warrior~
+Level     8
+Kills     127
+Deaths    1
+End
+
+#ROSTER
+Name      Humungus~
+Joined    1119806978
+Class     thief~
+Level     8
+Kills     39
+Deaths    5
+End
+
+#ROSTER
+Name      Fallen~
+Joined    1121145279
+Class     monk~
+Level     6
+Kills     140
+Deaths    4
+End
+
+#ROSTER
+Name      Irvan~
+Joined    1121469637
+Class     ranger~
+Level     5
+Kills     24
+Deaths    0
+End
+
+#ROSTER
+Name      Taki~
+Joined    1122268526
+Class     monk~
+Level     13
+Kills     1080
+Deaths    6
+End
+
+#ROSTER
+Name      Linkin~
+Joined    1122777372
+Class     warrior~
+Level     11
+Kills     390
+Deaths    1
+End
+
+#ROSTER
+Name      Wisteria~
+Joined    1124943904
+Class     druid~
+Level     10
+Kills     321
+Deaths    0
+End
+
+#ROSTER
+Name      Anfauglir~
+Joined    1125072604
+Class     mage~
+Level     15
+Kills     468
+Deaths    5
+End
+
+#ROSTER
+Name      Hermes~
+Joined    1127111699
+Class     conjurer~
+Level     7
+Kills     34
+Deaths    4
+End
+
+#ROSTER
+Name      Eothen~
+Joined    1127571827
+Class     cleric~
+Level     10
+Kills     94
+Deaths    9
+End
+
+#ROSTER
+Name      Narses~
+Joined    1129393386
+Class     ranger~
+Level     7
+Kills     168
+Deaths    1
+End
+
+#ROSTER
+Name      Sebastian~
+Joined    1130011498
+Class     monk~
+Level     22
+Kills     4144
+Deaths    22
+End
+
+#ROSTER
+Name      Cronus~
+Joined    1130088588
+Class     conjurer~
+Level     12
+Kills     115
+Deaths    3
+End
+
+#ROSTER
+Name      Horus~
+Joined    1130105064
+Class     jester~
+Level     5
+Kills     53
+Deaths    0
+End
+
+#ROSTER
+Name      Ryanryan~
+Joined    1130551042
+Class     mage~
+Level     10
+Kills     101
+Deaths    16
+End
+
+#ROSTER
+Name      Bouddica~
+Joined    1134668007
+Class     warrior~
+Level     7
+Kills     210
+Deaths    1
+End
+
+#ROSTER
+Name      Shinu~
+Joined    1134685052
+Class     shaman~
+Level     10
+Kills     140
+Deaths    3
+End
+
+#ROSTER
+Name      Elraind~
+Joined    1136709060
+Class     druid~
+Level     12
+Kills     276
+Deaths    7
+End
+
+#END

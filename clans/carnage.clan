@@ -1,0 +1,49 @@
+#CLAN
+Name         Dark~
+Filename     carnage.clan~
+Motto        ~
+Description  Light is a group of powerful individuals dedicated to the worship and empowerment of Tripper, the Lord of Light. The Lord of Light is the creater of all and will stop at nothing to destroy and desecrate all who oppose him.~
+Deity        ~
+Leader       ~
+NumberOne    ~
+NumberTwo    ~
+Badge        Carnage~
+Leadrank     &b &rA&zssassi&rn &b~
+Onerank      &rT&Rh&re &RH&re&Ra&rr&Rt&rl&Re&rs&Rs&D~
+Tworank      &bSh&Bad&bowda&Bnc&ber~
+PKillRangeNew   0 0 0 5 2 0 0
+PDeathRangeNew  0 1 0 4 2 0 0
+MKills       52975
+MDeaths      494
+IllegalPK    4
+Score        0
+Type         0
+Class        0
+Favour       0
+Strikes      0
+Members      0
+MemLimit     0
+Balance	   78200
+Alignment    -1000
+Board        3663
+ClanObjOne   3651
+ClanObjTwo   3661
+ClanObjThree 0
+ClanObjFour  0
+ClanObjFive  3799
+Recall       3700
+Storeroom    3701
+GuardOne     0
+GuardTwo     0
+End
+
+#ROSTER
+Name      Barakan~
+Joined    1117061904
+Class     mage~
+Level     55
+Kills     11726
+Deaths    54
+End
+
+#END

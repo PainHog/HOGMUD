@@ -1,0 +1,320 @@
+Name        Conjurer~
+Class       9
+AttrPrime   3
+AttrSecond   4
+AttrTertiary   31
+Weapon      10312
+Guild       0
+Skilladept  95
+Thac0base   19
+Thac0mod    2
+Hpmin       8
+Hpmax       15
+Mana        1
+Expbase     55
+Affected    0
+Resist	 0
+Suscept	 0
+Skill 'aqua breath' 1 95
+Skill 'armorsmith avatar' 50 95
+Skill 'armorsmith barbed' 49 95
+Skill 'armorsmith bladed' 28 95
+Skill 'armorsmith bloodstone' 40 95
+Skill 'armorsmith dragontear' 32 95
+Skill 'armorsmith magestone' 24 95
+Skill 'armorsmith mirror' 44 95
+Skill 'armorsmith reinforced' 36 95
+Skill 'armorsmith shield' 16 95
+Skill 'armorsmith spellward' 8 95
+Skill 'armorsmith spiked' 12 95
+Skill 'armorsmith standard' 4 95
+Skill 'armorsmith steel' 20 95
+Skill 'armorsmith vitality' 48 95
+Skill 'conjurers sword' 40 95
+Skill 'continual light' 1 95
+Skill 'create food' 1 95
+Skill 'create spring' 1 95
+Skill 'create water' 1 95
+Skill 'detect invis' 10 95
+Skill 'detect magic' 5 95
+Skill 'flaming blast' 37 95
+Skill 'float' 1 95
+Skill 'godstorm' 50 95
+Skill 'golem cloak' 25 95
+Skill 'golem fists' 15 95
+Skill 'golem plate' 6 95
+Skill 'golem shield' 35 95
+Skill 'golem weapon' 45 95
+Skill 'identify' 15 95
+Skill 'locate object' 10 95
+Skill 'mithril bolt' 19 95
+Skill 'portal' 35 95
+Skill 'refresh' 1 95
+Skill 'silver arrow' 6 95
+Skill 'summon golem' 2 95
+Skill 'weaponsmith curve' 17 95
+Skill 'weaponsmith devour' 50 95
+Skill 'weaponsmith dragonslayer' 41 95
+Skill 'weaponsmith enhance' 14 95
+Skill 'weaponsmith etch' 2 95
+Skill 'weaponsmith etherblade' 35 95
+Skill 'weaponsmith etherguard' 38 95
+Skill 'weaponsmith guard' 11 95
+Skill 'weaponsmith light' 5 95
+Skill 'weaponsmith loyal' 23 95
+Skill 'weaponsmith ogreslayer' 44 95
+Skill 'weaponsmith serpent' 32 95
+Skill 'weaponsmith serpentkiss' 49 95
+Skill 'weaponsmith spellward' 20 95
+Skill 'weaponsmith swordbane' 26 95
+Skill 'weaponsmith swordbreaker' 47 95
+Skill 'weaponsmith thirst' 29 95
+Skill 'weaponsmith weight' 8 95
+Skill 'word of recall' 1 95
+Skill 'aggressive style' 1 95
+Skill 'aid' 1 95
+Skill 'berserk style' 1 95
+Skill 'climb' 1 95
+Skill 'cuff' 1 95
+Skill 'defensive style' 1 95
+Skill 'dig' 1 95
+Skill 'dodge' 34 95
+Skill 'engage' 30 95
+Skill 'evasive style' 1 95
+Skill 'fourth attack' 45 95
+Skill 'meditate' 10 95
+Skill 'mend' 4 95
+Skill 'mount' 1 95
+Skill 'pelt' 18 95
+Skill 'search' 1 95
+Skill 'second attack' 30 95
+Skill 'standard style' 1 95
+Skill 'swipe' 32 95
+Skill 'trance' 35 95
+Skill 'axes' 40 95
+Skill 'bludgeons' 1 95
+Skill 'exotic arms' 1 95
+Skill 'flexible arms' 21 95
+Skill 'long blades' 28 95
+Skill 'missile weapons' 36 95
+Skill 'polearms' 40 95
+Skill 'pugilism' 1 95
+Skill 'short blades' 1 95
+Skill 'talonous arms' 14 95
+Skill 'ancient' 5 100
+Skill 'common' 1 100
+Skill 'dragon' 10 100
+Skill 'dwarven' 1 100
+Skill 'elvish' 1 100
+Skill 'ghoulish' 1 100
+Skill 'gith' 1 100
+Skill 'gnomish' 1 100
+Skill 'goblin' 1 100
+Skill 'halfling' 1 100
+Skill 'magical' 1 100
+Skill 'mammal' 1 100
+Skill 'minotaur' 1 100
+Skill 'ogre' 1 100
+Skill 'orcish' 1 100
+Skill 'pixie' 1 100
+Skill 'trollese' 1 100
+Skill 'wolfen' 1 100
+Title
+Conjurer.~
+Conjurer.~
+Title
+Conjurer.~
+Conjurer.~
+Title
+Conjurer.~
+Conjurer.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+(null)~
+(null)~
+End

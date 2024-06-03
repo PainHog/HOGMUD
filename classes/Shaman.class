@@ -1,0 +1,336 @@
+Name        Shaman~
+Class       11
+AttrPrime   4
+AttrSecond   2
+AttrTertiary   5
+Weapon      10313 
+Guild       0
+Skilladept  95
+Thac0base   16
+Thac0mod    4
+Hpmin       9
+Hpmax       15
+Mana        1
+Expbase     55
+Affected    0
+Resist	 0
+Suscept	 0
+Skill 'alchemy armor' 3 95
+Skill 'alchemy ashlyn' 50 95
+Skill 'alchemy balance' 10 95
+Skill 'alchemy bless' 3 95
+Skill 'alchemy blindness' 5 95
+Skill 'alchemy cahel' 50 95
+Skill 'alchemy corrupt' 10 95
+Skill 'alchemy critical' 15 95
+Skill 'alchemy curse' 10 95
+Skill 'alchemy demon' 30 95
+Skill 'alchemy divinity' 40 95
+Skill 'alchemy drazuk' 50 95
+Skill 'alchemy eldritch' 20 95
+Skill 'alchemy escape' 25 95
+Skill 'alchemy fire' 35 95
+Skill 'alchemy fly' 5 95
+Skill 'alchemy fury' 50 95
+Skill 'alchemy grace' 50 95
+Skill 'alchemy heal' 25 95
+Skill 'alchemy ice' 35 95
+Skill 'alchemy jaren' 50 95
+Skill 'alchemy level' 15 95
+Skill 'alchemy light' 3 95
+Skill 'alchemy mana' 40 95
+Skill 'alchemy metal' 45 95
+Skill 'alchemy panic' 45 95
+Skill 'alchemy paul' 50 95
+Skill 'alchemy piercebane' 15 95
+Skill 'alchemy poison' 5 95
+Skill 'alchemy protect' 10 95
+Skill 'alchemy refresh' 3 95
+Skill 'alchemy sanctuary' 25 95
+Skill 'alchemy sebille' 50 95
+Skill 'alchemy serious' 5 95
+Skill 'alchemy shelter' 30 95
+Skill 'alchemy shield' 3 95
+Skill 'alchemy shock' 35 95
+Skill 'alchemy sight' 30 95
+Skill 'alchemy slashbane' 15 95
+Skill 'alchemy stone' 25 95
+Skill 'alchemy travel' 20 95
+Skill 'alchemy unseen' 20 95
+Skill 'alchemy vash' 50 95
+Skill 'alchemy waterbreath' 5 95
+Skill 'aqua breath' 1 95
+Skill 'astral walk' 35 95
+Skill 'blade spirit' 22 95
+Skill 'control weather' 22 95
+Skill 'create food' 1 95
+Skill 'create spring' 1 95
+Skill 'create water' 1 95
+Skill 'cure light' 10 95
+Skill 'cure poison' 12 95
+Skill 'detect magic' 5 95
+Skill 'dream' 10 95
+Skill 'earthquake' 17 95
+Skill 'fear' 42 95
+Skill 'float' 1 95
+Skill 'fly' 6 95
+Skill 'idol' 30 95
+Skill 'infravision' 1 95
+Skill 'invoke dragon' 50 95
+Skill 'invoke stag' 15 95
+Skill 'invoke wolf' 30 95
+Skill 'refresh' 1 95
+Skill 'scry' 11 95
+Skill 'spirit armor' 25 95
+Skill 'spirit shield' 2 95
+Skill 'spirit trade' 18 95
+Skill 'spirit wrack' 2 95
+Skill 'summon spirit' 28 95
+Skill 'transport' 35 95
+Skill 'voodoo doll' 40 95
+Skill 'word of recall' 1 95
+Skill 'aggressive style' 1 95
+Skill 'aid' 1 95
+Skill 'berserk style' 1 95
+Skill 'climb' 1 95
+Skill 'defensive style' 1 95
+Skill 'dig' 1 95
+Skill 'dodge' 28 95
+Skill 'evasive style' 1 95
+Skill 'hide' 37 95
+Skill 'meditate' 15 95
+Skill 'mount' 1 95
+Skill 'search' 1 95
+Skill 'second attack' 33 95
+Skill 'standard style' 1 95
+Skill 'swat' 38 95
+Skill 'third attack' 45 95
+Skill 'trance' 35 95
+Skill 'axes' 1 95
+Skill 'bludgeons' 1 95
+Skill 'exotic arms' 5 95
+Skill 'flexible arms' 1 95
+Skill 'long blades' 1 95
+Skill 'missile weapons' 10 95
+Skill 'polearms' 1 95
+Skill 'talonous arms' 35 95
+Skill 'ancient' 30 100
+Skill 'common' 1 100
+Skill 'dragon' 20 100
+Skill 'dwarven' 1 100
+Skill 'elvish' 1 100
+Skill 'ghoulish' 1 100
+Skill 'gith' 1 100
+Skill 'gnomish' 1 100
+Skill 'goblin' 1 100
+Skill 'halfling' 1 100
+Skill 'insectoid' 35 100
+Skill 'mammal' 20 100
+Skill 'minotaur' 1 100
+Skill 'ogre' 1 100
+Skill 'orcish' 1 100
+Skill 'pixie' 1 100
+Skill 'reptile' 10 10
+Skill 'rodent' 5 100
+Skill 'spiritual' 1 100
+Skill 'trollese' 1 100
+Skill 'wolfen' 1 100
+Title
+Shaman.~
+Shaman.~
+Title
+Shaman.~
+Shaman.~
+Title
+Shaman.~
+Shaman.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+Not set.~
+Not set.~
+Title
+(null)~
+(null)~
+End

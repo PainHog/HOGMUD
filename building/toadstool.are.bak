@@ -1,0 +1,1105 @@
+#AREA   Toadstool Circle~
+
+
+
+#VERSION 1
+#AUTHOR Drazuk~
+
+#RANGES
+1 50 0 65
+$
+
+#RESETMSG You hear the faint sound of giggling in the distance...~
+
+#FLAGS
+0 15
+
+#ECONOMY 0 231191792
+
+#CLIMATE 3 2 2
+
+#MOBILES
+#951
+pixie queen nadine regal~
+Nadine, Queen of the Pixies~
+A regal pixie sits amongst the vines and smiles as you approach.
+~
+Nadine, the pixie queen, smiles at you as you approach the throne.  You are a
+little nervous, for you recall stories of the strange magic that pixies can
+work on visitors.
+~
+16777283 273154176&256 -1000 C
+55 0 -195 5d50+2150 4d5+48
+0 0
+112 112 2
+13 13 13 13 13 13 13
+0 0 0 0 0
+4 15 0 0 8 8 0
+0 0 32783 2097152 0 0 33554441 524294
+> death_prog 5~
+emote drops to her knees with a scream, her wings tattered and torn...
+say Go then!  Take this pixie magic, thief!
+scream
+rinvoke artifact
+~
+|
+#952
+mouse tiny~
+a tiny mouse~
+A tiny mouse sniffs around the toadstools.
+~
+A tiny mouse sniffs about the toadstools, looking for a treat.  Usually used
+by the pixies as mounts, this particular mouse is currently on its own.
+~
+16777281 0 0 C
+7 0 45 3d6+110 2d5+2
+0 0
+112 112 0
+13 13 13 13 13 13 13
+0 0 0 0 0
+77 3 0 0 1 1 0
+0 0 65543 0 0 0 1 0
+#953
+mouse tiny~
+a tiny mouse~
+A tiny mouse sniffs around the toadstools.
+~
+A tiny mouse sniffs about the toadstools, looking for a treat.  Usually used
+by the pixies as mounts, this particular mouse is currently on its own.
+~
+16777281 0 0 C
+7 0 45 3d6+110 2d5+2
+0 0
+112 112 0
+13 13 13 13 13 13 13
+0 0 0 0 0
+77 3 0 0 1 1 0
+0 0 65543 0 0 0 1 0
+#954
+mouse tiny~
+a tiny mouse~
+A tiny mouse sniffs around the toadstools.
+~
+A tiny mouse sniffs about the toadstools, looking for a treat.  Usually used
+by the pixies as mounts, this particular mouse is currently on its own.
+~
+16777281 0 0 C
+7 0 45 3d6+110 2d5+2
+0 0
+112 112 0
+13 13 13 13 13 13 13
+0 0 0 0 0
+77 3 0 0 1 1 0
+0 0 65543 0 0 0 1 0
+#955
+firefly fly~
+a glowing firefly~
+A firefly flits about the toadstools, spreading an eerie green light.
+~
+A firefly, quite a bit bigger than normal, cruises through the air above you,
+casting a spooky green light about the Circle.  Several pixies fly around
+harassing it, but it seems to ignore them.
+~
+16777281 524288 0 C
+15 0 5 3d6+250 3d5+5
+0 0
+112 112 0
+13 13 13 13 13 13 13
+0 0 0 0 0
+83 3 0 0 1 1 0
+0 0 36865 0 0 0 0 0
+#956
+fae blue Corinna~
+Corinna the Blue Fae~
+Corinna sits in her hollow tree, mixing magical liquids together.
+~
+Corinna looks a bit like a pixie, but is instead a Blue Fae, quite a
+distinction as far as the pixies are concerned.  A bit larger than the normal
+pixie, Nadine lets her dwell in the Circle, as long as she keeps making
+magical potions for her use.
+~
+16777283 273154176&256 0 C
+55 0 -195 5d50+2150 4d5+48
+0 0
+112 112 2
+13 13 13 13 13 13 13
+0 0 0 0 0
+4 0 0 0 8 8 0
+0 0 32783 0 0 0 33554441 524294
+#957
+firefly fly~
+a glowing firefly~
+A firefly flits about the toadstools, spreading an eerie green light.
+~
+A firefly, quite a bit bigger than normal, cruises through the air above you,
+casting a spooky green light about the Circle.  Several pixies fly around
+harassing it, but it seems to ignore them.
+~
+16777281 524288 0 C
+15 0 5 3d6+250 3d5+5
+0 0
+112 112 0
+13 13 13 13 13 13 13
+0 0 0 0 0
+83 3 0 0 1 1 0
+0 0 36865 0 0 0 0 0
+#958
+pixie guardian~
+a guardian pixie~
+A small pixie wearing the badge of the Circle flies about, keeping watch.
+~
+A young male pixie flies about the Circle, keeping an eye out for any
+trouble...well, any trouble that another pixie isn't causing!
+~
+32833 524288 0 C
+30 0 -70 4d15+760 3d5+20
+0 0
+112 112 1
+13 13 13 13 13 13 13
+0 0 0 0 0
+4 21 0 0 8 8 0
+0 0 32799 0 0 0 16777217 0
+#959
+pixie guardian~
+a guardian pixie~
+A small pixie wearing the badge of the Circle flies about, keeping watch.
+~
+A young male pixie flies about the Circle, keeping an eye out for any
+trouble...well, any trouble that another pixie isn't causing!
+~
+32833 524288 0 C
+30 0 -70 4d15+760 3d5+20
+0 0
+112 112 1
+13 13 13 13 13 13 13
+0 0 0 0 0
+4 21 0 0 8 8 0
+0 0 32799 0 0 0 16777217 0
+#960
+pixie guardian~
+a guardian pixie~
+A small pixie wearing the badge of the Circle flies about, keeping watch.
+~
+A young male pixie flies about the Circle, keeping an eye out for any
+trouble...well, any trouble that another pixie isn't causing!
+~
+32833 524288 0 C
+30 0 -70 4d15+760 3d5+20
+0 0
+112 112 1
+13 13 13 13 13 13 13
+0 0 0 0 0
+4 21 0 0 8 8 0
+0 0 32799 0 0 0 16777217 0
+#961
+boggart Francis pixie twisted~
+Francis, the dark boggart~
+A strange, twisted pixie sits atop the huge toadstool.
+~
+As you gaze upon the strange pixie, you realize that this creature is instead
+a boggart, a pixie "gone bad".  While most pixies are all about tricks and
+pranks, this one may actually try to cause real harm.
+~
+17826883 273154176&256 -1000 C
+55 0 -195 5d50+2150 4d5+48
+0 0
+112 112 1
+13 13 13 13 13 13 13
+0 0 0 0 0
+4 0 0 0 8 8 0
+0 0 32783 0 0 0 33554441 524294
+#962
+pixie~
+a pixie~
+A pixie dances around, singing and laughing to herself.
+~
+This small pixie is dancing about, singing a bright little tune to herself.
+She notices you staring and gives a grin...you hope she hasn't cursed you
+along with it!
+~
+16777281 524288 0 C
+20 0 -20 4d8+380 3d5+10
+0 0
+112 112 2
+13 13 13 13 13 13 13
+0 0 0 0 0
+4 18 0 0 8 8 0
+0 0 32783 0 0 0 1 2
+#963
+pixie~
+a pixie~
+A pixie dances around, singing and laughing to herself.
+~
+This small pixie is dancing about, singing a bright little tune to herself.
+She notices you staring and gives a grin...you hope she hasn't cursed you
+along with it!
+~
+16777281 524288 0 C
+20 0 -20 4d8+380 3d5+10
+0 0
+112 112 2
+13 13 13 13 13 13 13
+0 0 0 0 0
+4 18 0 0 8 8 0
+0 0 32783 0 0 0 1 2
+#964
+pixie~
+a pixie~
+A pixie dances around, singing and laughing to herself.
+~
+This small pixie is dancing about, singing a bright little tune to herself.
+She notices you staring and gives a grin...you hope she hasn't cursed you
+along with it!
+~
+16777281 524288 0 C
+20 0 -20 4d8+380 3d5+10
+0 0
+112 112 2
+13 13 13 13 13 13 13
+0 0 0 0 0
+4 18 0 0 8 8 0
+0 0 32783 0 0 0 1 2
+#965
+thief pixie Caliesten humming sound~
+the pixie thief, Caliesten~
+You thought you might of heard a slight humming sound pass your ear...
+~
+For a split second, you spy in the air, a tiny man.  Dressed in a black
+outfit, he flashes you a quick grin, then disappears!  A second later, you
+feel a tug on your ear, and a voice whispers, "Thanks for the gift!"
+~
+17826817 -2106488704&384 -1000 C
+65 0 0 8d1+0 0d0+0
+0 0
+112 112 1
+13 13 13 13 13 13 13
+0 0 0 0 0
+4 14 0 0 2097151 1 0
+0 0 32776 2105344 0 0 16909857 524291
+> rand_prog 5~
+ponder
+say You know, I can "TEACH BLADESONG" if you are advanced enough!
+~
+> speech_prog 'teach bladesong'~
+if isnohero($n)
+    say Sorry $n, you need to be a hero before you can learn my skill
+    smile $n
+    break
+else
+   if questpoints($n) < 15000
+       say Sorry $n, you need more quest points to learn my skill
+        smile $n
+        break
+   else
+       nod $n
+       mppractice $n bladesong 100
+       mpmset $n questpoints 15000
+       say Use your new skill wisely!
+       salute $n
+    endif
+endif
+~
+> death_prog 5~
+say Gods!  Its back to the Shadow for me!
+groan
+rinvoke artifact
+~
+> hitprcnt_prog 5~
+snarl
+if rand(7)
+  say No, I refuse to fall!
+  else
+  if rand(13)
+     say I shall not let you slay me!
+     else
+     if rand(14)
+        say You think you are mighty?
+        else
+        if rand(17)
+           say I shall overcome my wounds!
+           else
+           if rand(20)
+              say You cannot defeat me!
+              else
+              if rand(25)
+                 say Death is not an option!
+                 else
+                 if rand(33)
+                    say Must...ignore...the...blood!
+                    else
+                    if rand(50)
+                       say Gods, I am wounded!
+                    endif
+                 endif
+              endif
+           endif
+        endif
+     endif
+   endif
+endif~
+|
+#966
+firefly flirefy~
+Flirefy~
+A small firefly keeps the area well lit.
+~
+This small firefly belongs to Flutterby. It floats around the toadstool
+providing light for the room, which isn't a difficult task since the toadstool
+is quite small.
+~
+3 2097152 0 C
+1 0 0 8d1+0 0d0+0
+0 0
+112 112 0
+13 13 13 13 13 13 13
+0 0 0 0 0
+83 17 0 0 8 9 0
+0 0 32768 0 0 0 0 0
+#1000
+Placeholder~
+Placeholder~
+Placeholder
+~
+Someone has abandoned a new mob here
+~
+1 0 0 C
+1 0 0 8d1+0 0d0+0
+0 0
+112 112 0
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 0 0 0 0 0 0
+#0
+
+
+#OBJECTS
+#951
+wand crooked~
+a crooked wand~
+A strange, crooked wand sits here.~
+~
+3 66 1048577
+35 5 5 -1
+1 8500 0
+'curse'
+#952
+wand light wood~
+a light wood wand~
+A wand crafted from light wood sits here.~
+~
+3 65 1048577
+35 5 5 -1
+1 7000 0
+'cure serious'
+#953
+wand stout~
+a stout wand~
+A stout wand sits here.~
+~
+3 66 1048577
+35 5 5 -1
+1 15000 0
+'magnetic thrust'
+#954
+wand silvery gleaming~
+a silvery wand~
+A silvery, gleaming wand sits here.~
+~
+3 64 1048577
+35 5 5 -1
+1 9000 0
+'shocking grasp'
+#955
+potion glistening~
+a glistening potion~
+A potion glistening with light sits here.~
+~
+10 65 1048577
+35 -1 -1 -1
+1 15000 0
+'bless' 'heal' 'NONE'
+#956
+potion minty mint~
+a minty potion~
+A potion smelling of mint sits here.~
+~
+10 64 1048577
+35 -1 -1 -1
+1 150 0
+'word of recall' 'NONE' 'NONE'
+#957
+potion bubbling~
+a bubbling potion~
+A bubbling potion sits here.~
+~
+10 66 1048577
+35 -1 -1 -1
+1 2500 0
+'kindred strength' 'NONE' 'NONE'
+#958
+potion sour~
+a sour potion~
+A sour smelling potion sits here.~
+~
+10 64 1048577
+35 -1 -1 -1
+1 5000 0
+'remove curse' 'NONE' 'NONE'
+#959
+potion bright~
+a bright potion~
+A potion, glowing brightly, sits here.~
+~
+10 65 1048577
+35 -1 -1 -1
+1 30000 0
+'restore mana' 'restore mana' 'restore mana'
+#960
+dagger silver~
+a silver dagger~
+A small dagger, crafted of fine silver.~
+~
+5 1 131073
+12 2 4 11
+1 500 0
+#961
+crown silver~
+a silver crown~
+A small crown, crafted from fine silver.~
+~
+9 65 3
+8 8 0 0
+2 500 0
+A
+4 2
+A
+3 2
+#962
+gown gossamer~
+a gossamer gown~
+A long gown, weaved from a light, airy fabric.~
+~
+9 65 65
+5 5 0 0
+1 750 0
+A
+79 3
+A
+24 -4
+A
+12 50
+#963
+spring gurgling~
+a gurgling spring~
+A small spring gurgles pleasantly out of the forest floor.~
+~
+25 0 0
+0 1 0 0
+1 0 0
+#964
+badge circle toadstool~
+the Badge of the Circle~
+A small badge, in the shape of a toadstool, lies here.~
+~
+9 64 2097153
+3 3 0 0
+1 350 0
+A
+24 -2
+#965
+mushroom toadstool key flutterbykey~
+a tiny toadstool~
+An odd mushroom is growing here.~
+~
+13 536870912&4 1048577
+0 0 0 0
+1 0 0
+#966
+loveseat~
+a small love seat~
+A small, yet comfortable, love seat invites you to sit down.~
+~
+12 536870912 0
+0 0 1161 0
+1 0 0
+#1000
+Placeholder~
+Placeholder~
+Placeholder~
+~
+13 0 0
+0 0 0 0
+1 0 0
+#0
+
+
+#ROOMS
+#951
+Through A Light Forest~
+A tiny path leads through a lightly forested area.  From what you can tell,
+this must be some sort of game path, as it doesn't look liked many humanoids
+have traveled along it.  The wind is warm, and an almost "happy" feeling is in
+the air.  South of here lies the Greenpath.
+~
+0 0 3
+D0
+~
+~
+0 0 952
+D2
+Exit description~
+~
+0 0 339
+S
+#952
+Through A Light Forest~
+A tiny path leads through a lightly forested area.  From what you can tell,
+this must be some sort of game path, as it doesn't look liked many humanoids
+have traveled along it.  The wind is warm, and an almost "happy" feeling is in
+the air.
+~
+0 0 3
+D0
+~
+~
+0 0 953
+D2
+Exit description~
+~
+0 0 951
+S
+#953
+Through A Light Forest~
+A tiny path leads through a lightly forested area.  From what you can tell,
+this must be some sort of game path, as it doesn't look liked many humanoids
+have traveled along it.  The wind is warm, and an almost "happy" feeling is in
+the air.
+~
+0 0 3
+D0
+~
+~
+0 0 954
+D2
+Exit description~
+~
+0 0 952
+S
+#954
+Through A Light Forest~
+A tiny path leads through a lightly forested area.  From what you can tell,
+this must be some sort of game path, as it doesn't look liked many humanoids
+have traveled along it.  The wind is warm, and an almost "happy" feeling is in
+the air.
+~
+0 0 3
+D0
+~
+~
+0 0 955
+D2
+Exit description~
+~
+0 0 953
+S
+#955
+Through A Light Forest~
+A tiny path leads through a lightly forested area.  From what you can tell,
+this must be some sort of game path, as it doesn't look liked many humanoids
+have traveled along it.  The wind is warm, and an almost "happy" feeling is in
+the air.
+~
+0 0 3
+D2
+Exit description~
+~
+0 0 954
+D3
+~
+~
+0 0 956
+S
+#956
+Through A Light Forest~
+A tiny path leads through a lightly forested area.  From what you can tell,
+this must be some sort of game path, as it doesn't look liked many humanoids
+have traveled along it.  The wind is warm, and an almost "happy" feeling is in
+the air.
+~
+0 0 3
+D1
+Exit description~
+~
+0 0 955
+D3
+~
+~
+0 0 957
+S
+#957
+Through A Light Forest~
+A tiny path leads through a lightly forested area.  From what you can tell,
+this must be some sort of game path, as it doesn't look liked many humanoids
+have traveled along it.  The wind is warm, and an almost "happy" feeling is in
+the air.
+~
+0 0 3
+D0
+~
+~
+0 0 958
+D1
+~
+~
+0 0 956
+D3
+~
+~
+0 0 2401
+S
+#958
+Through A Light Forest~
+A tiny path leads through a lightly forested area.  From what you can tell,
+this must be some sort of game path, as it doesn't look liked many humanoids
+have traveled along it.  The wind is warm, and an almost "happy" feeling is in
+the air.
+~
+0 0 3
+D0
+~
+~
+0 0 959
+D2
+Exit description~
+~
+0 0 957
+S
+#959
+Through A Light Forest~
+A tiny path leads through a lightly forested area.  From what you can tell,
+this must be some sort of game path, as it doesn't look liked many humanoids
+have traveled along it.  The wind is warm, and an almost "happy" feeling is in
+the air.
+~
+0 0 3
+D0
+~
+~
+0 0 960
+D2
+Exit description~
+~
+0 0 958
+S
+#960
+Through A Light Forest~
+A tiny path leads through a lightly forested area.  From what you can tell,
+this must be some sort of game path, as it doesn't look liked many humanoids
+have traveled along it.  The wind is warm, and an almost "happy" feeling is in
+the air.
+~
+0 0 3
+D0
+~
+~
+0 0 961
+D2
+Exit description~
+~
+0 0 959
+S
+#961
+Through A Light Forest~
+A tiny path leads through a lightly forested area.  From what you can tell,
+this must be some sort of game path, as it doesn't look liked many humanoids
+have traveled along it.  The wind is warm, and an almost "happy" feeling is in
+the air.  To the east, the woods thicken up a bit, obscuring your view.
+~
+0 0 3
+D1
+~
+~
+0 0 962
+D2
+Exit description~
+~
+0 0 960
+S
+#962
+Through A Light Forest~
+A tiny path leads into a forested area..  From what you can tell, this must be
+some sort of game path, as it doesn't look liked many humanoids have traveled
+along it.  The wind is warm, and an almost "happy" feeling is in the air.  To
+the north lies a small clearing in the trees.
+~
+0 0 3
+D0
+~
+~
+0 0 963
+D3
+Exit description~
+~
+0 0 961
+S
+#963
+The Toadstool Circle~
+You stand in a small clearing in the forest.  The major landmark here is a
+large circle of toadstools.  All about you see sense movement, and
+occasionally hear bits of song and laughter.  Each time you turn to look,
+nothing is there!
+~
+0 0 3
+D0
+~
+~
+0 0 976
+D1
+~
+~
+0 0 964
+D2
+Exit description~
+~
+0 0 962
+D3
+~
+~
+0 0 970
+S
+#964
+The Toadstool Circle~
+You stand in a small clearing in the forest.  The major landmark here is a
+large circle of toadstools.  All about you see sense movement, and
+occasionally hear bits of song and laughter.  Each time you turn to look,
+nothing is there!
+~
+0 0 3
+D0
+~
+~
+0 0 965
+D3
+Exit description~
+~
+0 0 963
+S
+#965
+The Toadstool Circle~
+You stand in a small clearing in the forest.  The major landmark here is a
+large circle of toadstools.  All about you see sense movement, and
+occasionally hear bits of song and laughter.  Each time you turn to look,
+nothing is there!
+~
+0 0 3
+D0
+~
+~
+0 0 966
+D2
+Exit description~
+~
+0 0 964
+D3
+~
+~
+0 0 976
+S
+#966
+The Toadstool Circle~
+You stand in a small clearing in the forest.  The major landmark here is a
+large circle of toadstools.  All about you see sense movement, and
+occasionally hear bits of song and laughter.  Each time you turn to look,
+nothing is there!
+~
+0 0 3
+D2
+Exit description~
+~
+0 0 965
+D3
+~
+~
+0 0 967
+S
+#967
+The Toadstool Circle~
+You stand in a small clearing in the forest.  The major landmark here is a
+large circle of toadstools.  All about you see sense movement, and
+occasionally hear bits of song and laughter.  Each time you turn to look,
+nothing is there!
+~
+0 0 3
+D0
+~
+~
+0 0 973
+D1
+Exit description~
+~
+0 0 966
+D2
+~
+~
+0 0 976
+D3
+~
+~
+0 0 968
+S
+#968
+The Toadstool Circle~
+You stand in a small clearing in the forest.  The major landmark here is a
+large circle of toadstools.  All about you see sense movement, and
+occasionally hear bits of song and laughter.  Each time you turn to look,
+nothing is there!
+~
+0 0 3
+D1
+~
+~
+0 0 967
+D2
+~
+~
+0 0 969
+S
+#969
+The Toadstool Circle~
+You stand in a small clearing in the forest.  The major landmark here is a
+large circle of toadstools.  All about you see sense movement, and
+occasionally hear bits of song and laughter.  Each time you turn to look,
+nothing is there!
+~
+0 0 3
+D0
+Exit description~
+~
+0 0 968
+D1
+~
+~
+0 0 976
+D2
+~
+~
+0 0 970
+D3
+Exit description~
+~
+0 0 971
+S
+#970
+The Toadstool Circle~
+You stand in a small clearing in the forest.  The major landmark here is a
+large circle of toadstools.  All about you see sense movement, and
+occasionally hear bits of song and laughter.  Each time you turn to look,
+nothing is there!
+~
+0 0 3
+D0
+Exit description~
+~
+0 0 969
+D1
+Exit description~
+~
+0 0 963
+S
+#971
+The Hollow Tree~
+A large, hollowed out tree stands here.  Within is what appears to be a small
+shop, as little bottles and other magical items sit about on display.  A large
+log is placed as a counter in front of the tree.
+~
+0 0 3
+D1
+~
+~
+0 0 969
+S
+#972
+A Large Toadstool~
+An extra large toadstool stands here.  The area around the toadstool is
+carpeted with a bright green grass, which feels like the softest carpet under
+your feet.
+~
+0 0 3
+D1
+~
+~
+0 0 973
+S
+#973
+A Lighted Path~
+A small path leads away from the toadstool circle, and into a smaller clearing
+north of you.  While you can't see any apparent lights, this area seems
+brighter than the surrounding forest.  You hear the sound of music and singing
+north of here.
+~
+0 0 3
+D0
+Exit description~
+~
+0 0 975
+D1
+Exit description~
+~
+0 0 974
+D2
+Exit description~
+~
+0 0 967
+D3
+Exit description~
+~
+0 0 972
+S
+#974
+The Mystic Spring~
+A sparkling spring of water sits in a circle of trees here.  The sound of the
+gurgling spring is calming and makes you feel better just standing here.  A
+feeling of safety emanates from the clearing.
+~
+0 0 3
+D1
+~
+~
+41944103 965 977
+D3
+~
+~
+0 0 973
+S
+#975
+Circle Of The Court~
+You enter a brightly lit clearing in the forest.  On the north end of the
+clearing lies a tree, whose roots seem to form what looks like a chair, or
+perhaps a throne.  Bright green vines intertwine with the roots, and the smell
+of mint fills the air.
+~
+0 0 3
+D2
+~
+~
+0 0 973
+S
+#976
+The Toadstool Circle~
+You stand in a small clearing in the forest.  As you look about, you realize
+you stand in the exact center of the ring of toadstools.  All about you see
+sense movement, and occasionally here bits of song and laughter.  Each time
+you turn to look, nothing is there!
+~
+0 0 3
+D0
+Exit description~
+~
+0 0 967
+D1
+Exit description~
+~
+0 0 965
+D2
+Exit description~
+~
+0 0 963
+D3
+Exit description~
+~
+0 0 969
+S
+#977
+Inside Flutterby's Toadstool~
+The inside is small for human standards, but for a pixie it's nice and roomy.
+The room is rounded and the walls are lined with shelves filled with various
+types of jars and other containers. The floor is covered with a woven grass
+rug. A small firefly floats around the ceiling, providing much needed light
+inside the otherwise dark room.
+~
+0 268436492 0
+D3
+~
+~
+41944103 965 974
+S
+#1000
+Meeting Spot~
+Placeholder
+~
+0 4 3
+S
+#0
+
+
+#RESETS
+O 0 966 1 977
+D 0 977 3 2
+M 0 966 1 977
+M 0 965 1 967
+O 0 963 1 974
+M 0 964 2 967
+M 0 964 2 967
+M 0 963 2 961
+M 0 963 2 961
+M 0 962 2 974
+M 0 962 2 974
+M 0 960 2 963
+E 0 964 1 25
+M 0 960 2 963
+M 0 959 2 976
+E 0 964 1 25
+M 0 959 2 976
+M 0 958 2 975
+E 0 964 1 25
+M 0 958 2 975
+M 0 957 2 964
+M 0 957 2 964
+M 0 955 2 970
+M 0 955 2 970
+M 0 954 2 973
+M 0 954 2 973
+M 0 953 2 963
+M 0 953 2 963
+M 0 952 2 952
+M 0 952 2 952
+M 0 961 1 972
+G 1 954 1
+G 1 953 1
+G 1 952 1
+G 1 951 1
+M 0 956 1 971
+G 1 959 1
+G 1 958 1
+G 1 957 1
+G 1 956 1
+G 1 955 1
+M 0 951 1 975
+E 0 962 1 7
+E 0 961 1 1
+S
+
+
+#SHOPS
+ 956    2 10  8  0  0   120  90         7 18    ; Corinna the Blue Fae
+ 961    3  4  8  0  0   120  90         7 18    ; Francis, the dark boggart
+0
+
+
+#REPAIRS
+0
+
+
+#SPECIALS
+M  951 spec_cast_archmagi
+M  956 spec_cast_druid
+M  958 spec_guard
+M  959 spec_guard
+M  960 spec_guard
+M  961 spec_cast_diabolist
+M  965 spec_thief
+S
+
+
+#$

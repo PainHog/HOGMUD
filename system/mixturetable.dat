@@ -1,0 +1,17 @@
+#VERSION 3
+#MIXTURE
+Name           a Bloody Hangover~
+Data      20 13 34
+Object         0
+End
+#MIXTURE
+Name           whiskey & cola~
+Data      5 15 33
+Object         0
+End
+#MIXTURE
+Name           screwdriver~
+Data      20 28 32
+Object         0
+End
+#END

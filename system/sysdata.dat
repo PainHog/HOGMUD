@@ -1,0 +1,53 @@
+#SYSTEM
+MudName	     House of Ghouls~
+Highplayers    20
+Highplayertime Sat Mar 19 19:18:12 2005~
+CheckImmHost   0
+Nameresolving  1
+Waitforauth    0
+Readallmail    55
+Readmailfree   1
+Writemailfree  1
+Takeothersmail 55
+IMCMailVnum    0
+Muse           54
+Think          59
+Build          61
+Log            55
+Protoflag      54
+Overridepriv   55
+Msetplayer     62
+Stunplrvsplr   50
+Stunregular    10
+Gougepvp       25
+Gougenontank   35
+Bashpvp        25
+Bashnontank    35
+Dodgemod       4
+Parrymod       4
+Tumblemod      4
+Damplrvsplr    100
+Damplrvsmob    100
+Dammobvsplr    100
+Dammobvsmob    100
+Forcepc        61
+Guildoverseer  ~
+Guildadvisor   ~
+Saveflags      2021
+Savefreq       5
+Bestowdif      10
+BanSiteLevel   61
+BanRaceLevel   61
+BanClassLevel  61
+MorphOpt       1
+PetSave	     1
+IdentTries     0
+Pkloot	     1
+Newbie_purge   30
+Regular_purge  90
+Autopurge      0
+Rent	     0
+PlayerIndex	1946
+End
+
+#END

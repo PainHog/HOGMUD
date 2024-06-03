@@ -1,0 +1,4 @@
+make smaug
+make[1]: Entering directory '/home/nasty/HouseOfGhouls/src'
+gcc34  -v   -ldl -lcrypt /usr/local/lib/liblua.a -lm  -o smaug act_comm.o act_info.o act_move.o act_obj.o act_wiz.o boards.o build.o clans.o comm.o comments.o const.o db.o deity.o fight.o handler.o hashstr.o ident.o interp.o magic.o makeobjs.o mapout.o misc.o mpxset.o mud_comm.o mud_prog.o player.o polymorph.o requests.o reset.o save.o shops.o skills.o special.o tables.o track.o update.o grub.o stat_obj.o ban.o services.o imm_host.o color.o quest.o healer.o bank.o hotboot.o alias.o marry.o bottle.o locker.o pfiles.o editor.o ratings.o undertaker.o slay.o train.o liquids.o antitank.o acro.o gambler.o lua_scripting.o lua_bits.o mt19937ar.o lua_tables.o
+make[1]: Leaving directory '/home/nasty/HouseOfGhouls/src'

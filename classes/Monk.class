@@ -1,0 +1,287 @@
+Name        Monk~
+Class       7
+AttrPrime   2
+AttrSecond   5
+AttrTertiary   1
+Weapon      0
+Guild       0
+Skilladept  95
+Thac0base   13
+Thac0mod    5
+Hpmin       9
+Hpmax       17
+Mana        0
+Expbase     60
+Affected    2097152
+Resist	 0
+Suscept	 0
+Skill 'ice blast' 43 95
+Skill 'aggressive style' 1 95
+Skill 'aid' 1 95
+Skill 'bash' 3 95
+Skill 'berserk style' 1 95
+Skill 'cleanse aura' 41 95
+Skill 'climb' 1 95
+Skill 'crane' 20 95
+Skill 'crashing wave' 28 95
+Skill 'defensive style' 1 95
+Skill 'dig' 1 95
+Skill 'disarm' 10 95
+Skill 'dodge' 5 95
+Skill 'dual wield' 7 95
+Skill 'eagle' 40 95
+Skill 'engage' 5 95
+Skill 'evasive style' 1 95
+Skill 'fifth attack' 42 65
+Skill 'fire fist' 19 95
+Skill 'focus' 1 95
+Skill 'fourth attack' 30 75
+Skill 'gouge' 12 95
+Skill 'hide' 23 95
+Skill 'hitall' 25 95
+Skill 'jab' 1 95
+Skill 'judo' 10 95
+Skill 'karate' 1 95
+Skill 'kick' 18 95
+Skill 'knee' 14 95
+Skill 'leap' 21 95
+Skill 'master' 50 95
+Skill 'meditate' 4 95
+Skill 'mount' 1 95
+Skill 'parry' 22 95
+Skill 'pressure point' 34 95
+Skill 'pummel' 17 95
+Skill 'punch' 9 95
+Skill 'rescue' 6 95
+Skill 'roundhouse' 38 95
+Skill 'search' 1 95
+Skill 'second attack' 5 95
+Skill 'shock strike' 39 95
+Skill 'shoulder' 35 95
+Skill 'sneak' 13 95
+Skill 'standard style' 1 95
+Skill 'stun' 27 95
+Skill 'tend' 36 95
+Skill 'third attack' 15 85
+Skill 'tiger' 30 95
+Skill 'trance' 37 95
+Skill 'tumble' 33 95
+Skill 'uppercut' 29 95
+Skill 'vault' 31 95
+Skill 'pugilism' 1 95
+Skill 'talonous arms' 1 95
+Skill 'ancient' 40 100
+Skill 'common' 1 100
+Skill 'dwarven' 1 100
+Skill 'elvish' 1 100
+Skill 'ghoulish' 1 100
+Skill 'gith' 1 100
+Skill 'gnomish' 1 100
+Skill 'goblin' 1 100
+Skill 'halfling' 1 100
+Skill 'minotaur' 1 100
+Skill 'ogre' 1 100
+Skill 'orcish' 1 100
+Skill 'pixie' 1 100
+Skill 'spiritual' 15 100
+Skill 'trollese' 1 100
+Skill 'wolfen' 1 100
+Title
+Neophyte.~
+Neophyte.~
+Title
+Neophyte.~
+Neophyte.~
+Title
+Neophyte.~
+Neophyte.~
+Title
+Neophyte.~
+Neophyte.~
+Title
+Neophyte.~
+Neophyte.~
+Title
+Neophyte.~
+Neophyte.~
+Title
+Neophyte.~
+Neophyte.~
+Title
+Neophyte.~
+Neophyte.~
+Title
+Neophyte.~
+Neophyte.~
+Title
+Monk.~
+Monk.~
+Title
+Monk.~
+Monk.~
+Title
+Monk.~
+Monk.~
+Title
+Monk.~
+Monk.~
+Title
+Monk.~
+Monk.~
+Title
+Monk.~
+Monk.~
+Title
+Monk.~
+Monk.~
+Title
+Monk.~
+Monk.~
+Title
+Monk.~
+Monk.~
+Title
+Monk.~
+Monk.~
+Title
+Crane.~
+Crane.~
+Title
+Crane.~
+Crane.~
+Title
+Crane.~
+Crane.~
+Title
+Crane.~
+Crane.~
+Title
+Crane.~
+Crane.~
+Title
+Crane.~
+Crane.~
+Title
+Crane.~
+Crane.~
+Title
+Crane.~
+Crane.~
+Title
+Crane.~
+Crane.~
+Title
+Crane.~
+Crane.~
+Title
+Tiger.~
+Tiger.~
+Title
+Tiger.~
+Tiger.~
+Title
+Tiger.~
+Tiger.~
+Title
+Tiger.~
+Tiger.~
+Title
+Tiger.~
+Tiger.~
+Title
+Tiger.~
+Tiger.~
+Title
+Tiger.~
+Tiger.~
+Title
+Tiger.~
+Tiger.~
+Title
+Tiger.~
+Tiger.~
+Title
+Tiger.~
+Tiger.~
+Title
+Eagle.~
+Eagle.~
+Title
+Eagle.~
+Eagle.~
+Title
+Eagle.~
+Eagle.~
+Title
+Eagle.~
+Eagle.~
+Title
+Eagle.~
+Eagle.~
+Title
+Eagle.~
+Eagle.~
+Title
+Eagle.~
+Eagle.~
+Title
+Eagle.~
+Eagle.~
+Title
+Eagle.~
+Eagle.~
+Title
+Eagle.~
+Eagle.~
+Title
+Master.~
+Master.~
+Title
+Avatar~
+Avatar~
+Title
+Neophyte~
+Neophyte~
+Title
+Acolyte~
+Acolyte~
+Title
+Creator~
+Creator~
+Title
+Savior~
+Savior~
+Title
+Demi God~
+Demi Goddess~
+Title
+Immortal~
+Immortal~
+Title
+Lesser God~
+Lesser Goddess~
+Title
+God~
+Goddess~
+Title
+Greater God~
+Greater Goddess~
+Title
+Ascendant God~
+Acendant Goddess~
+Title
+Exalted God~
+Exalted Goddess~
+Title
+Ancient One~
+Ancient One~
+Title
+Eternal One~
+Eternal One~
+Title
+Infinite One~
+Infinite One~
+Title
+Supreme Entity~
+Supreme Entity~
+End

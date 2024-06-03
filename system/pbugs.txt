@@ -1,0 +1,43 @@
+[21001] Torebere: (12/19):  can't remove own notes from the boards
+[ 3700] Torebere: (12/20):  I'm removing other peoples notes instead of mine *blink*
+[21009] Torebere: (12/21):  not sure ... you can't put quest items into a container except your quest bag ... but you can put quest bag into other containers with quest items in it
+[11038] Melisande: (12/22):  Mistwalk is not working properly, even in the dead of night, not for multiple worded mobnames at ALL, in quotes of course, and not even when using the first word of a mobname. I used to be able to c mistwalk falcon, and now it never lets me...
+[21009] Torebere: (12/28):  paralyze is not an aggro spell
+[21009] Torebere: (12/29):  earthquake gives xp every time you cast it weather or not it's hitting a mob ...
+[21009] Torebere: (12/29):  ok not sure if it's supposed to be this way but items you are wearing don't register on the amount of weight you have
+[21009] Torebere: (12/29):  not sure but the battle fork is flagged as pugilism not polearm ... this gives a two-haned monk usable weapon
+[ 3674] Jero: (02/02):  not sure if bug or not, I casted word and ended up with a ancient lizardman... thanks Jero
+[21009] Torebere: (02/06):  apon death I lose all hp (understandable) and all mana weather or not I used any mana during the fight.
+[21009] Torebere: (02/08):  not that I don't mind to much but on my score page it say's that I have 2 pdeaths ... victories list shows three
+[21009] Torebere: (02/10):  the vicious battle axe from the warrior minotaur on bullhorn road dose not display all of it's anti flags (it does not have an anti-shaman, but a warrior-shaman class can't use it)
+[21009] Torebere: (02/17):  I located Vilutu's account of the elder gods and it said in raider leaves south.
+[10118] Torebere: (02/20):  Can't board ships anymore!
+[21118] Torebere: (02/23):  Being carreid by the high priestess, in (in progress) ... this was from Joey
+[21009] Torebere: (02/24):  you can no longer board boats *sniff*
+[21118] Torebere: (03/01):  ok I know you get strange room names like ip adresses and the likes but this takes the cake not sure if I can duplicate or not  
+[16329] Torebere: (03/01):  from this room if you get it ... I don't think the last bug sent the symbols
+[  303] Jugger: (03/09):  this may not be a bug just level restriction in place on the new area so i am unable to snoop it out hehe
+[21009] Torebere: (03/10):  truesight does not stop blinding affects like the help files state
+[ 3701] Torebere: (03/12):  a tiny arrow necklace ... does not use the keyword necklace
+[ 3671] Sainrith: (04/03):  I was not able to enchant a weapon that did not have a magic flag though it did have a random flag and an artweapon flag
+[21154] Grack: (04/07):  Darwin not sure if you figured out why artarmor couldnt be sold at Vorthan yet, but have gotten more he will not buy... Thanks Grack
+[ 3694] Grack: (04/07):  I have had several items, at first the are not deathrot, even when check them several times, then all of a sudden they are...
+[  926] Grack: (04/11):  thought when had a demonic beast/ or charmed creature in your group they are suppose to be safe from your spell... whenever I use my area attack spells,, they are hit,, and hurt... 
+[  886] Grack: (04/11):  wondering how the max items I can carry has changed from 50 to 41,,, please let me know at Timbo471@sbcglobal.net thanks 
+[  905] Grack: (04/16):  just curious why I get spell failure so often on spirit shield? please let me know Grack   Timbo471@sbcglobal.net
+[21032] Grack: (04/22):  um mistwalk says cost 50 mana,,, but took about 150 mana from me
+[21001] Reaver: (05/20):  the black horen dragon is SUPER BUGGED!
+[21127] Simkin: (05/27):  weaponsmith devour now casts natures companion instead of necromantic touch
+[ 9903] Soloman: (06/10):  gold
+[ 9903] Soloman: (06/10):  gold
+[ 9903] Soloman: (06/10):  gold
+[ 9903] Soloman: (06/10):  gold
+[ 9903] Soloman: (06/10):  gold
+[ 1024] Proden: (07/17):  worker
+[ 1024] Proden: (07/17):  worker
+[21002] Syriac: (08/02):  list
+[ 8003] Thor: (09/13):  list
+[ 3700] Thor: (09/21):  Word of Recall took me Out To Sea
+[21033] Thor: (09/21):  Gold given by Joey is only 94999 not 100000 as shown in aquest list
+[ 4126] Legolas: (01/08):  Plant pass should be re-tooled to be more useful.  Or Rangers should have farsight to determine if the target is in a forest area.
+[21130] Hades: (02/05):  Mquest timer is messed.  Says I can come back in 0 minutes

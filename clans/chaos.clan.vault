@@ -1,0 +1,3742 @@
+#OBJECT
+Ovnum         3658
+Level        65
+Values       99999 0 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Name         wands chest~
+ShortDescr   Chest of Wands~
+Description  Chest of Wands~
+Ovnum         3799
+Level        65
+Values       9999 0 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Name         staves staff chest~
+ShortDescr   Chest of Staves~
+Description  Chest of Staves~
+Ovnum         3799
+Level        65
+Values       9999 0 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Name         face chest~
+ShortDescr   Chest of Face Items~
+Description  Chest of Face Items~
+Ovnum         3799
+Level        65
+Values       9999 0 0 0 0 0
+End
+
+#OBJECT
+Nest         2
+Name         a silvery brigandine mask~
+ShortDescr   a silvery brigandine mask~
+Description  A silvery brigandine mask lies here.~
+Ovnum         29543
+ExtraFlags   537395520&1
+Weight       4
+Level        56
+Cost         4500
+Values       10 10 0 0 0 0
+Affect       -1 -1 25 69 33554432
+Affect       -1 -1 10 13 0
+Affect       -1 -1 20 69 1048576
+Affect       -1 -1 1 3 0
+Affect       -1 -1 -3 23 0
+End
+
+#OBJECT
+Nest         2
+Name         a stained bone mask~
+ShortDescr   a stained bone mask~
+Description  A stained bone mask lies here.~
+Ovnum         29570
+ExtraFlags   536871232&1
+Level        56
+Cost         2500
+Values       7 7 0 0 0 0
+Affect       -1 -1 3 1 0
+Affect       -1 -1 1 3 0
+Affect       -1 -1 4 3 0
+Affect       -1 -1 2 3 0
+End
+
+#OBJECT
+Nest         2
+Name         a strong spiked faceguard~
+ShortDescr   a strong spiked faceguard~
+Description  A strong spiked faceguard lies here.~
+Ovnum         29544
+ExtraFlags   537395520&1
+Weight       5
+Level        56
+Cost         3500
+Values       16 16 0 0 0 0
+Affect       -1 -1 -2 23 0
+Affect       -1 -1 -2 24 0
+Affect       -1 -1 3 31 0
+Affect       -1 -1 3 2 0
+End
+
+#OBJECT
+Nest         2
+Name         an ugly chitin hood~
+ShortDescr   an ugly chitin hood~
+Description  An ugly chitin hood lies here.~
+Ovnum         29571
+ExtraFlags   536871232&1
+Level        55
+Cost         3500
+Values       8 8 0 0 0 0
+Affect       -1 -1 4 2 0
+Affect       -1 -1 -3 20 0
+Affect       -1 -1 2 31 0
+Affect       -1 -1 2 31 0
+Affect       -1 -1 -2 24 0
+End
+
+#OBJECT
+Nest         2
+Name         a tarnished splint mail mask~
+ShortDescr   a tarnished splint mail mask~
+Description  A tarnished splint mail mask lies here.~
+Ovnum         29543
+ExtraFlags   537395520&1
+Weight       5
+Level        56
+Cost         1750
+Values       11 11 0 0 0 0
+Affect       -1 -1 19 69 524288
+Affect       -1 -1 3 31 0
+End
+
+#OBJECT
+Nest         2
+Name         a ceremonial bone hood~
+ShortDescr   a ceremonial bone hood~
+Description  A ceremonial bone hood lies here.~
+Ovnum         29571
+ExtraFlags   536871232&1
+Level        56
+Cost         2500
+Values       6 6 0 0 0 0
+Affect       -1 -1 2 5 0
+Affect       -1 -1 40 14 0
+Affect       -1 -1 16 69 65536
+Affect       -1 -1 -2 24 0
+End
+
+#OBJECT
+Nest         2
+Name         a burnished brigandine mask~
+ShortDescr   a burnished brigandine mask~
+Description  A burnished brigandine mask lies here.~
+Ovnum         29543
+ExtraFlags   537395520&1
+Weight       4
+Level        55
+Cost         3500
+Values       9 9 0 0 0 0
+Affect       -1 -1 -1 24 0
+Affect       -1 -1 3 25 0
+Affect       -1 -1 30 12 0
+Affect       -1 -1 10 13 0
+End
+
+#OBJECT
+Nest         1
+Name         leg chest~
+ShortDescr   Chest of Leg Items~
+Description  Chest of Leg Items~
+Ovnum         3799
+Level        65
+Values       9999 0 0 0 0 0
+End
+
+#OBJECT
+Nest         2
+Name         a clean reinforced leather pair of pants~
+ShortDescr   a clean reinforced leather pair of pants~
+Description  A clean reinforced leather pair of pants lies here.~
+Ovnum         29586
+ExtraFlags   536871232&1
+Weight       3
+Level        56
+Cost         2500
+Values       5 5 0 0 0 0
+Affect       -1 -1 30 12 0
+Affect       -1 -1 4 2 0
+Affect       -1 -1 5 31 0
+Affect       -1 -1 3 2 0
+End
+
+#OBJECT
+Nest         2
+Name         a sturdy bone pair of pants~
+ShortDescr   a sturdy bone pair of pants~
+Description  A sturdy bone pair of pants lies here.~
+Ovnum         29586
+ExtraFlags   536871232&1
+Level        57
+Cost         1500
+Values       6 6 0 0 0 0
+Affect       -1 -1 2 31 0
+Affect       -1 -1 40 12 0
+Affect       -1 -1 -2 22 0
+End
+
+#OBJECT
+Nest         2
+Name         a ceremonial studded leather pair of pants~
+ShortDescr   a ceremonial studded leather pair of pants~
+Description  A ceremonial studded leather pair of pants lies here.~
+Ovnum         29586
+ExtraFlags   536871232&1
+Weight       3
+Level        55
+Cost         2500
+Values       5 5 0 0 0 0
+Affect       -1 -1 2 2 0
+Affect       -1 -1 -2 20 0
+Affect       -1 -1 2 4 0
+Affect       -1 -1 -2 23 0
+End
+
+#OBJECT
+Nest         2
+Name         a lined thorny pair of pants~
+ShortDescr   a lined thorny pair of pants~
+Description  A lined thorny pair of pants lies here.~
+Ovnum         29586
+ExtraFlags   536871232&1
+Weight       3
+Level        57
+Cost         3500
+Values       7 7 0 0 0 0
+Affect       -1 -1 30 14 0
+Affect       -1 -1 30 13 0
+Affect       -1 -1 5 2 0
+Affect       -1 -1 -2 22 0
+Affect       -1 -1 3 79 0
+End
+
+#OBJECT
+Nest         2
+Name         an ornate brigandine set of thighguards~
+ShortDescr   an ornate brigandine set of thighguards~
+Description  An ornate brigandine set of thighguards lies here.~
+Ovnum         29593
+ExtraFlags   537395520&1
+Weight       6
+Level        57
+Cost         3500
+Values       10 10 0 0 0 0
+Affect       -1 -1 -2 24 0
+Affect       -1 -1 -4 23 0
+Affect       -1 -1 1 5 0
+Affect       -1 -1 3 18 0
+End
+
+#OBJECT
+Nest         1
+Name         about chest~
+ShortDescr   Chest of About Items~
+Description  Chest of About Items~
+Ovnum         3799
+Level        65
+Values       9999 0 0 0 0 0
+End
+
+#OBJECT
+Nest         2
+Name         a polished splint mail overshield~
+ShortDescr   a polished splint mail overshield~
+Description  A polished splint mail overshield lies here.~
+Ovnum         29553
+ExtraFlags   537395520&1
+Weight       8
+Level        56
+Cost         2500
+Values       9 9 0 0 0 0
+Affect       -1 -1 20 12 0
+Affect       -1 -1 -4 23 0
+Affect       -1 -1 3 19 0
+End
+
+#OBJECT
+Nest         2
+Name         a shiny mithril overshield~
+ShortDescr   a shiny mithril overshield~
+Description  A shiny mithril overshield lies here.~
+Ovnum         29553
+ExtraFlags   537395520&1
+Weight       7
+Level        55
+Cost         3500
+Values       16 16 0 0 0 0
+Affect       -1 -1 3 5 0
+Affect       -1 -1 1 1 0
+Affect       -1 -1 -2 23 0
+Affect       -1 -1 20 12 0
+End
+
+#OBJECT
+Nest         2
+Name         an etched silver guard~
+ShortDescr   an etched silver guard~
+Description  An etched silver guard lies here.~
+Ovnum         29554
+ExtraFlags   537395520&1
+Weight       8
+Level        57
+Cost         4500
+Values       13 13 0 0 0 0
+Affect       -1 -1 -2 23 0
+Affect       -1 -1 20 13 0
+Affect       -1 -1 2 31 0
+Affect       -1 -1 3 31 0
+Affect       -1 -1 -5 22 0
+End
+
+#OBJECT
+Nest         2
+Name         a stained full leather robe~
+ShortDescr   a stained full leather robe~
+Description  A stained full leather robe lies here.~
+Ovnum         29581
+ExtraFlags   536871232&1
+Weight       3
+Level        57
+Cost         3500
+Values       5 5 0 0 0 0
+Affect       -1 -1 3 4 0
+Affect       -1 -1 4 4 0
+Affect       -1 -1 1 79 0
+Affect       -1 -1 2 1 0
+Affect       -1 -1 30 12 0
+End
+
+#OBJECT
+Nest         1
+Name         eye chest~
+ShortDescr   Chest of Eye Items~
+Description  Chest of Eye Items~
+Ovnum         3799
+Level        65
+Values       9999 0 0 0 0 0
+End
+
+#OBJECT
+Nest         2
+Name         a dirty shell patch~
+ShortDescr   a dirty shell patch~
+Description  A dirty shell patch lies here.~
+Ovnum         29569
+ExtraFlags   536871232&1
+Weight       2
+Level        56
+Cost         1500
+Values       5 5 0 0 0 0
+Affect       -1 -1 -5 23 0
+Affect       -1 -1 2 2 0
+Affect       -1 -1 3 5 0
+End
+
+#OBJECT
+Nest         2
+Name         an elegant tigerfang crystal pair of glasses~
+ShortDescr   an elegant tigerfang crystal pair of glasses~
+Description  An elegant tigerfang crystal pair of glasses lies here.~
+Ovnum         29531
+ExtraFlags   536871232&1
+Level        56
+Cost         7000
+Affect       -1 -1 -2 24 0
+Affect       -1 -1 30 12 0
+Affect       -1 -1 2 4 0
+Affect       -1 -1 2 2 0
+Affect       -1 -1 -3 24 0
+Affect       -1 -1 2 31 0
+Affect       -1 -1 2 31 0
+End
+
+#OBJECT
+Nest         2
+Name         a beveled ironwood monocle~
+ShortDescr   a beveled ironwood monocle~
+Description  A beveled ironwood monocle lies here.~
+Ovnum         29532
+ExtraFlags   536871232&1
+Level        56
+Cost         2500
+Affect       -1 -1 2 3 0
+Affect       -1 -1 -2 23 0
+Affect       -1 -1 4 5 0
+End
+
+#OBJECT
+Nest         2
+Name         a hardened lapis lazuli set of rims~
+ShortDescr   a hardened lapis lazuli set of rims~
+Description  A hardened lapis lazuli set of rims lies here.~
+Ovnum         29533
+ExtraFlags   536871232&1
+Level        56
+Cost         4500
+Affect       -1 -1 3 3 0
+Affect       -1 -1 2 2 0
+Affect       -1 -1 3 31 0
+Affect       -1 -1 -2 23 0
+Affect       -1 -1 -2 23 0
+End
+
+#OBJECT
+Nest         2
+Name         a solid topaz set of rims~
+ShortDescr   a solid topaz set of rims~
+Description  A solid topaz set of rims lies here.~
+Ovnum         29533
+ExtraFlags   536871232&1
+Level        56
+Cost         5500
+Affect       -1 -1 3 5 0
+Affect       -1 -1 -4 24 0
+Affect       -1 -1 2 5 0
+Affect       -1 -1 30 14 0
+Affect       -1 -1 20 12 0
+Affect       -1 -1 -1 20 0
+End
+
+#OBJECT
+Nest         2
+Name         a warped platinum visor~
+ShortDescr   a warped platinum visor~
+Description  A warped platinum visor lies here.~
+Ovnum         29542
+ExtraFlags   537395520&1
+Weight       5
+Level        56
+Cost         2500
+Values       14 14 0 0 0 0
+Affect       -1 -1 5 5 0
+Affect       -1 -1 20 14 0
+Affect       -1 -1 2 3 0
+End
+
+#OBJECT
+Nest         2
+Name         a featureless ironwood pair of glasses~
+ShortDescr   a featureless ironwood pair of glasses~
+Description  A featureless ironwood pair of glasses lies here.~
+Ovnum         29531
+ExtraFlags   536871232&1
+Level        14
+Cost         3500
+Affect       -1 -1 -5 20 0
+Affect       -1 -1 50 12 0
+Affect       -1 -1 3 5 0
+Affect       -1 -1 2 3 0
+End
+
+#OBJECT
+Nest         1
+Name         back chest~
+ShortDescr   Chest of Back Items~
+Description  Chest of Back Items~
+Ovnum         3799
+Level        65
+Values       9999 0 0 0 0 0
+End
+
+#OBJECT
+Nest         2
+Name         a scratched silver backshield~
+ShortDescr   a scratched silver backshield~
+Description  A scratched silver backshield lies here.~
+Ovnum         29555
+ExtraFlags   537395520&1
+Weight       8
+Level        56
+Cost         2500
+Values       13 13 0 0 0 0
+Affect       -1 -1 30 12 0
+Affect       -1 -1 3 5 0
+Affect       -1 -1 40 69 0&256
+End
+
+#OBJECT
+Nest         1
+Name         wrists chest~
+ShortDescr   Chest of Wrist Items~
+Description  Chest of Wrist Items~
+Ovnum         3799
+Level        65
+Values       9999 0 0 0 0 0
+End
+
+#OBJECT
+Nest         2
+Ovnum         10913
+ExtraFlags   0&1
+Level        2
+End
+
+#OBJECT
+Nest         2
+Name         a heavy full leather wristband~
+ShortDescr   a heavy full leather wristband~
+Description  A heavy full leather wristband lies here.~
+Ovnum         29576
+ExtraFlags   536871232&1
+Weight       2
+Level        24
+Cost         1500
+Values       5 5 0 0 0 0
+Affect       -1 -1 3 4 0
+Affect       -1 -1 3 4 0
+Affect       -1 -1 30 13 0
+End
+
+#OBJECT
+Nest         2
+Name         a polished brass manacle~
+ShortDescr   a polished brass manacle~
+Description  A polished brass manacle lies here.~
+Ovnum         29550
+ExtraFlags   537395520&1
+Weight       4
+Level        55
+Cost         3500
+Values       13 13 0 0 0 0
+Affect       -1 -1 2 31 0
+Affect       -1 -1 3 19 0
+Affect       -1 -1 2 18 0
+Affect       -1 -1 -2 23 0
+End
+
+#OBJECT
+Nest         2
+Name         a woodsmans studded leather wristlet~
+ShortDescr   a woodsmans studded leather wristlet~
+Description  A woodsmans studded leather wristlet lies here.~
+Ovnum         29577
+ExtraFlags   536871232&1
+Weight       2
+Level        56
+Cost         2500
+Values       6 6 0 0 0 0
+Affect       -1 -1 -1 22 0
+Affect       -1 -1 3 19 0
+Affect       -1 -1 -3 22 0
+Affect       -1 -1 -5 23 0
+End
+
+#OBJECT
+Nest         2
+Name         a torn leather wristband~
+ShortDescr   a torn leather wristband~
+Description  A torn leather wristband lies here.~
+Ovnum         29576
+ExtraFlags   536871232&1
+Level        55
+Cost         1500
+Values       4 4 0 0 0 0
+Affect       -1 -1 5 3 0
+Affect       -1 -1 3 31 0
+Affect       -1 -1 3 3 0
+End
+
+#OBJECT
+Nest         2
+Name         a lined chitin wristband~
+ShortDescr   a lined chitin wristband~
+Description  A lined chitin wristband lies here.~
+Ovnum         29576
+ExtraFlags   536871232&1
+Level        55
+Cost         1500
+Values       8 8 0 0 0 0
+Affect       -1 -1 2 4 0
+Affect       -1 -1 3 4 0
+Affect       -1 -1 2 1 0
+End
+
+#OBJECT
+Nest         2
+Name         a twisted lava rock bracelet~
+ShortDescr   a twisted lava rock bracelet~
+Description  A twisted lava rock bracelet lies here.~
+Ovnum         29528
+ExtraFlags   536871232&1
+Level        57
+Cost         2500
+Affect       -1 -1 -2 24 0
+Affect       -1 -1 -4 22 0
+Affect       -1 -1 40 13 0
+End
+
+#OBJECT
+Nest         2
+Name         a heavy plate mail bracer~
+ShortDescr   a heavy plate mail bracer~
+Description  A heavy plate mail bracer lies here.~
+Ovnum         29549
+ExtraFlags   537395520&1
+Weight       5
+Level        56
+Cost         3500
+Values       12 12 0 0 0 0
+Affect       -1 -1 1 4 0
+Affect       -1 -1 4 4 0
+Affect       -1 -1 -2 20 0
+Affect       -1 -1 1 4 0
+End
+
+#OBJECT
+Nest         2
+Name         a dented spiked bracer~
+ShortDescr   a dented spiked bracer~
+Description  A dented spiked bracer lies here.~
+Ovnum         29549
+ExtraFlags   537395520&1
+Weight       4
+Level        55
+Cost         3500
+Values       14 14 0 0 0 0
+Affect       -1 -1 10 12 0
+Affect       -1 -1 20 12 0
+Affect       -1 -1 2 31 0
+Affect       -1 -1 -5 24 0
+End
+
+#OBJECT
+Nest         2
+Name         a polished turquoise bracelet~
+ShortDescr   a polished turquoise bracelet~
+Description  A polished turquoise bracelet lies here.~
+Ovnum         29528
+ExtraFlags   536871232&1
+Level        55
+Cost         2500
+Affect       -1 -1 50 12 0
+Affect       -1 -1 -5 23 0
+Affect       -1 -1 1 31 0
+End
+
+#OBJECT
+Nest         2
+Name         a scratched platinum bracer~
+ShortDescr   a scratched platinum bracer~
+Description  A scratched platinum bracer lies here.~
+Ovnum         29549
+ExtraFlags   537395520&1
+Weight       4
+Level        55
+Cost         4500
+Values       15 15 0 0 0 0
+Affect       -1 -1 2 25 0
+Affect       -1 -1 -2 23 0
+Affect       -1 -1 2 2 0
+Affect       -1 -1 3 4 0
+Affect       -1 -1 20 14 0
+End
+
+#OBJECT
+Nest         2
+Name         a flawed scallop shell bracelet~
+ShortDescr   a flawed scallop shell bracelet~
+Description  A flawed scallop shell bracelet lies here.~
+Ovnum         29528
+ExtraFlags   536871232&1
+Level        57
+Cost         2500
+Affect       -1 -1 3 3 0
+Affect       -1 -1 4 25 0
+Affect       -1 -1 30 14 0
+End
+
+#OBJECT
+Nest         1
+Name         waist chest~
+ShortDescr   Chest of Waist Items~
+Description  Chest of Waist Items~
+Ovnum         3799
+Level        65
+Values       9999 0 0 0 0 0
+End
+
+#OBJECT
+Nest         2
+Name         a hunters light leather belt~
+ShortDescr   a hunters light leather belt~
+Description  A hunters light leather belt lies here.~
+Ovnum         29584
+ExtraFlags   536871232&1
+Weight       2
+Level        55
+Cost         2500
+Values       4 4 0 0 0 0
+Affect       -1 -1 20 12 0
+Affect       -1 -1 -3 23 0
+Affect       -1 -1 4 79 0
+Affect       -1 -1 1 31 0
+End
+
+#OBJECT
+Nest         2
+Name         a warped chain mail waistguard~
+ShortDescr   a warped chain mail waistguard~
+Description  A warped chain mail waistguard lies here.~
+Ovnum         29558
+ExtraFlags   537395520&1
+Weight       5
+Level        56
+Cost         3500
+Values       13 13 0 0 0 0
+Affect       -1 -1 20 13 0
+Affect       -1 -1 3 31 0
+Affect       -1 -1 2 31 0
+Affect       -1 -1 -2 24 0
+End
+
+#OBJECT
+Nest         2
+Name         an engraved augmented chain waistguard~
+ShortDescr   an engraved augmented chain waistguard~
+Description  An engraved augmented chain waistguard lies here.~
+Ovnum         29558
+ExtraFlags   537395520&1
+Weight       6
+Level        55
+Cost         3500
+Values       13 13 0 0 0 0
+Affect       -1 -1 1 5 0
+Affect       -1 -1 -2 23 0
+Affect       -1 -1 -3 23 0
+Affect       -1 -1 3 79 0
+End
+
+#OBJECT
+Nest         2
+Name         a heavy scale mail waistguard~
+ShortDescr   a heavy scale mail waistguard~
+Description  A heavy scale mail waistguard lies here.~
+Ovnum         29558
+ExtraFlags   537395520&1
+Weight       6
+Level        57
+Cost         4500
+Values       10 10 0 0 0 0
+Affect       -1 -1 2 25 0
+Affect       -1 -1 2 19 0
+Affect       -1 -1 -2 24 0
+Affect       -1 -1 20 12 0
+Affect       -1 -1 4 31 0
+End
+
+#OBJECT
+Nest         2
+Name         an engraved brass waistguard~
+ShortDescr   an engraved brass waistguard~
+Description  An engraved brass waistguard lies here.~
+Ovnum         29558
+ExtraFlags   537395520&1
+Weight       6
+Level        56
+Cost         3500
+Values       10 10 0 0 0 0
+Affect       -1 -1 3 2 0
+Affect       -1 -1 4 5 0
+Affect       -1 -1 3 2 0
+Affect       -1 -1 2 4 0
+End
+
+#OBJECT
+Nest         2
+Name         a heavy double chain girth~
+ShortDescr   a heavy double chain girth~
+Description  A heavy double chain girth lies here.~
+Ovnum         29557
+ExtraFlags   537396032&1
+Weight       6
+Level        56
+Cost         4500
+Values       15 15 0 0 0 0
+Affect       -1 -1 1 25 0
+Affect       -1 -1 1 3 0
+Affect       -1 -1 3 31 0
+Affect       -1 -1 4 5 0
+Affect       -1 -1 20 69 1048576
+End
+
+#OBJECT
+Nest         2
+Name         a strong platinum waistguard~
+ShortDescr   a strong platinum waistguard~
+Description  A strong platinum waistguard lies here.~
+Ovnum         29558
+ExtraFlags   537396544&1
+Weight       6
+Level        57
+Cost         4500
+Values       16 16 0 0 0 0
+Affect       -1 -1 2 3 0
+Affect       -1 -1 -2 20 0
+Affect       -1 -1 24 69 16777216
+Affect       -1 -1 -4 24 0
+Affect       -1 -1 2 25 0
+End
+
+#OBJECT
+Nest         2
+Name         a trusty brigandine waistguard~
+ShortDescr   a trusty brigandine waistguard~
+Description  A trusty brigandine waistguard lies here.~
+Ovnum         29558
+ExtraFlags   537395520&1
+Weight       5
+Level        55
+Cost         3500
+Values       9 9 0 0 0 0
+Affect       -1 -1 -2 23 0
+Affect       -1 -1 3 3 0
+Affect       -1 -1 20 13 0
+Affect       -1 -1 2 19 0
+End
+
+#OBJECT
+Nest         2
+Name         an enruned shell girdle~
+ShortDescr   an enruned shell girdle~
+Description  An enruned shell girdle lies here.~
+Ovnum         29585
+ExtraFlags   536871232&1
+Weight       2
+Level        56
+Cost         1500
+Values       4 4 0 0 0 0
+Affect       -1 -1 30 13 0
+Affect       -1 -1 20 12 0
+Affect       -1 -1 2 79 0
+End
+
+#OBJECT
+Nest         1
+Name         held chest~
+ShortDescr   Chest of Held Items~
+Description  Chest of Held Items~
+Ovnum         3799
+Level        65
+Values       9999 0 0 0 0 0
+End
+
+#OBJECT
+Nest         2
+Name         a glossy deathstone staff~
+ShortDescr   a glossy deathstone staff~
+Description  A glossy deathstone staff lies here.~
+Ovnum         29608
+ExtraFlags   536871232&1
+Level        55
+Cost         2500
+Affect       -1 -1 3 31 0
+Affect       -1 -1 30 14 0
+Affect       -1 -1 3 5 0
+End
+
+#OBJECT
+Nest         2
+Name         a warped feystone scepter~
+ShortDescr   a warped feystone scepter~
+Description  A warped feystone scepter lies here.~
+Ovnum         29608
+ExtraFlags   536871232&1
+Level        56
+Cost         2500
+Affect       -1 -1 -3 24 0
+Affect       -1 -1 -4 24 0
+Affect       -1 -1 -3 23 0
+End
+
+#OBJECT
+Nest         2
+Name         a stark dragon tooth bone~
+ShortDescr   a stark dragon tooth bone~
+Description  A stark dragon tooth bone lies here.~
+Ovnum         29608
+ExtraFlags   536872256&1
+Level        56
+Cost         4500
+Affect       -1 -1 20 13 0
+Affect       -1 -1 2 25 0
+Affect       -1 -1 30 13 0
+Affect       -1 -1 1 31 0
+Affect       -1 -1 3 1 0
+End
+
+#OBJECT
+Nest         2
+Name         a nightmarish amber charm~
+ShortDescr   a nightmarish amber charm~
+Description  A nightmarish amber charm lies here.~
+Ovnum         29609
+ExtraFlags   536871232&1
+Level        57
+Cost         4500
+Affect       -1 -1 30 12 0
+Affect       -1 -1 3 1 0
+Affect       -1 -1 -2 24 0
+Affect       -1 -1 2 25 0
+Affect       -1 -1 3 4 0
+End
+
+#OBJECT
+Nest         2
+Name         a trusty full leather ward~
+ShortDescr   a trusty full leather ward~
+Description  A trusty full leather ward lies here.~
+Ovnum         29591
+ExtraFlags   536871232&1
+Weight       4
+Level        56
+Cost         2500
+Values       5 5 0 0 0 0
+Affect       -1 -1 -5 24 0
+Affect       -1 -1 -3 24 0
+Affect       -1 -1 50 13 0
+Affect       -1 -1 3 1 0
+End
+
+#OBJECT
+Nest         1
+Name         auras chest~
+ShortDescr   Chest of Aura Items~
+Description  Chest of Aura Items~
+Ovnum         3799
+Level        65
+Values       9999 0 0 0 0 0
+End
+
+#OBJECT
+Nest         2
+Ovnum         14001
+ExtraFlags   64&1
+Level        65
+Values       10 10 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Name         prides chest~
+ShortDescr   Chest of Prides~
+Description  Chest of Prides~
+Ovnum         3799
+Level        65
+Values       9999 0 0 0 0 0
+End
+
+#OBJECT
+Nest         2
+Name         a pin of the sky~
+ShortDescr   a pin of the sky~
+Description  A pin of the sky lies here.~
+Ovnum         29535
+ExtraFlags   536871232&1
+Level        56
+Cost         2500
+Affect       -1 -1 -5 23 0
+Affect       -1 -1 -3 22 0
+Affect       -1 -1 -2 23 0
+Affect       -1 -1 3 3 0
+End
+
+#OBJECT
+Nest         2
+Name         a ribbon of the sky~
+ShortDescr   a ribbon of the sky~
+Description  A ribbon of the sky lies here.~
+Ovnum         29536
+ExtraFlags   536871232&1
+Level        55
+Cost         2500
+Affect       -1 -1 3 2 0
+Affect       -1 -1 3 5 0
+Affect       -1 -1 3 31 0
+Affect       -1 -1 3 69 8
+End
+
+#OBJECT
+Nest         2
+Name         a pin of horror~
+ShortDescr   a pin of horror~
+Description  A pin of horror lies here.~
+Ovnum         29535
+ExtraFlags   536871232&1
+Level        55
+Cost         1500
+Affect       -1 -1 3 2 0
+Affect       -1 -1 3 5 0
+Affect       -1 -1 4 2 0
+End
+
+#OBJECT
+Nest         2
+Name         a badge of the sun~
+ShortDescr   a badge of the sun~
+Description  A badge of the sun lies here.~
+Ovnum         29534
+ExtraFlags   536873280&1
+Level        55
+Cost         2500
+Affect       -1 -1 2 3 0
+Affect       -1 -1 -2 24 0
+Affect       -1 -1 -2 24 0
+Affect       -1 -1 4 5 0
+End
+
+#OBJECT
+Nest         2
+Name         a ribbon of might~
+ShortDescr   a ribbon of might~
+Description  A ribbon of might lies here.~
+Ovnum         29033
+ExtraFlags   64&1
+Level        28
+Cost         2500
+Affect       -1 -1 2097152 26 0
+Affect       -1 -1 30 12 0
+Affect       -1 -1 30 12 0
+End
+
+#OBJECT
+Nest         1
+Name         shields chest~
+ShortDescr   Chest of Shields~
+Description  Chest of Shields~
+Ovnum         3799
+Level        65
+Values       9999 0 0 0 0 0
+End
+
+#OBJECT
+Nest         2
+Name         a pitted half plate buckler~
+ShortDescr   a pitted half plate buckler~
+Description  A pitted half plate buckler lies here.~
+Ovnum         29565
+ExtraFlags   537395520&1
+Weight       8
+Level        65
+Cost         5500
+Values       13 13 0 0 0 0
+Affect       -1 -1 -3 20 0
+Affect       -1 -1 15 69 32768
+Affect       -1 -1 3 4 0
+Affect       -1 -1 50 14 0
+Affect       -1 -1 -2 20 0
+Affect       -1 -1 15 69 32768
+End
+
+#OBJECT
+Nest         2
+Name         an enruned brigandine heater~
+ShortDescr   an enruned brigandine heater~
+Description  An enruned brigandine heater lies here.~
+Ovnum         29602
+ExtraFlags   537395520&1
+Weight       7
+Level        57
+Cost         3500
+Values       13 13 0 0 0 0
+Affect       -1 -1 3 25 0
+Affect       -1 -1 30 12 0
+Affect       -1 -1 20 13 0
+Affect       -1 -1 -3 23 0
+End
+
+#OBJECT
+Nest         2
+Name         a runed brass buckler~
+ShortDescr   a runed brass buckler~
+Description  A runed brass buckler lies here.~
+Ovnum         29565
+ExtraFlags   537395520&1
+Weight       8
+Level        55
+Cost         3500
+Values       12 12 0 0 0 0
+Affect       -1 -1 3 31 0
+Affect       -1 -1 30 14 0
+Affect       -1 -1 3 31 0
+Affect       -1 -1 40 13 0
+End
+
+#OBJECT
+Nest         2
+Name         a tarnished spiked heater~
+ShortDescr   a tarnished spiked heater~
+Description  A tarnished spiked heater lies here.~
+Ovnum         29602
+ExtraFlags   537395520&1
+Weight       8
+Level        56
+Cost         5500
+Values       13 13 0 0 0 0
+Affect       -1 -1 2 2 0
+Affect       -1 -1 1 31 0
+Affect       -1 -1 10 13 0
+Affect       -1 -1 3 31 0
+Affect       -1 -1 -3 24 0
+Affect       -1 -1 4 5 0
+End
+
+#OBJECT
+Nest         2
+Name         a strong mithril heater~
+ShortDescr   a strong mithril heater~
+Description  A strong mithril heater lies here.~
+Ovnum         29602
+ExtraFlags   537395520&1
+Weight       7
+Level        55
+Cost         3500
+Values       17 17 0 0 0 0
+Affect       -1 -1 2 4 0
+Affect       -1 -1 3 25 0
+Affect       -1 -1 5 31 0
+Affect       -1 -1 20 12 0
+End
+
+#OBJECT
+Nest         2
+Name         an enruned platinum buckler~
+ShortDescr   an enruned platinum buckler~
+Description  An enruned platinum buckler lies here.~
+Ovnum         29565
+ExtraFlags   537395520&1
+Weight       8
+Level        56
+Cost         4500
+Values       12 12 0 0 0 0
+Affect       -1 -1 3 5 0
+Affect       -1 -1 2 25 0
+Affect       -1 -1 3 18 0
+Affect       -1 -1 -4 23 0
+Affect       -1 -1 40 12 0
+End
+
+#OBJECT
+Nest         2
+Name         a trusty dwarven stone ward~
+ShortDescr   a trusty dwarven stone ward~
+Description  A trusty dwarven stone ward lies here.~
+Ovnum         29591
+ExtraFlags   536871232&1
+Weight       4
+Level        55
+Cost         4500
+Values       7 7 0 0 0 0
+Affect       -1 -1 2 18 0
+Affect       -1 -1 -2 23 0
+Affect       -1 -1 2 3 0
+Affect       -1 -1 20 13 0
+Affect       -1 -1 -1 24 0
+Affect       -1 -1 3 31 0
+End
+
+#OBJECT
+Nest         2
+Name         a trusty dwarven stone ward~
+ShortDescr   a trusty dwarven stone ward~
+Description  A trusty dwarven stone ward lies here.~
+Ovnum         29591
+ExtraFlags   536871232&1
+Weight       4
+Level        55
+Cost         4500
+Values       7 7 0 0 0 0
+Affect       -1 -1 2 18 0
+Affect       -1 -1 -2 23 0
+Affect       -1 -1 2 3 0
+Affect       -1 -1 20 13 0
+Affect       -1 -1 -1 24 0
+Affect       -1 -1 3 31 0
+End
+
+#OBJECT
+Nest         2
+Name         a heavy brass overshield~
+ShortDescr   a heavy brass overshield~
+Description  A heavy brass overshield lies here.~
+Ovnum         29553
+ExtraFlags   537395520&1
+Weight       8
+Level        56
+Cost         4500
+Values       10 10 0 0 0 0
+Affect       -1 -1 -4 23 0
+Affect       -1 -1 -2 20 0
+Affect       -1 -1 2 2 0
+Affect       -1 -1 3 5 0
+Affect       -1 -1 20 14 0
+End
+
+#OBJECT
+Nest         2
+Name         a shiny silver tower shield~
+ShortDescr   a shiny silver tower shield~
+Description  A shiny silver tower shield lies here.~
+Ovnum         29605
+ExtraFlags   537395520&1
+Weight       8
+Level        55
+Cost         5500
+Values       13 13 0 0 0 0
+Affect       -1 -1 1 25 0
+Affect       -1 -1 3 25 0
+Affect       -1 -1 20 13 0
+Affect       -1 -1 3 31 0
+Affect       -1 -1 -2 24 0
+Affect       -1 -1 3 4 0
+End
+
+#OBJECT
+Nest         2
+Name         a blackened brigandine kite shield~
+ShortDescr   a blackened brigandine kite shield~
+Description  A blackened brigandine kite shield lies here.~
+Ovnum         29601
+ExtraFlags   537395520&1
+Weight       7
+Level        56
+Cost         4500
+Values       13 13 0 0 0 0
+Affect       -1 -1 10 12 0
+Affect       -1 -1 4 1 0
+Affect       -1 -1 -2 20 0
+Affect       -1 -1 5 25 0
+Affect       -1 -1 -1 24 0
+End
+
+#OBJECT
+Nest         2
+Name         a pitted half plate kite shield~
+ShortDescr   a pitted half plate kite shield~
+Description  A pitted half plate kite shield lies here.~
+Ovnum         29601
+ExtraFlags   537395520&1
+Weight       8
+Level        57
+Cost         3500
+Values       10 10 0 0 0 0
+Affect       -1 -1 2 3 0
+Affect       -1 -1 -2 23 0
+Affect       -1 -1 2 25 0
+Affect       -1 -1 2 19 0
+End
+
+#OBJECT
+Nest         2
+Name         a polished silver tower shield~
+ShortDescr   a polished silver tower shield~
+Description  A polished silver tower shield lies here.~
+Ovnum         29605
+ExtraFlags   537395520&1
+Weight       8
+Level        56
+Cost         2500
+Values       13 13 0 0 0 0
+Affect       -1 -1 2 3 0
+Affect       -1 -1 2 1 0
+Affect       -1 -1 4 2 0
+End
+
+#OBJECT
+Nest         2
+Name         an ornate chain mail shield~
+ShortDescr   an ornate chain mail shield~
+Description  An ornate chain mail shield lies here.~
+Ovnum         29564
+ExtraFlags   537395520&1
+Weight       7
+Level        56
+Cost         4500
+Values       12 12 0 0 0 0
+Affect       -1 -1 2 4 0
+Affect       -1 -1 -4 23 0
+Affect       -1 -1 2 25 0
+Affect       -1 -1 2 25 0
+Affect       -1 -1 3 2 0
+End
+
+#OBJECT
+Nest         2
+Name         an etched double chain kite shield~
+ShortDescr   an etched double chain kite shield~
+Description  An etched double chain kite shield lies here.~
+Ovnum         29601
+ExtraFlags   537395520&1
+Weight       8
+Level        56
+Cost         4500
+Values       14 14 0 0 0 0
+Affect       -1 -1 3 4 0
+Affect       -1 -1 -3 23 0
+Affect       -1 -1 40 14 0
+Affect       -1 -1 30 13 0
+Affect       -1 -1 -2 23 0
+End
+
+#OBJECT
+Nest         2
+Name         a strong reinforced leather targe~
+ShortDescr   a strong reinforced leather targe~
+Description  A strong reinforced leather targe lies here.~
+Ovnum         29604
+ExtraFlags   536871232&1
+Weight       4
+Level        55
+Cost         4500
+Values       6 6 0 0 0 0
+Affect       -1 -1 30 12 0
+Affect       -1 -1 -1 20 0
+Affect       -1 -1 2 3 0
+Affect       -1 -1 5 18 0
+Affect       -1 -1 50 14 0
+Affect       -1 -1 -1 23 0
+End
+
+#OBJECT
+Nest         2
+Name         a torn leather targe~
+ShortDescr   a torn leather targe~
+Description  A torn leather targe lies here.~
+Ovnum         29604
+ExtraFlags   536871232&1
+Level        56
+Cost         2500
+Values       7 7 0 0 0 0
+Affect       -1 -1 3 5 0
+Affect       -1 -1 30 14 0
+Affect       -1 -1 3 25 0
+Affect       -1 -1 1 5 0
+End
+
+#OBJECT
+Nest         2
+Name         a heavy double leather scutum~
+ShortDescr   a heavy double leather scutum~
+Description  A heavy double leather scutum lies here.~
+Ovnum         29603
+ExtraFlags   536871232&1
+Weight       4
+Level        56
+Cost         1500
+Values       8 8 0 0 0 0
+Affect       -1 -1 4 4 0
+Affect       -1 -1 -3 23 0
+Affect       -1 -1 2 31 0
+End
+
+#OBJECT
+Nest         2
+Name         a battered chitin scutum~
+ShortDescr   a battered chitin scutum~
+Description  A battered chitin scutum lies here.~
+Ovnum         29603
+ExtraFlags   536871232&1
+Level        23
+Cost         1500
+Values       5 5 0 0 0 0
+Affect       -1 -1 30 12 0
+Affect       -1 -1 5 31 0
+Affect       -1 -1 2 1 0
+End
+
+#OBJECT
+Nest         2
+Name         a trusty scale mail shield~
+ShortDescr   a trusty scale mail shield~
+Description  A trusty scale mail shield lies here.~
+Ovnum         29564
+ExtraFlags   537395520&1
+Weight       8
+Level        56
+Cost         1750
+Values       9 9 0 0 0 0
+Affect       -1 -1 4 79 0
+Affect       -1 -1 3 19 0
+End
+
+#OBJECT
+Nest         2
+Name         a woodsmans dwarven stone targe~
+ShortDescr   a woodsmans dwarven stone targe~
+Description  A woodsmans dwarven stone targe lies here.~
+Ovnum         29604
+ExtraFlags   536871232&1
+Weight       4
+Level        25
+Cost         1500
+Values       9 9 0 0 0 0
+Affect       -1 -1 10 13 0
+Affect       -1 -1 6 69 64
+Affect       -1 -1 4 5 0
+End
+
+#OBJECT
+Nest         1
+Name         finger chest~
+ShortDescr   Chest of Finger Items~
+Description  Chest of Finger Items~
+Ovnum         3799
+Level        65
+Values       9999 0 0 0 0 0
+End
+
+#OBJECT
+Nest         2
+Name         an illuminated topaz ring~
+ShortDescr   an illuminated topaz ring~
+Description  An illuminated topaz ring lies here.~
+Ovnum         29508
+ExtraFlags   536871232&1
+Level        57
+Cost         2500
+Affect       -1 -1 40 12 0
+Affect       -1 -1 -5 22 0
+Affect       -1 -1 5 3 0
+End
+
+#OBJECT
+Nest         2
+Name         a bloodstained amethyst band~
+ShortDescr   a bloodstained amethyst band~
+Description  A bloodstained amethyst band lies here.~
+Ovnum         29510
+ExtraFlags   536871232&1
+Level        65
+Cost         4500
+Affect       -1 -1 -3 24 0
+Affect       -1 -1 1 1 0
+Affect       -1 -1 1 4 0
+Affect       -1 -1 1 2 0
+Affect       -1 -1 4 18 0
+End
+
+#OBJECT
+Nest         2
+Name         a flawed gold nugget band~
+ShortDescr   a flawed gold nugget band~
+Description  A flawed gold nugget band lies here.~
+Ovnum         29510
+ExtraFlags   536871232&1
+Level        55
+Cost         3500
+Affect       -1 -1 2 3 0
+Affect       -1 -1 30 14 0
+Affect       -1 -1 1 3 0
+Affect       -1 -1 20 12 0
+End
+
+#OBJECT
+Nest         2
+Ovnum         16227
+ExtraFlags   1280&257
+Level        50
+Values       12 12 44 0 0 0
+Affect       -1 -1 6 18 0
+Affect       -1 -1 6 19 0
+End
+
+#OBJECT
+Nest         2
+Ovnum         16227
+ExtraFlags   768&257
+Level        65
+Values       12 19 53 0 0 0
+Affect       -1 -1 6 18 0
+Affect       -1 -1 6 19 0
+End
+
+#OBJECT
+Nest         1
+Name         weapons chest~
+ShortDescr   Chest of Weapons~
+Description  Chest of Weapons~
+Ovnum         3799
+Level        65
+Values       9999 0 0 0 0 0
+End
+
+#OBJECT
+Nest         2
+Name         a spiked hammer~
+ShortDescr   a spiked hammer~
+Description  A spiked hammer lies here.~
+Ovnum         29008
+ExtraFlags   65&17
+Weight       18
+Level        26
+Cost         500
+Values       12 10 31 8 0 0
+Affect       -1 -1 3 4 0
+End
+
+#OBJECT
+Nest         2
+Name         a spiked hammer~
+ShortDescr   a spiked hammer~
+Description  A spiked hammer lies here.~
+Ovnum         29517
+ExtraFlags   536871232&17
+Weight       14
+Level        55
+Cost         3500
+Values       12 10 33 8 0 0
+Affect       -1 -1 3 3 0
+Affect       -1 -1 50 12 0
+Affect       -1 -1 -4 23 0
+Affect       -1 -1 2 2 0
+End
+
+#OBJECT
+Nest         2
+Name         a mace~
+ShortDescr   a mace~
+Description  A mace lies here.~
+Ovnum         29606
+ExtraFlags   536871232&1
+Weight       9
+Level        56
+Cost         2500
+Values       12 6 19 7 0 0
+Affect       -1 -1 2 31 0
+Affect       -1 -1 50 13 0
+Affect       -1 -1 -2 24 0
+End
+
+#OBJECT
+Nest         2
+Ovnum         21119
+ExtraFlags   522&257
+Level        50
+Values       12 15 15 5 0 0
+Affect       -1 -1 5 18 0
+Affect       -1 -1 5 19 0
+End
+
+#OBJECT
+Nest         2
+Ovnum         21119
+ExtraFlags   522&257
+Level        50
+Values       12 15 15 5 0 0
+Affect       -1 -1 5 18 0
+Affect       -1 -1 5 19 0
+End
+
+#OBJECT
+Nest         2
+Ovnum         21119
+ExtraFlags   522&257
+Level        56
+Values       12 15 15 5 0 0
+Affect       -1 -1 5 18 0
+Affect       -1 -1 5 19 0
+End
+
+#OBJECT
+Nest         1
+Name         chest potions~
+ShortDescr   Chest of Potions~
+Description  Chest of Potions~
+Ovnum         3799
+Level        65
+Values       9999 0 0 0 0 0
+End
+
+#OBJECT
+Nest         2
+Ovnum         21183
+ExtraFlags   67&1
+Level        30
+Values       65 155 184 243 0 0
+Spell 1      'fireshield'
+Spell 2      'iceshield'
+Spell 3      'shockshield'
+End
+
+#OBJECT
+Nest         2
+Ovnum         21183
+ExtraFlags   67&1
+Level        16
+Values       33 155 184 243 0 0
+Spell 1      'fireshield'
+Spell 2      'iceshield'
+Spell 3      'shockshield'
+End
+
+#OBJECT
+Nest         2
+Ovnum         21183
+ExtraFlags   67&1
+Level        30
+Values       46 155 184 243 0 0
+Spell 1      'fireshield'
+Spell 2      'iceshield'
+Spell 3      'shockshield'
+End
+
+#OBJECT
+Nest         2
+Ovnum         21148
+ExtraFlags   536870976&1
+Level        49
+Values       21 117 269 173 0 0
+Spell 1      'demonsight'
+Spell 2      'true sight'
+Spell 3      'grant auralink'
+End
+
+#OBJECT
+Nest         1
+Name         pills chest~
+ShortDescr   Chest of Pills~
+Description  Chest of Pills~
+Ovnum         3799
+Level        65
+Values       9999 0 0 0 0 0
+End
+
+#OBJECT
+Nest         2
+Ovnum         7698
+ExtraFlags   -2147483583&33
+Level        49
+Values       1 177 177 232 0 0
+Spell 1      'heal'
+Spell 2      'heal'
+Spell 3      'restore mana'
+End
+
+#OBJECT
+Nest         1
+Name         chest lights~
+ShortDescr   Chest of Lights~
+Description  Chest of Lights~
+Ovnum         3799
+Level        65
+Values       9999 0 0 0 0 0
+End
+
+#OBJECT
+Nest         2
+Name         an illuminated sapphire torch~
+ShortDescr   an illuminated sapphire torch~
+Description  An illuminated sapphire torch lies here.~
+Ovnum         29520
+ExtraFlags   536871233&1
+Level        56
+Cost         3600
+Values       0 0 -1 0 0 0
+Affect       -1 -1 1 3 0
+Affect       -1 -1 3 4 0
+Affect       -1 -1 40 14 0
+Affect       -1 -1 -1 23 0
+Affect       -1 -1 20 12 0
+End
+
+#OBJECT
+Nest         2
+Name         a jagged azurite orb~
+ShortDescr   a jagged azurite orb~
+Description  A jagged azurite orb lies here.~
+Ovnum         29521
+ExtraFlags   536871233&1
+Level        55
+Cost         1600
+Values       0 0 -1 0 0 0
+Affect       -1 -1 -4 23 0
+Affect       -1 -1 2 2 0
+Affect       -1 -1 -3 20 0
+End
+
+#OBJECT
+Nest         2
+Name         an icy sillimanite orb~
+ShortDescr   an icy sillimanite orb~
+Description  An icy sillimanite orb lies here.~
+Ovnum         29521
+ExtraFlags   536871233&1
+Level        55
+Cost         3600
+Values       0 0 -1 0 0 0
+Affect       -1 -1 30 14 0
+Affect       -1 -1 1 18 0
+Affect       -1 -1 30 13 0
+Affect       -1 -1 5 2 0
+Affect       -1 -1 2 3 0
+End
+
+#OBJECT
+Nest         2
+Name         a studded carnelian light~
+ShortDescr   a studded carnelian light~
+Description  A studded carnelian light lies here.~
+Ovnum         29518
+ExtraFlags   536871233&1
+Level        57
+Cost         3600
+Values       0 0 -1 0 0 0
+Affect       -1 -1 -3 23 0
+Affect       -1 -1 2 31 0
+Affect       -1 -1 5 1 0
+Affect       -1 -1 4 31 0
+Affect       -1 -1 5 4 0
+End
+
+#OBJECT
+Nest         2
+Name         a lined demon skull light~
+ShortDescr   a lined demon skull light~
+Description  A lined demon skull light lies here.~
+Ovnum         29518
+ExtraFlags   536871233&1
+Level        56
+Cost         6100
+Values       0 0 -1 0 0 0
+Affect       -1 -1 2 3 0
+Affect       -1 -1 1 3 0
+Affect       -1 -1 4 5 0
+Affect       -1 -1 3 1 0
+Affect       -1 -1 3 1 0
+Affect       -1 -1 2 3 0
+Affect       -1 -1 3 3 0
+End
+
+#OBJECT
+Nest         2
+Name         a fanatics ruby light~
+ShortDescr   a fanatics ruby light~
+Description  A fanatics ruby light lies here.~
+Ovnum         29518
+ExtraFlags   536871233&1
+Level        56
+Cost         2600
+Values       0 0 -1 0 0 0
+Affect       -1 -1 2 2 0
+Affect       -1 -1 1 31 0
+Affect       -1 -1 10 14 0
+Affect       -1 -1 4 25 0
+End
+
+#OBJECT
+Nest         2
+Name         an icy lava rock lantern~
+ShortDescr   an icy lava rock lantern~
+Description  An icy lava rock lantern lies here.~
+Ovnum         29519
+ExtraFlags   536871233&1
+Level        57
+Cost         1600
+Values       0 0 -1 0 0 0
+Affect       -1 -1 20 13 0
+Affect       -1 -1 5 79 0
+Affect       -1 -1 4 79 0
+End
+
+#OBJECT
+Nest         2
+Name         a beaded mithril lantern~
+ShortDescr   a beaded mithril lantern~
+Description  A beaded mithril lantern lies here.~
+Ovnum         29519
+ExtraFlags   536871233&1
+Level        56
+Cost         1600
+Values       0 0 -1 0 0 0
+Affect       -1 -1 2 18 0
+Affect       -1 -1 -1 20 0
+Affect       -1 -1 3 69 8
+End
+
+#OBJECT
+Nest         2
+Name         a reptilian clam shell lantern~
+ShortDescr   a reptilian clam shell lantern~
+Description  A reptilian clam shell lantern lies here.~
+Ovnum         29519
+ExtraFlags   536871233&1
+Level        55
+Cost         3600
+Values       0 0 -1 0 0 0
+Affect       -1 -1 20 12 0
+Affect       -1 -1 4 3 0
+Affect       -1 -1 3 1 0
+Affect       -1 -1 10 14 0
+Affect       -1 -1 2 2 0
+End
+
+#OBJECT
+Nest         2
+Name         a drab gold torch~
+ShortDescr   a drab gold torch~
+Description  A drab gold torch lies here.~
+Ovnum         29520
+ExtraFlags   536871233&1
+Level        55
+Cost         2600
+Values       0 0 -1 0 0 0
+Affect       -1 -1 2 5 0
+Affect       -1 -1 -4 20 0
+Affect       -1 -1 1 3 0
+Affect       -1 -1 -3 20 0
+End
+
+#OBJECT
+Nest         2
+Ovnum         9975
+ExtraFlags   65&1
+Level        64
+Values       0 0 -1 0 0 0
+End
+
+#OBJECT
+Nest         2
+Ovnum         701
+ExtraFlags   67&1
+Level        50
+Values       0 0 -1 0 0 0
+End
+
+#OBJECT
+Nest         1
+Name         a bright double chain backshield~
+ShortDescr   a bright double chain backshield~
+Description  A bright double chain backshield lies here.~
+Ovnum         29056
+Weight       10
+Level        64
+Cost         250
+Values       9 9 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Ovnum         21453
+Level        64
+Values       1 0 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Name         an enruned brigandine bracer~
+ShortDescr   an enruned brigandine bracer~
+Description  An enruned brigandine bracer lies here.~
+Ovnum         29050
+Weight       4
+Level        66
+Cost         250
+Values       7 7 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Name         a dirty coral wristlet~
+ShortDescr   a dirty coral wristlet~
+Description  A dirty coral wristlet lies here.~
+Ovnum         29082
+Weight       2
+Level        65
+Cost         250
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Name         an elven diamond locket~
+ShortDescr   an elven diamond locket~
+Description  An elven diamond locket lies here.~
+Ovnum         29514
+ExtraFlags   536871232&1
+Level        55
+Cost         4500
+Affect       -1 -1 3 79 0
+Affect       -1 -1 2 25 0
+Affect       -1 -1 30 13 0
+Affect       -1 -1 -2 23 0
+Affect       -1 -1 3 19 0
+End
+
+#OBJECT
+Nest         1
+Name         a strong silver set of greaves~
+ShortDescr   a strong silver set of greaves~
+Description  A strong silver set of greaves lies here.~
+Ovnum         29559
+ExtraFlags   537395520&1
+Weight       7
+Level        56
+Cost         3500
+Values       12 12 0 0 0 0
+Affect       -1 -1 4 18 0
+Affect       -1 -1 -2 20 0
+Affect       -1 -1 3 3 0
+Affect       -1 -1 -3 20 0
+End
+
+#OBJECT
+Nest         1
+Name         a light shell cap~
+ShortDescr   a light shell cap~
+Description  A light shell cap lies here.~
+Ovnum         29567
+ExtraFlags   536871232&1
+Weight       3
+Level        56
+Cost         2500
+Values       7 7 0 0 0 0
+Affect       -1 -1 5 1 0
+Affect       -1 -1 -5 23 0
+Affect       -1 -1 20 12 0
+Affect       -1 -1 -3 22 0
+End
+
+#OBJECT
+Nest         1
+Name         arms chest~
+ShortDescr   Chest of Arm Items~
+Description  Chest of Arm Items~
+Ovnum         3799
+Level        65
+Values       9999 0 0 0 0 0
+End
+
+#OBJECT
+Nest         2
+Name         a silvery augmented chain set of vambraces~
+ShortDescr   a silvery augmented chain set of vambraces~
+Description  A silvery augmented chain set of vambraces lies here.~
+Ovnum         29547
+ExtraFlags   537395520&1
+Weight       6
+Level        56
+Cost         4500
+Values       13 13 0 0 0 0
+Affect       -1 -1 4 4 0
+Affect       -1 -1 -2 22 0
+Affect       -1 -1 20 13 0
+Affect       -1 -1 1 3 0
+Affect       -1 -1 1 3 0
+End
+
+#OBJECT
+Nest         2
+Name         a burnished splint mail set of vambraces~
+ShortDescr   a burnished splint mail set of vambraces~
+Description  A burnished splint mail set of vambraces lies here.~
+Ovnum         29547
+ExtraFlags   537395520&1
+Weight       6
+Level        55
+Cost         7000
+Values       11 11 0 0 0 0
+Affect       -1 -1 2 5 0
+Affect       -1 -1 -1 22 0
+Affect       -1 -1 -1 20 0
+Affect       -1 -1 2 25 0
+Affect       -1 -1 3 5 0
+Affect       -1 -1 -1 24 0
+Affect       -1 -1 4 25 0
+End
+
+#OBJECT
+Nest         2
+Name         a bright chain mail set of vambraces~
+ShortDescr   a bright chain mail set of vambraces~
+Description  A bright chain mail set of vambraces lies here.~
+Ovnum         29547
+ExtraFlags   537395520&1
+Weight       5
+Level        56
+Cost         2500
+Values       11 11 0 0 0 0
+Affect       -1 -1 30 12 0
+Affect       -1 -1 2 3 0
+Affect       -1 -1 -2 23 0
+End
+
+#OBJECT
+Nest         2
+Name         a tarnished augmented chain set of vambraces~
+ShortDescr   a tarnished augmented chain set of vambraces~
+Description  A tarnished augmented chain set of vambraces lies here.~
+Ovnum         29547
+ExtraFlags   537395520&1
+Weight       6
+Level        55
+Cost         4500
+Values       10 10 0 0 0 0
+Affect       -1 -1 -2 23 0
+Affect       -1 -1 1 5 0
+Affect       -1 -1 30 13 0
+Affect       -1 -1 3 4 0
+Affect       -1 -1 5 5 0
+End
+
+#OBJECT
+Nest         2
+Name         a torn hardened leather set of arm wraps~
+ShortDescr   a torn hardened leather set of arm wraps~
+Description  A torn hardened leather set of arm wraps lies here.~
+Ovnum         29600
+ExtraFlags   536871232&1
+Weight       3
+Level        57
+Cost         2500
+Values       6 6 0 0 0 0
+Affect       -1 -1 20 12 0
+Affect       -1 -1 -2 22 0
+Affect       -1 -1 2 31 0
+Affect       -1 -1 20 12 0
+End
+
+#OBJECT
+Nest         2
+Name         a ripped shell set of armlets~
+ShortDescr   a ripped shell set of armlets~
+Description  A ripped shell set of armlets lies here.~
+Ovnum         29575
+ExtraFlags   536871232&1
+Weight       3
+Level        57
+Cost         1500
+Values       4 4 0 0 0 0
+Affect       -1 -1 2 25 0
+Affect       -1 -1 2 31 0
+Affect       -1 -1 16 69 65536
+End
+
+#OBJECT
+Nest         2
+Name         a woodsmans double leather set of armlets~
+ShortDescr   a woodsmans double leather set of armlets~
+Description  A woodsmans double leather set of armlets lies here.~
+Ovnum         29575
+ExtraFlags   536871232&1
+Weight       3
+Level        55
+Cost         2500
+Values       7 7 0 0 0 0
+Affect       -1 -1 -5 23 0
+Affect       -1 -1 4 25 0
+Affect       -1 -1 1 19 0
+Affect       -1 -1 2 4 0
+End
+
+#OBJECT
+Nest         2
+Name         a battered cuirbouilli set of armlets~
+ShortDescr   a battered cuirbouilli set of armlets~
+Description  A battered cuirbouilli set of armlets lies here.~
+Ovnum         29575
+ExtraFlags   536871232&1
+Weight       3
+Level        57
+Cost         2500
+Values       6 6 0 0 0 0
+Affect       -1 -1 3 79 0
+Affect       -1 -1 2 31 0
+Affect       -1 -1 -2 22 0
+Affect       -1 -1 1 25 0
+End
+
+#OBJECT
+Nest         1
+Name         ankle chest~
+ShortDescr   Chest of Ankle Items~
+Description  Chest of Ankle Items~
+Ovnum         3799
+Level        65
+Values       9999 0 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Name         necks chest~
+ShortDescr   Chest of Neck Items~
+Description  Chest of Neck Items~
+Ovnum         3799
+Level        65
+Values       9999 0 0 0 0 0
+End
+
+#OBJECT
+Nest         2
+Name         a bizarre pearl chain~
+ShortDescr   a bizarre pearl chain~
+Description  A bizarre pearl chain lies here.~
+Ovnum         29513
+ExtraFlags   536871232&1
+Level        20
+Cost         5500
+Affect       -1 -1 3 1 0
+Affect       -1 -1 4 2 0
+Affect       -1 -1 -5 23 0
+Affect       -1 -1 2 25 0
+Affect       -1 -1 1 4 0
+Affect       -1 -1 3 31 0
+End
+
+#OBJECT
+Nest         2
+Name         a burnished platinum torc~
+ShortDescr   a burnished platinum torc~
+Description  A burnished platinum torc lies here.~
+Ovnum         29546
+ExtraFlags   537395520&1
+Weight       4
+Level        55
+Cost         2500
+Values       11 11 0 0 0 0
+Affect       -1 -1 2 79 0
+Affect       -1 -1 2 4 0
+Affect       -1 -1 5 25 0
+End
+
+#OBJECT
+Nest         2
+Name         a runed plate mail torc~
+ShortDescr   a runed plate mail torc~
+Description  A runed plate mail torc lies here.~
+Ovnum         29546
+ExtraFlags   537395520&1
+Weight       5
+Level        57
+Cost         5500
+Values       11 11 0 0 0 0
+Affect       -1 -1 20 12 0
+Affect       -1 -1 4 3 0
+Affect       -1 -1 30 14 0
+Affect       -1 -1 3 31 0
+Affect       -1 -1 -2 22 0
+Affect       -1 -1 10 12 0
+End
+
+#OBJECT
+Nest         2
+Name         a scratched plate mail torc~
+ShortDescr   a scratched plate mail torc~
+Description  A scratched plate mail torc lies here.~
+Ovnum         29546
+ExtraFlags   537395520&1
+Weight       5
+Level        55
+Cost         4500
+Values       1 1 0 0 0 0
+Affect       -1 -1 2 5 0
+Affect       -1 -1 20 12 0
+Affect       -1 -1 20 13 0
+Affect       -1 -1 50 13 0
+Affect       -1 -1 4 2 0
+End
+
+#OBJECT
+Nest         2
+Name         a pitted silver choker~
+ShortDescr   a pitted silver choker~
+Description  A pitted silver choker lies here.~
+Ovnum         29545
+ExtraFlags   537396032&1
+Weight       4
+Level        55
+Cost         4500
+Values       13 13 0 0 0 0
+Affect       -1 -1 2 5 0
+Affect       -1 -1 2 3 0
+Affect       -1 -1 3 79 0
+Affect       -1 -1 20 14 0
+Affect       -1 -1 2 18 0
+End
+
+#OBJECT
+Nest         2
+Name         a radiant hessonite necklace~
+ShortDescr   a radiant hessonite necklace~
+Description  A radiant hessonite necklace lies here.~
+Ovnum         29511
+ExtraFlags   536871232&1
+Level        56
+Cost         3500
+Affect       -1 -1 -2 20 0
+Affect       -1 -1 50 12 0
+Affect       -1 -1 1 3 0
+Affect       -1 -1 2 4 0
+End
+
+#OBJECT
+Nest         2
+Name         a sturdy dwarven stone cape~
+ShortDescr   a sturdy dwarven stone cape~
+Description  A sturdy dwarven stone cape lies here.~
+Ovnum         29572
+ExtraFlags   536871232&1
+Weight       3
+Level        57
+Cost         1500
+Values       10 10 0 0 0 0
+Affect       -1 -1 4 5 0
+Affect       -1 -1 3 4 0
+Affect       -1 -1 2 25 0
+End
+
+#OBJECT
+Nest         2
+Name         a dented plate mail torc~
+ShortDescr   a dented plate mail torc~
+Description  A dented plate mail torc lies here.~
+Ovnum         29546
+ExtraFlags   537395520&1
+Weight       5
+Level        56
+Cost         3500
+Values       12 12 0 0 0 0
+Affect       -1 -1 -3 23 0
+Affect       -1 -1 20 14 0
+Affect       -1 -1 4 5 0
+Affect       -1 -1 50 14 0
+End
+
+#OBJECT
+Nest         2
+Name         a ceremonial studded leather cape~
+ShortDescr   a ceremonial studded leather cape~
+Description  A ceremonial studded leather cape lies here.~
+Ovnum         29572
+ExtraFlags   536871232&1
+Weight       3
+Level        56
+Cost         2500
+Values       8 8 0 0 0 0
+Affect       -1 -1 3 2 0
+Affect       -1 -1 2 1 0
+Affect       -1 -1 2 5 0
+Affect       -1 -1 2 4 0
+End
+
+#OBJECT
+Nest         2
+Name         an exquisite granite amulet~
+ShortDescr   an exquisite granite amulet~
+Description  An exquisite granite amulet lies here.~
+Ovnum         29512
+ExtraFlags   536871232&1
+Level        55
+Cost         2500
+Affect       -1 -1 20 14 0
+Affect       -1 -1 30 12 0
+Affect       -1 -1 -2 22 0
+End
+
+#OBJECT
+Nest         2
+Name         a stained bone cape~
+ShortDescr   a stained bone cape~
+Description  A stained bone cape lies here.~
+Ovnum         29572
+ExtraFlags   536871232&1
+Level        56
+Cost         4500
+Values       5 5 0 0 0 0
+Affect       -1 -1 3 31 0
+Affect       -1 -1 3 31 0
+Affect       -1 -1 -2 24 0
+Affect       -1 -1 2 25 0
+Affect       -1 -1 4 31 0
+Affect       -1 -1 -2 23 0
+End
+
+#OBJECT
+Nest         2
+Name         a polished augmented chain torc~
+ShortDescr   a polished augmented chain torc~
+Description  A polished augmented chain torc lies here.~
+Ovnum         29546
+ExtraFlags   537395520&1
+Weight       4
+Level        57
+Cost         4500
+Values       13 13 0 0 0 0
+Affect       -1 -1 3 3 0
+Affect       -1 -1 -2 24 0
+Affect       -1 -1 -3 24 0
+Affect       -1 -1 2 25 0
+Affect       -1 -1 3 1 0
+End
+
+#OBJECT
+Nest         2
+Name         a chipped moonstone chain~
+ShortDescr   a chipped moonstone chain~
+Description  A chipped moonstone chain lies here.~
+Ovnum         29513
+ExtraFlags   536871232&1
+Level        56
+Cost         4500
+Affect       -1 -1 2 3 0
+Affect       -1 -1 -2 20 0
+Affect       -1 -1 30 13 0
+Affect       -1 -1 1 5 0
+Affect       -1 -1 1 25 0
+End
+
+#OBJECT
+Nest         2
+Name         a hypnotic tsavorite amulet~
+ShortDescr   a hypnotic tsavorite amulet~
+Description  A hypnotic tsavorite amulet lies here.~
+Ovnum         29512
+ExtraFlags   536871232&1
+Level        55
+Cost         4500
+Affect       -1 -1 10 13 0
+Affect       -1 -1 20 12 0
+Affect       -1 -1 30 12 0
+Affect       -1 -1 3 19 0
+Affect       -1 -1 -3 22 0
+End
+
+#OBJECT
+Nest         2
+Name         a mystical white gold brooch~
+ShortDescr   a mystical white gold brooch~
+Description  A mystical white gold brooch lies here.~
+Ovnum         29022
+ExtraFlags   64&1
+Level        1
+Cost         500
+Affect       -1 -1 1 5 0
+End
+
+#OBJECT
+Nest         2
+Name         a fanatics carnelian brooch~
+ShortDescr   a fanatics carnelian brooch~
+Description  A fanatics carnelian brooch lies here.~
+Ovnum         29515
+ExtraFlags   536871232&1
+Level        56
+Cost         2500
+Affect       -1 -1 -5 22 0
+Affect       -1 -1 -2 23 0
+Affect       -1 -1 30 12 0
+End
+
+#OBJECT
+Nest         2
+Name         a bold glass brooch~
+ShortDescr   a bold glass brooch~
+Description  A bold glass brooch lies here.~
+Ovnum         29515
+ExtraFlags   536871232&1
+Level        56
+Cost         4500
+Affect       -1 -1 2 5 0
+Affect       -1 -1 -2 24 0
+Affect       -1 -1 4 25 0
+Affect       -1 -1 3 4 0
+Affect       -1 -1 2 25 0
+End
+
+#OBJECT
+Nest         2
+Name         a lined ironwood brooch~
+ShortDescr   a lined ironwood brooch~
+Description  A lined ironwood brooch lies here.~
+Ovnum         29515
+ExtraFlags   536871232&1
+Level        57
+Cost         3500
+Affect       -1 -1 -2 20 0
+Affect       -1 -1 4 5 0
+Affect       -1 -1 -3 22 0
+Affect       -1 -1 1 25 0
+End
+
+#OBJECT
+Nest         1
+Name         chest head~
+ShortDescr   Chest of Head Items~
+Description  Chest of Head Items~
+Ovnum         3799
+Level        65
+Values       9999 0 0 0 0 0
+End
+
+#OBJECT
+Nest         2
+Name         a tarnished full plate helm~
+ShortDescr   a tarnished full plate helm~
+Description  A tarnished full plate helm lies here.~
+Ovnum         29541
+ExtraFlags   537395520&1
+Weight       8
+Level        56
+Cost         3500
+Values       13 13 0 0 0 0
+Affect       -1 -1 40 13 0
+Affect       -1 -1 20 14 0
+Affect       -1 -1 1 1 0
+Affect       -1 -1 30 13 0
+End
+
+#OBJECT
+Nest         2
+Name         a sturdy brass helm~
+ShortDescr   a sturdy brass helm~
+Description  A sturdy brass helm lies here.~
+Ovnum         29541
+ExtraFlags   537395520&1
+Weight       7
+Level        55
+Cost         2500
+Values       12 12 0 0 0 0
+Affect       -1 -1 20 14 0
+Affect       -1 -1 7 69 128
+Affect       -1 -1 -1 24 0
+End
+
+#OBJECT
+Nest         2
+Name         an enruned splint mail coif~
+ShortDescr   an enruned splint mail coif~
+Description  An enruned splint mail coif lies here.~
+Ovnum         29540
+ExtraFlags   537395520&1
+Weight       7
+Level        56
+Cost         4500
+Values       11 11 0 0 0 0
+Affect       -1 -1 20 14 0
+Affect       -1 -1 30 12 0
+Affect       -1 -1 2 3 0
+Affect       -1 -1 2 4 0
+Affect       -1 -1 -2 23 0
+End
+
+#OBJECT
+Nest         2
+Name         a pitted half plate coif~
+ShortDescr   a pitted half plate coif~
+Description  A pitted half plate coif lies here.~
+Ovnum         29540
+ExtraFlags   537395520&1
+Weight       7
+Level        56
+Cost         3500
+Values       12 12 0 0 0 0
+Affect       -1 -1 2 5 0
+Affect       -1 -1 -3 24 0
+Affect       -1 -1 3 18 0
+Affect       -1 -1 30 14 0
+End
+
+#OBJECT
+Nest         2
+Ovnum         802
+ExtraFlags   66&1
+Level        50
+Values       4 4 0 0 0 0
+End
+
+#OBJECT
+Nest         2
+Name         an enruned thorny hood~
+ShortDescr   an enruned thorny hood~
+Description  An enruned thorny hood lies here.~
+Ovnum         29571
+ExtraFlags   536871232&1
+Weight       3
+Level        56
+Cost         2500
+Values       7 7 0 0 0 0
+Affect       -1 -1 20 14 0
+Affect       -1 -1 4 31 0
+Affect       -1 -1 30 12 0
+Affect       -1 -1 -2 24 0
+End
+
+#OBJECT
+Nest         2
+Name         a light shell hood~
+ShortDescr   a light shell hood~
+Description  A light shell hood lies here.~
+Ovnum         29571
+ExtraFlags   536871232&1
+Weight       3
+Level        56
+Cost         2500
+Values       5 5 0 0 0 0
+Affect       -1 -1 3 3 0
+Affect       -1 -1 -4 24 0
+Affect       -1 -1 3 5 0
+Affect       -1 -1 3 25 0
+End
+
+#OBJECT
+Nest         2
+Name         a trusty cloth cap~
+ShortDescr   a trusty cloth cap~
+Description  A trusty cloth cap lies here.~
+Ovnum         29567
+ExtraFlags   536871232&1
+Level        56
+Cost         250
+Values       2 2 0 0 0 0
+Affect       -1 -1 40 12 0
+End
+
+#OBJECT
+Nest         2
+Name         a seared shell headpiece~
+ShortDescr   a seared shell headpiece~
+Description  A seared shell headpiece lies here.~
+Ovnum         29568
+ExtraFlags   536871232&1
+Weight       3
+Level        56
+Cost         250
+Values       5 5 0 0 0 0
+Affect       -1 -1 50 12 0
+End
+
+#OBJECT
+Nest         1
+Name         onbody chest~
+ShortDescr   Chest of Onbody Items~
+Description  Chest of Onbody Items~
+Ovnum         3799
+Level        65
+Values       9999 0 0 0 0 0
+End
+
+#OBJECT
+Nest         2
+Ovnum         302
+ExtraFlags   64&1
+Level        44
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Nest         2
+Name         a shiny chain mail corselet~
+ShortDescr   a shiny chain mail corselet~
+Description  A shiny chain mail corselet lies here.~
+Ovnum         29598
+ExtraFlags   537395520&1
+Weight       13
+Level        57
+Cost         3500
+Values       10 10 0 0 0 0
+Affect       -1 -1 3 5 0
+Affect       -1 -1 -4 20 0
+Affect       -1 -1 -5 24 0
+Affect       -1 -1 20 12 0
+End
+
+#OBJECT
+Nest         2
+Name         an ornate gold chestpiece~
+ShortDescr   an ornate gold chestpiece~
+Description  An ornate gold chestpiece lies here.~
+Ovnum         29503
+ExtraFlags   537395520&1
+Weight       15
+Level        57
+Cost         3500
+Values       12 12 0 0 0 0
+Affect       -1 -1 50 12 0
+Affect       -1 -1 1 31 0
+Affect       -1 -1 3 4 0
+Affect       -1 -1 3 25 0
+End
+
+#OBJECT
+Nest         2
+Name         a blackened silver hauberk~
+ShortDescr   a blackened silver hauberk~
+Description  A blackened silver hauberk lies here.~
+Ovnum         29501
+ExtraFlags   537395520&1
+Weight       14
+Level        56
+Cost         4500
+Values       12 12 0 0 0 0
+Affect       -1 -1 4 79 0
+Affect       -1 -1 30 14 0
+Affect       -1 -1 -4 23 0
+Affect       -1 -1 -2 22 0
+Affect       -1 -1 -4 23 0
+End
+
+#OBJECT
+Nest         2
+Name         a rusty scale mail chestpiece~
+ShortDescr   a rusty scale mail chestpiece~
+Description  A rusty scale mail chestpiece lies here.~
+Ovnum         29503
+ExtraFlags   537395520&1
+Weight       14
+Level        56
+Cost         3500
+Values       10 10 0 0 0 0
+Affect       -1 -1 3 31 0
+Affect       -1 -1 5 4 0
+Affect       -1 -1 2 5 0
+Affect       -1 -1 30 13 0
+End
+
+#OBJECT
+Nest         2
+Name         a ceremonial double chain corselet~
+ShortDescr   a ceremonial double chain corselet~
+Description  A ceremonial double chain corselet lies here.~
+Ovnum         29598
+ExtraFlags   537395520&1
+Weight       14
+Level        57
+Cost         3500
+Values       12 12 0 0 0 0
+Affect       -1 -1 2 5 0
+Affect       -1 -1 20 12 0
+Affect       -1 -1 -3 23 0
+Affect       -1 -1 -2 24 0
+End
+
+#OBJECT
+Nest         2
+Name         a rusty gold cuirass~
+ShortDescr   a rusty gold cuirass~
+Description  A rusty gold cuirass lies here.~
+Ovnum         29502
+ExtraFlags   537395520&1
+Weight       15
+Level        57
+Cost         5500
+Values       13 13 0 0 0 0
+Affect       -1 -1 10 13 0
+Affect       -1 -1 -2 23 0
+Affect       -1 -1 3 25 0
+Affect       -1 -1 2 2 0
+Affect       -1 -1 5 2 0
+Affect       -1 -1 10 14 0
+End
+
+#OBJECT
+Nest         2
+Name         a heavy platinum corselet~
+ShortDescr   a heavy platinum corselet~
+Description  A heavy platinum corselet lies here.~
+Ovnum         29598
+ExtraFlags   537395520&1
+Weight       14
+Level        57
+Cost         2500
+Values       13 13 0 0 0 0
+Affect       -1 -1 50 13 0
+Affect       -1 -1 15 69 32768
+Affect       -1 -1 -4 20 0
+End
+
+#OBJECT
+Nest         2
+Name         a battered gold breastplate~
+ShortDescr   a battered gold breastplate~
+Description  A battered gold breastplate lies here.~
+Ovnum         29500
+ExtraFlags   537395520&1
+Weight       15
+Level        57
+Cost         3500
+Values       11 11 0 0 0 0
+Affect       -1 -1 20 14 0
+Affect       -1 -1 -2 23 0
+Affect       -1 -1 5 25 0
+Affect       -1 -1 3 25 0
+End
+
+#OBJECT
+Nest         2
+Name         a battered elven chain mail jerkin~
+ShortDescr   a battered elven chain mail jerkin~
+Description  A battered elven chain mail jerkin lies here.~
+Ovnum         29506
+ExtraFlags   536872256&1
+Level        57
+Cost         2500
+Values       6 6 0 0 0 0
+Affect       -1 -1 3 25 0
+Affect       -1 -1 1 31 0
+Affect       -1 -1 4 1 0
+Affect       -1 -1 30 12 0
+End
+
+#OBJECT
+Nest         2
+Name         a warped double chain breastplate~
+ShortDescr   a warped double chain breastplate~
+Description  A warped double chain breastplate lies here.~
+Ovnum         29500
+ExtraFlags   537395520&1
+Weight       14
+Level        57
+Cost         3500
+Values       13 13 0 0 0 0
+Affect       -1 -1 2 3 0
+Affect       -1 -1 2 5 0
+Affect       -1 -1 20 13 0
+Affect       -1 -1 20 13 0
+End
+
+#OBJECT
+Nest         2
+Name         a hunters shell jack~
+ShortDescr   a hunters shell jack~
+Description  A hunters shell jack lies here.~
+Ovnum         29596
+ExtraFlags   536871232&1
+Weight       7
+Level        56
+Cost         1500
+Values       4 4 0 0 0 0
+Affect       -1 -1 2 31 0
+Affect       -1 -1 3 4 0
+Affect       -1 -1 -3 24 0
+End
+
+#OBJECT
+Nest         2
+Name         a shiny plate mail cuirass~
+ShortDescr   a shiny plate mail cuirass~
+Description  A shiny plate mail cuirass lies here.~
+Ovnum         29502
+ExtraFlags   537395520&1
+Weight       15
+Level        56
+Cost         2500
+Values       9 9 0 0 0 0
+Affect       -1 -1 -3 24 0
+Affect       -1 -1 5 3 0
+Affect       -1 -1 -3 24 0
+End
+
+#OBJECT
+Nest         2
+Name         a rusty spiked corselet~
+ShortDescr   a rusty spiked corselet~
+Description  A rusty spiked corselet lies here.~
+Ovnum         29598
+ExtraFlags   537395520&1
+Weight       14
+Level        56
+Cost         3500
+Values       11 11 0 0 0 0
+Affect       -1 -1 3 31 0
+Affect       -1 -1 2 2 0
+Affect       -1 -1 -3 22 0
+Affect       -1 -1 2 2 0
+End
+
+#OBJECT
+Nest         2
+Name         a heavy silver cuirass~
+ShortDescr   a heavy silver cuirass~
+Description  A heavy silver cuirass lies here.~
+Ovnum         29502
+ExtraFlags   537395520&1
+Weight       14
+Level        56
+Cost         3500
+Values       13 13 0 0 0 0
+Affect       -1 -1 2 2 0
+Affect       -1 -1 50 13 0
+Affect       -1 -1 2 4 0
+Affect       -1 -1 2 5 0
+End
+
+#OBJECT
+Nest         2
+Name         a bright augmented chain corselet~
+ShortDescr   a bright augmented chain corselet~
+Description  A bright augmented chain corselet lies here.~
+Ovnum         29598
+ExtraFlags   537397568&1
+Weight       14
+Level        56
+Cost         3500
+Values       12 12 0 0 0 0
+Affect       -1 -1 40 12 0
+Affect       -1 -1 20 13 0
+Affect       -1 -1 -4 20 0
+Affect       -1 -1 2 25 0
+End
+
+#OBJECT
+Nest         2
+Name         a battered silver chestpiece~
+ShortDescr   a battered silver chestpiece~
+Description  A battered silver chestpiece lies here.~
+Ovnum         29503
+ExtraFlags   537395520&1
+Weight       14
+Level        56
+Cost         4500
+Values       12 12 0 0 0 0
+Affect       -1 -1 -2 23 0
+Affect       -1 -1 3 25 0
+Affect       -1 -1 3 5 0
+Affect       -1 -1 2 3 0
+Affect       -1 -1 -4 23 0
+End
+
+#OBJECT
+Nest         2
+Name         a battered coral jerkin~
+ShortDescr   a battered coral jerkin~
+Description  A battered coral jerkin lies here.~
+Ovnum         29506
+ExtraFlags   536871232&1
+Weight       7
+Level        56
+Cost         3500
+Values       5 5 0 0 0 0
+Affect       -1 -1 3 5 0
+Affect       -1 -1 3 69 8
+Affect       -1 -1 3 5 0
+Affect       -1 -1 4 2 0
+Affect       -1 -1 4 79 0
+End
+
+#OBJECT
+Nest         2
+Name         a torn reinforced leather shirt~
+ShortDescr   a torn reinforced leather shirt~
+Description  A torn reinforced leather shirt lies here.~
+Ovnum         29504
+ExtraFlags   536871232&1
+Weight       7
+Level        41
+Cost         3500
+Values       5 5 0 0 0 0
+Affect       -1 -1 3 25 0
+Affect       -1 -1 -2 23 0
+Affect       -1 -1 -2 24 0
+Affect       -1 -1 27 69 134217728
+Affect       -1 -1 5 5 0
+End
+
+#OBJECT
+Nest         2
+Name         an ugly shell tunic~
+ShortDescr   an ugly shell tunic~
+Description  An ugly shell tunic lies here.~
+Ovnum         29505
+ExtraFlags   536871232&1
+Weight       7
+Level        55
+Cost         4500
+Values       5 5 0 0 0 0
+Affect       -1 -1 2 1 0
+Affect       -1 -1 3 31 0
+Affect       -1 -1 2 79 0
+Affect       -1 -1 20 13 0
+Affect       -1 -1 10 12 0
+Affect       -1 -1 5 4 0
+End
+
+#OBJECT
+Nest         2
+Name         a lined boiled leather tunic~
+ShortDescr   a lined boiled leather tunic~
+Description  A lined boiled leather tunic lies here.~
+Ovnum         29505
+ExtraFlags   536871232&1
+Weight       7
+Level        28
+Cost         3500
+Values       5 5 0 0 0 0
+Affect       -1 -1 30 12 0
+Affect       -1 -1 4 25 0
+Affect       -1 -1 -2 23 0
+Affect       -1 -1 -1 23 0
+Affect       -1 -1 -3 24 0
+End
+
+#OBJECT
+Nest         2
+Name         a worn chitin vest~
+ShortDescr   a worn chitin vest~
+Description  A worn chitin vest lies here.~
+Ovnum         29507
+ExtraFlags   536871232&1
+Level        56
+Cost         2500
+Values       5 5 0 0 0 0
+Affect       -1 -1 20 69 1048576
+Affect       -1 -1 1 2 0
+Affect       -1 -1 2 5 0
+Affect       -1 -1 20 13 0
+End
+
+#OBJECT
+Nest         2
+Name         an ugly studded leather vest~
+ShortDescr   an ugly studded leather vest~
+Description  An ugly studded leather vest lies here.~
+Ovnum         29507
+ExtraFlags   536871232&1
+Weight       7
+Level        55
+Cost         3500
+Values       8 8 0 0 0 0
+Affect       -1 -1 4 2 0
+Affect       -1 -1 2 31 0
+Affect       -1 -1 -3 20 0
+Affect       -1 -1 30 12 0
+Affect       -1 -1 3 5 0
+End
+
+#OBJECT
+Nest         1
+Name         feet chest~
+ShortDescr   Chest of Feet Items~
+Description  Chest of Feet Items~
+Ovnum         3799
+Level        65
+Values       9999 0 0 0 0 0
+End
+
+#OBJECT
+Nest         2
+Name         an enruned silver pair of boots~
+ShortDescr   an enruned silver pair of boots~
+Description  An enruned silver pair of boots lies here.~
+Ovnum         29563
+ExtraFlags   537395520&1
+Weight       6
+Level        65
+Cost         2500
+Values       11 11 0 0 0 0
+Affect       -1 -1 3 18 0
+Affect       -1 -1 2 19 0
+Affect       -1 -1 2 3 0
+End
+
+#OBJECT
+Nest         2
+Name         a trusty mystical pair of shoes~
+ShortDescr   a trusty mystical pair of shoes~
+Description  A trusty mystical pair of shoes lies here.~
+Ovnum         29590
+ExtraFlags   536871232&1
+Level        55
+Cost         4500
+Values       9 9 0 0 0 0
+Affect       -1 -1 1 1 0
+Affect       -1 -1 1 25 0
+Affect       -1 -1 10 14 0
+Affect       -1 -1 10 13 0
+Affect       -1 -1 20 12 0
+Affect       -1 -1 20 14 0
+End
+
+#OBJECT
+Nest         2
+Name         a trusty ethereal pair of boots~
+ShortDescr   a trusty ethereal pair of boots~
+Description  A trusty ethereal pair of boots lies here.~
+Ovnum         29589
+ExtraFlags   536871232&1
+Level        56
+Cost         1500
+Values       10 10 0 0 0 0
+Affect       -1 -1 -3 23 0
+Affect       -1 -1 3 5 0
+Affect       -1 -1 2 19 0
+End
+
+#OBJECT
+Nest         1
+Ovnum         21159
+Level        66
+Values       64 223 -1 -1 0 0
+Spell 1      'quantum spike'
+End
+
+#OBJECT
+Nest         1
+Name         an enruned augmented chain helm~
+ShortDescr   an enruned augmented chain helm~
+Description  An enruned augmented chain helm lies here.~
+Ovnum         29541
+ExtraFlags   537395520&1
+Weight       7
+Level        55
+Cost         5500
+Values       14 14 0 0 0 0
+Affect       -1 -1 -2 23 0
+Affect       -1 -1 1 31 0
+Affect       -1 -1 5 18 0
+Affect       -1 -1 1 4 0
+Affect       -1 -1 -5 23 0
+Affect       -1 -1 30 14 0
+End
+
+#OBJECT
+Nest         1
+Name         a gilded brigandine set of bracers~
+ShortDescr   a gilded brigandine set of bracers~
+Description  A gilded brigandine set of bracers lies here.~
+Ovnum         29548
+ExtraFlags   537395520&1
+Weight       5
+Level        55
+Cost         3500
+Values       12 12 0 0 0 0
+Affect       -1 -1 5 31 0
+Affect       -1 -1 5 19 0
+Affect       -1 -1 2 25 0
+Affect       -1 -1 10 12 0
+End
+
+#OBJECT
+Nest         1
+Name         a ripped light leather jack~
+ShortDescr   a ripped light leather jack~
+Description  A ripped light leather jack lies here.~
+Ovnum         29596
+ExtraFlags   536871232&1
+Weight       7
+Level        55
+Cost         2500
+Values       3 3 0 0 0 0
+Affect       -1 -1 50 12 0
+Affect       -1 -1 2 1 0
+Affect       -1 -1 -5 20 0
+Affect       -1 -1 -2 23 0
+End
+
+#OBJECT
+Nest         1
+Name         an etched gold carapace~
+ShortDescr   an etched gold carapace~
+Description  An etched gold carapace lies here.~
+Ovnum         29599
+ExtraFlags   537395520&1
+Weight       9
+Level        56
+Cost         5500
+Values       12 12 0 0 0 0
+Affect       -1 -1 2 25 0
+Affect       -1 -1 -5 23 0
+Affect       -1 -1 20 12 0
+Affect       -1 -1 3 19 0
+Affect       -1 -1 10 14 0
+Affect       -1 -1 2 1 0
+End
+
+#OBJECT
+Nest         1
+Name         a crude jasper walking stick~
+ShortDescr   a crude jasper walking stick~
+Description  A crude jasper walking stick lies here.~
+Ovnum         29608
+ExtraFlags   536871232&1
+Level        56
+Cost         5500
+Affect       -1 -1 -4 24 0
+Affect       -1 -1 2 1 0
+Affect       -1 -1 -4 23 0
+Affect       -1 -1 50 14 0
+Affect       -1 -1 5 5 0
+Affect       -1 -1 2 1 0
+End
+
+#OBJECT
+Nest         1
+Name         ear chest~
+ShortDescr   Chest of Ear Items~
+Description  Chest of Ear Items~
+Ovnum         3799
+Level        65
+Values       9999 0 0 0 0 0
+End
+
+#OBJECT
+Nest         2
+Name         a brushed white gold earring~
+ShortDescr   a brushed white gold earring~
+Description  A brushed white gold earring lies here.~
+Ovnum         29012
+ExtraFlags   64&1
+Level        7
+Cost         2750
+Affect       -1 -1 -1 23 0
+Affect       -1 -1 2 25 0
+Affect       -1 -1 -3 5 0
+Affect       -1 -1 30 12 0
+End
+
+#OBJECT
+Nest         2
+Name         a holy steel earring~
+ShortDescr   a holy steel earring~
+Description  A holy steel earring lies here.~
+Ovnum         29523
+ExtraFlags   536872256&1
+Level        57
+Cost         4500
+Affect       -1 -1 1 1 0
+Affect       -1 -1 -1 23 0
+Affect       -1 -1 50 14 0
+Affect       -1 -1 40 13 0
+Affect       -1 -1 5 5 0
+End
+
+#OBJECT
+Nest         1
+Name         a burnished chain mail backshield~
+ShortDescr   a burnished chain mail backshield~
+Description  A burnished chain mail backshield lies here.~
+Ovnum         29555
+ExtraFlags   537395520&1
+Weight       7
+Level        56
+Cost         4500
+Values       10 10 0 0 0 0
+Affect       -1 -1 -5 24 0
+Affect       -1 -1 4 5 0
+Affect       -1 -1 -4 24 0
+Affect       -1 -1 2 5 0
+Affect       -1 -1 2 25 0
+End
+
+#OBJECT
+Nest         1
+Name         a burnished platinum helmet~
+ShortDescr   a burnished platinum helmet~
+Description  A burnished platinum helmet lies here.~
+Ovnum         29539
+ExtraFlags   537396544&1
+Weight       7
+Level        56
+Cost         4500
+Values       14 14 0 0 0 0
+Affect       -1 -1 1 18 0
+Affect       -1 -1 -2 23 0
+Affect       -1 -1 -4 20 0
+Affect       -1 -1 50 13 0
+Affect       -1 -1 3 19 0
+End
+
+#OBJECT
+Nest         1
+Name         a scratched chain mail cuirass~
+ShortDescr   a scratched chain mail cuirass~
+Description  A scratched chain mail cuirass lies here.~
+Ovnum         29502
+ExtraFlags   537395520&1
+Weight       13
+Level        57
+Cost         5500
+Values       10 10 0 0 0 0
+Affect       -1 -1 50 13 0
+Affect       -1 -1 30 13 0
+Affect       -1 -1 30 12 0
+Affect       -1 -1 3 19 0
+Affect       -1 -1 2 31 0
+Affect       -1 -1 4 25 0
+End
+
+#OBJECT
+Nest         1
+Ovnum         21187
+Level        64
+Values       3 132 -1 -1 0 0
+Spell 1      'dragon wit'
+End
+
+#OBJECT
+Nest         1
+Name         a hunters bone pair of gloves~
+ShortDescr   a hunters bone pair of gloves~
+Description  A hunters bone pair of gloves lies here.~
+Ovnum         29579
+ExtraFlags   536871232&1
+Level        55
+Cost         2500
+Values       5 5 0 0 0 0
+Affect       -1 -1 4 79 0
+Affect       -1 -1 2 25 0
+Affect       -1 -1 3 3 0
+Affect       -1 -1 -2 20 0
+End
+
+#OBJECT
+Nest         1
+Name         a round sillimanite torch~
+ShortDescr   a round sillimanite torch~
+Description  A round sillimanite torch lies here.~
+Ovnum         29520
+ExtraFlags   536871233&1
+Level        56
+Cost         6100
+Values       0 0 -1 0 0 0
+Affect       -1 -1 2 5 0
+Affect       -1 -1 3 5 0
+Affect       -1 -1 -2 24 0
+Affect       -1 -1 10 13 0
+Affect       -1 -1 3 5 0
+Affect       -1 -1 2 4 0
+Affect       -1 -1 5 19 0
+End
+
+#OBJECT
+Nest         1
+Name         hands chest~
+ShortDescr   Chest of Hand Items~
+Description  Chest of Hand Items~
+Ovnum         3799
+Level        65
+Values       9999 0 0 0 0 0
+End
+
+#OBJECT
+Nest         2
+Name         a runed gold pair of gauntlets~
+ShortDescr   a runed gold pair of gauntlets~
+Description  A runed gold pair of gauntlets lies here.~
+Ovnum         29552
+ExtraFlags   537395520&1
+Weight       6
+Level        56
+Cost         3500
+Values       14 14 0 0 0 0
+Affect       -1 -1 2 25 0
+Affect       -1 -1 2 79 0
+Affect       -1 -1 3 5 0
+Affect       -1 -1 -1 22 0
+End
+
+#OBJECT
+Nest         2
+Name         a blackened double chain pair of gauntlets~
+ShortDescr   a blackened double chain pair of gauntlets~
+Description  A blackened double chain pair of gauntlets lies here.~
+Ovnum         29551
+ExtraFlags   537395520&1
+Weight       5
+Level        55
+Cost         3500
+Values       11 11 0 0 0 0
+Affect       -1 -1 -3 20 0
+Affect       -1 -1 30 13 0
+Affect       -1 -1 3 1 0
+Affect       -1 -1 -5 23 0
+End
+
+#OBJECT
+Nest         2
+Name         a pitted double chain pair of gauntlets~
+ShortDescr   a pitted double chain pair of gauntlets~
+Description  A pitted double chain pair of gauntlets lies here.~
+Ovnum         29552
+ExtraFlags   537395520&1
+Weight       5
+Level        55
+Cost         3500
+Values       13 13 0 0 0 0
+Affect       -1 -1 2 31 0
+Affect       -1 -1 1 3 0
+Affect       -1 -1 3 19 0
+Affect       -1 -1 2 2 0
+End
+
+#OBJECT
+Nest         2
+Name         an engraved half plate pair of gauntlets~
+ShortDescr   an engraved half plate pair of gauntlets~
+Description  An engraved half plate pair of gauntlets lies here.~
+Ovnum         29551
+ExtraFlags   537395520&1
+Weight       5
+Level        57
+Cost         3500
+Values       10 10 0 0 0 0
+Affect       -1 -1 -3 23 0
+Affect       -1 -1 2 4 0
+Affect       -1 -1 2 25 0
+Affect       -1 -1 3 5 0
+End
+
+#OBJECT
+Nest         2
+Name         a worn bone pair of gloves~
+ShortDescr   a worn bone pair of gloves~
+Description  A worn bone pair of gloves lies here.~
+Ovnum         29578
+ExtraFlags   536871232&1
+Level        57
+Cost         2500
+Values       5 5 0 0 0 0
+Affect       -1 -1 20 12 0
+Affect       -1 -1 20 12 0
+Affect       -1 -1 2 25 0
+Affect       -1 -1 2 31 0
+End
+
+#OBJECT
+Nest         1
+Name         a tinted platinum ring~
+ShortDescr   a tinted platinum ring~
+Description  A tinted platinum ring lies here.~
+Ovnum         29508
+ExtraFlags   536871232&1
+Level        56
+Cost         4500
+Affect       -1 -1 20 12 0
+Affect       -1 -1 2 1 0
+Affect       -1 -1 20 14 0
+Affect       -1 -1 3 1 0
+Affect       -1 -1 3 19 0
+End
+
+#OBJECT
+Nest         1
+Name         a maul~
+ShortDescr   a maul~
+Description  A maul lies here.~
+Ovnum         29522
+ExtraFlags   536872256&17
+Weight       20
+Level        56
+Cost         3500
+Values       12 15 42 6 0 0
+Affect       -1 -1 2 3 0
+Affect       -1 -1 1 31 0
+Affect       -1 -1 4 5 0
+Affect       -1 -1 5 1 0
+End
+
+#OBJECT
+Nest         1
+Name         a buffed jacinth walking stick~
+ShortDescr   a buffed jacinth walking stick~
+Description  A buffed jacinth walking stick lies here.~
+Ovnum         29609
+ExtraFlags   536871232&1
+Level        57
+Cost         3500
+Affect       -1 -1 1 5 0
+Affect       -1 -1 3 79 0
+Affect       -1 -1 -4 22 0
+Affect       -1 -1 3 19 0
+End
+
+#OBJECT
+Nest         1
+Name         an etched full plate visor~
+ShortDescr   an etched full plate visor~
+Description  An etched full plate visor lies here.~
+Ovnum         29542
+ExtraFlags   537395520&1
+Weight       6
+Level        56
+Cost         4500
+Values       13 13 0 0 0 0
+Affect       -1 -1 50 14 0
+Affect       -1 -1 5 79 0
+Affect       -1 -1 -3 23 0
+Affect       -1 -1 -3 20 0
+Affect       -1 -1 -2 22 0
+End
+
+#OBJECT
+Nest         1
+Name         a barbed black opal bone~
+ShortDescr   a barbed black opal bone~
+Description  A barbed black opal bone lies here.~
+Ovnum         29113
+ExtraFlags   64
+Level        64
+Cost         500
+Affect       -1 -1 -1 2 0
+End
+
+#OBJECT
+Nest         1
+Ovnum         21196
+Level        64
+Values       66 1 -1 0 0 0
+End
+
+#OBJECT
+Nest         1
+Name         a battered thorny girdle~
+ShortDescr   a battered thorny girdle~
+Description  A battered thorny girdle lies here.~
+Ovnum         29585
+ExtraFlags   536871232&1
+Weight       2
+Level        55
+Cost         2500
+Values       3 3 0 0 0 0
+Affect       -1 -1 10 12 0
+Affect       -1 -1 3 31 0
+Affect       -1 -1 10 12 0
+Affect       -1 -1 30 12 0
+End
+
+#OBJECT
+Nest         1
+Name         a dented splint mail set of bracers~
+ShortDescr   a dented splint mail set of bracers~
+Description  A dented splint mail set of bracers lies here.~
+Ovnum         29548
+ExtraFlags   537395520&1
+Weight       6
+Level        55
+Cost         7000
+Values       10 10 0 0 0 0
+Affect       -1 -1 4 5 0
+Affect       -1 -1 5 1 0
+Affect       -1 -1 2 5 0
+Affect       -1 -1 30 13 0
+Affect       -1 -1 20 12 0
+Affect       -1 -1 2 3 0
+Affect       -1 -1 3 25 0
+End
+
+#OBJECT
+Nest         1
+Name         a trusty cuirbouilli wristband~
+ShortDescr   a trusty cuirbouilli wristband~
+Description  A trusty cuirbouilli wristband lies here.~
+Ovnum         29576
+ExtraFlags   536871232&1
+Weight       2
+Level        56
+Cost         4500
+Values       7 7 0 0 0 0
+Affect       -1 -1 2 31 0
+Affect       -1 -1 -2 20 0
+Affect       -1 -1 50 12 0
+Affect       -1 -1 5 4 0
+Affect       -1 -1 2 31 0
+Affect       -1 -1 4 31 0
+End
+
+#OBJECT
+Nest         1
+Name         a battle fork~
+ShortDescr   a battle fork~
+Description  A battle fork lies here.~
+Ovnum         29607
+ExtraFlags   0&1
+Weight       9
+Level        55
+Cost         1000
+Values       12 9 21 22 0 0
+End
+
+#OBJECT
+Nest         1
+Name         a worn elven chain mail patch~
+ShortDescr   a worn elven chain mail patch~
+Description  A worn elven chain mail patch lies here.~
+Ovnum         29569
+ExtraFlags   536871232&1
+Level        55
+Cost         4500
+Values       10 10 0 0 0 0
+Affect       -1 -1 -2 24 0
+Affect       -1 -1 -2 22 0
+Affect       -1 -1 3 2 0
+Affect       -1 -1 40 14 0
+Affect       -1 -1 50 13 0
+Affect       -1 -1 -1 24 0
+End
+
+#OBJECT
+Nest         1
+Name         a deadly fire pearl earstud~
+ShortDescr   a deadly fire pearl earstud~
+Description  A deadly fire pearl earstud lies here.~
+Ovnum         29525
+ExtraFlags   536871232&1
+Level        57
+Cost         1750
+Affect       -1 -1 30 12 0
+Affect       -1 -1 50 13 0
+End
+
+#OBJECT
+Nest         1
+Ovnum         6200
+ExtraFlags   0&17
+Level        50
+Values       12 23 23 13 0 0
+End
+
+#OBJECT
+Nest         1
+Ovnum         15043
+ExtraFlags   84&1
+Level        50
+Values       7 7 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Name         a badge of light~
+ShortDescr   a badge of light~
+Description  A badge of light lies here.~
+Ovnum         29031
+ExtraFlags   64
+Level        64
+Cost         250
+Affect       -1 -1 10 14 0
+End
+
+#OBJECT
+Nest         1
+Ovnum         21460
+Level        63
+Values       3 0 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Name         a linked bloodjewel ankle bracelet~
+ShortDescr   a linked bloodjewel ankle bracelet~
+Description  A linked bloodjewel ankle bracelet lies here.~
+Ovnum         29527
+ExtraFlags   536871232
+Level        63
+Cost         1750
+Affect       -1 -1 20 12 0
+Affect       -1 -1 2 4 0
+End
+
+#OBJECT
+Nest         1
+Name         a stained elven chain mail belt~
+ShortDescr   a stained elven chain mail belt~
+Description  A stained elven chain mail belt lies here.~
+Ovnum         29089
+ExtraFlags   64
+Level        65
+Cost         1000
+Values       7 7 0 0 0 0
+Affect       -1 -1 -2 23 0
+Affect       -1 -1 -1 23 0
+End
+
+#OBJECT
+Nest         1
+Ovnum         21185
+Level        65
+Values       65 268 -1 -1 0 0
+Spell 1      'trollish vigor'
+End
+
+#OBJECT
+Nest         1
+Name         a badge of the stars~
+ShortDescr   a badge of the stars~
+Description  A badge of the stars lies here.~
+Ovnum         29031
+ExtraFlags   64
+Level        66
+Cost         250
+Affect       -1 -1 -3 31 0
+End
+
+#OBJECT
+Nest         1
+Name         a strong elven chain mail tunic~
+ShortDescr   a strong elven chain mail tunic~
+Description  A strong elven chain mail tunic lies here.~
+Ovnum         29076
+ExtraFlags   66
+Level        65
+Cost         500
+Values       8 8 0 0 0 0
+Affect       -1 -1 -5 12 0
+End
+
+#OBJECT
+Nest         1
+Ovnum         21461
+Level        63
+Values       1 0 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Name         an ornate augmented plate cuirass~
+ShortDescr   an ornate augmented plate cuirass~
+Description  An ornate augmented plate cuirass lies here.~
+Ovnum         29502
+ExtraFlags   537395520
+Weight       14
+Level        64
+Cost         2500
+Values       15 15 0 0 0 0
+Affect       -1 -1 50 14 0
+Affect       -1 -1 3 18 0
+Affect       -1 -1 3 5 0
+End
+
+#OBJECT
+Nest         1
+Ovnum         21459
+Level        64
+Values       1 0 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Name         a dilapidated azurite halo~
+ShortDescr   a dilapidated azurite halo~
+Description  A dilapidated azurite halo lies here.~
+Ovnum         29016
+ExtraFlags   64
+Level        66
+Cost         2750
+Affect       -1 -1 2 19 0
+Affect       -1 -1 1 31 0
+Affect       -1 -1 5 12 0
+End
+
+#OBJECT
+Nest         1
+Ovnum         21463
+Level        65
+Values       2 0 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Name         a dull agate monocle~
+ShortDescr   a dull agate monocle~
+Description  A dull agate monocle lies here.~
+Ovnum         29029
+Level        65
+Cost         250
+End
+
+#OBJECT
+Nest         1
+Ovnum         21140
+Level        64
+Values       26 299 114 75 0 0
+Spell 1      'wrath of dominus'
+Spell 2      'curse'
+Spell 3      'binding darkness'
+End
+
+#OBJECT
+Nest         1
+Name         a bright half plate set of vambraces~
+ShortDescr   a bright half plate set of vambraces~
+Description  A bright half plate set of vambraces lies here.~
+Ovnum         29048
+Weight       8
+Level        65
+Cost         250
+Values       11 11 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Ovnum         21170
+Level        65
+Values       34 177 -1 -1 0 0
+Spell 1      'heal'
+End
+
+#OBJECT
+Nest         1
+Name         a trusty platinum ankle bracer~
+ShortDescr   a trusty platinum ankle bracer~
+Description  A trusty platinum ankle bracer lies here.~
+Ovnum         29561
+ExtraFlags   537395520
+Weight       4
+Level        63
+Cost         1250
+Values       11 11 0 0 0 0
+Affect       -1 -1 2 79 0
+End
+
+#OBJECT
+Nest         1
+Name         a thorny whip~
+ShortDescr   a thorny whip~
+Description  A thorny whip lies here.~
+Ovnum         29010
+Weight       3
+Level        66
+Cost         250
+Values       12 2 8 4 0 0
+End
+
+#OBJECT
+Nest         1
+Name         a gilded sapphire necklace~
+ShortDescr   a gilded sapphire necklace~
+Description  A gilded sapphire necklace lies here.~
+Ovnum         29018
+ExtraFlags   64
+Level        63
+Cost         1000
+Affect       -1 -1 2 2 0
+Affect       -1 -1 1 3 0
+End
+
+#OBJECT
+Nest         1
+Name         a strong silver pair of boots~
+ShortDescr   a strong silver pair of boots~
+Description  A strong silver pair of boots lies here.~
+Ovnum         29063
+Weight       8
+Level        65
+Cost         250
+Values       11 11 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Name         a pitted plate mail set of pauldrons~
+ShortDescr   a pitted plate mail set of pauldrons~
+Description  A pitted plate mail set of pauldrons lies here.~
+Ovnum         29100
+Weight       9
+Level        64
+Cost         250
+Values       12 12 0 0 0 0
+End
+
+#END

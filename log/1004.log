@@ -1,0 +1,2126 @@
+Sun May 26 03:08:18 2024 :: Initializing Lua
+Sun May 26 03:08:18 2024 :: Booting Database
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Sun May 26 03:08:18 2024 :: [*****] BOOT: ---------------------[ Boot Log ]--------------------
+Sun May 26 03:08:18 2024 :: Loading commands
+Sun May 26 03:08:18 2024 :: Loading sysdata configuration...
+Sun May 26 03:08:18 2024 :: [*****] BUG: Fread_sysdata: no match: Rent
+Sun May 26 03:08:18 2024 :: [*****] BUG: Fread_sysdata: no match: 0
+Sun May 26 03:08:18 2024 :: Loading socials
+Sun May 26 03:08:18 2024 :: Loading skill table
+Sun May 26 03:08:18 2024 :: Sorting skill table...
+Sun May 26 03:08:18 2024 :: Remapping slots to sns
+Sun May 26 03:08:18 2024 :: Loading classes
+Sun May 26 03:08:18 2024 :: Loading races
+Sun May 26 03:08:18 2024 :: Loading liquids
+Sun May 26 03:08:18 2024 :: Loading mixtures
+Sun May 26 03:08:18 2024 :: Loading herb table
+Sun May 26 03:08:18 2024 :: Loading tongues
+Sun May 26 03:08:18 2024 :: Making wizlist
+Sun May 26 03:08:18 2024 :: Initializing random number generator
+Sun May 26 03:08:18 2024 :: Setting time and weather
+Sun May 26 03:08:18 2024 :: Assigning gsn's
+ASSIGN_GSN: Skill craft not found.
+ASSIGN_GSN: Skill grind not found.
+ASSIGN_GSN: Skill polish not found.
+Sun May 26 03:08:18 2024 :: Reading in area files...
+(help.are)
+Sun May 26 03:08:18 2024 :: Loading new economy
+universe.are  : Rooms: 29000 - 30000 Objs: 29000 - 30000 Mobs: 29000 - 30000
+Sun May 26 03:08:18 2024 :: Loading new economy
+limbo.are     : Rooms:     1 - 99    Objs:     2 - 99    Mobs:     1 - 99
+Sun May 26 03:08:18 2024 :: Loading new economy
+templearea.are: Rooms:  3656 - 3800  Objs:  3656 - 3800  Mobs:  3651 - 3800
+Sun May 26 03:08:18 2024 :: Loading new economy
+drazuni.are   : Rooms: 10300 - 10499 Objs: 10300 - 10499 Mobs: 10300 - 10499
+Sun May 26 03:08:18 2024 :: Loading new economy
+drazville.are : Rooms: 21010 - 21500 Objs: 21011 - 21500 Mobs: 21001 - 21500
+Sun May 26 03:08:18 2024 :: Loading new economy
+eldforest.are : Rooms: 16000 - 16200 Objs: 16000 - 16200 Mobs: 16000 - 16200
+Sun May 26 03:08:18 2024 :: Loading new economy
+hchurch.are   : Rooms: 15000 - 15350 Objs: 15000 - 15350 Mobs: 15000 - 15350
+Sun May 26 03:08:18 2024 :: Loading new economy
+southroad.are : Rooms:   201 - 300   Objs:   201 - 300   Mobs:   201 - 300
+Sun May 26 03:08:18 2024 :: Loading new economy
+mtpass.are    : Rooms:   101 - 200   Objs:   101 - 200   Mobs:   101 - 200
+Sun May 26 03:08:18 2024 :: Loading new economy
+bladegrass.are: Rooms:  1001 - 1200  Objs:  1001 - 1200  Mobs:  1001 - 1200
+Sun May 26 03:08:18 2024 :: Loading new economy
+koboldcav.are : Rooms:  1201 - 1300  Objs:  1201 - 1300  Mobs:  1201 - 1300
+Sun May 26 03:08:18 2024 :: Loading new economy
+talondes.are  : Rooms:  1301 - 1500  Objs:  1301 - 1500  Mobs:  1301 - 1500
+Sun May 26 03:08:18 2024 :: Loading new economy
+glitcave.are  : Rooms:  1501 - 1600  Objs:  1501 - 1600  Mobs:  1501 - 1600
+Sun May 26 03:08:18 2024 :: Loading new economy
+greenpath.are : Rooms:   301 - 400   Objs:   301 - 400   Mobs:   301 - 400
+Sun May 26 03:08:18 2024 :: Loading new economy
+elenolos.are  : Rooms:  1601 - 1700  Objs:  1601 - 1700  Mobs:  1601 - 1700
+Sun May 26 03:08:18 2024 :: Loading new economy
+sea.are       : Rooms:  3001 - 3500  Objs:  3001 - 3500  Mobs:  3001 - 3500
+Sun May 26 03:08:18 2024 :: Loading new economy
+eareska.are   : Rooms:  1701 - 1800  Objs:  1701 - 1800  Mobs:  1701 - 1800
+Sun May 26 03:08:18 2024 :: Loading new economy
+bubblebog.are : Rooms:  1801 - 2000  Objs:  1801 - 2000  Mobs:  1801 - 2000
+Sun May 26 03:08:18 2024 :: Loading new economy
+tyrybblyn.are : Rooms:  2001 - 2150  Objs:  2001 - 2150  Mobs:  2001 - 2150
+Sun May 26 03:08:18 2024 :: Loading new economy
+underhill.are : Rooms:   401 - 499   Objs:   401 - 499   Mobs:   401 - 499
+Sun May 26 03:08:18 2024 :: Loading new economy
+spidforest.are: Rooms:   501 - 600   Objs:   501 - 600   Mobs:   501 - 600
+Sun May 26 03:08:18 2024 :: Loading new economy
+coralreef.are : Rooms:   601 - 650   Objs:   601 - 650   Mobs:   601 - 650
+Sun May 26 03:08:18 2024 :: Loading new economy
+plainsroad.are: Rooms:   701 - 800   Objs:   701 - 800   Mobs:   701 - 800
+Sun May 26 03:08:18 2024 :: Loading new economy
+boulderpass.are: Rooms:   801 - 950   Objs:   801 - 950   Mobs:   801 - 950
+Sun May 26 03:08:18 2024 :: Loading new economy
+ugrove.are    : Rooms:  4001 - 4100  Objs:  4001 - 4100  Mobs:  4001 - 4100
+Sun May 26 03:08:18 2024 :: Loading new economy
+flowergarden.are: Rooms:   651 - 700   Objs:   651 - 700   Mobs:   651 - 700
+Sun May 26 03:08:18 2024 :: Loading new economy
+huntground.are: Rooms:  2151 - 2250  Objs:  2151 - 2250  Mobs:  2151 - 2250
+Sun May 26 03:08:18 2024 :: Loading new economy
+toadstool.are : Rooms:   951 - 1000  Objs:   951 - 1000  Mobs:   951 - 1000
+Sun May 26 03:08:18 2024 :: Loading new economy
+ironholde.are : Rooms:  2251 - 2350  Objs:  2251 - 2350  Mobs:  2251 - 2350
+Sun May 26 03:08:18 2024 :: Loading new economy
+trialspain.are: Rooms: 14101 - 14300 Objs: 14102 - 14300 Mobs: 14101 - 14300
+Sun May 26 03:08:18 2024 :: Loading new economy
+clouds.are    : Rooms:  3801 - 3850  Objs:  3801 - 3850  Mobs:  3801 - 3850
+Sun May 26 03:08:18 2024 :: Loading new economy
+smokecaves.are: Rooms:  2351 - 2400  Objs:  2351 - 2400  Mobs:  2351 - 2400
+Sun May 26 03:08:18 2024 :: Loading new economy
+ihmines.are   : Rooms:  3851 - 3900  Objs:  3851 - 3900  Mobs:  3851 - 3900
+Sun May 26 03:08:18 2024 :: Loading new economy
+eastoasis.are : Rooms:  3901 - 4000  Objs:  3901 - 4000  Mobs:  3901 - 4000
+Sun May 26 03:08:18 2024 :: Loading new economy
+deepjungle.are: Rooms:  4101 - 4200  Objs:  4101 - 4200  Mobs:  4101 - 4200
+Sun May 26 03:08:18 2024 :: Loading new economy
+thornthiket.are: Rooms:  2401 - 2450  Objs:  2401 - 2450  Mobs:  2401 - 2450
+Sun May 26 03:08:18 2024 :: Loading new economy
+fangtemple.are: Rooms:  2451 - 2500  Objs:  2451 - 2500  Mobs:  2451 - 2500
+Sun May 26 03:08:18 2024 :: Loading new economy
+flayercaves.are: Rooms:  4201 - 4300  Objs:  4201 - 4300  Mobs:  4201 - 4300
+Sun May 26 03:08:18 2024 :: Loading new economy
+towermanos.are: Rooms:  4301 - 4600  Objs:  4301 - 4600  Mobs:  4301 - 4600
+Sun May 26 03:08:18 2024 :: Loading new economy
+laststand.are : Rooms:  4601 - 4700  Objs:  4601 - 4700  Mobs:  4601 - 4700
+Sun May 26 03:08:18 2024 :: Loading new economy
+srilaxa.are   : Rooms:  9800 - 9950  Objs:  9800 - 9950  Mobs:  9800 - 9950
+Sun May 26 03:08:18 2024 :: Loading new economy
+ancient.are   : Rooms:  9951 - 10100 Objs:  9951 - 10100 Mobs:  9951 - 10100
+Sun May 26 03:08:18 2024 :: Loading new economy
+jellyfish.are : Rooms:  2501 - 2700  Objs:  2501 - 2700  Mobs:  2501 - 2700
+Sun May 26 03:08:18 2024 :: Loading new economy
+desertercamp.are: Rooms:  4701 - 4800  Objs:  4701 - 4800  Mobs:  4701 - 4800
+Sun May 26 03:08:18 2024 :: Loading new economy
+easterncorridor.are: Rooms:  4801 - 4900  Objs:  4801 - 4900  Mobs:  4801 - 4900
+Sun May 26 03:08:18 2024 :: Loading new economy
+sahardin.are  : Rooms:  4901 - 5050  Objs:  4901 - 5050  Mobs:  4901 - 5050
+Sun May 26 03:08:18 2024 :: Loading new economy
+troll.are     : Rooms:  5051 - 5126  Objs:  5051 - 5074  Mobs:  5051 - 5126
+Sun May 26 03:08:18 2024 :: Loading new economy
+opiumroad.are : Rooms:  7000 - 7050  Objs:  7000 - 7050  Mobs:  7000 - 7050
+Sun May 26 03:08:18 2024 :: Loading new economy
+bazabel.are   : Rooms:  6000 - 6250  Objs:  6000 - 6250  Mobs:  6000 - 6250
+Sun May 26 03:08:18 2024 :: Loading new economy
+ageless.are   : Rooms: 14000 - 14100 Objs: 14000 - 14100 Mobs: 14000 - 14100
+Sun May 26 03:08:18 2024 :: Loading new economy
+fort.are      : Rooms:  5150 - 5200  Objs:  5150 - 5200  Mobs:  5150 - 5200
+Sun May 26 03:08:18 2024 :: Loading new economy
+kinter.are    : Rooms: 11000 - 11100 Objs: 11000 - 11100 Mobs: 11000 - 11100
+Sun May 26 03:08:18 2024 :: Loading new economy
+sorrow.are    : Rooms: 11101 - 11151 Objs: 11101 - 11201 Mobs: 11101 - 11122
+Sun May 26 03:08:18 2024 :: Loading new economy
+bear.are      : Rooms:  7051 - 7074  Objs:  7051 - 7056  Mobs:  7051 - 7063
+Sun May 26 03:08:18 2024 :: Loading new economy
+chicken.are   : Rooms:  7101 - 7157  Objs:  7101 - 7107  Mobs:  7101 - 7115
+Sun May 26 03:08:18 2024 :: Loading new economy
+ogrecamp.are  : Rooms:  7201 - 7256  Objs:  7201 - 7228  Mobs:  7201 - 7204
+Sun May 26 03:08:18 2024 :: Loading new economy
+fellowship.are: Rooms:  7301 - 7350  Objs:  7301 - 7400  Mobs:  7301 - 7400
+Sun May 26 03:08:18 2024 :: Loading new economy
+campraid.are  : Rooms:  7401 - 7500  Objs:  7401 - 7500  Mobs:  7401 - 7500
+Sun May 26 03:08:18 2024 :: Loading new economy
+woodlandroute.are: Rooms:  6251 - 6300  Objs:  6251 - 6350  Mobs:  6251 - 6350
+Sun May 26 03:08:18 2024 :: Loading new economy
+fvalley.are   : Rooms:  8300 - 8378  Objs:  8300 - 8310  Mobs:  8300 - 8314
+Sun May 26 03:08:18 2024 :: Loading new economy
+bitterpass.are: Rooms: 10500 - 10599 Objs: 10500 - 10599 Mobs: 10500 - 10599
+Sun May 26 03:08:18 2024 :: Loading new economy
+learei.are    : Rooms:  7601 - 7647  Objs:  7601 - 7613  Mobs:  7601 - 7647
+Sun May 26 03:08:18 2024 :: Loading new economy
+opiumfields.are: Rooms:  7501 - 7600  Objs:  7501 - 7600  Mobs:  7501 - 7600
+Sun May 26 03:08:18 2024 :: Loading new economy
+silver.are    : Rooms:  8201 - 8299  Objs:  8201 - 8299  Mobs:  8201 - 8299
+Sun May 26 03:08:18 2024 :: Loading new economy
+ihra.are      : Rooms:  8401 - 8500  Objs:  8401 - 8500  Mobs:  8401 - 8500
+Sun May 26 03:08:18 2024 :: Loading new economy
+celestial.are : Rooms: 12000 - 12100 Objs: 12000 - 12100 Mobs: 12000 - 12100
+Sun May 26 03:08:18 2024 :: Loading new economy
+templar.are   : Rooms:  8000 - 8100  Objs:  8000 - 8100  Mobs:  8000 - 8100
+Sun May 26 03:08:18 2024 :: Loading new economy
+ships.are     : Rooms:  5201 - 5600  Objs:  5201 - 5600  Mobs:  5201 - 5600
+Sun May 26 03:08:18 2024 :: Loading new economy
+wulftuuf.are  : Rooms: 10101 - 10299 Objs: 10101 - 10299 Mobs: 10101 - 10299
+Sun May 26 03:08:18 2024 :: Loading new economy
+niralis.are   : Rooms: 12101 - 12199 Objs: 12101 - 12123 Mobs: 12101 - 12157
+Sun May 26 03:08:18 2024 :: Loading new economy
+spearfangroad.are: Rooms: 10601 - 10650 Objs: 10601 - 10650 Mobs: 10601 - 10650
+Sun May 26 03:08:18 2024 :: Loading new economy
+bullhornroad.are: Rooms: 10651 - 10750 Objs: 10651 - 10750 Mobs: 10651 - 10750
+Sun May 26 03:08:18 2024 :: Loading new economy
+junglepath.are: Rooms: 10751 - 10800 Objs: 10751 - 10800 Mobs: 10751 - 10800
+Sun May 26 03:08:18 2024 :: Loading new economy
+tenhicoal.are : Rooms: 16201 - 16350 Objs: 16201 - 16300 Mobs: 16201 - 16300
+Sun May 26 03:08:18 2024 :: Loading new economy
+h-unki.are    : Rooms: 14401 - 14500 Objs: 14401 - 14500 Mobs: 14401 - 14500
+Sun May 26 03:08:18 2024 :: Loading new economy
+farmmarket.are: Rooms:  8101 - 8190  Objs:  8101 - 8137  Mobs:  8101 - 8180
+Sun May 26 03:08:18 2024 :: Loading new economy
+daira.are     : Rooms:  5127 - 5145  Objs:  5127 - 5132  Mobs:  5127 - 5130
+Sun May 26 03:08:18 2024 :: Loading new economy
+Sun May 26 03:08:18 2024 :: [*****] FILE: gallery.are LINE: 10900
+Sun May 26 03:08:18 2024 :: [*****] BUG: Get_mob_index: bad vnum 7700.
+Sun May 26 03:08:18 2024 :: [*****] BOOT: Load_resets: gallery.are (95) 'M': mobile 7700 doesn't exist.
+gallery.are   : Rooms:  7648 - 7999  Objs:  7648 - 7999  Mobs:  7648 - 7999
+Sun May 26 03:08:18 2024 :: Loading new economy
+darkheart.are : Rooms:  2901 - 3000  Objs:  2901 - 3000  Mobs:  2901 - 3000
+Sun May 26 03:08:18 2024 :: Loading new economy
+lakemotuco.are: Rooms:  2801 - 2900  Objs:  2801 - 2900  Mobs:  2801 - 2900
+Sun May 26 03:08:18 2024 :: Loading new economy
+Tampaqui.are  : Rooms:  2701 - 2800  Objs:  2701 - 2800  Mobs:  2701 - 2800
+Sun May 26 03:08:18 2024 :: Loading new economy
+antcolony.are : Rooms: 10801 - 10900 Objs: 10801 - 10900 Mobs: 10801 - 10900
+Sun May 26 03:08:18 2024 :: Loading new economy
+beehive.are   : Rooms: 10901 - 10999 Objs: 10901 - 10999 Mobs: 10901 - 10999
+Sun May 26 03:08:18 2024 :: Loading new economy
+Sun May 26 03:08:18 2024 :: [*****] FILE: Elysium.are LINE: 138
+Sun May 26 03:08:18 2024 :: [*****] BUG: Get_room_index: bad vnum 7077.
+Sun May 26 03:08:18 2024 :: [*****] BOOT: Load_resets: Elysium.are (1) 'O': room 7077 doesn't exist.
+Elysium.are   : Rooms:  7075 - 7080  Objs:  7075 - 7080  Mobs:  7075 - 7080
+Sun May 26 03:08:18 2024 :: Loading new economy
+templeofdrazuk.are: Rooms: 21001 - 21009 Objs:     0 - 0     Mobs:     0 - 0
+Sun May 26 03:08:18 2024 :: Loading new economy
+renegades.are : Rooms:  9000 - 9091  Objs:  9000 - 9008  Mobs:  9000 - 9023
+Sun May 26 03:08:18 2024 :: Fixing exits
+Sun May 26 03:08:18 2024 :: Loading corpses
+Sun May 26 03:08:18 2024 :: Loading slay table
+Sun May 26 03:08:18 2024 :: Initializing economy
+Sun May 26 03:08:18 2024 :: Resetting areas...
+Sun May 26 03:08:18 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Sun May 26 03:08:18 2024 :: Loading buildlist
+Sun May 26 03:08:18 2024 :: ../gods/Cormac
+Sun May 26 03:08:18 2024 :: ../gods/Fraggle
+Sun May 26 03:08:18 2024 :: ../gods/Kraxxar
+Sun May 26 03:08:18 2024 :: ../gods/Pain
+Sun May 26 03:08:18 2024 :: ../gods/Krom
+Sun May 26 03:08:18 2024 :: ../gods/Tripper
+Sun May 26 03:08:18 2024 :: ../gods/Lance
+Sun May 26 03:08:18 2024 :: Loading boards
+Sun May 26 03:08:18 2024 :: ../boards/immortal.brd
+Sun May 26 03:08:18 2024 :: ../boards/highgod.brd
+Sun May 26 03:08:18 2024 :: ../boards/notes.brd
+Sun May 26 03:08:18 2024 :: ../boards/carnage.brd
+Sun May 26 03:08:18 2024 :: ../boards/scion.brd
+Sun May 26 03:08:18 2024 :: ../boards/blade.brd
+Sun May 26 03:08:18 2024 :: ../boards/wisdom.brd
+Sun May 26 03:08:18 2024 :: ../boards/warboard.brd
+Sun May 26 03:08:18 2024 :: ../boards/hitlist.brd
+Sun May 26 03:08:18 2024 :: ../boards/brood.brd
+Sun May 26 03:08:18 2024 :: ../boards/pain
+Sun May 26 03:08:18 2024 :: [*****] BUG: fread_word: EOF encountered on read.
+
+Sun May 26 03:08:18 2024 :: [*****] BUG: read_board: no match: Endÿ
+Sun May 26 03:08:18 2024 :: ../boards/chwarboard.brd
+Sun May 26 03:08:18 2024 :: Loading clans
+Sun May 26 03:08:18 2024 :: Loading clans...
+Sun May 26 03:08:18 2024 :: druid.gui
+Sun May 26 03:08:18 2024 :: Storeroom not found
+Sun May 26 03:08:18 2024 :: warrior.gui
+Sun May 26 03:08:18 2024 :: Storeroom not found
+Sun May 26 03:08:18 2024 :: thief.gui
+Sun May 26 03:08:18 2024 :: Cannot open clan vault
+Sun May 26 03:08:18 2024 :: cleric.gui
+Sun May 26 03:08:18 2024 :: Cannot open clan vault
+Sun May 26 03:08:18 2024 :: mage.gui
+Sun May 26 03:08:18 2024 :: Cannot open clan vault
+Sun May 26 03:08:18 2024 :: ranger.gui
+Sun May 26 03:08:18 2024 :: Storeroom not found
+Sun May 26 03:08:18 2024 :: carnage.clan
+Sun May 26 03:08:18 2024 :: Loading clan storage room
+Sun May 26 03:08:18 2024 :: scions.clan
+Sun May 26 03:08:18 2024 :: Storeroom not found
+Sun May 26 03:08:18 2024 :: lex.clan
+Sun May 26 03:08:18 2024 :: Loading clan storage room
+Sun May 26 03:08:18 2024 :: [*****] BUG: fread_word: EOF encountered on read.
+
+Sun May 26 03:08:18 2024 :: ÿ
+Sun May 26 03:08:18 2024 :: [*****] BUG: Cannot load clan file: ÿ
+Sun May 26 03:08:18 2024 :: $
+Sun May 26 03:08:18 2024 ::  Done clans 
+Sun May 26 03:08:18 2024 :: Loading councils
+Sun May 26 03:08:18 2024 :: Loading deities...
+Sun May 26 03:08:18 2024 :: ../deity/drazuk
+Sun May 26 03:08:18 2024 :: ../deity/medea
+Sun May 26 03:08:18 2024 :: $
+Sun May 26 03:08:18 2024 ::  Done deities 
+Sun May 26 03:08:18 2024 :: Loading deities
+Sun May 26 03:08:18 2024 :: Loading councils...
+Sun May 26 03:08:18 2024 :: $
+Sun May 26 03:08:18 2024 ::  Done councils 
+Sun May 26 03:08:18 2024 :: Loading watches
+Sun May 26 03:08:18 2024 :: Loading bans
+Sun May 26 03:08:18 2024 :: Done.
+Sun May 26 03:08:18 2024 :: Loading reserved names
+Sun May 26 03:08:18 2024 :: Loading Immortal Hosts
+Sun May 26 03:08:18 2024 :: Done.
+Sun May 26 03:08:18 2024 :: Loading Projects
+Sun May 26 03:08:18 2024 :: Loading Morphs
+Sun May 26 03:08:18 2024 :: Optimizing Morphs.
+Sun May 26 03:08:18 2024 :: Done.
+Sun May 26 03:08:18 2024 :: Awakening Questmaster
+Sun May 26 03:08:18 2024 :: Loading Scoreboards
+Sun May 26 03:08:18 2024 :: Initializing socket
+Sun May 26 03:08:18 2024 :: House of Ghouls ready at address zeus.cybercitizen.net on port 6767.
+Sun May 26 03:08:23 2024 :: Sock.sinaddr:  73.232.238.119, port -360.
+Sun May 26 03:08:23 2024 :: Preloading player data for: Pain (140K)
+Sun May 26 03:08:26 2024 :: Loading player data for: Pain (140K)
+Sun May 26 03:08:26 2024 :: Pain@73.232.238.119((ident not active)) has connected.
+Sun May 26 03:15:21 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Sun May 26 03:16:04 2024 :: Sock.sinaddr:  68.2.73.137, port -15370.
+Sun May 26 03:16:08 2024 :: Preloading player data for: Reaver (24K)
+Sun May 26 03:16:11 2024 :: Loading player data for: Reaver (24K)
+Sun May 26 03:16:11 2024 :: Reaver@68.2.73.137((ident not active)) has connected.
+Sun May 26 03:24:24 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Sun May 26 03:28:37 2024 :: Reaver has quit.
+Sun May 26 03:34:27 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Sun May 26 03:42:30 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Sun May 26 03:50:32 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Sun May 26 04:00:35 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Sun May 26 04:10:42 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Sun May 26 04:19:45 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Sun May 26 04:20:16 2024 :: Log Pain: slay dizza
+Sun May 26 04:27:48 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Sun May 26 04:35:50 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Sun May 26 04:44:53 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Sun May 26 04:46:06 2024 :: Log Pain: slay death
+Sun May 26 04:53:56 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Sun May 26 05:02:59 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Sun May 26 05:11:09 2024 :: Log Pain: oinvoke 21450
+Sun May 26 05:11:09 2024 :: Log Pain: oinvoke 21451
+Sun May 26 05:11:09 2024 :: Log Pain: oinvoke 21452
+Sun May 26 05:11:09 2024 :: Log Pain: oinvoke 21453
+Sun May 26 05:11:09 2024 :: Log Pain: oinvoke 21454
+Sun May 26 05:11:09 2024 :: Log Pain: oinvoke 21455
+Sun May 26 05:11:09 2024 :: Log Pain: oinvoke 21456
+Sun May 26 05:11:10 2024 :: Log Pain: oinvoke 21457
+Sun May 26 05:11:10 2024 :: Log Pain: oinvoke 21458
+Sun May 26 05:11:10 2024 :: Log Pain: oinvoke 21459
+Sun May 26 05:11:10 2024 :: Log Pain: oinvoke 21460
+Sun May 26 05:11:10 2024 :: Log Pain: oinvoke 21461
+Sun May 26 05:11:10 2024 :: Log Pain: oinvoke 21462
+Sun May 26 05:11:10 2024 :: Log Pain: oinvoke 21463
+Sun May 26 05:11:10 2024 :: Log Pain: oinvoke 21464
+Sun May 26 05:12:00 2024 :: Log Pain: oinvoke potion
+Sun May 26 05:12:02 2024 :: Log Pain: oinvoke potion
+Sun May 26 05:12:02 2024 :: Log Pain: oinvoke potion
+Sun May 26 05:12:02 2024 :: Log Pain: oinvoke potion
+Sun May 26 05:12:03 2024 :: Log Pain: oinvoke potion
+Sun May 26 05:13:03 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Sun May 26 05:23:10 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Sun May 26 05:31:13 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Sun May 26 05:40:16 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Sun May 26 05:48:18 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Sun May 26 05:56:21 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Sun May 26 06:05:23 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Sun May 26 06:15:26 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Sun May 26 06:24:29 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Sun May 26 06:32:32 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Sun May 26 06:34:54 2024 :: Pain has quit.
+Sun May 26 06:42:35 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Sun May 26 06:52:38 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Sun May 26 07:00:40 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Sun May 26 07:08:43 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Sun May 26 07:18:46 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Sun May 26 07:28:49 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Sun May 26 07:37:52 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Sun May 26 07:47:55 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Sun May 26 07:56:58 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Sun May 26 08:06:00 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Sun May 26 08:16:03 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Sun May 26 08:26:06 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Sun May 26 08:34:09 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Sun May 26 08:44:12 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Sun May 26 08:52:14 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Sun May 26 09:00:17 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Sun May 26 09:09:20 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Sun May 26 09:17:22 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Sun May 26 09:26:25 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Sun May 26 09:34:27 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Sun May 26 09:42:30 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Sun May 26 09:50:32 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Sun May 26 10:00:35 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Sun May 26 10:10:38 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Sun May 26 10:19:41 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Sun May 26 10:29:44 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Sun May 26 10:39:47 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Sun May 26 10:49:50 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Sun May 26 10:57:06 2024 :: Counting pfiles.....
+Sun May 26 10:57:06 2024 :: Pfile count completed.
+Sun May 26 10:57:06 2024 :: Total pfiles scanned: 30
+Sun May 26 10:59:53 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Sun May 26 11:08:56 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Sun May 26 11:16:58 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Sun May 26 11:27:02 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Sun May 26 11:37:05 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Sun May 26 11:46:07 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Sun May 26 11:54:10 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Sun May 26 12:04:13 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Sun May 26 12:14:16 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Sun May 26 12:23:19 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Sun May 26 12:31:21 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Sun May 26 12:41:24 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Sun May 26 12:49:27 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Sun May 26 12:59:30 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Sun May 26 13:09:33 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Sun May 26 13:17:35 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Sun May 26 13:25:38 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Sun May 26 13:35:41 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Sun May 26 13:43:43 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Sun May 26 13:52:46 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Sun May 26 14:00:48 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Sun May 26 14:08:51 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Sun May 26 14:18:54 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Sun May 26 14:28:57 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Sun May 26 14:36:59 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Sun May 26 14:46:02 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Sun May 26 14:54:05 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Sun May 26 15:04:08 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Sun May 26 15:13:11 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Sun May 26 15:21:13 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Sun May 26 15:29:15 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Sun May 26 15:38:18 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Sun May 26 15:48:21 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Sun May 26 15:58:24 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Sun May 26 16:08:27 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Sun May 26 16:10:27 2024 :: Sock.sinaddr:  73.232.238.119, port -12341.
+Sun May 26 16:10:29 2024 :: Preloading player data for: Pain (142K)
+Sun May 26 16:10:32 2024 :: Loading player data for: Pain (142K)
+Sun May 26 16:10:32 2024 :: Pain@73.232.238.119((ident not active)) has connected.
+Sun May 26 16:17:30 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Sun May 26 16:27:33 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Sun May 26 16:36:36 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Sun May 26 16:46:39 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Sun May 26 16:56:42 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Sun May 26 17:04:45 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Sun May 26 17:12:47 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Sun May 26 17:21:50 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Sun May 26 17:31:53 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Sun May 26 17:39:56 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Sun May 26 17:47:58 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Sun May 26 17:50:01 2024 :: Sock.sinaddr:  68.2.73.137, port -15294.
+Sun May 26 17:50:07 2024 :: Preloading player data for: Reaver (24K)
+Sun May 26 17:50:08 2024 :: Loading player data for: Reaver (24K)
+Sun May 26 17:50:08 2024 :: Reaver@68.2.73.137((ident not active)) has connected.
+Sun May 26 17:56:19 2024 :: Log Pain: oinvoke 21450
+Sun May 26 17:56:20 2024 :: Log Pain: oinvoke 21451
+Sun May 26 17:56:20 2024 :: Log Pain: oinvoke 21452
+Sun May 26 17:56:20 2024 :: Log Pain: oinvoke 21453
+Sun May 26 17:56:20 2024 :: Log Pain: oinvoke 21454
+Sun May 26 17:56:20 2024 :: Log Pain: oinvoke 21455
+Sun May 26 17:56:20 2024 :: Log Pain: oinvoke 21456
+Sun May 26 17:56:20 2024 :: Log Pain: oinvoke 21457
+Sun May 26 17:56:20 2024 :: Log Pain: oinvoke 21458
+Sun May 26 17:56:20 2024 :: Log Pain: oinvoke 21459
+Sun May 26 17:56:21 2024 :: Log Pain: oinvoke 21460
+Sun May 26 17:56:21 2024 :: Log Pain: oinvoke 21461
+Sun May 26 17:56:21 2024 :: Log Pain: oinvoke 21462
+Sun May 26 17:56:21 2024 :: Log Pain: oinvoke 21463
+Sun May 26 17:56:21 2024 :: Log Pain: oinvoke 21464
+Sun May 26 17:56:21 2024 :: Log Pain: oinvoke 21450
+Sun May 26 17:56:21 2024 :: Log Pain: oinvoke 21451
+Sun May 26 17:56:22 2024 :: Log Pain: oinvoke 21452
+Sun May 26 17:56:22 2024 :: Log Pain: oinvoke 21453
+Sun May 26 17:56:22 2024 :: Log Pain: oinvoke 21454
+Sun May 26 17:56:22 2024 :: Log Pain: oinvoke 21455
+Sun May 26 17:56:22 2024 :: Log Pain: oinvoke 21456
+Sun May 26 17:56:22 2024 :: Log Pain: oinvoke 21457
+Sun May 26 17:56:22 2024 :: Log Pain: oinvoke 21458
+Sun May 26 17:56:22 2024 :: Log Pain: oinvoke 21459
+Sun May 26 17:56:22 2024 :: Log Pain: oinvoke 21460
+Sun May 26 17:56:23 2024 :: Log Pain: oinvoke 21461
+Sun May 26 17:56:23 2024 :: Log Pain: oinvoke 21462
+Sun May 26 17:56:23 2024 :: Log Pain: oinvoke 21463
+Sun May 26 17:56:23 2024 :: Log Pain: oinvoke 21464
+Sun May 26 17:56:37 2024 :: Log Pain: oinvoke 21450 10
+Sun May 26 17:56:38 2024 :: Log Pain: oinvoke 21451 10
+Sun May 26 17:56:38 2024 :: Log Pain: oinvoke 21452 10
+Sun May 26 17:56:38 2024 :: Log Pain: oinvoke 21453 10
+Sun May 26 17:56:38 2024 :: Log Pain: oinvoke 21454 10
+Sun May 26 17:56:38 2024 :: Log Pain: oinvoke 21455 10
+Sun May 26 17:56:38 2024 :: Log Pain: oinvoke 21456 10
+Sun May 26 17:56:38 2024 :: Log Pain: oinvoke 21457 10
+Sun May 26 17:56:38 2024 :: Log Pain: oinvoke 21458 10
+Sun May 26 17:56:38 2024 :: Log Pain: oinvoke 21459 10
+Sun May 26 17:56:39 2024 :: Log Pain: oinvoke 21460 10 
+Sun May 26 17:56:39 2024 :: Log Pain: oinvoke 21461 10
+Sun May 26 17:56:39 2024 :: Log Pain: oinvoke 21462 10
+Sun May 26 17:56:39 2024 :: Log Pain: oinvoke 21463 10
+Sun May 26 17:56:39 2024 :: Log Pain: oinvoke 21464 10
+Sun May 26 17:58:01 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Sun May 26 17:59:26 2024 :: Log Pain: oinvoke frame
+Sun May 26 18:00:01 2024 :: Log Pain: oinvoke dwarven
+Sun May 26 18:00:06 2024 :: Log Pain: oinvoke backpack
+Sun May 26 18:05:21 2024 :: Log Pain: restore reaver
+Sun May 26 18:07:05 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Sun May 26 18:11:50 2024 :: Log Pain: oinvoke sinzen
+Sun May 26 18:11:50 2024 :: Log Pain: oset sinzen timer 200
+Sun May 26 18:11:50 2024 :: Log Pain: oinvoke sinzen
+Sun May 26 18:11:50 2024 :: Log Pain: oset sinzen timer 200
+Sun May 26 18:16:08 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Sun May 26 18:22:17 2024 :: Sock.sinaddr:  68.2.73.137, port -15703.
+Sun May 26 18:22:19 2024 :: Preloading player data for: Reaver (25K)
+Sun May 26 18:22:20 2024 :: Closing link to Reaver.
+Sun May 26 18:22:20 2024 :: Reaver@68.2.73.137 reconnected, kicking off old link.
+Sun May 26 18:25:10 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Sun May 26 18:32:09 2024 :: Reaver (50) killed by Warlord Zanzen at 4688
+Sun May 26 18:35:14 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Sun May 26 18:44:17 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Sun May 26 18:53:20 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Sun May 26 18:55:33 2024 :: Reaver has quit.
+Sun May 26 18:55:37 2024 :: Sock.sinaddr:  68.2.73.137, port -15377.
+Sun May 26 18:55:38 2024 :: Preloading player data for: Suffer (4K)
+Sun May 26 18:55:39 2024 :: Loading player data for: Suffer (4K)
+Sun May 26 18:55:39 2024 :: Suffer@68.2.73.137((ident not active)) has connected.
+Sun May 26 18:55:49 2024 :: Suffer has quit.
+Sun May 26 18:55:52 2024 :: Sock.sinaddr:  68.2.73.137, port -15376.
+Sun May 26 18:55:54 2024 :: Preloading player data for: Keane (17K)
+Sun May 26 18:55:55 2024 :: Loading player data for: Keane (17K)
+Sun May 26 18:55:55 2024 :: Keane@68.2.73.137((ident not active)) has connected.
+Sun May 26 18:58:54 2024 :: Keane (11) killed by Fargo at 21127
+Sun May 26 18:59:20 2024 :: Keane has quit.
+Sun May 26 18:59:28 2024 :: Sock.sinaddr:  68.2.73.137, port -15368.
+Sun May 26 18:59:30 2024 :: Preloading player data for: Keane (17K)
+Sun May 26 18:59:31 2024 :: Loading player data for: Keane (17K)
+Sun May 26 18:59:31 2024 :: Keane@68.2.73.137((ident not active)) has connected.
+Sun May 26 19:01:53 2024 :: Keane (11) killed by Fargo at 21127
+Sun May 26 19:02:23 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Sun May 26 19:06:40 2024 :: Keane has quit.
+Sun May 26 19:06:53 2024 :: Sock.sinaddr:  68.2.73.137, port -15364.
+Sun May 26 19:08:43 2024 :: EOF encountered on read.
+Sun May 26 19:08:43 2024 :: Closing link to Luck.
+Sun May 26 19:08:44 2024 :: Sock.sinaddr:  68.2.73.137, port -15354.
+Sun May 26 19:08:47 2024 :: Preloading player data for: Reaver (24K)
+Sun May 26 19:08:48 2024 :: Loading player data for: Reaver (24K)
+Sun May 26 19:08:48 2024 :: Reaver@68.2.73.137((ident not active)) has connected.
+Sun May 26 19:11:26 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Sun May 26 19:19:29 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Sun May 26 19:27:31 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Sun May 26 19:37:34 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Sun May 26 19:37:34 2024 :: Reaver has quit.
+Sun May 26 19:46:37 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Sun May 26 19:56:40 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Sun May 26 20:04:43 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Sun May 26 20:14:46 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Sun May 26 20:22:48 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Sun May 26 20:32:51 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Sun May 26 20:42:54 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Sun May 26 20:50:57 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Sun May 26 20:59:59 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Sun May 26 21:08:02 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Sun May 26 21:17:05 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Sun May 26 21:24:38 2024 :: Log Pain: oinvoke daot
+Sun May 26 21:25:07 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Sun May 26 21:25:12 2024 :: Log Pain: restore all
+Sun May 26 21:34:10 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Sun May 26 21:44:13 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Sun May 26 21:53:16 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Sun May 26 22:01:18 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Sun May 26 22:09:21 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Sun May 26 22:15:31 2024 :: Log Pain: oset plains affect affected balanced
+Sun May 26 22:15:34 2024 :: Log Pain: oset plains affect affected balance
+Sun May 26 22:15:37 2024 :: Log Pain: oset plains affect affected bal
+Sun May 26 22:15:38 2024 :: Log Pain: oset plains affect affected bala
+Sun May 26 22:15:40 2024 :: Log Pain: oset plains affect affected balan
+Sun May 26 22:15:41 2024 :: Log Pain: oset plains affect affected balanc
+Sun May 26 22:15:43 2024 :: Log Pain: oset plains affect affected balance
+Sun May 26 22:15:46 2024 :: Log Pain: oset plains affect affected 'balance'
+Sun May 26 22:15:50 2024 :: Log Pain: oset plains affect affected 'balanced'
+Sun May 26 22:16:09 2024 :: Sock.sinaddr:  73.232.238.119, port -11064.
+Sun May 26 22:16:11 2024 :: Preloading player data for: Nyx (33K)
+Sun May 26 22:16:12 2024 :: Loading player data for: Nyx (33K)
+Sun May 26 22:16:12 2024 :: Nyx@73.232.238.119((ident not active)) has connected.
+Sun May 26 22:16:56 2024 :: Nyx has quit.
+Sun May 26 22:16:58 2024 :: Sock.sinaddr:  73.232.238.119, port -11063.
+Sun May 26 22:17:00 2024 :: Preloading player data for: Jekyll (24K)
+Sun May 26 22:17:04 2024 :: Loading player data for: Jekyll (24K)
+Sun May 26 22:17:04 2024 :: Jekyll@73.232.238.119((ident not active)) has connected.
+Sun May 26 22:17:12 2024 :: Jekyll has quit.
+Sun May 26 22:17:23 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Sun May 26 22:19:42 2024 :: Log Pain: oinvoke 2909
+Sun May 26 22:25:17 2024 :: Log Pain: oset torch affect spelldam 6
+Sun May 26 22:25:20 2024 :: Log Pain: oset torch affect spelldam 3
+Sun May 26 22:25:33 2024 :: Log Pain: oset torch rmaffect 6
+Sun May 26 22:25:41 2024 :: Log Pain: oset torch affect hit 25
+Sun May 26 22:26:24 2024 :: Log Pain: oinvoke swag
+Sun May 26 22:26:26 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Sun May 26 22:26:29 2024 :: Log Pain: oset swag name bishop
+Sun May 26 22:26:33 2024 :: Log Pain: oset swag short Bishop
+Sun May 26 22:26:39 2024 :: Log Pain: oset bishop short Bishop
+Sun May 26 22:26:52 2024 :: Log Pain: oset bishop wear aura
+Sun May 26 22:27:02 2024 :: Log Pain: oset bishop wear back
+Sun May 26 22:27:07 2024 :: Log Pain: oset bishop capacity 9000
+Sun May 26 22:36:29 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Sun May 26 22:44:32 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Sun May 26 22:53:34 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Sun May 26 23:02:37 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Sun May 26 23:10:40 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Sun May 26 23:19:42 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Sun May 26 23:27:45 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Sun May 26 23:35:47 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Sun May 26 23:45:50 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Sun May 26 23:55:53 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Mon May 27 00:05:57 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Mon May 27 00:14:59 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Mon May 27 00:24:02 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Mon May 27 00:34:05 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Mon May 27 00:42:08 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Mon May 27 00:52:11 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Mon May 27 01:01:13 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Mon May 27 01:11:16 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Mon May 27 01:19:19 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Mon May 27 01:27:21 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Mon May 27 01:35:24 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Mon May 27 01:43:26 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Mon May 27 01:52:29 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Mon May 27 02:02:33 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Mon May 27 02:10:35 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Mon May 27 02:19:38 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Mon May 27 02:27:40 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Mon May 27 02:36:43 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Mon May 27 02:44:46 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Mon May 27 02:53:48 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Mon May 27 03:01:51 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Mon May 27 03:10:54 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Mon May 27 03:19:56 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Mon May 27 03:27:59 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Mon May 27 03:38:02 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Mon May 27 03:46:04 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Mon May 27 03:56:07 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Mon May 27 04:06:10 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Mon May 27 04:15:13 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Mon May 27 04:23:16 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Mon May 27 04:32:18 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Mon May 27 04:40:21 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Mon May 27 04:50:24 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Mon May 27 04:59:27 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Mon May 27 05:07:29 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Mon May 27 05:17:32 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Mon May 27 05:19:00 2024 :: Pain has quit.
+Mon May 27 05:26:35 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Mon May 27 05:34:37 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Mon May 27 05:43:40 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Mon May 27 05:51:42 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Mon May 27 06:00:45 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Mon May 27 06:09:48 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Mon May 27 06:19:51 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Mon May 27 06:28:31 2024 :: Sock.sinaddr:  68.2.73.137, port -14195.
+Mon May 27 06:28:33 2024 :: Preloading player data for: Reaver (24K)
+Mon May 27 06:28:35 2024 :: Loading player data for: Reaver (24K)
+Mon May 27 06:28:35 2024 :: Reaver@68.2.73.137((ident not active)) has connected.
+Mon May 27 06:29:54 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Mon May 27 06:30:57 2024 :: EOF encountered on read.
+Mon May 27 06:30:57 2024 :: Closing link to Reaver.
+Mon May 27 06:30:59 2024 :: Sock.sinaddr:  68.2.73.137, port -14186.
+Mon May 27 06:31:00 2024 :: Preloading player data for: Reaver (24K)
+Mon May 27 06:31:01 2024 :: Reaver@68.2.73.137((ident not active)) reconnected.
+Mon May 27 06:31:03 2024 :: Reaver has quit.
+Mon May 27 06:31:07 2024 :: Sock.sinaddr:  68.2.73.137, port -14185.
+Mon May 27 06:31:09 2024 :: Preloading player data for: Keane (17K)
+Mon May 27 06:31:10 2024 :: Loading player data for: Keane (17K)
+Mon May 27 06:31:10 2024 :: Keane@68.2.73.137((ident not active)) has connected.
+Mon May 27 06:34:29 2024 :: Keane has quit.
+Mon May 27 06:34:32 2024 :: Sock.sinaddr:  68.2.73.137, port -14180.
+Mon May 27 06:37:56 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Mon May 27 06:39:20 2024 :: Closing link to Luck.
+Mon May 27 06:44:57 2024 :: Sock.sinaddr:  68.2.73.137, port -15229.
+Mon May 27 06:45:59 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Mon May 27 06:47:32 2024 :: Luck@68.2.73.137 new Ghoul Ranger.
+Mon May 27 06:47:35 2024 :: Log Master Headmaster Eganrac: mpadvance 0.Luck 2
+Mon May 27 06:49:33 2024 :: Luck has quit.
+Mon May 27 06:49:35 2024 :: Sock.sinaddr:  68.2.73.137, port -15222.
+Mon May 27 06:49:40 2024 :: Preloading player data for: Keane (17K)
+Mon May 27 06:49:44 2024 :: Loading player data for: Keane (17K)
+Mon May 27 06:49:44 2024 :: Keane@68.2.73.137((ident not active)) has connected.
+Mon May 27 06:50:46 2024 :: Keane (12) killed by Fargo at 21127
+Mon May 27 06:53:18 2024 :: Keane has quit.
+Mon May 27 06:53:21 2024 :: Sock.sinaddr:  68.2.73.137, port -15217.
+Mon May 27 06:53:27 2024 :: Preloading player data for: Luck (2K)
+Mon May 27 06:53:29 2024 :: Loading player data for: Luck (2K)
+Mon May 27 06:53:29 2024 :: Luck@68.2.73.137((ident not active)) has connected.
+Mon May 27 06:55:02 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Mon May 27 06:56:48 2024 :: [*****] BUG: Damage: 156 more than 120 points!
+Mon May 27 06:56:48 2024 :: [*****] BUG: ** Luck (lvl 2) -> rat dirty **
+Mon May 27 07:05:05 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Mon May 27 07:13:08 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Mon May 27 07:22:11 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Mon May 27 07:32:14 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Mon May 27 07:41:17 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Mon May 27 07:45:14 2024 :: Luck has quit.
+Mon May 27 07:50:20 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Mon May 27 08:00:23 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Mon May 27 08:09:25 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Mon May 27 08:18:28 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Mon May 27 08:28:31 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Mon May 27 08:36:34 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Mon May 27 08:44:36 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Mon May 27 08:52:39 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Mon May 27 09:01:41 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Mon May 27 09:10:44 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Mon May 27 09:19:47 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Mon May 27 09:28:50 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Mon May 27 09:38:53 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Mon May 27 09:48:56 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Mon May 27 09:57:58 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Mon May 27 10:08:02 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Mon May 27 10:17:04 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Mon May 27 10:26:07 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Mon May 27 10:35:10 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Mon May 27 10:43:12 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Mon May 27 10:52:15 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Mon May 27 10:57:06 2024 :: Counting pfiles.....
+Mon May 27 10:57:06 2024 :: Pfile count completed.
+Mon May 27 10:57:06 2024 :: Total pfiles scanned: 32
+Mon May 27 11:00:17 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Mon May 27 11:08:20 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Mon May 27 11:17:23 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Mon May 27 11:27:26 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Mon May 27 11:35:28 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Mon May 27 11:44:31 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Mon May 27 11:52:33 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Mon May 27 12:02:36 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Mon May 27 12:10:39 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Mon May 27 12:19:42 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Mon May 27 12:27:44 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Mon May 27 12:35:46 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Mon May 27 12:44:49 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Mon May 27 12:52:52 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Mon May 27 13:01:54 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Mon May 27 13:11:57 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Mon May 27 13:21:00 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Mon May 27 13:31:03 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Mon May 27 13:40:06 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Mon May 27 13:50:09 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Mon May 27 13:59:12 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Mon May 27 14:09:15 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Mon May 27 14:18:18 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Mon May 27 14:26:20 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Mon May 27 14:34:23 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Mon May 27 14:42:25 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Mon May 27 14:52:28 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Mon May 27 15:01:31 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Mon May 27 15:09:33 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Mon May 27 15:19:36 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Mon May 27 15:28:39 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Mon May 27 15:36:42 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Mon May 27 15:44:44 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Mon May 27 15:52:46 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Mon May 27 16:00:49 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Mon May 27 16:08:51 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Mon May 27 16:18:54 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Mon May 27 16:26:10 2024 :: Sock.sinaddr:  73.232.238.119, port -7978.
+Mon May 27 16:26:11 2024 :: Preloading player data for: Pain (148K)
+Mon May 27 16:26:13 2024 :: Loading player data for: Pain (148K)
+Mon May 27 16:26:13 2024 :: Pain@73.232.238.119((ident not active)) has connected.
+Mon May 27 16:26:56 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Mon May 27 16:35:59 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Mon May 27 16:46:02 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Mon May 27 16:56:05 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Mon May 27 17:05:08 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Mon May 27 17:15:11 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Mon May 27 17:23:14 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Mon May 27 17:33:17 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Mon May 27 17:41:19 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Mon May 27 17:50:22 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Mon May 27 17:59:25 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Mon May 27 18:09:28 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Mon May 27 18:12:33 2024 :: Log Pain: oset emerald flags antineutral
+Mon May 27 18:12:56 2024 :: Sock.sinaddr:  68.2.73.137, port -13039.
+Mon May 27 18:13:13 2024 :: Preloading player data for: Reaver (24K)
+Mon May 27 18:13:14 2024 :: Loading player data for: Reaver (24K)
+Mon May 27 18:13:14 2024 :: Reaver@68.2.73.137((ident not active)) has connected.
+Mon May 27 18:17:31 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Mon May 27 18:26:34 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Mon May 27 18:35:37 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Mon May 27 18:45:41 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Mon May 27 18:48:58 2024 :: Reaver has quit.
+Mon May 27 18:49:04 2024 :: Sock.sinaddr:  68.2.73.137, port -12938.
+Mon May 27 18:49:05 2024 :: Preloading player data for: Luck (17K)
+Mon May 27 18:49:06 2024 :: Loading player data for: Luck (17K)
+Mon May 27 18:49:06 2024 :: Luck@68.2.73.137((ident not active)) has connected.
+Mon May 27 18:55:45 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Mon May 27 19:02:01 2024 :: Luck has quit.
+Mon May 27 19:03:47 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Mon May 27 19:13:51 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Mon May 27 19:23:54 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Mon May 27 19:25:37 2024 :: Sock.sinaddr:  162.142.125.210, port -17578.
+Read_from_descriptor: Connection reset by peer
+Mon May 27 19:33:57 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Mon May 27 19:44:00 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Mon May 27 19:52:02 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Mon May 27 20:00:05 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Mon May 27 20:10:08 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Mon May 27 20:19:10 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Mon May 27 20:27:13 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Mon May 27 20:36:16 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Mon May 27 20:44:18 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Mon May 27 20:54:21 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Mon May 27 21:02:24 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Mon May 27 21:12:27 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Mon May 27 21:22:30 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Mon May 27 21:30:32 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Mon May 27 21:40:35 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Mon May 27 21:50:38 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Mon May 27 21:59:41 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Mon May 27 22:08:44 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Mon May 27 22:17:47 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Mon May 27 22:24:01 2024 :: Log Pain: oset gir affect spelldam 6
+Mon May 27 22:24:18 2024 :: Log Pain: oset gir affect spell_spell -4
+Mon May 27 22:24:33 2024 :: Log Pain: oset gir affect hit 35
+Mon May 27 22:25:12 2024 :: Log Pain: oset gir rmaffect 6
+Mon May 27 22:25:20 2024 :: Log Pain: oset gir affect affected sanctuary
+Mon May 27 22:25:40 2024 :: Sock.sinaddr:  73.232.238.119, port -5259.
+Mon May 27 22:26:27 2024 :: Sock.sinaddr:  73.232.238.119, port -5258.
+Mon May 27 22:27:12 2024 :: Plague@73.232.238.119 new Shuri Shaman.
+Mon May 27 22:27:13 2024 :: [*****] BUG: Nanny: invalid racial language.
+Mon May 27 22:27:14 2024 :: Log Master Headmaster Eganrac: mpadvance 0.Plague 2
+Mon May 27 22:27:21 2024 :: Log Pain: transfer plague
+Mon May 27 22:27:39 2024 :: Log Pain: mset plague int 17
+Mon May 27 22:27:50 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Mon May 27 22:27:53 2024 :: Log Pain: mset plague wis 15
+Mon May 27 22:28:00 2024 :: Log Pain: mset plague lck 19
+Mon May 27 22:32:33 2024 :: Log Pain: force plague statrep
+Mon May 27 22:34:43 2024 :: Log Pain: oset robe affect affected iceshield
+Mon May 27 22:35:50 2024 :: Log Pain: oset ank affect spelldam 6
+Mon May 27 22:37:53 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Mon May 27 22:38:15 2024 :: Log Pain: oset band affect spelldam 6
+Mon May 27 22:38:17 2024 :: Log Pain: oset band affect spelldam 3
+Mon May 27 22:38:32 2024 :: Log Pain: oset pants affect spelldam 5
+Mon May 27 22:40:49 2024 :: Log Pain: oset bra affect spelldam 6
+Mon May 27 22:40:51 2024 :: Log Pain: oset bra affect spelldam 5
+Mon May 27 22:40:52 2024 :: Log Pain: oset bra affect spelldam 1
+Mon May 27 22:41:36 2024 :: Log Pain: oset wri affect spelldam 6
+Mon May 27 22:41:49 2024 :: Log Pain: oset wri affect spelldam 5
+Mon May 27 22:41:55 2024 :: Log Pain: oset wri affect intelligence 1
+Mon May 27 22:42:03 2024 :: Log Pain: oset wri affect save_spell -4
+Mon May 27 22:42:13 2024 :: Log Pain: sset plague all 100
+Mon May 27 22:42:21 2024 :: Log Pain: transfer plague
+Mon May 27 22:43:24 2024 :: Log Pain: oinvoke aeris
+Mon May 27 22:44:45 2024 :: [*****] BUG: Mpforce - No such victim, Mob #10368.
+Mon May 27 22:44:47 2024 :: [*****] BUG: Mpforce - No such victim, Mob #10368.
+Mon May 27 22:45:01 2024 :: Plague has quit.
+Mon May 27 22:47:57 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Mon May 27 22:56:00 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Mon May 27 23:06:03 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Mon May 27 23:16:06 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Mon May 27 23:22:40 2024 :: Sock.sinaddr:  73.232.238.119, port -4941.
+Mon May 27 23:22:41 2024 :: Preloading player data for: Plague (14K)
+Mon May 27 23:22:42 2024 :: Loading player data for: Plague (14K)
+Mon May 27 23:22:42 2024 :: Plague@73.232.238.119((ident not active)) has connected.
+Mon May 27 23:23:17 2024 :: Log Pain: advance plague 50
+Mon May 27 23:23:24 2024 :: Log Pain: sset plague all 100
+Mon May 27 23:24:13 2024 :: Plague has quit.
+Mon May 27 23:25:09 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Mon May 27 23:27:22 2024 :: Sock.sinaddr:  73.232.238.119, port -4923.
+Mon May 27 23:27:23 2024 :: Preloading player data for: Plague (16K)
+Mon May 27 23:27:24 2024 :: Loading player data for: Plague (16K)
+Mon May 27 23:27:24 2024 :: Plague@73.232.238.119((ident not active)) has connected.
+Mon May 27 23:33:11 2024 :: Log Pain: transfer plague
+Mon May 27 23:34:34 2024 :: Log Pain: transfer plague
+Mon May 27 23:35:12 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Mon May 27 23:35:59 2024 :: Log Pain: transfer plague
+Mon May 27 23:45:16 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Mon May 27 23:47:10 2024 :: Log Pain: transfer plague
+Mon May 27 23:47:52 2024 :: Log Pain: transfer plague
+Mon May 27 23:48:12 2024 :: Log Pain: transfer plague
+Mon May 27 23:52:43 2024 :: Log Pain: sset plague all 100
+Mon May 27 23:54:19 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Mon May 27 23:55:42 2024 :: Log Pain: transfer plague
+Mon May 27 23:55:55 2024 :: Log Pain: transfer plague
+Tue May 28 00:01:17 2024 :: Log Pain: transfer plague
+Tue May 28 00:02:10 2024 :: Log Pain: oset neck affect save_spell -5
+Tue May 28 00:02:59 2024 :: Log Pain: oset glass affect save_para -6
+Tue May 28 00:03:01 2024 :: Log Pain: oset glass affect save_para -3
+Tue May 28 00:04:23 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Tue May 28 00:04:45 2024 :: Log Pain: oset ank affect save_para -6
+Tue May 28 00:04:52 2024 :: Log Pain: oset ank affect spelldam 3
+Tue May 28 00:07:53 2024 :: Plague has quit.
+Tue May 28 00:08:02 2024 :: Sock.sinaddr:  73.232.238.119, port -4533.
+Tue May 28 00:08:03 2024 :: Preloading player data for: Plague (19K)
+Tue May 28 00:08:04 2024 :: Loading player data for: Plague (19K)
+Tue May 28 00:08:04 2024 :: Plague@73.232.238.119((ident not active)) has connected.
+Tue May 28 00:08:08 2024 :: Plague has quit.
+Tue May 28 00:13:26 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Tue May 28 00:22:28 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Tue May 28 00:28:07 2024 :: Log Pain: oinvoke dwarven
+Tue May 28 00:28:13 2024 :: Log Pain: oinvoke backpack
+Tue May 28 00:28:15 2024 :: Log Pain: oinvoke frame
+Tue May 28 00:28:17 2024 :: Log Pain: oinvoke 21450 10
+Tue May 28 00:28:17 2024 :: Log Pain: oinvoke 21451 10
+Tue May 28 00:28:17 2024 :: Log Pain: oinvoke 21452 10
+Tue May 28 00:28:18 2024 :: Log Pain: oinvoke 21453 10
+Tue May 28 00:28:18 2024 :: Log Pain: oinvoke 21454 10
+Tue May 28 00:28:18 2024 :: Log Pain: oinvoke 21455 10
+Tue May 28 00:28:18 2024 :: Log Pain: oinvoke 21456 10
+Tue May 28 00:28:18 2024 :: Log Pain: oinvoke 21457 10
+Tue May 28 00:28:18 2024 :: Log Pain: oinvoke 21458 10
+Tue May 28 00:28:18 2024 :: Log Pain: oinvoke 21459 10
+Tue May 28 00:28:18 2024 :: Log Pain: oinvoke 21460 10 
+Tue May 28 00:28:18 2024 :: Log Pain: oinvoke 21461 10
+Tue May 28 00:28:18 2024 :: Log Pain: oinvoke 21462 10
+Tue May 28 00:28:19 2024 :: Log Pain: oinvoke 21463 10
+Tue May 28 00:28:19 2024 :: Log Pain: oinvoke 21464 10
+Tue May 28 00:28:25 2024 :: Sock.sinaddr:  73.232.238.119, port -4467.
+Tue May 28 00:28:26 2024 :: Preloading player data for: Plague (19K)
+Tue May 28 00:28:28 2024 :: Loading player data for: Plague (19K)
+Tue May 28 00:28:28 2024 :: Plague@73.232.238.119((ident not active)) has connected.
+Tue May 28 00:32:32 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Tue May 28 00:41:35 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Tue May 28 00:50:38 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Tue May 28 00:59:40 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Tue May 28 01:08:43 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Tue May 28 01:17:46 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Tue May 28 01:25:49 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Tue May 28 01:30:54 2024 :: Plague has quit.
+Tue May 28 01:34:52 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Tue May 28 01:43:54 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Tue May 28 01:51:57 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Tue May 28 01:59:59 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Tue May 28 02:09:02 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Tue May 28 02:17:05 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Tue May 28 02:27:08 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Tue May 28 02:35:10 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Tue May 28 02:45:13 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Tue May 28 02:49:04 2024 :: Sock.sinaddr:  68.2.73.137, port -12262.
+Tue May 28 02:49:08 2024 :: Preloading player data for: Luck (18K)
+Tue May 28 02:49:09 2024 :: Loading player data for: Luck (18K)
+Tue May 28 02:49:09 2024 :: Luck@68.2.73.137((ident not active)) has connected.
+Tue May 28 02:52:47 2024 :: Luck (14) killed by Fargo at 21127
+Tue May 28 02:54:16 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Tue May 28 02:58:59 2024 :: Luck has quit.
+Tue May 28 03:03:19 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Tue May 28 03:09:54 2024 :: Sock.sinaddr:  73.232.238.119, port -3281.
+Tue May 28 03:09:56 2024 :: Preloading player data for: Plague (26K)
+Tue May 28 03:09:57 2024 :: Loading player data for: Plague (26K)
+Tue May 28 03:09:57 2024 :: Plague@73.232.238.119((ident not active)) has connected.
+Tue May 28 03:13:22 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Tue May 28 03:22:25 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Tue May 28 03:28:02 2024 :: Plague (16) killed by an arcane guard at 6166
+Tue May 28 03:28:32 2024 :: Log Pain: bodybag plague yes
+Tue May 28 03:29:15 2024 :: Plague has quit.
+Tue May 28 03:30:27 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Tue May 28 03:39:30 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Tue May 28 03:49:33 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Tue May 28 03:51:31 2024 :: Sock.sinaddr:  68.2.73.137, port -15097.
+Tue May 28 03:51:34 2024 :: Preloading player data for: Luck (19K)
+Tue May 28 03:51:37 2024 :: Loading player data for: Luck (19K)
+Tue May 28 03:51:37 2024 :: Luck@68.2.73.137((ident not active)) has connected.
+Tue May 28 03:59:37 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Tue May 28 04:09:40 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Tue May 28 04:18:43 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Tue May 28 04:28:47 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Tue May 28 04:36:49 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Tue May 28 04:45:58 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+str_free: bad pointer
+Tue May 28 04:52:01 2024 :: [*****] BUG: STRFREEing bad pointer in act_comm.c, line 2189
+
+Tue May 28 04:52:01 2024 :: Luck has quit.
+Tue May 28 04:52:03 2024 :: Sock.sinaddr:  68.2.73.137, port -15096.
+Tue May 28 04:52:07 2024 :: Preloading player data for: Luck (19K)
+Tue May 28 04:52:10 2024 :: Loading player data for: Luck (19K)
+Tue May 28 04:52:10 2024 :: Luck@68.2.73.137((ident not active)) has connected.
+Tue May 28 04:54:07 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Tue May 28 04:54:07 2024 :: Luck (17) killed by Fargo at 21127
+Tue May 28 04:54:52 2024 :: Luck has quit.
+Tue May 28 04:54:54 2024 :: Sock.sinaddr:  68.2.73.137, port -15095.
+Tue May 28 04:54:58 2024 :: Preloading player data for: Reaver (24K)
+Tue May 28 04:55:01 2024 :: Loading player data for: Reaver (24K)
+Tue May 28 04:55:01 2024 :: Reaver@68.2.73.137((ident not active)) has connected.
+Tue May 28 05:02:11 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Tue May 28 05:05:55 2024 :: Log Pain: oinvoke sinzen
+Tue May 28 05:05:55 2024 :: Log Pain: oset sinzen timer 200
+Tue May 28 05:05:55 2024 :: Log Pain: oinvoke sinzen
+Tue May 28 05:05:55 2024 :: Log Pain: oset sinzen timer 200
+Tue May 28 05:05:56 2024 :: Log Pain: oinvoke sinzen
+Tue May 28 05:05:56 2024 :: Log Pain: oset sinzen timer 200
+Tue May 28 05:05:56 2024 :: Log Pain: oinvoke sinzen
+Tue May 28 05:05:56 2024 :: Log Pain: oset sinzen timer 200
+Tue May 28 05:06:07 2024 :: Reaver has quit.
+Tue May 28 05:06:09 2024 :: Sock.sinaddr:  68.2.73.137, port -15094.
+Tue May 28 05:06:12 2024 :: Preloading player data for: Luck (18K)
+Tue May 28 05:06:15 2024 :: Loading player data for: Luck (18K)
+Tue May 28 05:06:15 2024 :: Luck@68.2.73.137((ident not active)) has connected.
+Tue May 28 05:10:14 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Tue May 28 05:11:20 2024 :: [*****] LAG: Luck: buy donkey (R:21184 S:6.111463)
+Tue May 28 05:15:38 2024 :: [*****] LAG: Luck: kill c (R:21034 S:2.082457)
+Tue May 28 05:17:33 2024 :: Luck has quit.
+Tue May 28 05:19:50 2024 :: Sock.sinaddr:  68.2.73.137, port -15093.
+Tue May 28 05:19:53 2024 :: Preloading player data for: Luck (21K)
+Tue May 28 05:19:56 2024 :: Loading player data for: Luck (21K)
+Tue May 28 05:19:56 2024 :: Luck@68.2.73.137((ident not active)) has connected.
+Tue May 28 05:20:41 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Tue May 28 05:30:53 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+str_free: bad pointer
+Tue May 28 05:38:20 2024 :: [*****] BUG: STRFREEing bad pointer in act_comm.c, line 2189
+
+Tue May 28 05:38:20 2024 :: Luck has quit.
+Tue May 28 05:38:55 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Tue May 28 05:41:18 2024 :: Sock.sinaddr:  68.2.73.137, port -15092.
+Tue May 28 05:41:23 2024 :: Preloading player data for: Luck (20K)
+Tue May 28 05:41:26 2024 :: Loading player data for: Luck (20K)
+Tue May 28 05:41:26 2024 :: Luck@68.2.73.137((ident not active)) has connected.
+Tue May 28 05:48:13 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Tue May 28 05:57:29 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Tue May 28 06:00:07 2024 :: [*****] LAG: Luck: kill c (R:21019 S:2.063043)
+Tue May 28 06:05:34 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Tue May 28 06:14:37 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Tue May 28 06:20:38 2024 :: Luck has quit.
+Tue May 28 06:22:39 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Tue May 28 06:31:42 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Tue May 28 06:39:44 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Tue May 28 06:49:47 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Tue May 28 06:57:50 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Tue May 28 07:07:53 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Tue May 28 07:17:56 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Tue May 28 07:27:59 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Tue May 28 07:37:02 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Tue May 28 07:47:05 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Tue May 28 07:55:07 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Tue May 28 08:05:10 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Tue May 28 08:13:13 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Tue May 28 08:23:16 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Tue May 28 08:33:19 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Tue May 28 08:41:21 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Tue May 28 08:50:24 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Tue May 28 08:59:27 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Tue May 28 09:08:29 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Tue May 28 09:18:33 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Tue May 28 09:28:36 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Tue May 28 09:38:39 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Tue May 28 09:48:42 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Tue May 28 09:57:45 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Tue May 28 10:07:48 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Tue May 28 10:15:50 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Tue May 28 10:23:52 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Tue May 28 10:31:55 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Tue May 28 10:39:57 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Tue May 28 10:48:00 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Tue May 28 10:57:06 2024 :: Counting pfiles.....
+Tue May 28 10:57:06 2024 :: Pfile count completed.
+Tue May 28 10:57:06 2024 :: Total pfiles scanned: 34
+Tue May 28 10:58:03 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Tue May 28 11:06:05 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Tue May 28 11:15:08 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Tue May 28 11:23:11 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Tue May 28 11:32:13 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Tue May 28 11:40:16 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Tue May 28 11:48:18 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Tue May 28 11:58:21 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Tue May 28 12:07:24 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Tue May 28 12:17:27 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Tue May 28 12:25:30 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Tue May 28 12:35:33 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Tue May 28 12:44:35 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Tue May 28 12:54:38 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Tue May 28 13:04:42 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Tue May 28 13:12:44 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Tue May 28 13:21:47 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Tue May 28 13:30:50 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Tue May 28 13:38:52 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Tue May 28 13:48:55 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Tue May 28 13:58:58 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Tue May 28 14:09:01 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Tue May 28 14:19:04 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Tue May 28 14:28:07 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Tue May 28 14:36:09 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Tue May 28 14:45:12 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Tue May 28 14:55:15 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Tue May 28 15:05:18 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Tue May 28 15:13:21 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Tue May 28 15:22:23 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Tue May 28 15:31:26 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Tue May 28 15:39:29 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Tue May 28 15:48:31 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Tue May 28 15:57:34 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Tue May 28 16:05:37 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Tue May 28 16:14:39 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Tue May 28 16:24:42 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Tue May 28 16:34:45 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Tue May 28 16:44:49 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Tue May 28 16:54:52 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Tue May 28 17:03:54 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Tue May 28 17:12:57 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Tue May 28 17:22:00 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Tue May 28 17:32:03 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Tue May 28 17:42:06 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Tue May 28 17:52:09 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Tue May 28 18:02:13 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Tue May 28 18:11:17 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Tue May 28 18:19:19 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Tue May 28 18:28:22 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Tue May 28 18:36:24 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Tue May 28 18:46:27 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Tue May 28 18:56:31 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Tue May 28 19:06:34 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Tue May 28 19:15:36 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Tue May 28 19:24:39 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Tue May 28 19:32:42 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Tue May 28 19:41:44 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Tue May 28 19:49:47 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Read_from_descriptor: Connection timed out
+Tue May 28 19:57:28 2024 :: Closing link to Pain.
+Tue May 28 19:58:50 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Tue May 28 20:07:52 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Tue May 28 20:17:55 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Tue May 28 20:27:58 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Tue May 28 20:36:01 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Tue May 28 20:44:03 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Tue May 28 20:54:06 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Tue May 28 21:04:09 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Tue May 28 21:13:12 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Tue May 28 21:23:15 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Tue May 28 21:33:18 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Tue May 28 21:41:21 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Tue May 28 21:49:23 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Tue May 28 21:59:26 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Tue May 28 22:08:29 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Tue May 28 22:18:32 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Tue May 28 22:27:35 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Tue May 28 22:37:38 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Tue May 28 22:47:41 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Tue May 28 22:56:44 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Tue May 28 23:06:47 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Tue May 28 23:14:49 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Tue May 28 23:22:52 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Tue May 28 23:30:54 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Tue May 28 23:38:57 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Tue May 28 23:47:59 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Tue May 28 23:58:03 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Wed May 29 00:05:49 2024 :: Sock.sinaddr:  73.232.238.119, port -10722.
+Wed May 29 00:05:51 2024 :: Preloading player data for: Pain (150K)
+Wed May 29 00:05:53 2024 :: Pain@73.232.238.119((ident not active)) reconnected.
+Wed May 29 00:07:05 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Wed May 29 00:16:08 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Wed May 29 00:24:10 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Wed May 29 00:32:13 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Wed May 29 00:40:15 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Wed May 29 00:49:18 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Wed May 29 00:58:21 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Wed May 29 01:08:24 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Wed May 29 01:18:27 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Wed May 29 01:27:30 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Wed May 29 01:30:19 2024 :: Sock.sinaddr:  73.232.238.119, port -9716.
+Wed May 29 01:30:23 2024 :: Preloading player data for: Plague (26K)
+Wed May 29 01:30:24 2024 :: Loading player data for: Plague (26K)
+Wed May 29 01:30:24 2024 :: Plague@73.232.238.119((ident not active)) has connected.
+Wed May 29 01:31:33 2024 :: Plague has quit.
+Wed May 29 01:35:21 2024 :: Sock.sinaddr:  73.232.238.119, port -9690.
+Wed May 29 01:35:21 2024 :: Preloading player data for: Plague (26K)
+Wed May 29 01:35:22 2024 :: Loading player data for: Plague (26K)
+Wed May 29 01:35:22 2024 :: Plague@73.232.238.119((ident not active)) has connected.
+Wed May 29 01:37:27 2024 :: Plague has quit.
+Wed May 29 01:37:33 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Wed May 29 01:46:36 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Wed May 29 01:55:38 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Wed May 29 02:05:42 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Wed May 29 02:14:44 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Wed May 29 02:22:47 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Wed May 29 02:32:50 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Wed May 29 02:40:53 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Wed May 29 02:48:55 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Wed May 29 02:57:58 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Wed May 29 03:06:00 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Wed May 29 03:14:03 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Wed May 29 03:23:06 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Wed May 29 03:32:08 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Wed May 29 03:41:11 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Wed May 29 03:45:45 2024 :: Sock.sinaddr:  68.2.73.137, port -9038.
+Wed May 29 03:45:49 2024 :: Preloading player data for: Reaver (24K)
+Wed May 29 03:45:50 2024 :: Loading player data for: Reaver (24K)
+Wed May 29 03:45:50 2024 :: Reaver@68.2.73.137((ident not active)) has connected.
+Wed May 29 03:47:39 2024 :: Reaver has quit.
+Wed May 29 03:47:43 2024 :: Sock.sinaddr:  68.2.73.137, port -9032.
+Wed May 29 03:47:46 2024 :: Preloading player data for: Luck (21K)
+Wed May 29 03:47:47 2024 :: Loading player data for: Luck (21K)
+Wed May 29 03:47:47 2024 :: Luck@68.2.73.137((ident not active)) has connected.
+Wed May 29 03:49:14 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Wed May 29 03:50:44 2024 :: Luck (25) killed by a scrawny rat at 4601
+Wed May 29 03:59:17 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Wed May 29 04:07:20 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Wed May 29 04:17:26 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Wed May 29 04:22:28 2024 :: Luck has quit.
+Wed May 29 04:27:29 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Wed May 29 04:37:32 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Wed May 29 04:45:34 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Wed May 29 04:55:37 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Wed May 29 05:04:40 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Wed May 29 05:12:43 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Wed May 29 05:20:45 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Wed May 29 05:28:47 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Wed May 29 05:36:50 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Wed May 29 05:44:53 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Wed May 29 05:54:56 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Wed May 29 05:57:07 2024 :: Pain has quit.
+Wed May 29 06:04:59 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Wed May 29 06:13:02 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Wed May 29 06:23:05 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Wed May 29 06:33:08 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Wed May 29 06:42:11 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Wed May 29 06:52:14 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Wed May 29 07:01:16 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Wed May 29 07:11:19 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Wed May 29 07:20:22 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Wed May 29 07:28:25 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Wed May 29 07:37:27 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Wed May 29 07:45:30 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Wed May 29 07:53:32 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Wed May 29 08:02:35 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Wed May 29 08:12:38 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Wed May 29 08:21:41 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Wed May 29 08:31:44 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Wed May 29 08:41:47 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Wed May 29 08:50:50 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Wed May 29 08:58:52 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Wed May 29 09:06:54 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Wed May 29 09:16:58 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Wed May 29 09:27:01 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Wed May 29 09:36:03 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Wed May 29 09:45:06 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Wed May 29 09:55:09 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Wed May 29 10:03:12 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Wed May 29 10:11:14 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Wed May 29 10:20:17 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Wed May 29 10:30:20 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Wed May 29 10:39:22 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Wed May 29 10:49:26 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Wed May 29 10:57:06 2024 :: Counting pfiles.....
+Wed May 29 10:57:06 2024 :: Pfile count completed.
+Wed May 29 10:57:06 2024 :: Total pfiles scanned: 34
+Wed May 29 10:58:28 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Wed May 29 11:08:31 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Wed May 29 11:18:34 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Wed May 29 11:27:37 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Wed May 29 11:35:40 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Wed May 29 11:43:42 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Wed May 29 11:53:45 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Wed May 29 12:03:48 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Wed May 29 12:13:51 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Wed May 29 12:23:54 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Wed May 29 12:32:57 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Wed May 29 12:42:00 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Wed May 29 12:52:03 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Wed May 29 13:01:05 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Wed May 29 13:09:08 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Wed May 29 13:17:10 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Wed May 29 13:18:21 2024 :: Sock.sinaddr:  73.232.238.119, port -7065.
+Wed May 29 13:18:22 2024 :: Preloading player data for: Pain (150K)
+Wed May 29 13:18:24 2024 :: Loading player data for: Pain (150K)
+Wed May 29 13:18:24 2024 :: Pain@73.232.238.119((ident not active)) has connected.
+Wed May 29 13:27:13 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Wed May 29 13:35:16 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Wed May 29 13:44:19 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Wed May 29 13:53:21 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Wed May 29 14:03:24 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Wed May 29 14:11:27 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Wed May 29 14:20:30 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Wed May 29 14:29:32 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Wed May 29 14:39:35 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Wed May 29 14:49:38 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Wed May 29 14:58:41 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Wed May 29 15:06:44 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Wed May 29 15:14:46 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Wed May 29 15:23:49 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Wed May 29 15:32:51 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Wed May 29 15:40:54 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Wed May 29 15:45:37 2024 :: Sock.sinaddr:  174.77.65.26, port -14212.
+Wed May 29 15:45:58 2024 :: Preloading player data for: Luck (21K)
+Wed May 29 15:45:59 2024 :: Loading player data for: Luck (21K)
+Wed May 29 15:45:59 2024 :: Luck@174.77.65.26((ident not active)) has connected.
+Wed May 29 15:48:56 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Wed May 29 15:59:01 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Wed May 29 16:08:04 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Wed May 29 16:16:06 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Wed May 29 16:24:08 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Wed May 29 16:25:19 2024 :: EOF encountered on read.
+Wed May 29 16:25:19 2024 :: Closing link to Luck.
+Wed May 29 16:34:11 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Wed May 29 16:42:14 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Wed May 29 16:50:16 2024 :: Luck has quit.
+Wed May 29 16:52:17 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Wed May 29 17:02:20 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Wed May 29 17:11:23 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Wed May 29 17:19:25 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Wed May 29 17:29:28 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Wed May 29 17:39:32 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Wed May 29 17:48:34 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Wed May 29 17:57:37 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Wed May 29 18:05:40 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Wed May 29 18:14:42 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Wed May 29 18:24:45 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Wed May 29 18:34:48 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Wed May 29 18:42:51 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Wed May 29 18:52:54 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Wed May 29 19:02:57 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Wed May 29 19:13:00 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Wed May 29 19:23:03 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Wed May 29 19:32:06 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Wed May 29 19:41:08 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Wed May 29 19:51:12 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Wed May 29 20:01:15 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Wed May 29 20:04:26 2024 :: Sock.sinaddr:  174.77.65.26, port -275.
+Wed May 29 20:04:29 2024 :: Preloading player data for: Luck (21K)
+Wed May 29 20:04:30 2024 :: Loading player data for: Luck (21K)
+Wed May 29 20:04:30 2024 :: Luck@174.77.65.26((ident not active)) has connected.
+Wed May 29 20:09:18 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Wed May 29 20:17:21 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Wed May 29 20:25:27 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Wed May 29 20:29:59 2024 :: Luck has quit.
+Wed May 29 20:35:30 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Wed May 29 20:44:33 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Wed May 29 20:53:36 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Wed May 29 21:02:38 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Wed May 29 21:12:42 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Wed May 29 21:20:44 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Wed May 29 21:30:47 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Wed May 29 21:38:49 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Wed May 29 21:47:52 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Wed May 29 21:56:55 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Wed May 29 22:04:57 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Wed May 29 22:13:00 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Wed May 29 22:23:03 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Wed May 29 22:31:05 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Wed May 29 22:41:08 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Wed May 29 22:50:11 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Wed May 29 22:58:14 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Wed May 29 23:06:16 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Wed May 29 23:15:19 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Wed May 29 23:24:22 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Read_from_descriptor: No route to host
+Wed May 29 23:31:01 2024 :: Closing link to Pain.
+Wed May 29 23:33:24 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Wed May 29 23:40:46 2024 :: Sock.sinaddr:  73.232.238.119, port -14595.
+Wed May 29 23:40:48 2024 :: Preloading player data for: Pain (150K)
+Wed May 29 23:40:49 2024 :: Pain@73.232.238.119((ident not active)) reconnected.
+Wed May 29 23:42:27 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Wed May 29 23:51:30 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Wed May 29 23:59:33 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Thu May 30 00:09:36 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Thu May 30 00:19:39 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Thu May 30 00:29:42 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Thu May 30 00:39:45 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Thu May 30 00:48:48 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Thu May 30 00:56:50 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Thu May 30 01:06:53 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Thu May 30 01:16:56 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Thu May 30 01:26:59 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Thu May 30 01:37:02 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Thu May 30 01:46:05 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Thu May 30 01:54:07 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Thu May 30 02:03:10 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Thu May 30 02:13:13 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Thu May 30 02:23:16 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Thu May 30 02:32:19 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Thu May 30 02:41:22 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Thu May 30 02:50:24 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Thu May 30 03:00:27 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Thu May 30 03:08:30 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Thu May 30 03:17:33 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Thu May 30 03:25:35 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Thu May 30 03:35:38 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Thu May 30 03:43:41 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Thu May 30 03:52:44 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Thu May 30 04:00:46 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Thu May 30 04:09:50 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Thu May 30 04:18:53 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Thu May 30 04:26:56 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Thu May 30 04:35:58 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Thu May 30 04:44:01 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Thu May 30 04:54:04 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Thu May 30 05:03:07 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Thu May 30 05:10:53 2024 :: Pain has quit.
+Thu May 30 05:12:09 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Thu May 30 05:20:12 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Thu May 30 05:30:15 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Thu May 30 05:39:17 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Thu May 30 05:48:20 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Thu May 30 05:56:22 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Thu May 30 06:05:25 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Thu May 30 06:14:28 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Thu May 30 06:23:31 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Thu May 30 06:33:34 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Thu May 30 06:43:37 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Thu May 30 06:52:39 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Thu May 30 07:00:42 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Thu May 30 07:10:45 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Thu May 30 07:18:47 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Thu May 30 07:26:50 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Thu May 30 07:35:53 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Thu May 30 07:45:55 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Thu May 30 07:55:59 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Thu May 30 08:05:01 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Thu May 30 08:13:04 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Thu May 30 08:22:06 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Thu May 30 08:30:09 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Thu May 30 08:40:12 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Thu May 30 08:50:15 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Thu May 30 08:59:17 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Thu May 30 09:09:20 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Thu May 30 09:18:23 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Thu May 30 09:27:26 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Thu May 30 09:35:28 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Thu May 30 09:45:31 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Thu May 30 09:54:34 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Thu May 30 10:04:37 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Thu May 30 10:12:39 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Thu May 30 10:21:42 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Thu May 30 10:31:45 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Thu May 30 10:41:48 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Thu May 30 10:49:51 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Thu May 30 10:57:06 2024 :: Counting pfiles.....
+Thu May 30 10:57:06 2024 :: Pfile count completed.
+Thu May 30 10:57:06 2024 :: Total pfiles scanned: 34
+Thu May 30 10:58:53 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Thu May 30 11:08:56 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Thu May 30 11:16:59 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Thu May 30 11:27:02 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Thu May 30 11:37:05 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Thu May 30 11:46:08 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Thu May 30 11:56:11 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Thu May 30 12:05:13 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Thu May 30 12:15:16 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Thu May 30 12:23:19 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Thu May 30 12:27:32 2024 :: Sock.sinaddr:  167.248.133.49, port -19008.
+Read_from_descriptor: Connection reset by peer
+Thu May 30 12:33:22 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Thu May 30 12:34:07 2024 :: Sock.sinaddr:  167.248.133.122, port -26200.
+Read_from_descriptor: Connection reset by peer
+Thu May 30 12:41:24 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Thu May 30 12:50:27 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Thu May 30 12:59:30 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Thu May 30 13:07:32 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Thu May 30 13:17:35 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Thu May 30 13:25:38 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Thu May 30 13:35:41 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Thu May 30 13:45:44 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Thu May 30 13:54:47 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Thu May 30 14:03:49 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Thu May 30 14:13:52 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Thu May 30 14:23:55 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Thu May 30 14:33:58 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Thu May 30 14:44:01 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Thu May 30 14:54:05 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Thu May 30 14:56:56 2024 :: Sock.sinaddr:  73.232.238.119, port -11664.
+Thu May 30 14:56:57 2024 :: Preloading player data for: Pain (150K)
+Thu May 30 14:56:59 2024 :: Loading player data for: Pain (150K)
+Thu May 30 14:56:59 2024 :: Pain@73.232.238.119((ident not active)) has connected.
+Thu May 30 15:04:08 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Thu May 30 15:14:11 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Thu May 30 15:23:13 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Thu May 30 15:31:16 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Thu May 30 15:39:18 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Thu May 30 15:41:42 2024 :: Sock.sinaddr:  174.77.65.26, port -13899.
+Thu May 30 15:41:48 2024 :: Preloading player data for: Luck (22K)
+Thu May 30 15:41:49 2024 :: Loading player data for: Luck (22K)
+Thu May 30 15:41:49 2024 :: Luck@174.77.65.26((ident not active)) has connected.
+Thu May 30 15:49:21 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Thu May 30 15:57:24 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Thu May 30 16:06:27 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Thu May 30 16:15:29 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Thu May 30 16:24:33 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Thu May 30 16:34:36 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Thu May 30 16:44:39 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Thu May 30 16:54:42 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Thu May 30 17:02:45 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Thu May 30 17:10:48 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Thu May 30 17:19:51 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Thu May 30 17:29:54 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Thu May 30 17:39:57 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Thu May 30 17:49:00 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Thu May 30 17:58:51 2024 :: Luck has quit.
+Thu May 30 17:58:52 2024 :: Sock.sinaddr:  174.77.65.26, port -11875.
+Thu May 30 17:58:53 2024 :: Preloading player data for: Reaver (23K)
+Thu May 30 17:58:55 2024 :: Loading player data for: Reaver (23K)
+Thu May 30 17:58:55 2024 :: Reaver@174.77.65.26((ident not active)) has connected.
+Thu May 30 17:59:03 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Thu May 30 17:59:11 2024 :: Log Pain: oinvoke sinzen
+Thu May 30 17:59:11 2024 :: Log Pain: oset sinzen timer 200
+Thu May 30 17:59:12 2024 :: Log Pain: oinvoke sinzen
+Thu May 30 17:59:12 2024 :: Log Pain: oset sinzen timer 200
+Thu May 30 17:59:20 2024 :: Reaver has quit.
+Thu May 30 17:59:30 2024 :: Sock.sinaddr:  174.77.65.26, port -11874.
+Thu May 30 17:59:53 2024 :: Preloading player data for: Luck (24K)
+Thu May 30 17:59:54 2024 :: Loading player data for: Luck (24K)
+Thu May 30 17:59:54 2024 :: Luck@174.77.65.26((ident not active)) has connected.
+Thu May 30 18:09:06 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Thu May 30 18:18:09 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Thu May 30 18:26:12 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Thu May 30 18:36:15 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Thu May 30 18:44:17 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Thu May 30 18:50:36 2024 :: EOF encountered on read.
+Thu May 30 18:50:36 2024 :: Closing link to Luck.
+Thu May 30 18:53:20 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Thu May 30 19:01:22 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Thu May 30 19:10:26 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Thu May 30 19:15:27 2024 :: Luck has quit.
+Thu May 30 19:18:28 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Thu May 30 19:26:31 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Thu May 30 19:34:33 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Thu May 30 19:44:36 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Thu May 30 19:54:39 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Thu May 30 20:03:42 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Thu May 30 20:11:44 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Thu May 30 20:20:47 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Thu May 30 20:30:50 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Thu May 30 20:40:53 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Thu May 30 20:50:56 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Thu May 30 20:59:59 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Thu May 30 21:09:02 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Thu May 30 21:17:04 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Thu May 30 21:26:07 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Thu May 30 21:34:10 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Thu May 30 21:42:12 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Thu May 30 21:52:15 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Thu May 30 22:00:18 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Thu May 30 22:10:22 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Thu May 30 22:20:25 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Thu May 30 22:29:28 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Thu May 30 22:38:30 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Read_from_descriptor: Connection reset by peer
+Thu May 30 22:45:09 2024 :: Closing link to Pain.
+Thu May 30 22:46:34 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Thu May 30 22:54:36 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Thu May 30 23:04:39 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Thu May 30 23:12:43 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Thu May 30 23:20:45 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Thu May 30 23:29:48 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Thu May 30 23:38:50 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Thu May 30 23:47:53 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Thu May 30 23:56:56 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Fri May 31 00:05:59 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Fri May 31 00:14:01 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Fri May 31 00:24:04 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Fri May 31 00:34:07 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Fri May 31 00:42:09 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Fri May 31 00:51:12 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Fri May 31 00:59:15 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Fri May 31 01:07:17 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Fri May 31 01:16:20 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Fri May 31 01:24:58 2024 :: Sock.sinaddr:  68.2.73.137, port -15366.
+Fri May 31 01:25:00 2024 :: Preloading player data for: Luck (24K)
+Fri May 31 01:25:00 2024 :: Loading player data for: Luck (24K)
+Fri May 31 01:25:00 2024 :: Luck@68.2.73.137((ident not active)) has connected.
+Fri May 31 01:26:23 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Fri May 31 01:29:03 2024 :: Sock.sinaddr:  73.232.238.119, port -12369.
+Fri May 31 01:29:04 2024 :: Preloading player data for: Pain (150K)
+Fri May 31 01:29:06 2024 :: Pain@73.232.238.119((ident not active)) reconnected.
+Fri May 31 01:31:51 2024 :: Log Pain: fixchar luck
+Fri May 31 01:32:40 2024 :: Log Pain: oinvoke 2013
+Fri May 31 01:32:51 2024 :: Log Pain: oinvoke daot
+Fri May 31 01:33:29 2024 :: Log Pain: oinvoke daot
+Fri May 31 01:34:26 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Fri May 31 01:42:28 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Fri May 31 01:50:32 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Fri May 31 01:59:34 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Fri May 31 02:09:38 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Fri May 31 02:18:41 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Fri May 31 02:28:44 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Fri May 31 02:31:59 2024 :: Luck has quit.
+Fri May 31 02:32:00 2024 :: Sock.sinaddr:  68.2.73.137, port -15227.
+Fri May 31 02:32:02 2024 :: Preloading player data for: Reaver (23K)
+Fri May 31 02:32:03 2024 :: Loading player data for: Reaver (23K)
+Fri May 31 02:32:03 2024 :: Reaver@68.2.73.137((ident not active)) has connected.
+Fri May 31 02:32:36 2024 :: Log Pain: oinvoke sinzen
+Fri May 31 02:37:47 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Fri May 31 02:39:32 2024 :: Log Pain: oinvoke sinzen
+Fri May 31 02:39:33 2024 :: Log Pain: oinvoke sinzen
+Fri May 31 02:47:50 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Fri May 31 02:50:10 2024 :: Reaver has quit.
+Fri May 31 02:50:13 2024 :: Sock.sinaddr:  68.2.73.137, port -15196.
+Fri May 31 02:50:14 2024 :: Preloading player data for: Luck (26K)
+Fri May 31 02:50:14 2024 :: Loading player data for: Luck (26K)
+Fri May 31 02:50:14 2024 :: Luck@68.2.73.137((ident not active)) has connected.
+Fri May 31 02:51:47 2024 :: Log Pain: oinvoke daot
+Fri May 31 02:55:53 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Fri May 31 03:04:56 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Fri May 31 03:13:59 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Fri May 31 03:24:02 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Fri May 31 03:32:05 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Fri May 31 03:41:08 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Fri May 31 03:50:11 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Fri May 31 04:00:15 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Fri May 31 04:05:56 2024 :: Luck (44) killed by a scrawny rat at 4607
+Fri May 31 04:09:21 2024 :: Luck (44) killed by General Thadius at 4610
+Fri May 31 04:10:19 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Fri May 31 04:14:29 2024 :: Luck (44) killed by General Thadius at 4610
+Fri May 31 04:19:27 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Fri May 31 04:29:35 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Fri May 31 04:37:23 2024 :: Luck (46) killed by General Thadius at 4610
+Fri May 31 04:38:40 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Fri May 31 04:48:43 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Fri May 31 04:58:55 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Fri May 31 05:01:10 2024 :: Luck has quit.
+Fri May 31 05:08:58 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Fri May 31 05:18:02 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Fri May 31 05:25:07 2024 :: Sock.sinaddr:  68.2.73.137, port -14791.
+Fri May 31 05:25:11 2024 :: Preloading player data for: Luck (28K)
+Fri May 31 05:25:14 2024 :: Loading player data for: Luck (28K)
+Fri May 31 05:25:14 2024 :: Luck@68.2.73.137((ident not active)) has connected.
+Fri May 31 05:27:06 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Fri May 31 05:37:11 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Fri May 31 05:47:24 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Fri May 31 05:55:28 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Fri May 31 06:05:35 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Fri May 31 06:15:40 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Fri May 31 06:23:43 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Fri May 31 06:27:39 2024 :: [*****] BUG: Affect_modify: unknown location 82.
+Fri May 31 06:27:39 2024 :: [*****] BUG: Affect_modify: unknown location 82.
+Fri May 31 06:32:24 2024 :: Luck has quit.
+Fri May 31 06:32:26 2024 :: Sock.sinaddr:  68.2.73.137, port -14779.
+Fri May 31 06:32:30 2024 :: Preloading player data for: Reaver (23K)
+Fri May 31 06:32:33 2024 :: Loading player data for: Reaver (23K)
+Fri May 31 06:32:33 2024 :: Reaver@68.2.73.137((ident not active)) has connected.
+Fri May 31 06:33:07 2024 :: Reaver has quit.
+Fri May 31 06:33:09 2024 :: Sock.sinaddr:  68.2.73.137, port -14778.
+Fri May 31 06:33:15 2024 :: Preloading player data for: Luck (28K)
+Fri May 31 06:33:17 2024 :: Loading player data for: Luck (28K)
+Fri May 31 06:33:17 2024 :: Luck@68.2.73.137((ident not active)) has connected.
+Fri May 31 06:33:46 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Fri May 31 06:42:17 2024 :: Luck (12) killed by General Thadius at 4610
+Fri May 31 06:43:50 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Fri May 31 06:48:21 2024 :: Luck (14) killed by General Thadius at 4610
+Fri May 31 06:48:47 2024 :: Luck (14) killed by Luck at 3283
+Fri May 31 06:51:52 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Fri May 31 06:58:18 2024 :: Luck has quit.
+Fri May 31 06:59:55 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Fri May 31 07:07:57 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Fri May 31 07:18:00 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Fri May 31 07:26:03 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Fri May 31 07:35:05 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Fri May 31 07:44:08 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Fri May 31 07:52:10 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Fri May 31 08:01:13 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Fri May 31 08:10:16 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Fri May 31 08:19:19 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Fri May 31 08:29:22 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Fri May 31 08:39:25 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Fri May 31 08:47:27 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Fri May 31 08:55:30 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Fri May 31 09:03:32 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Fri May 31 09:12:35 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Fri May 31 09:21:38 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Fri May 31 09:30:41 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Fri May 31 09:39:43 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Fri May 31 09:47:46 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Fri May 31 09:57:49 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Fri May 31 10:07:52 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Fri May 31 10:15:54 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Fri May 31 10:23:57 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Fri May 31 10:32:59 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Fri May 31 10:42:02 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Fri May 31 10:51:05 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Fri May 31 10:57:06 2024 :: Counting pfiles.....
+Fri May 31 10:57:06 2024 :: Pfile count completed.
+Fri May 31 10:57:06 2024 :: Total pfiles scanned: 34
+Fri May 31 11:00:08 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Fri May 31 11:09:10 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Fri May 31 11:17:13 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Fri May 31 11:25:15 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Fri May 31 11:33:18 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Fri May 31 11:43:21 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Fri May 31 11:52:24 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Fri May 31 12:00:26 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Fri May 31 12:08:29 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Fri May 31 12:18:32 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Fri May 31 12:26:34 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Fri May 31 12:36:37 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Fri May 31 12:44:40 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Fri May 31 12:53:42 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Fri May 31 13:03:45 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Fri May 31 13:13:49 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Fri May 31 13:23:52 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Fri May 31 13:32:54 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Fri May 31 13:41:57 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Fri May 31 13:51:00 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Fri May 31 14:00:02 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Fri May 31 14:08:05 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Fri May 31 14:16:07 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Fri May 31 14:25:10 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Fri May 31 14:34:13 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Fri May 31 14:43:17 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Fri May 31 14:52:20 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Fri May 31 15:02:23 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Fri May 31 15:11:08 2024 :: Log Pain: oinvoke dizza
+Fri May 31 15:11:10 2024 :: Log Pain: oinvoke aeris
+Fri May 31 15:11:13 2024 :: Log Pain: oinvoke lu
+Fri May 31 15:11:20 2024 :: Log Pain: oinvoke khent
+Fri May 31 15:11:28 2024 :: Log Pain: oinvoke sinzen
+Fri May 31 15:12:26 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Fri May 31 15:20:29 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Fri May 31 15:21:47 2024 :: Log Pain: oinvoke swag
+Fri May 31 15:21:50 2024 :: Log Pain: oset swag wear bag
+Fri May 31 15:21:53 2024 :: Log Pain: oset swag wear back
+Fri May 31 15:21:56 2024 :: Log Pain: oset swag wear light
+Fri May 31 15:22:06 2024 :: Log Pain: oset swag wear eyes
+Fri May 31 15:22:14 2024 :: Log Pain: oset swag name Mystic
+Fri May 31 15:22:37 2024 :: Log Pain: oset swag short &RM&rY&wS&WT&rI&RC
+Fri May 31 15:22:53 2024 :: Log Pain: oset mystic short &RM&rY&wS&WT&rI&RC
+Fri May 31 15:25:56 2024 :: Sock.sinaddr:  73.232.238.119, port -9042.
+Fri May 31 15:26:44 2024 :: Sin@73.232.238.119 new Ghoul Monk-Shaman.
+Fri May 31 15:26:46 2024 :: Log Master Headmaster Eganrac: mpadvance 0.Sin 2
+Fri May 31 15:26:51 2024 :: Log Pain: transfer sin
+Fri May 31 15:27:01 2024 :: Log Pain: mset sin strength 17
+Fri May 31 15:27:05 2024 :: Log Pain: mset sin str 17
+Fri May 31 15:27:11 2024 :: Log Pain: mset sin dex 18
+Fri May 31 15:27:47 2024 :: Log Pain: oset bangle affect strength 10
+Fri May 31 15:27:52 2024 :: Log Pain: oset bangle affect dexterity 10
+Fri May 31 15:27:57 2024 :: Log Pain: oset bangle affect consitution 10
+Fri May 31 15:28:00 2024 :: Log Pain: oset bangle affect constitution 10
+Fri May 31 15:28:05 2024 :: Log Pain: oset bangle affect wisdom 10
+Fri May 31 15:28:09 2024 :: Log Pain: oset bangle affect intelligence 10
+Fri May 31 15:28:13 2024 :: Log Pain: oset bangle affect luck 10
+Fri May 31 15:28:16 2024 :: Log Pain: oset bangle affect charisma 10
+Fri May 31 15:28:30 2024 :: Log Pain: advance sin 50
+Fri May 31 15:29:32 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Fri May 31 15:29:36 2024 :: Log Pain: sset sin all 100
+Fri May 31 15:29:58 2024 :: Log Pain: oinvoke daot
+Fri May 31 15:30:05 2024 :: Log Pain: oset daot weapontype claw
+Fri May 31 15:31:14 2024 :: Log Pain: oset daot name talon throne
+Fri May 31 15:31:22 2024 :: Log Pain: oset talon short the Talon of Thorne
+Fri May 31 15:31:29 2024 :: Log Pain: oset talon name talon thorne
+Fri May 31 15:32:23 2024 :: Log Pain: oset talon long a engraved, overly engraved talon, dripping in acid lies here.
+Fri May 31 15:32:34 2024 :: Log Pain: oset talon owner sin
+Fri May 31 15:32:57 2024 :: Log Pain: oset talon flags magic
+Fri May 31 15:33:06 2024 :: Log Pain: oset talon flags magic
+Fri May 31 15:33:21 2024 :: Log Pain: oset talon flags magic
+Fri May 31 15:34:07 2024 :: Sin has quit.
+Fri May 31 15:39:35 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Fri May 31 15:41:18 2024 :: Sock.sinaddr:  73.232.238.119, port -8952.
+Fri May 31 15:41:18 2024 :: Preloading player data for: Sin (8K)
+Fri May 31 15:41:19 2024 :: Loading player data for: Sin (8K)
+Fri May 31 15:41:19 2024 :: Sin@73.232.238.119((ident not active)) has connected.
+Fri May 31 15:41:51 2024 :: Log Pain: restore all
+Fri May 31 15:42:06 2024 :: Sin has quit.
+Fri May 31 15:47:37 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Fri May 31 15:55:40 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Fri May 31 16:03:42 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Fri May 31 16:11:45 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Fri May 31 16:20:47 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Fri May 31 16:29:50 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Fri May 31 16:38:53 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Fri May 31 16:47:56 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Fri May 31 16:56:59 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Fri May 31 17:05:01 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Fri May 31 17:14:05 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Fri May 31 17:23:07 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Fri May 31 17:29:36 2024 :: Sock.sinaddr:  174.77.65.26, port -8429.
+Fri May 31 17:29:39 2024 :: Preloading player data for: Luck (28K)
+Fri May 31 17:29:40 2024 :: Loading player data for: Luck (28K)
+Fri May 31 17:29:40 2024 :: Luck@174.77.65.26((ident not active)) has connected.
+Fri May 31 17:32:10 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Fri May 31 17:40:12 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Fri May 31 17:48:15 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Fri May 31 17:56:18 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Fri May 31 18:06:21 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Fri May 31 18:14:24 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Fri May 31 18:24:27 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Fri May 31 18:28:33 2024 :: EOF encountered on read.
+Fri May 31 18:28:33 2024 :: Closing link to Luck.
+Fri May 31 18:32:29 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Fri May 31 18:40:32 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Fri May 31 18:49:34 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Fri May 31 18:53:36 2024 :: Luck has quit.
+Fri May 31 18:58:37 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Fri May 31 19:07:40 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Fri May 31 19:15:42 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Fri May 31 19:23:45 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Fri May 31 19:31:47 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Fri May 31 19:41:50 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Fri May 31 19:50:53 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Fri May 31 20:00:56 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Fri May 31 20:09:59 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Fri May 31 20:18:01 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Fri May 31 20:26:45 2024 :: Sock.sinaddr:  174.77.65.26, port -7116.
+Fri May 31 20:26:51 2024 :: Preloading player data for: Luck (27K)
+Fri May 31 20:26:52 2024 :: Loading player data for: Luck (27K)
+Fri May 31 20:26:52 2024 :: Luck@174.77.65.26((ident not active)) has connected.
+Fri May 31 20:28:04 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Fri May 31 20:37:08 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Fri May 31 20:46:11 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Fri May 31 20:56:14 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Fri May 31 21:04:17 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Fri May 31 21:13:19 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Fri May 31 21:21:22 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Fri May 31 21:29:24 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Fri May 31 21:39:28 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Fri May 31 21:49:32 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Fri May 31 21:59:35 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Fri May 31 22:09:38 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Fri May 31 22:19:41 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Fri May 31 22:28:44 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Fri May 31 22:36:47 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Fri May 31 22:45:49 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Fri May 31 22:54:52 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Fri May 31 23:03:56 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Fri May 31 23:07:41 2024 :: Sock.sinaddr:  162.142.125.199, port -20048.
+Read_from_descriptor: Connection reset by peer
+Read_from_descriptor: Connection timed out
+Fri May 31 23:08:44 2024 :: Closing link to Luck.
+Fri May 31 23:11:59 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Fri May 31 23:21:02 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Fri May 31 23:29:04 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Fri May 31 23:29:25 2024 :: Sock.sinaddr:  68.2.73.137, port -11749.
+Fri May 31 23:29:28 2024 :: Preloading player data for: Luck (28K)
+Fri May 31 23:29:29 2024 :: Luck@68.2.73.137((ident not active)) reconnected.
+Fri May 31 23:38:07 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Fri May 31 23:42:02 2024 :: Luck (23) killed by General Thadius at 4610
+Fri May 31 23:46:10 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Fri May 31 23:50:19 2024 :: Luck has quit.
+Fri May 31 23:54:12 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Sat Jun  1 00:02:15 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Sat Jun  1 00:10:17 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Sat Jun  1 00:18:19 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Sat Jun  1 00:28:22 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Sat Jun  1 00:38:26 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Sat Jun  1 00:48:29 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Sat Jun  1 00:57:31 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Sat Jun  1 01:07:34 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Sat Jun  1 01:17:37 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Sat Jun  1 01:26:40 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Sat Jun  1 01:36:08 2024 :: Sock.sinaddr:  68.2.73.137, port -11434.
+Sat Jun  1 01:36:10 2024 :: Preloading player data for: Luck (30K)
+Sat Jun  1 01:36:11 2024 :: Loading player data for: Luck (30K)
+Sat Jun  1 01:36:11 2024 :: Luck@68.2.73.137((ident not active)) has connected.
+Sat Jun  1 01:36:43 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Sat Jun  1 01:45:46 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Sat Jun  1 01:48:41 2024 :: Log Pain: oinvoke sinzen
+Sat Jun  1 01:48:47 2024 :: Log Pain: oset sinzen flags loyal
+Sat Jun  1 01:48:59 2024 :: Log Pain: oinvoke sinzen
+Sat Jun  1 01:49:02 2024 :: Log Pain: oset sinzen flags loyal
+Sat Jun  1 01:49:24 2024 :: Luck has quit.
+Sat Jun  1 01:49:26 2024 :: Sock.sinaddr:  68.2.73.137, port -11385.
+Sat Jun  1 01:49:28 2024 :: Preloading player data for: Luck (29K)
+Sat Jun  1 01:49:29 2024 :: Loading player data for: Luck (29K)
+Sat Jun  1 01:49:29 2024 :: Luck@68.2.73.137((ident not active)) has connected.
+Sat Jun  1 01:53:49 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Sat Jun  1 01:55:37 2024 :: Log Pain: oinvoke sinzen
+Sat Jun  1 01:55:44 2024 :: Log Pain: oinvoke fore
+Sat Jun  1 01:55:47 2024 :: Log Pain: oinvoke for
+Sat Jun  1 01:56:06 2024 :: Log Pain: oset fore affect hit 10
+Sat Jun  1 01:56:10 2024 :: Log Pain: oinvoke fore
+Sat Jun  1 01:56:12 2024 :: Log Pain: oset fore affect hit 10
+Sat Jun  1 01:56:38 2024 :: Luck has quit.
+Sat Jun  1 01:56:39 2024 :: Sock.sinaddr:  68.2.73.137, port -11362.
+Sat Jun  1 01:56:40 2024 :: Preloading player data for: Luck (30K)
+Sat Jun  1 01:56:41 2024 :: Loading player data for: Luck (30K)
+Sat Jun  1 01:56:41 2024 :: Luck@68.2.73.137((ident not active)) has connected.
+Sat Jun  1 01:57:42 2024 :: Log Pain: oinvoke fore
+Sat Jun  1 01:57:47 2024 :: Log Pain: oset fore hit 10
+Sat Jun  1 01:57:51 2024 :: Log Pain: oset fore affect hit 10
+Sat Jun  1 01:57:55 2024 :: Log Pain: oset fore flags magic
+Sat Jun  1 01:58:01 2024 :: Log Pain: oinvoke fore
+Sat Jun  1 01:58:02 2024 :: Log Pain: oset fore affect hit 10
+Sat Jun  1 01:58:05 2024 :: Log Pain: oset fore flags magic
+Sat Jun  1 01:58:16 2024 :: Luck has quit.
+Sat Jun  1 01:58:18 2024 :: Sock.sinaddr:  68.2.73.137, port -11355.
+Sat Jun  1 01:58:19 2024 :: Preloading player data for: Luck (30K)
+Sat Jun  1 01:58:21 2024 :: Loading player data for: Luck (30K)
+Sat Jun  1 01:58:21 2024 :: Luck@68.2.73.137((ident not active)) has connected.
+Sat Jun  1 01:58:49 2024 :: Log Pain: oinvoke fore
+Sat Jun  1 01:58:53 2024 :: Log Pain: oset fore affect hit 50
+Sat Jun  1 01:58:58 2024 :: Log Pain: oset fore flags magic
+Sat Jun  1 01:59:05 2024 :: Log Pain: oinvoke fore
+Sat Jun  1 01:59:08 2024 :: Log Pain: oset fore affect hit 50
+Sat Jun  1 01:59:10 2024 :: Log Pain: oset fore flags magic
+Sat Jun  1 01:59:25 2024 :: Luck has quit.
+Sat Jun  1 01:59:27 2024 :: Sock.sinaddr:  68.2.73.137, port -11350.
+Sat Jun  1 01:59:28 2024 :: Preloading player data for: Luck (31K)
+Sat Jun  1 01:59:29 2024 :: Loading player data for: Luck (31K)
+Sat Jun  1 01:59:29 2024 :: Luck@68.2.73.137((ident not active)) has connected.
+Sat Jun  1 02:00:14 2024 :: Log Pain: oset fore affect hit 50
+Sat Jun  1 02:00:23 2024 :: Log Pain: oset fore affect hit 50
+Sat Jun  1 02:00:33 2024 :: Luck has quit.
+Sat Jun  1 02:00:34 2024 :: Sock.sinaddr:  68.2.73.137, port -11349.
+Sat Jun  1 02:00:36 2024 :: Preloading player data for: Luck (31K)
+Sat Jun  1 02:00:37 2024 :: Loading player data for: Luck (31K)
+Sat Jun  1 02:00:37 2024 :: Luck@68.2.73.137((ident not active)) has connected.
+Sat Jun  1 02:00:52 2024 :: Log Pain: oset fore affect hit 50
+Sat Jun  1 02:00:59 2024 :: Log Pain: oset fore affect hit 50
+Sat Jun  1 02:01:04 2024 :: Luck has quit.
+Sat Jun  1 02:01:06 2024 :: Sock.sinaddr:  68.2.73.137, port -11348.
+Sat Jun  1 02:01:07 2024 :: Preloading player data for: Luck (31K)
+Sat Jun  1 02:01:09 2024 :: Loading player data for: Luck (31K)
+Sat Jun  1 02:01:09 2024 :: Luck@68.2.73.137((ident not active)) has connected.
+Sat Jun  1 02:01:30 2024 :: Log Pain: oinvoke sinzen
+Sat Jun  1 02:01:52 2024 :: Log Pain: oset sinzen flags noquest
+Sat Jun  1 02:01:59 2024 :: Log Pain: oset sinzen flags noquest
+Sat Jun  1 02:02:11 2024 :: Luck has quit.
+Sat Jun  1 02:02:12 2024 :: Sock.sinaddr:  68.2.73.137, port -11347.
+Sat Jun  1 02:02:15 2024 :: Preloading player data for: Luck (31K)
+Sat Jun  1 02:02:16 2024 :: Loading player data for: Luck (31K)
+Sat Jun  1 02:02:16 2024 :: Luck@68.2.73.137((ident not active)) has connected.
+Sat Jun  1 02:02:51 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Sat Jun  1 02:02:52 2024 :: Log Pain: oset claw
+Sat Jun  1 02:03:00 2024 :: Log Pain: oset claw flags noquest
+Sat Jun  1 02:03:19 2024 :: Luck has quit.
+Sat Jun  1 02:03:20 2024 :: Sock.sinaddr:  68.2.73.137, port -11345.
+Sat Jun  1 02:03:21 2024 :: Preloading player data for: Luck (31K)
+Sat Jun  1 02:03:22 2024 :: Loading player data for: Luck (31K)
+Sat Jun  1 02:03:22 2024 :: Luck@68.2.73.137((ident not active)) has connected.
+Sat Jun  1 02:03:42 2024 :: Log Pain: oinvoke sinzen
+Sat Jun  1 02:03:55 2024 :: Log Pain: oinvoke thorne
+Sat Jun  1 02:04:05 2024 :: Log Pain: oinvoke thorne
+Sat Jun  1 02:04:18 2024 :: Luck has quit.
+Sat Jun  1 02:04:19 2024 :: Sock.sinaddr:  68.2.73.137, port -11344.
+Sat Jun  1 02:04:22 2024 :: Preloading player data for: Luck (32K)
+Sat Jun  1 02:04:23 2024 :: Loading player data for: Luck (32K)
+Sat Jun  1 02:04:23 2024 :: Luck@68.2.73.137((ident not active)) has connected.
+Sat Jun  1 02:04:39 2024 :: Log Pain: oinvoke thorne
+Sat Jun  1 02:05:37 2024 :: Log Pain: oinvoke fore
+Sat Jun  1 02:05:59 2024 :: Log Pain: oinvoke thorne
+Sat Jun  1 02:06:16 2024 :: Log Pain: oset thorne flags nolocate
+Sat Jun  1 02:06:24 2024 :: Log Pain: oset thorne flags nolocate
+Sat Jun  1 02:07:12 2024 :: Luck has quit.
+Sat Jun  1 02:07:13 2024 :: Sock.sinaddr:  68.2.73.137, port -11333.
+Sat Jun  1 02:07:15 2024 :: Preloading player data for: Luck (32K)
+Sat Jun  1 02:07:16 2024 :: Loading player data for: Luck (32K)
+Sat Jun  1 02:07:16 2024 :: Luck@68.2.73.137((ident not active)) has connected.
+Sat Jun  1 02:07:31 2024 :: Log Pain: oinvoke thorne
+Sat Jun  1 02:07:37 2024 :: Log Pain: oset thorne flags loyal
+Sat Jun  1 02:07:47 2024 :: Log Pain: oinvoke thorne
+Sat Jun  1 02:07:49 2024 :: Log Pain: oset thorne flags loyal
+Sat Jun  1 02:08:45 2024 :: Luck has quit.
+Sat Jun  1 02:08:46 2024 :: Sock.sinaddr:  68.2.73.137, port -11325.
+Sat Jun  1 02:08:47 2024 :: Preloading player data for: Luck (32K)
+Sat Jun  1 02:08:48 2024 :: Loading player data for: Luck (32K)
+Sat Jun  1 02:08:48 2024 :: Luck@68.2.73.137((ident not active)) has connected.
+Sat Jun  1 02:09:26 2024 :: Log Pain: oinvoke thorne
+Sat Jun  1 02:11:13 2024 :: Log Pain: oinvoke thorne
+Sat Jun  1 02:11:30 2024 :: Log Pain: oset thorne value5 0
+Sat Jun  1 02:11:40 2024 :: Log Pain: oset
+Sat Jun  1 02:12:01 2024 :: Log Pain: oinvoke thorne
+Sat Jun  1 02:12:05 2024 :: Log Pain: oset thorne value5 0
+Sat Jun  1 02:12:16 2024 :: Luck has quit.
+Sat Jun  1 02:12:17 2024 :: Sock.sinaddr:  68.2.73.137, port -11318.
+Sat Jun  1 02:12:18 2024 :: Preloading player data for: Luck (30K)
+Sat Jun  1 02:12:19 2024 :: Loading player data for: Luck (30K)
+Sat Jun  1 02:12:19 2024 :: Luck@68.2.73.137((ident not active)) has connected.
+Sat Jun  1 02:12:55 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Sat Jun  1 02:14:05 2024 :: Log Pain: oinvoke sinzen
+Sat Jun  1 02:15:32 2024 :: 73.232.238.119 input spamming!
+Sat Jun  1 02:15:32 2024 :: 73.232.238.119 input spamming!
+Sat Jun  1 02:15:32 2024 :: 73.232.238.119 input spamming!
+Sat Jun  1 02:15:33 2024 :: 73.232.238.119 input spamming!
+Sat Jun  1 02:15:33 2024 :: 73.232.238.119 input spamming!
+Sat Jun  1 02:16:18 2024 :: Log Pain: oset claw rmaffect 1
+Sat Jun  1 02:16:19 2024 :: Log Pain: oset claw rmaffect 1
+Sat Jun  1 02:16:19 2024 :: Log Pain: oset claw rmaffect 1
+Sat Jun  1 02:16:20 2024 :: Log Pain: oset claw rmaffect 1
+Sat Jun  1 02:16:25 2024 :: Log Pain: oset claw affect hit 50
+Sat Jun  1 02:16:26 2024 :: Log Pain: oset claw affect hit 50
+Sat Jun  1 02:16:27 2024 :: Log Pain: oset claw affect hit 50
+Sat Jun  1 02:16:27 2024 :: Log Pain: oset claw affect hit 50
+Sat Jun  1 02:16:32 2024 :: Log Pain: oset talon affect hit 50
+Sat Jun  1 02:16:33 2024 :: Log Pain: oset talon affect hit 50
+Sat Jun  1 02:16:33 2024 :: Log Pain: oset talon affect hit 50
+Sat Jun  1 02:16:34 2024 :: Log Pain: oset talon affect hit 50
+Sat Jun  1 02:16:37 2024 :: Log Pain: oset talon
+Sat Jun  1 02:16:39 2024 :: Log Pain: oset talon flags magic
+Sat Jun  1 02:17:21 2024 :: Luck has quit.
+Sat Jun  1 02:17:22 2024 :: Sock.sinaddr:  68.2.73.137, port -11301.
+Sat Jun  1 02:17:27 2024 :: Preloading player data for: Luck (30K)
+Sat Jun  1 02:17:28 2024 :: Loading player data for: Luck (30K)
+Sat Jun  1 02:17:28 2024 :: Luck@68.2.73.137((ident not active)) has connected.
+Sat Jun  1 02:20:57 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Sat Jun  1 02:29:00 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Sat Jun  1 02:37:02 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Sat Jun  1 02:47:05 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Sat Jun  1 02:48:06 2024 :: Luck has quit.
+Sat Jun  1 02:57:08 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Sat Jun  1 03:07:11 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Sat Jun  1 03:15:14 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Sat Jun  1 03:23:16 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Sat Jun  1 03:31:19 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Sat Jun  1 03:40:21 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Sat Jun  1 03:50:24 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Sat Jun  1 03:56:41 2024 :: Sock.sinaddr:  73.232.238.119, port -9358.
+Sat Jun  1 03:56:42 2024 :: Preloading player data for: Sin (8K)
+Sat Jun  1 03:56:43 2024 :: Loading player data for: Sin (8K)
+Sat Jun  1 03:56:43 2024 :: Sin@73.232.238.119((ident not active)) has connected.
+Sat Jun  1 03:58:27 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Sat Jun  1 04:02:49 2024 :: [*****] LAG: Sin: buy 20 id (R:21123 S:7.547495)
+Sat Jun  1 04:03:54 2024 :: [*****] LAG: Sin: get mono (R:21009 S:2.086767)
+Sat Jun  1 04:05:27 2024 :: [*****] LAG: Sin: get identify bag (R:21009 S:1.921855)
+Sat Jun  1 04:06:41 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Sat Jun  1 04:07:04 2024 :: [*****] LAG: Sin: get arm (R:21009 S:4.990006)
+Sat Jun  1 04:08:15 2024 :: [*****] LAG: Sin: buy 20 id (R:21123 S:1.731488)
+Sat Jun  1 04:08:31 2024 :: Sock.sinaddr:  68.2.73.137, port -14664.
+Sat Jun  1 04:08:35 2024 :: Preloading player data for: Luck (29K)
+Sat Jun  1 04:08:38 2024 :: Loading player data for: Luck (29K)
+Sat Jun  1 04:08:38 2024 :: Luck@68.2.73.137((ident not active)) has connected.
+Sat Jun  1 04:09:19 2024 :: [*****] LAG: Sin: get overc (R:21009 S:4.010285)
+Sat Jun  1 04:16:59 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Sat Jun  1 04:24:19 2024 :: Sin has quit.
+Sat Jun  1 04:27:02 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Sat Jun  1 04:28:49 2024 :: Log Pain: oinvoke 201
+Sat Jun  1 04:28:50 2024 :: Log Pain: oinvoke 201
+Sat Jun  1 04:35:05 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Sat Jun  1 04:45:09 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Sat Jun  1 04:54:19 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Sat Jun  1 05:02:22 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Sat Jun  1 05:10:25 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Sat Jun  1 05:20:28 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Sat Jun  1 05:30:33 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Sat Jun  1 05:39:36 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Sat Jun  1 05:47:49 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Sat Jun  1 05:56:56 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Sat Jun  1 06:06:59 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Sat Jun  1 06:16:03 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Sat Jun  1 06:26:06 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Sat Jun  1 06:35:09 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Sat Jun  1 06:40:45 2024 :: Luck has quit.
+Sat Jun  1 06:45:12 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Sat Jun  1 06:55:15 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Sat Jun  1 07:05:18 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Sat Jun  1 07:13:21 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Sat Jun  1 07:22:23 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Sat Jun  1 07:30:26 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Sat Jun  1 07:39:29 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Sat Jun  1 07:47:31 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Sat Jun  1 07:56:34 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Sat Jun  1 08:06:37 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Sat Jun  1 08:16:40 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Sat Jun  1 08:24:42 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Sat Jun  1 08:34:46 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Sat Jun  1 08:44:49 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Sat Jun  1 08:52:52 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Sat Jun  1 09:01:55 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Sat Jun  1 09:10:58 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Sat Jun  1 09:20:00 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Sat Jun  1 09:29:03 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Sat Jun  1 09:37:06 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Sat Jun  1 09:45:08 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Sat Jun  1 09:55:11 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Sat Jun  1 10:05:14 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Sat Jun  1 10:15:17 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Sat Jun  1 10:24:20 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Sat Jun  1 10:33:23 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Sat Jun  1 10:43:26 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Sat Jun  1 10:51:28 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Sat Jun  1 10:57:06 2024 :: Counting pfiles.....
+Sat Jun  1 10:57:06 2024 :: Pfile count completed.
+Sat Jun  1 10:57:06 2024 :: Total pfiles scanned: 36
+Sat Jun  1 11:00:31 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Sat Jun  1 11:09:34 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Sat Jun  1 11:17:36 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Sat Jun  1 11:25:39 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Sat Jun  1 11:35:42 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Sat Jun  1 11:44:44 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Sat Jun  1 11:52:47 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Sat Jun  1 12:01:50 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Sat Jun  1 12:11:53 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Sat Jun  1 12:21:56 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Sat Jun  1 12:29:58 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Sat Jun  1 12:40:01 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Sat Jun  1 12:50:04 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Sat Jun  1 12:58:07 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Sat Jun  1 13:08:10 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Sat Jun  1 13:18:13 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Sat Jun  1 13:26:15 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Sat Jun  1 13:36:18 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Sat Jun  1 13:46:21 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Sat Jun  1 13:54:24 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Sat Jun  1 14:03:27 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Sat Jun  1 14:12:29 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Sat Jun  1 14:22:33 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Sat Jun  1 14:31:35 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Sat Jun  1 14:41:38 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Sat Jun  1 14:49:41 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Sat Jun  1 14:59:44 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Sat Jun  1 15:07:46 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Sat Jun  1 15:15:49 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Sat Jun  1 15:24:51 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Sat Jun  1 15:33:54 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Sat Jun  1 15:42:57 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Sat Jun  1 15:50:59 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Sat Jun  1 16:00:02 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Sat Jun  1 16:09:05 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Sat Jun  1 16:18:07 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Sat Jun  1 16:26:10 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Sat Jun  1 16:34:12 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Sat Jun  1 16:44:15 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Sat Jun  1 16:54:18 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Sat Jun  1 17:01:25 2024 :: Log Pain: oset rapier affect affected detect_hidden
+Sat Jun  1 17:01:57 2024 :: Log Pain: minvoke dog
+Sat Jun  1 17:02:10 2024 :: Log Pain: minvoke gyposy
+Sat Jun  1 17:02:13 2024 :: Log Pain: minvoke gypst
+Sat Jun  1 17:02:15 2024 :: Log Pain: minvoke gypsy
+Sat Jun  1 17:02:21 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Sat Jun  1 17:02:45 2024 :: Log Pain: slay gyps
+Sat Jun  1 17:04:04 2024 :: Log Pain: oinvoke rapier
+Sat Jun  1 17:04:16 2024 :: Log Pain: oset rapier affect affected detect_hidden
+Sat Jun  1 17:12:24 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Sat Jun  1 17:21:27 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Sat Jun  1 17:29:29 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Sat Jun  1 17:37:32 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Sat Jun  1 17:39:08 2024 :: Log Pain: oinvoke daot
+Sat Jun  1 17:39:41 2024 :: [*****] BUG: Affect_modify: unknown location 82.
+Sat Jun  1 17:39:49 2024 :: [*****] BUG: Affect_modify: unknown location 82.
+Sat Jun  1 17:39:49 2024 :: [*****] BUG: Affect_modify: unknown location 82.
+Sat Jun  1 17:39:50 2024 :: [*****] BUG: Affect_modify: unknown location 82.
+Sat Jun  1 17:47:35 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Sat Jun  1 17:51:53 2024 :: Log Pain: oinvoke daot
+Sat Jun  1 17:52:28 2024 :: Log Pain: restore self
+Sat Jun  1 17:57:38 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Sat Jun  1 18:05:40 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Sat Jun  1 18:14:43 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Sat Jun  1 18:22:45 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Sat Jun  1 18:32:49 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Sat Jun  1 18:41:51 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Sat Jun  1 18:42:33 2024 :: Log Pain: oinvoke daot
+Sat Jun  1 18:42:35 2024 :: Log Pain: oinvoke sinzen
+Sat Jun  1 18:51:54 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Sat Jun  1 18:59:27 2024 :: Sock.sinaddr:  73.232.238.119, port -5703.
+Sat Jun  1 18:59:27 2024 :: Preloading player data for: Sin (10K)
+Sat Jun  1 18:59:28 2024 :: Loading player data for: Sin (10K)
+Sat Jun  1 18:59:28 2024 :: Sin@73.232.238.119((ident not active)) has connected.
+Sat Jun  1 18:59:57 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Sat Jun  1 19:00:17 2024 :: Sin has quit.
+Sat Jun  1 19:07:59 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Sat Jun  1 19:18:02 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Sat Jun  1 19:27:05 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Sat Jun  1 19:37:08 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Sat Jun  1 19:46:11 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Sat Jun  1 19:55:14 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Sat Jun  1 20:05:17 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Sat Jun  1 20:15:20 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Sat Jun  1 20:24:23 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Sat Jun  1 20:32:25 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Sat Jun  1 20:41:28 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Sat Jun  1 20:49:30 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Sat Jun  1 20:57:33 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Sat Jun  1 21:05:35 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Sat Jun  1 21:15:38 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Sat Jun  1 21:23:40 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Sat Jun  1 21:33:44 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Sat Jun  1 21:41:46 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Sat Jun  1 21:50:49 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Sat Jun  1 21:58:51 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Sat Jun  1 22:06:54 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Sat Jun  1 22:16:57 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Sat Jun  1 22:27:00 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Sat Jun  1 22:36:03 2024 :: [*****] BUG: gallery.are Reset_area: 'M': bad mob vnum 7700.
+Sat Jun  1 22:43:23 2024 :: Log Pain: shutdown mud now
+Sat Jun  1 22:43:23 2024 :: Normal termination of game.
+Sat Jun  1 22:43:23 2024 :: Closing Lua.
+Mud-wide Lua module started up.

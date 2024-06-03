@@ -1,0 +1,296 @@
+Name        Thug~
+Class       4
+AttrPrime   1
+AttrSecond   2
+AttrTertiary   31
+Weapon      10315
+Guild       3028
+Skilladept  70
+Thac0base   16
+Thac0mod    5
+Hpmin       8
+Hpmax       18
+Mana        0
+Expbase     45
+Affected    0
+Resist	 0
+Suscept	 0
+Skill 'detect traps' 10 95
+Skill 'midas touch' 40 95
+Skill 'ventriloquate' 11 95
+Skill 'aggressive style' 1 95
+Skill 'aid' 1 70
+Skill 'ambush' 5 95
+Skill 'bash' 10 75
+Skill 'berserk style' 1 95
+Skill 'bumrush' 40 95
+Skill 'camouflage' 48 95
+Skill 'cheapshot' 20 95
+Skill 'climb' 1 85
+Skill 'crush' 18 95
+Skill 'defensive style' 1 95
+Skill 'detrap' 7 85
+Skill 'dig' 1 90
+Skill 'disarm' 8 90
+Skill 'dodge' 9 80
+Skill 'doorbash' 3 75
+Skill 'elbow' 1 60
+Skill 'engage' 10 95
+Skill 'evasive style' 1 95
+Skill 'fishhook' 37 95
+Skill 'fourth attack' 45 70
+Skill 'gnaw' 44 95
+Skill 'gouge' 20 90
+Skill 'grip' 13 75
+Skill 'headbutt' 15 60
+Skill 'hide' 5 85
+Skill 'invigorate' 10 95
+Skill 'knee' 10 70
+Skill 'kneecap' 30 95
+Skill 'lunge' 25 70
+Skill 'mount' 1 85
+Skill 'parry' 16 80
+Skill 'peek' 18 95
+Skill 'pick lock' 18 95
+Skill 'poison weapon' 14 55
+Skill 'pummel' 27 60
+Skill 'punt' 35 65
+Skill 'roundhouse' 42 70
+Skill 'scan' 22 90
+Skill 'search' 1 85
+Skill 'second attack' 11 90
+Skill 'sharpen' 25 95
+Skill 'sneak' 8 95
+Skill 'spinkick' 30 80
+Skill 'stalk' 41 95
+Skill 'standard style' 1 95
+Skill 'steal' 22 95
+Skill 'street brawler' 50 95
+Skill 'stun' 38 75
+Skill 'third attack' 22 85
+Skill 'track' 31 85
+Skill 'tumble' 41 75
+Skill 'vault' 38 75
+Skill 'axes' 5 95
+Skill 'bludgeons' 1 95
+Skill 'exotic arms' 35 95
+Skill 'flexible arms' 5 95
+Skill 'long blades' 1 80
+Skill 'missile weapons' 10 85
+Skill 'polearms' 10 95
+Skill 'pugilism' 1 95
+Skill 'short blades' 1 85
+Skill 'talonous arms' 20 85
+Skill 'common' 1 100
+Skill 'dwarven' 1 100
+Skill 'elvish' 1 100
+Skill 'ghoulish' 1 100
+Skill 'gith' 1 100
+Skill 'gnomish' 1 100
+Skill 'goblin' 1 100
+Skill 'halfling' 1 100
+Skill 'minotaur' 1 100
+Skill 'ogre' 1 100
+Skill 'orcish' 1 100
+Skill 'pixie' 1 100
+Skill 'trollese' 1 100
+Skill 'wolfen' 1 100
+Title
+Man~
+Woman~
+Title
+Punk~
+Punk~
+Title
+Bruiser~
+Bruiser~
+Title
+Thug~
+Thug~
+Title
+Brute~
+Brute~
+Title
+Smasher~
+Smasher~
+Title
+Bodyguard~
+Bodyguard~
+Title
+Bouncer~
+Bouncer~
+Title
+Guard~
+Guard~
+Title
+Sharper~
+Sharpress~
+Title
+Rogue~
+Rogue~
+Title
+Robber~
+Robber~
+Title
+Magsman~
+Magswoman~
+Title
+Highwayman~
+Highwaywoman~
+Title
+Burglar~
+Burglaress~
+Title
+Thief~
+Thief~
+Title
+Knifer~
+Knifer~
+Title
+Quick-Blade~
+Quick-Blade~
+Title
+Killer~
+Murderess~
+Title
+Brigand~
+Brigand~
+Title
+Cut-Throat~
+Cut-Throat~
+Title
+Spy~
+Spy~
+Title
+Grand Spy~
+Grand Spy~
+Title
+Master Spy~
+Master Spy~
+Title
+Assassin~
+Assassin~
+Title
+Greater Assassin~
+Greater Assassin~
+Title
+Master of Vision~
+Mistress of Vision~
+Title
+Master of Hearing~
+Mistress of Hearing~
+Title
+Master of Smell~
+Mistress of Smell~
+Title
+Master of Taste~
+Mistress of Taste~
+Title
+Master of Touch~
+Mistress of Touch~
+Title
+Master of Reality~
+Mistress of Reality~
+Title
+Guildmaster of the Unseen~
+Guildmistress of the Unseen~
+Title
+Guildmaster of Stealth~
+Guildmistress of Stealth~
+Title
+Guildmaster of Assassination~
+Guildmistress of Assassination~
+Title
+High Guildmaster~
+High Guildmistress~
+Title
+Brother of Patience~
+Sister of Patience~
+Title
+Brother of the Dagger~
+Sister of the Dagger~
+Title
+Brother of the Coin~
+Sister of the Coin~
+Title
+Brother of the Shadows~
+Sister of the Shadows~
+Title
+Brother of the Guild~
+Sister of the Guild~
+Title
+Lord of the Wolf~
+Lady of the Wolf~
+Title
+Lord of the Snake~
+Lady of the Serpent~
+Title
+Lord of the Hawk~
+Lady of the Hawk~
+Title
+Lord of the Panther~
+Lady of the Panther~
+Title
+Crime Lord~
+Crime Mistress~
+Title
+Infamous Crime Lord~
+Infamous Crime Mistress~
+Title
+Greater Crime Lord~
+Greater Crime Mistress~
+Title
+Master Crime Lord~
+Master Crime Mistress~
+Title
+Godfather~
+Godmother~
+Title
+Avatar~
+Avatar~
+Title
+Neophyte~
+Neophyte~
+Title
+Acolyte~
+Acolyte~
+Title
+Creator~
+Creator~
+Title
+Savior~
+Savior~
+Title
+Demi God~
+Demi Goddess~
+Title
+Immortal~
+Immortal~
+Title
+Lesser God~
+Lesser Goddess~
+Title
+God~
+Goddess~
+Title
+Greater God~
+Greater Goddess~
+Title
+Ascendant God~
+Acendant Goddess~
+Title
+Exalted God~
+Exalted Goddess~
+Title
+Ancient One~
+Ancient One~
+Title
+Eternal One~
+Eternal One~
+Title
+Infinite One~
+Infinite One~
+Title
+Supreme Entity~
+Supreme Entity~
+End

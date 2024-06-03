@@ -1,0 +1,1147 @@
+#CLAN
+Name         Gray~
+Filename     scions.clan~
+Motto        ~
+Description  Killing, destroying, hurting, eating, annoying, and swearing.~
+Deity        ~
+Leader       ~
+NumberOne    Suffer~
+NumberTwo    Malice~
+Badge        ~
+Leadrank     &z-= &WV &RP&wr&Wim&wa&Rl B&we&Wa&ws&Rt &WV&z =-~
+Onerank      Magical Werewarrior~
+Tworank      &zVamp&wir&Wic Syc&woph&zant&x~
+PKillRangeNew   0 0 0 4 2 1 2
+PDeathRangeNew  0 0 0 1 3 2 1
+MKills       162857
+MDeaths      1521
+IllegalPK    10
+Score        0
+Type         0
+Class        0
+Favour       0
+Strikes      0
+Members      0
+MemLimit     0
+Balance	   6185900
+Alignment    0
+Board        3752
+ClanObjOne   3652
+ClanObjTwo   0
+ClanObjThree 0
+ClanObjFour  0
+ClanObjFive  3799
+Recall       3664
+Storeroom    3672
+GuardOne     0
+GuardTwo     0
+End
+
+#ROSTER
+Name      Scrye~
+Joined    1111588232
+Class     thug~
+Level     65
+Kills     131
+Deaths    0
+End
+
+#ROSTER
+Name      Felisha~
+Joined    1116979558
+Class     mage~
+Level     21
+Kills     1766
+Deaths    31
+End
+
+#ROSTER
+Name      Crell~
+Joined    1117041313
+Class     monk~
+Level     45
+Kills     3946
+Deaths    12
+End
+
+#ROSTER
+Name      Stalker~
+Joined    1117300425
+Class     mage~
+Level     14
+Kills     668
+Deaths    9
+End
+
+#ROSTER
+Name      Edge~
+Joined    1117593970
+Class     mage~
+Level     16
+Kills     829
+Deaths    17
+End
+
+#ROSTER
+Name      Kaltar~
+Joined    1117756014
+Class     shaman~
+Level     26
+Kills     3296
+Deaths    38
+End
+
+#ROSTER
+Name      Araede~
+Joined    1118283350
+Class     diabolist~
+Level     12
+Kills     66
+Deaths    0
+End
+
+#ROSTER
+Name      Boor~
+Joined    1118286780
+Class     warrior~
+Level     5
+Kills     32
+Deaths    1
+End
+
+#ROSTER
+Name      Soloman~
+Joined    1118506700
+Class     archmagi~
+Level     43
+Kills     18779
+Deaths    446
+End
+
+#ROSTER
+Name      Gryf~
+Joined    1118561293
+Class     warrior~
+Level     16
+Kills     1775
+Deaths    33
+End
+
+#ROSTER
+Name      Leeah~
+Joined    1119225049
+Class     thief~
+Level     5
+Kills     72
+Deaths    4
+End
+
+#ROSTER
+Name      Dalathar~
+Joined    1119481183
+Class     mage~
+Level     27
+Kills     2123
+Deaths    68
+End
+
+#ROSTER
+Name      Melisande~
+Joined    1119481397
+Class     bishop~
+Level     15
+Kills     7933
+Deaths    52
+End
+
+#ROSTER
+Name      Eva~
+Joined    1119971939
+Class     druid~
+Level     20
+Kills     954
+Deaths    3
+End
+
+#ROSTER
+Name      Velius~
+Joined    1120430420
+Class     jester~
+Level     7
+Kills     120
+Deaths    0
+End
+
+#ROSTER
+Name      Anubis~
+Joined    1120509780
+Class     diabolist~
+Level     13
+Kills     974
+Deaths    41
+End
+
+#ROSTER
+Name      Rufus~
+Joined    1120534171
+Class     ranger~
+Level     9
+Kills     175
+Deaths    0
+End
+
+#ROSTER
+Name      Orbital~
+Joined    1120957854
+Class     shaman~
+Level     18
+Kills     1160
+Deaths    14
+End
+
+#ROSTER
+Name      Ledgon~
+Joined    1121219752
+Class     thug~
+Level     5
+Kills     44
+Deaths    0
+End
+
+#ROSTER
+Name      Jero~
+Joined    1121514864
+Class     warrior~
+Level     50
+Kills     15667
+Deaths    219
+End
+
+#ROSTER
+Name      Micah~
+Joined    1121517585
+Class     druid~
+Level     12
+Kills     847
+Deaths    24
+End
+
+#ROSTER
+Name      Lex~
+Joined    1121573832
+Class     ranger~
+Level     22
+Kills     1924
+Deaths    20
+End
+
+#ROSTER
+Name      Corbin~
+Joined    1121638040
+Class     thug~
+Level     9
+Kills     221
+Deaths    0
+End
+
+#ROSTER
+Name      Furten~
+Joined    1121725569
+Class     warrior~
+Level     26
+Kills     4333
+Deaths    20
+End
+
+#ROSTER
+Name      Fenrir~
+Joined    1122002985
+Class     warrior~
+Level     10
+Kills     328
+Deaths    0
+End
+
+#ROSTER
+Name      Kheoss~
+Joined    1122074737
+Class     diabolist~
+Level     17
+Kills     950
+Deaths    24
+End
+
+#ROSTER
+Name      Shadwen~
+Joined    1122146687
+Class     warrior~
+Level     22
+Kills     1743
+Deaths    8
+End
+
+#ROSTER
+Name      Kenji~
+Joined    1122147036
+Class     ranger~
+Level     15
+Kills     647
+Deaths    24
+End
+
+#ROSTER
+Name      Cynical~
+Joined    1122258244
+Class     warrior~
+Level     12
+Kills     205
+Deaths    2
+End
+
+#ROSTER
+Name      Drevlon~
+Joined    1122435854
+Class     jester~
+Level     7
+Kills     190
+Deaths    5
+End
+
+#ROSTER
+Name      Grishan~
+Joined    1122868015
+Class     warrior~
+Level     5
+Kills     27
+Deaths    0
+End
+
+#ROSTER
+Name      Malachi~
+Joined    1122941671
+Class     mage~
+Level     17
+Kills     1512
+Deaths    17
+End
+
+#ROSTER
+Name      Paradox~
+Joined    1122943785
+Class     mage~
+Level     7
+Kills     117
+Deaths    1
+End
+
+#ROSTER
+Name      Benoit~
+Joined    1122951150
+Class     warrior~
+Level     14
+Kills     475
+Deaths    6
+End
+
+#ROSTER
+Name      Icaron~
+Joined    1123029726
+Class     warrior~
+Level     18
+Kills     1784
+Deaths    3
+End
+
+#ROSTER
+Name      Mira~
+Joined    1123544335
+Class     mage~
+Level     9
+Kills     307
+Deaths    22
+End
+
+#ROSTER
+Name      Mystinar~
+Joined    1123716101
+Class     conjurer~
+Level     17
+Kills     391
+Deaths    6
+End
+
+#ROSTER
+Name      Krysta~
+Joined    1124149648
+Class     monk~
+Level     27
+Kills     4391
+Deaths    14
+End
+
+#ROSTER
+Name      Amos~
+Joined    1124162683
+Class     mage~
+Level     12
+Kills     448
+Deaths    5
+End
+
+#ROSTER
+Name      Grock~
+Joined    1124581805
+Class     warrior~
+Level     11
+Kills     432
+Deaths    4
+End
+
+#ROSTER
+Name      Stalker~
+Joined    1125108596
+Class     mage~
+Level     5
+Kills     26
+Deaths    0
+End
+
+#ROSTER
+Name      Milosh~
+Joined    1126037508
+Class     monk~
+Level     7
+Kills     195
+Deaths    1
+End
+
+#ROSTER
+Name      Marcus~
+Joined    1126420213
+Class     warrior~
+Level     25
+Kills     4438
+Deaths    12
+End
+
+#ROSTER
+Name      Mnaramenth~
+Joined    1126582155
+Class     cleric~
+Level     8
+Kills     117
+Deaths    3
+End
+
+#ROSTER
+Name      Fanabal~
+Joined    1126662713
+Class     monk~
+Level     15
+Kills     791
+Deaths    20
+End
+
+#ROSTER
+Name      Treize~
+Joined    1126979655
+Class     warrior~
+Level     12
+Kills     295
+Deaths    0
+End
+
+#ROSTER
+Name      Onyx~
+Joined    1128559943
+Class     warrior~
+Level     17
+Kills     1047
+Deaths    0
+End
+
+#ROSTER
+Name      EothenS~
+Joined    1128822886
+Class     thief~
+Level     13
+Kills     126
+Deaths    3
+End
+
+#ROSTER
+Name      Maris~
+Joined    1129073467
+Class     warrior~
+Level     5
+Kills     46
+Deaths    2
+End
+
+#ROSTER
+Name      Saryio~
+Joined    1131768430
+Class     warrior~
+Level     25
+Kills     6818
+Deaths    17
+End
+
+#ROSTER
+Name      Syriac~
+Joined    1132890646
+Class     shaman~
+Level     11
+Kills     384
+Deaths    2
+End
+
+#ROSTER
+Name      Cisco~
+Joined    1133494094
+Class     thug~
+Level     10
+Kills     350
+Deaths    5
+End
+
+#ROSTER
+Name      Vampyre~
+Joined    1134181057
+Class     ranger~
+Level     14
+Kills     1152
+Deaths    6
+End
+
+#ROSTER
+Name      Illen~
+Joined    1134525302
+Class     warrior~
+Level     18
+Kills     1078
+Deaths    0
+End
+
+#ROSTER
+Name      Kristof~
+Joined    1134695934
+Class     conjurer~
+Level     22
+Kills     1929
+Deaths    19
+End
+
+#ROSTER
+Name      Kendrith~
+Joined    1135043062
+Class     monk~
+Level     10
+Kills     286
+Deaths    2
+End
+
+#ROSTER
+Name      Orbital~
+Joined    1135124215
+Class     shaman~
+Level     10
+Kills     408
+Deaths    8
+End
+
+#ROSTER
+Name      Bloodwyne~
+Joined    1136097331
+Class     diabolist~
+Level     11
+Kills     414
+Deaths    6
+End
+
+#ROSTER
+Name      Saylon~
+Joined    1136263373
+Class     archmagi~
+Level     8
+Kills     686
+Deaths    5
+End
+
+#ROSTER
+Name      Gomorrah~
+Joined    1137125643
+Class     shaman~
+Level     16
+Kills     1123
+Deaths    9
+End
+
+#ROSTER
+Name      Tzaronil~
+Joined    1138331745
+Class     mage~
+Level     16
+Kills     544
+Deaths    2
+End
+
+#ROSTER
+Name      Succat~
+Joined    1138670286
+Class     cleric~
+Level     23
+Kills     1825
+Deaths    6
+End
+
+#ROSTER
+Name      Duessa~
+Joined    1139089273
+Class     thief~
+Level     12
+Kills     583
+Deaths    17
+End
+
+#ROSTER
+Name      Reaver~
+Joined    1139122076
+Class     monk~
+Level     17
+Kills     1061
+Deaths    7
+End
+
+#ROSTER
+Name      Suffer~
+Joined    1139123044
+Class     archmagi~
+Level     22
+Kills     706
+Deaths    12
+End
+
+#ROSTER
+Name      Argen~
+Joined    1139199457
+Class     cleric~
+Level     7
+Kills     142
+Deaths    0
+End
+
+#ROSTER
+Name      Axeon~
+Joined    1139375043
+Class     monk~
+Level     11
+Kills     431
+Deaths    1
+End
+
+#ROSTER
+Name      Balin~
+Joined    1139451905
+Class     mage~
+Level     5
+Kills     41
+Deaths    0
+End
+
+#ROSTER
+Name      Sparrow~
+Joined    1139673758
+Class     mage~
+Level     10
+Kills     363
+Deaths    18
+End
+
+#ROSTER
+Name      Karlof~
+Joined    1139767024
+Class     mage~
+Level     10
+Kills     402
+Deaths    1
+End
+
+#ROSTER
+Name      Mocine~
+Joined    1139808028
+Class     monk~
+Level     17
+Kills     2486
+Deaths    8
+End
+
+#ROSTER
+Name      Zolin~
+Joined    1365736569
+Class     bishop~
+Level     50
+Kills     385
+Deaths    4
+End
+
+#ROSTER
+Name      Belgarion~
+Joined    1365968778
+Class     mage~
+Level     22
+Kills     1007
+Deaths    13
+End
+
+#ROSTER
+Name      Pyre~
+Joined    1365990414
+Class     champion~
+Level     50
+Kills     8001
+Deaths    12
+End
+
+#ROSTER
+Name      Serbu~
+Joined    1366159510
+Class     thief~
+Level     64
+Kills     0
+Deaths    0
+End
+
+#ROSTER
+Name      Pyre~
+Joined    1366598327
+Class     ranger~
+Level     49
+Kills     1459
+Deaths    0
+End
+
+#ROSTER
+Name      Kindoma~
+Joined    1366678154
+Class     bishop~
+Level     50
+Kills     4222
+Deaths    2
+End
+
+#ROSTER
+Name      Kindoma~
+Joined    1366940155
+Class     archmagi~
+Level     2
+Kills     0
+Deaths    0
+End
+
+#ROSTER
+Name      Jinn~
+Joined    1367269779
+Class     archmagi~
+Level     50
+Kills     108
+Deaths    2
+End
+
+#ROSTER
+Name      Fistandan~
+Joined    1368748591
+Class     mage~
+Level     12
+Kills     205
+Deaths    16
+End
+
+#ROSTER
+Name      Kasara~
+Joined    1368752571
+Class     cleric~
+Level     6
+Kills     17
+Deaths    0
+End
+
+#ROSTER
+Name      Anaria~
+Joined    1413778153
+Class     druid~
+Level     33
+Kills     416
+Deaths    13
+End
+
+#ROSTER
+Name      Anaria~
+Joined    1413778826
+Class     druid~
+Level     11
+Kills     148
+Deaths    7
+End
+
+#ROSTER
+Name      Fantasia~
+Joined    1413778835
+Class     bishop~
+Level     50
+Kills     3561
+Deaths    11
+End
+
+#ROSTER
+Name      Nai~
+Joined    1413783669
+Class     conjurer~
+Level     6
+Kills     20
+Deaths    1
+End
+
+#ROSTER
+Name      Vekt~
+Joined    1413847962
+Class     druid~
+Level     14
+Kills     251
+Deaths    1
+End
+
+#ROSTER
+Name      Loth~
+Joined    1413855292
+Class     diabolist~
+Level     36
+Kills     372
+Deaths    2
+End
+
+#ROSTER
+Name      Saleb~
+Joined    1414038385
+Class     champion~
+Level     50
+Kills     552
+Deaths    2
+End
+
+#ROSTER
+Name      Crunch~
+Joined    1414039341
+Class     bishop~
+Level     50
+Kills     0
+Deaths    0
+End
+
+#ROSTER
+Name      Mek~
+Joined    1414177600
+Class     bishop~
+Level     48
+Kills     240
+Deaths    2
+End
+
+#ROSTER
+Name      Alarrius~
+Joined    1414384371
+Class     shaman~
+Level     36
+Kills     350
+Deaths    1
+End
+
+#ROSTER
+Name      Zhakrin~
+Joined    1414465757
+Class     monk~
+Level     16
+Kills     286
+Deaths    11
+End
+
+#ROSTER
+Name      Malorn~
+Joined    1414529988
+Class     thief~
+Level     50
+Kills     1045
+Deaths    15
+End
+
+#ROSTER
+Name      Balt~
+Joined    1414555751
+Class     warrior~
+Level     42
+Kills     6592
+Deaths    27
+End
+
+#ROSTER
+Name      Mary~
+Joined    1414603827
+Class     ranger~
+Level     10
+Kills     36
+Deaths    0
+End
+
+#ROSTER
+Name      Grek~
+Joined    1414609801
+Class     shaman~
+Level     7
+Kills     41
+Deaths    0
+End
+
+#ROSTER
+Name      Malphaeus~
+Joined    1414619474
+Class     jester~
+Level     10
+Kills     101
+Deaths    5
+End
+
+#ROSTER
+Name      Mek~
+Joined    1414638378
+Class     bishop~
+Level     48
+Kills     0
+Deaths    0
+End
+
+#ROSTER
+Name      Illustria~
+Joined    1414640501
+Class     archmagi~
+Level     50
+Kills     583
+Deaths    2
+End
+
+#ROSTER
+Name      Zandy~
+Joined    1414720835
+Class     warrior~
+Level     7
+Kills     35
+Deaths    2
+End
+
+#ROSTER
+Name      Nameless~
+Joined    1414776095
+Class     champion~
+Level     48
+Kills     2013
+Deaths    2
+End
+
+#ROSTER
+Name      Beacon~
+Joined    1415252671
+Class     bishop~
+Level     50
+Kills     2
+Deaths    0
+End
+
+#ROSTER
+Name      Kaitlyn~
+Joined    1415740411
+Class     druid~
+Level     5
+Kills     18
+Deaths    2
+End
+
+#ROSTER
+Name      Teva~
+Joined    1416361304
+Class     diabolist~
+Level     5
+Kills     13
+Deaths    0
+End
+
+#ROSTER
+Name      Pyre~
+Joined    1417303820
+Class     ranger~
+Level     5
+Kills     14
+Deaths    0
+End
+
+#ROSTER
+Name      Fantasia~
+Joined    1417398194
+Class     thug~
+Level     50
+Kills     68
+Deaths    0
+End
+
+#ROSTER
+Name      Fantasia~
+Joined    1417401024
+Class     bishop~
+Level     50
+Kills     3380
+Deaths    10
+End
+
+#ROSTER
+Name      Krynn~
+Joined    1420580155
+Class     ranger~
+Level     17
+Kills     464
+Deaths    5
+End
+
+#ROSTER
+Name      Grimm~
+Joined    1420947241
+Class     diabolist~
+Level     6
+Kills     24
+Deaths    0
+End
+
+#ROSTER
+Name      Sin~
+Joined    1421037427
+Class     conjurer~
+Level     50
+Kills     83
+Deaths    2
+End
+
+#ROSTER
+Name      Suffer~
+Joined    1455738415
+Class     mage~
+Level     8
+Kills     29
+Deaths    3
+End
+
+#ROSTER
+Name      Lopen~
+Joined    1455837507
+Class     mage~
+Level     10
+Kills     80
+Deaths    1
+End
+
+#ROSTER
+Name      Malice~
+Joined    1455846304
+Class     archmagi~
+Level     50
+Kills     1785
+Deaths    10
+End
+
+#ROSTER
+Name      Crucius~
+Joined    1455941792
+Class     warrior~
+Level     41
+Kills     161
+Deaths    0
+End
+
+#ROSTER
+Name      Cyanide~
+Joined    1456097408
+Class     bishop~
+Level     6
+Kills     21
+Deaths    0
+End
+
+#ROSTER
+Name      Fantasia~
+Joined    1456970328
+Class     bishop~
+Level     50
+Kills     3380
+Deaths    10
+End
+
+#ROSTER
+Name      Strad~
+Joined    1457221532
+Class     monk~
+Level     50
+Kills     0
+Deaths    0
+End
+
+#ROSTER
+Name      Kraxxar~
+Joined    1476642355
+Class     shaman~
+Level     52
+Kills     0
+Deaths    0
+End
+
+#ROSTER
+Name      Pain~
+Joined    1476957962
+Class     mage~
+Level     65
+Kills     528
+Deaths    0
+End
+
+#ROSTER
+Name      Magus~
+Joined    1477449992
+Class     warrior~
+Level     50
+Kills     666
+Deaths    0
+End
+
+#ROSTER
+Name      Maak~
+Joined    1477523378
+Class     warrior~
+Level     50
+Kills     270
+Deaths    0
+End
+
+#ROSTER
+Name      Magus~
+Joined    1477534556
+Class     warrior~
+Level     50
+Kills     91
+Deaths    0
+End
+
+#ROSTER
+Name      Roland~
+Joined    1477536035
+Class     monk~
+Level     7
+Kills     109
+Deaths    0
+End
+
+#END
